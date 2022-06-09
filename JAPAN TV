@@ -100,7 +100,7 @@
 
 {"name":"Star 3",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/starch3_540/playlist.m3u8"},
 
-{"name":"ABC",image:"https://japan-programcatalog.com/japacon/open/open-sales-company!image?tsid=8&imageNumber=1&id=2","url": "http://211.21.12.236:11935/live/gx06.stream/playlist.m3u8"},
+{"name":"ABC",image:"https://japan-programcatalog.com/japacon/open/open-sales-company!image?tsid=8&imageNumber=1&id=2","url": "http://cdn.us195.jpnettv.live:1935/jptv/kansi_abc_asahi_720/playlist.m3u8"},
 
 {"name":"Family Gekijo",image:"https://static.wikia.nocookie.net/drama/images/5/54/Family_gekijo.jpg/revision/latest/scale-to-width-down/400?cb=20190809211640&path-prefix=es","url": "http://cdn.us195.jpnettv.live:1935/jptv/gekijjyou/playlist.m3u8"},
 
@@ -110,11 +110,11 @@
 
 {"name":"KBS World",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png","url": "http://211.21.12.236:11935/live/cs16.stream/playlist.m3u8"},
 
-{"name":"MBS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png","url": "http://51.79.193.108:8080/hls/j00038/index.m3u8?type=jp"},
+{"name":"MBS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/kansi_mbs_720/playlist.m3u8"},
 
-{"name":"Kansai TV",image:"https://i1.wp.com/test-bucket-dfn.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/11/25110216/Kansai-TV-Logo-358x292-ORIGINAL.png?ssl=1","url": "http://51.79.193.108:8080/hls/j00006/index.m3u8?type=jp"},
+{"name":"Kansai TV",image:"https://i1.wp.com/test-bucket-dfn.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/11/25110216/Kansai-TV-Logo-358x292-ORIGINAL.png?ssl=1","url": "http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_720/playlist.m3u8"},
 
-{"name":"TV Osaka",image:"https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png","url": "http://51.79.193.108:8080/hls/j00013/index.m3u8?type=jp"},
+{"name":"TV Osaka",image:"https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_osaka_720/playlist.m3u8"},
 
 {"name":"NECO",image:"https://jiyuland5.com/wp-content/uploads/2022/04/jhometv5661.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/Neco/playlist.m3u8"},
 
@@ -136,7 +136,7 @@
 
 {"name":"TBS (JNN) News Dig 24/7 Live",image:"https://yt3.ggpht.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg=s900-c-k-c0x00ffffff-no-rj","url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=H3D90-436C4"},
 
-{"name":"WOWOW Cinefil",image:"https://64.media.tumblr.com/81723b1a94a605264ca04add591249dc/tumblr_oxegnpLPht1rlp2eio1_1280.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_540/playlist.m3u8"},
+{"name":"WOWOW Plus",image:"https://64.media.tumblr.com/81723b1a94a605264ca04add591249dc/tumblr_oxegnpLPht1rlp2eio1_1280.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_540/playlist.m3u8"},
 
 {"name":"Disney Junior Japan",image:"https://i.ytimg.com/vi/XRxfAW9VsCQ/maxresdefault.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/disney_junior/playlist.m3u8"},
 
@@ -149,6 +149,12 @@
 {"name":"MTV Japan",image:"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c1082b81609529.5d047dc4a011f.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8"},
 
 {"name":"National Geographic Japan",image:"https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/National_geographic/playlist.m3u8"},
+
+{"name":"YTV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/1200px-Yomiuri_Telecasting_Corporation_Logo.svg.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/kansi_yomiuri_720/playlist.m3u8"},
+
+{"name":"SUN TV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Suntv_logo.svg/440px-Suntv_logo.svg.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_720/playlist.m3u8"},
+
+{"name":"WOWOW Live",image:"https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659","url": "http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8"},
 
 ]
 }
