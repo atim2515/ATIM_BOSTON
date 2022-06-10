@@ -1,0 +1,36 @@
+{
+		"name": "TAIWAN TV",
+		"author": "TIM",
+		"image":"https://c.tenor.com/GtqTHgqF9ocAAAAC/meteor-garden-f4.gif",
+		"url": "",
+		 
+ 
+		"stations":[
+    
+    
+{"name":"熱血時報",image:"https://upload.wikimedia.org/wikipedia/zh/a/ac/Titv_logo.png","url": "https://www.nettvpro.live/en/play.php?aid=11"},
+
+{"name":"大愛一臺",image:"https://s3.hicloud.net.tw/daaiapp/images/ch1.jpg","url": "https://www.nettvpro.live/en/play.php?aid=4062"},
+
+{"name":"大愛二臺",image:"https://s3.hicloud.net.tw/daaiapp/images/ch3.jpg","url": "https://www.nettvpro.live/en/play.php?aid=4063"},
+
+{"name":"NTD TV",image:"https://i.ibb.co/pXzcg42/NTD-TV.png","url": "https://live.ntdimg.com/aplive200/playlist.m3u8"},
+
+{"name":"UChannel TV",image:"https://i.ibb.co/xsVHbZM/u.png","url": "http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8"},
+
+{"name":"佛衛慈悲台",image:"https://hievent.hinet.net/images/bts/logo.png","url": "https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8"},
+
+{"name":"東森新聞",image:"https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png","url": "http://seb.sason.top/sc/dsxw_fhd.m3u8"},
+
+{"name":"東森財經新聞",image:"https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png","url": "http://seb.sason.top/sc/dscjxw_fhd.m3u8"},
+
+{"name":"華藏衛視",image:"https://www.hwazan.org/statics/images/newhztv_logo.png","url": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8"},
+
+{"name":"唯心電視",image:"http://epg.51zmt.top:8000/tb1/gt/weixin.png","url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"},
+
+{"name":"三立iNews新闻",image:"http://epg.51zmt.top:8000/tb1/gt/SETInews.png","url": "http://seb.sason.top/sc/slinews_fhd.m3u8"},
+
+{"name":"台视新闻",image:"http://epg.51zmt.top:8000/tb1/gt/台视新闻.png","url": "http://seb.sason.top/sc/tsxw_fhd.m3u8"},
+    
+]
+}
