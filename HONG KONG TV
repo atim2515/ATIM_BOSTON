@@ -1,0 +1,70 @@
+{
+		"name": "HONG KONG TV",
+		"author": "TIM",
+		"image":"https://64.media.tumblr.com/e58616da8b9b71e7991664aafe1ccb56/daa33789b022a349-0e/s540x810/f27bed5aede83a0bfdeb47eeee22d6c696c59972.gifv",
+		"url": "",
+		 
+ 
+		"stations":[
+    
+    
+{"name":"香港開電視",image:"https://play-lh.googleusercontent.com/aaek18oQ2_gFCCfiXbeKVoyuwv1umoA-XheZ2tOiE--vLFDTuc7yRj1hKg87oHumY5Zn","url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"},
+
+{"name":"now直播台",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png","url": "http://livetv.dnsfor.me:80/channel.3.m3u8"},
+
+{"name":"澳視葡文",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIjkXIwWP_bnQgKWtO8-IcOj0XlUW3l3pM8fFAAs8sMmPvnEi8Q9_0VcoptCebANoffI&usqp=CAU","url": "http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8"},
+
+{"name":"澳視衛視",image:"https://pic.iask.cn/fimg/65766214872.jpg","url": "http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8"},
+
+{"name":"澳视澳门",image:"https://images.sports8.cc/cimg/1494.jpg","url": "http://61.244.22.4/ch1/ch1.live/playelist.m3u8"},
+
+{"name":"耀才財經台",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbq_5sbRBagR5pNzKGN1dH4YyZQSFMtyte_-vAWLbBEIBE07jcTZphIBsNTEEyWssn2TE&usqp=CAU","url": "https://www.nettvpro.live/en/play.php?aid=807"},
+
+{"name":"香港創世電視",image:"https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png","url": "https://www.nettvpro.live/en/play.php?aid=1651"},
+
+{"name":"亞旅衛視",image:"http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png","url": "https://www.nettvpro.live/en/play.php?aid=6725"},
+
+{"name":"鳳凰衛視中文台",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbp9_rZ76z1by66fVli9_8Xs2uLpxmgZrfIlXkc-JwfJ-eUOKVz3sTLwTVolsasJhSlRg&usqp=CAU","url": "https://www.nettvpro.live/en/play.php?aid=147"},
+
+{"name":"香港電台",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png","url": "https://www.nettvpro.live/en/play.php?aid=9217"},
+
+{"name":"熱血時報",image:"https://www.passiontimes.hk/images/logo.jpg","url": "https://www.nettvpro.live/en/play.php?aid=9495"},
+
+{"name":"TVB JADE",image:"https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429","url": "http://185.207.176.189:8080/channels/tv-81/playlist.m3u8"},
+
+{"name":"VIU TV",image:"https://www.wiseknow.com/wp-content/uploads/2020/08/viutv_logo1.png","url": "http://185.207.176.189:8080/channels/tv-99/playlist.m3u8"},
+
+{"name":"VIU TV SIX",image:"http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg","url": "http://185.207.176.189:8080/channels/tv-96/playlist.m3u8"},
+
+{"name":"Now Sports Prime",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305","url": "http://livetv.dnsfor.me:80/channel.12.m3u8"},
+
+{"name":"LOTUS MACAU",image:"http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg","url": "https://www.nettvpro.live/en/play.php?aid=612"},
+
+{"name":"TVB J2",image:"https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332","url": "http://185.207.176.189:8080/channels/tv-82/playlist.m3u8"},
+
+{"name":"TVB NEWS",image:"https://www.tvchinese.net/uploads/tv/tvb-news.jpg","url": "http://185.207.176.189:8080/channels/tv-83/playlist.m3u8"},
+
+{"name":"TVB Pearl",image:"http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png","url": "http://185.207.176.189:8080/channels/tv-84/playlist.m3u8"},
+
+{"name":"TVB Finance & Information",image:"http://fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg","url": "http://185.207.176.189:8080/channels/tv-85/playlist.m3u8"},
+
+{"name":"RTHK31",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png","url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8"},
+
+{"name":"RTHK32",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png","url": "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8"},
+
+{"name":"有線新聞台",image:"https://rb.gy/e83tun","url": "https://api.leonardpark.dev/live/icable/109"},
+
+{"name":"有線財經資訊台",image:"https://rb.gy/gxr0zk","url": "https://api.leonardpark.dev/live/icable/108"},
+
+{"name":"有線直播新聞台",image:"https://rb.gy/os4eh1","url": "https://api.leonardpark.dev/live/icable/110"},
+
+{"name":"Now新聞台",image:"https://rb.gy/p0eiwo","url": "http://livetv.dnsfor.me:80/channel.4.m3u8"},
+
+{"name":"東網直播1台",image:"https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/oncc.png","url": "https://streamw-az-news3.on.cc/video/playlist720p.m3u8"},
+
+{"name":"東網直播2台",image:"https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/oncc.png","url": "https://streama-aws-news2.on.cc/src/remote1_hd.smil/chunklist_b1596000.m3u8"},
+
+{"name":"TVB J1",image:"https://vhx.imgix.net/tvbusa/assets/e4ef0d62-1a79-45e5-9a5b-adc9b5f0c491-f4dcf7be.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640","url": "https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8"},
+    
+]
+}
