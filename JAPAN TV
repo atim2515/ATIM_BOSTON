@@ -8,11 +8,11 @@
 		"stations":[
     
     
-{"name":"GEM",image:"https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=_ej4SuF_","url": "https://www.we-play.live/watching/tv/gem"},
+{"name":"GEM",image:"https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=_ej4SuF_","url": "http://210.210.155.35/uq2663/h/h19/01.m3u8"},
 
 {"name":"NHK WORLD JAPAN",image:"https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"},
 
-{"name":"Animax Japan",image:"https://pbs.twimg.com/media/C7WZesmVAAErlVt.jpg","url": "http://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8"},
+{"name":"BS Animax",image:"https://pbs.twimg.com/media/C7WZesmVAAErlVt.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 {"name":"Nippon TV News 24",image:"https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_n03.png","url": "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"},
 
@@ -66,39 +66,39 @@
 
 {"name":"TV Tokyo",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png","url": "http://203.162.235.41:16908"},
 
-{"name":"BS Asahi",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7cyWxyUUfn8XAeTVL6iYTXSqKR2mXsdNU14e33svP9FRPPGCCKG4RZtP2SstET37aQo&usqp=CAU","url": "http://203.162.235.41:16914"},
+{"name":"BS Asahi",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7cyWxyUUfn8XAeTVL6iYTXSqKR2mXsdNU14e33svP9FRPPGCCKG4RZtP2SstET37aQo&usqp=CAU","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"BS Fuji TV",image:"https://i0.wp.com/www.audioworkshop.jp/wordpress/wp-content/uploads/2020/03/22-BS-FUJI-770x480.jpg?fit=770%2C480","url": "http://203.162.235.41:16911"},
+{"name":"BS Fuji TV",image:"https://i0.wp.com/www.audioworkshop.jp/wordpress/wp-content/uploads/2020/03/22-BS-FUJI-770x480.jpg?fit=770%2C480","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"BS Nippon TV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png","url": "http://203.162.235.41:16912"},
+{"name":"BS Nippon TV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 {"name":"BS Nippon TV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png","url": "http://51.79.193.108:8080/hls/j00005/index.m3u8?type=jp"},
 
-{"name":"BS TV Tokyo",image:"https://static.wikia.nocookie.net/logopedia/images/d/d8/BS_TV_Tokyo_logo.png/revision/latest?cb=20190207020731","url": "http://203.162.235.41:16915"},
+{"name":"BS TV Tokyo",image:"https://static.wikia.nocookie.net/logopedia/images/d/d8/BS_TV_Tokyo_logo.png/revision/latest?cb=20190207020731","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"BS-TBS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png","url": "http://203.162.235.41:16913"},
+{"name":"BS-TBS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"J Sports 1",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png","url": "http://51.79.193.108:8080/hls/j00042/index.m3u8?type=jp"},
+{"name":"J Sports 1",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"J Sports 2",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png","url": "http://51.79.193.108:8080/hls/j00041/index.m3u8?type=jp"},
+{"name":"J Sports 2",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"J Sports 3",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png","url": "http://51.79.193.108:8080/hls/j00040/index.m3u8?type=jp"},
+{"name":"J Sports 3",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"J Sports 4",image:"https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257","url": "http://51.79.193.108:8080/hls/j00039/index.m3u8?type=jp"},
+{"name":"J Sports 4",image:"https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"NHK BS1",image:"https://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20210123215055","url": "http://203.162.235.41:16909"},
+{"name":"NHK BS1",image:"https://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20210123215055","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"NHK BSP",image:"https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png","url": "http://203.162.235.41:16910"},
+{"name":"NHK BSP",image:"https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 {"name":"NHK-E Osaka",image:"https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png","url": "http://51.79.193.108:8080/hls/j00034/index.m3u8?type=jp"},
 
 {"name":"NHK-E Tokyo",image:"https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png","url": "http://51.79.193.108:8080/hls/j00035/index.m3u8?type=jp"},
 
-{"name":"Star 1",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/starch1_540/playlist.m3u8"},
+{"name":"Star 1",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"Star 2",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/starch2_540/playlist.m3u8"},
+{"name":"Star 2",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"Star 3",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/starch3_540/playlist.m3u8"},
+{"name":"Star 3",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 {"name":"ABC",image:"https://japan-programcatalog.com/japacon/open/open-sales-company!image?tsid=8&imageNumber=1&id=2","url": "http://cdn.us195.jpnettv.live:1935/jptv/kansi_abc_asahi_720/playlist.m3u8"},
 
@@ -106,7 +106,7 @@
 
 {"name":"Fuji TV One",image:"https://www-static.yakult-swallows.co.jp/hp/files/News/n-dca58d2252b3e80183bec9aa8b6f910d.jpg","url": "http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8"},
 
-{"name":"GAORA",image:"https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330","url": "http://51.79.193.108:8080/hls/j00045/index.m3u8?type=jp"},
+{"name":"Gaora Sports",image:"https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 {"name":"KBS World",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png","url": "http://211.21.12.236:11935/live/cs16.stream/playlist.m3u8"},
 
@@ -116,11 +116,11 @@
 
 {"name":"TV Osaka",image:"https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_osaka_720/playlist.m3u8"},
 
-{"name":"NECO",image:"https://jiyuland5.com/wp-content/uploads/2022/04/jhometv5661.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/Neco/playlist.m3u8"},
+{"name":"Channel Neco",image:"https://jiyuland5.com/wp-content/uploads/2022/04/jhometv5661.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"Wowow Prime",image:"https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334","url": "http://203.162.235.41:16916"},
+{"name":"Wowow Prime",image:"https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"Kids Station",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykVkJwIKWix3HlsmdWKmzjNnLb3A-ypFDZ8Zn-vN9f3lGnifZHXOA9EiEa-JkkUBsUl0&usqp=CAU","url": "http://cdn.us195.jpnettv.live:1935/jptv/jkids_540/playlist.m3u8"},
+{"name":"Kids Station",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykVkJwIKWix3HlsmdWKmzjNnLb3A-ypFDZ8Zn-vN9f3lGnifZHXOA9EiEa-JkkUBsUl0&usqp=CAU","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 {"name":"NHK +",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqfIcFY2cm_6xaz4zwynupobe5MvIXKV9KreZJv9IbpdIkHJgZjn3fz-EDSwuaJ2wcwIA&usqp=CAU","url": "http://iptv.tvfix.org/hls/nhke.m3u8"},
 
@@ -130,21 +130,21 @@
 
 {"name":"NHK",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1280px-NHK_logo_2020.svg.png","url": "http://203.162.235.41:16901"},
 
-{"name":"Golf Network",image:"https://www.golfnetwork.co.jp/assets/img/og_img1.jpg","url": "http://203.162.235.41:16924"},
+{"name":"Golf Network",image:"https://www.golfnetwork.co.jp/assets/img/og_img1.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"Movie +",image:"https://www.lyngsat.com/logo/tv/mm/movie_plus_jp.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8"},
+{"name":"Movie Plus",image:"https://www.lyngsat.com/logo/tv/mm/movie_plus_jp.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 {"name":"TBS (JNN) News Dig 24/7 Live",image:"https://yt3.ggpht.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg=s900-c-k-c0x00ffffff-no-rj","url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=H3D90-436C4"},
 
-{"name":"WOWOW Plus",image:"https://64.media.tumblr.com/81723b1a94a605264ca04add591249dc/tumblr_oxegnpLPht1rlp2eio1_1280.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_540/playlist.m3u8"},
+{"name":"WOWOW Cinema",image:"https://64.media.tumblr.com/81723b1a94a605264ca04add591249dc/tumblr_oxegnpLPht1rlp2eio1_1280.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 {"name":"Disney Junior Japan",image:"https://i.ytimg.com/vi/XRxfAW9VsCQ/maxresdefault.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/disney_junior/playlist.m3u8"},
 
-{"name":"Fishing Channel",image:"https://www.jpfishingtacklenews.com/wp-content/uploads/2021/01/210120_fishingshowosaka2021.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/Fishing_broadcasting/playlist.m3u8"},
+{"name":"BS Tsuri Vision",image:"https://www.broadmedia.co.jp/broadcast/fishing-tv/img/bro_01.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"Nihon Eiga TV",image:"https://www.nihon-eiga.com/images/shicho/houjin/bnr_shichoNavi0809.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_540/playlist.m3u8"},
+{"name":"Nippon Eiga Senmon Channel",image:"https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"FOX Japan",image:"https://upload.wikimedia.org/wikipedia/en/5/5d/Fox_HD_wordmark_%28Asia%29.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/jfox/playlist.m3u8"},
+{"name":"FOX Japan",image:"https://upload.wikimedia.org/wikipedia/en/5/5d/Fox_HD_wordmark_%28Asia%29.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 {"name":"MTV Japan",image:"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c1082b81609529.5d047dc4a011f.jpg","url": "http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8"},
 
@@ -154,9 +154,27 @@
 
 {"name":"SUN TV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Suntv_logo.svg/440px-Suntv_logo.svg.png","url": "http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_720/playlist.m3u8"},
 
-{"name":"WOWOW Live",image:"https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659","url": "http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8"},
+{"name":"WOWOW Live",image:"https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 {"name":"BS Sky PerfecTV!",image:"https://upload.wikimedia.org/wikipedia/zh/f/f6/Sptvlogo.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
+
+{"name":"Toei Channel",image:"https://www.lyngsat.com/logo/tv/tt/toei_channel.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
+
+{"name":"Sky A",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg/500px-%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
+
+{"name":"Nittere G+",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo.svg/1652px-Nittele_G%2B_logo.svg.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
+
+{"name":"Jidaigeki Senmon Channel",image:"https://www.lyngsat.com/logo/tv/jj/jidaigeki.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
+
+{"name":"Family Gekijo",image:"https://static.wikia.nocookie.net/drama/images/5/54/Family_gekijo.jpg/revision/latest/scale-to-width-down/400?cb=20190809211640&path-prefix=es","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
+
+{"name":"Channel Ginga",image:"https://www.lyngsat.com/logo/tv/cc/channel_ginga.png","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
+
+{"name":"Super! Drama TV",image:"http://www.superdramatv.com/assets/img/og_image.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
+
+{"name":"Lala TV",image:"https://www.lala.tv/assets/images/common/ogp.jpg","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
+
+{"name":"Music On! TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT11URHTnat0Zr16guKVxxVCq7kSDHVmd2LsJyqLfgDbG5gWRy_y8C4mTQGlo3bNm5_tk&usqp=CAU","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
 ]
 }
