@@ -272,7 +272,7 @@
 
 {"name": "STAR MOVIES","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" ,"url": "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8"},
 
-{"name": "HITS MOVIES","image": "https://www.pngkey.com/png/full/303-3038868_the-60s-to-90s-hits.png" ,"url": "https://we-play.live/watching/tv/hits-movies"},
+{"name": "HITS MOVIES","image": "https://www.pngkey.com/png/full/303-3038868_the-60s-to-90s-hits.png" ,"url": "https://www.doofootball.com/dootv/live/hitsmovie#main_dootv"},
 
 {"name": "True Film HD","image": "https://www.truevisions.info/wp-content/uploads/2016/12/logo_true-film-300x95.jpg" ,"url": "https://we-play.live/watching/tv/true-film-hd"},
 
@@ -286,9 +286,15 @@
 
 {"name": "AND","image": "https://i.ytimg.com/vi/_CkciYQqmdg/maxresdefault.jpg" ,"url": "https://live.thaitvstream.com/play/andtv/index.m3u8"},
 
-{"name": "MONO29","image": "https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png" ,"url": "https://we-play.live/watching/tv/mono29"},
+{"name": "MONO29","image": "https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png" ,"url": "https://www.doofootball.com/dootv/live/mono29#main_dootv"},
 
 {"name": "HBO","image": "https://variety.com/wp-content/uploads/2019/11/hbo-logo.jpg?w=681&h=383&crop=1" ,"url": "https://www.doofootball.com/dootv/live/hbohd#main_dootv"},
+
+{"name": "HBO Family","image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" ,"url": "https://www.doofootball.com/dootv/live/hbofamily#main_dootv"},
+
+{"name": "HBO Hits","image": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,"url": "https://www.doofootball.com/dootv/live/hbohit#main_dootv"},
+
+{"name": "HBO Signature","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" ,"url": "https://www.doofootball.com/dootv/live/hbosignature#main_dootv"},
 
 {"name":"XING KONG","image": "https://img2.pngio.com/xing-kong-wikipedia-xing-kong-png-1200_454.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC13/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
@@ -354,7 +360,9 @@
 
 {"name": "Pluto TV Movies England","image": "https://www.jordanharbinger.com/wp-content/uploads/2021/08/pluto-tv.png" ,"url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId="},
 
-{"name": "True Movie Hits","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=240" ,"url": "https://www.we-play.live/watching/tv/true-movie-hits",referer:"https://player.we-play.tv"},
+{"name": "True Movie Hits","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=240" ,"url": "https://www.doofootball.com/dootv/live/moviehits#main_dootv"},
+
+{"name": "True Series","image": "https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" ,"url": "https://www.doofootball.com/dootv/live/trueseries#main_dootv"},
 
 {"name": "True Korean More","image": "https://cms.dmpcdn.com/livetv/2021/09/28/d446d890-2009-11ec-9629-7dc4459cd94d_webp_320.png" ,"url": "https://we-play.live/watching/tv/true-korean-more"},
 
@@ -370,7 +378,7 @@
 
 {"name": "Siam News TV Online","image": "https://www.siamnews.net/wp-content/uploads/2018/05/cropped-siamnews-bw-helv-square.png" ,"url": "https://thaitvstream.com/application/mtvlive/count.php?id=7&url=https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"},
 
-{"name": "True Asian More","image": "https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png" ,"url": "https://we-play.live/watching/tv/true-asian-more"},
+{"name": "True Asian More","image": "https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png" ,"url": "https://www.doofootball.com/dootv/live/asianseries#main_dootv"},
 
 {"name": "Pluto TV Hunter","image": "https://i.insider.com/5f2994d85af6cc423a615a54?width=700" ,"url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
 
@@ -394,7 +402,7 @@
 
 {"name": "MOVIES CHANNEL 2","image": "https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" ,"url": "http://203.159.95.172:8081/live/banner003/playlist.m3u8"},
 
-{"name": "Cinemax Asia","image": "https://static.epg.best/ph/Cinemax.ph.png" ,"url": "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8"},
+{"name": "Cinemax","image": "https://static.epg.best/ph/Cinemax.ph.png" ,"url": "https://www.doofootball.com/dootv/live/cinemax#main_dootv"},
 
 {"name": "UMI Cartoon","image": "https://cdn1.vectorstock.com/i/thumb-large/28/60/tv-tuner-black-glyph-icon-vector-33392860.jpg" ,"url": "http://203.154.243.89:28010/pa/umi.ts"},
 
