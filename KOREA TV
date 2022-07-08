@@ -128,8 +128,6 @@
 
 {"name":"Korea TV",image:"https://nnew.cc/wp-content/uploads/2018/01/389-1.jpg","url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"},
 
-{"name":"KBS News",image:"https://upload.wikimedia.org/wikipedia/commons/b/b9/KBS_News_Logo.jpg","url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/newskbs/live"},
-
 {"name":"arteTV",image:"https://www.arte.tv/sites/corporate/files/arte-logo_1920x1080-6-585x329.jpg","url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TheArteTV/live"},
 
 {"name":"GoodTV",image:"https://play-lh.googleusercontent.com/GUpUMSk51VT2TBsc0GKpH8g_fa9Htn37v2HRxsxyIfy-upsrdlpC2zKaaoEPlj1SSA","url": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8"},
@@ -137,6 +135,10 @@
 {"name":"SPOTV",image:"https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg","url": "https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8"},
 
 {"name":"Korean Song Channel",image:"https://i.imgur.com/H4o1bpS.png","url": "http://live.kytv.co.kr:8080/hls/stream.m3u8"},
+
+{"name":"YTN SCIENCE",image:"https://static.epg.best/kr/YTNScience.kr.png","url": "http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8"},
+
+{"name":"Arirang Radio",image:"https://pbs.twimg.com/profile_images/1486225535533719552/c_P3H7bT_400x400.png","url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"},
     
 ]
 }
