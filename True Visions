@@ -122,7 +122,7 @@
 
 {"name": "True X-ZYTE","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/6yUxSSruYwQZeV62cvAEUvP11HOFzrnimages.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{"name":"Fashion TV HD",image:"https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FashionTV_600x600.png?raw=true","url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8"},
+{"name":"Fashion TV HD",image:"https://i0.wp.com/opportunitycell.com/wp-content/uploads/2021/06/fashion-tv-logo-png-3.png?fit=1200%2C1200&ssl=1","url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8"},
 
 {"name":"Food Network",image:"https://findlogovector.com/wp-content/uploads/2019/09/food-network-logo-vector.png","url": "https://www.doofootball.com/dootv/live/foodnetwork#main_dootv"},
 
@@ -140,13 +140,19 @@
 
 {"name":"National Geographic",image:"https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png","url": "https://www.doofootball.com/dootv/live/natgeo#main_dootv"},
 
+{"name": "NAT GEO Wild","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo-wild&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
+
 {"name":"Discovery Channel",image:"https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png","url": "https://www.doofootball.com/dootv/live/discovery#main_dootv"},
 
 {"name":"TLC",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png","url": "https://www.doofootball.com/dootv/live/tlc#main_dootv"},
 
 {"name":"Animal Planet",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png","url": "https://www.doofootball.com/dootv/live/animalplanet#main_dootv"},
 
-{"name":"BBC EARTH",image:"https://i.imgur.com/lTu4BSR.png","url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd"},
+{"name": "True Explore Wild","image": "http://tvsmagazine.com/images/channels/lrg_EXPW.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
+
+{"name": "True Explore Life","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/muhbpkM56JYGXya1aT6VbKuSmbnK5pCtruelife.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=th-explife&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
+
+{"name": "True Explore Sci","image": "https://www.img01.xyz/assets/img/ch_logo/sd-expsci.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=th-expsci&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
 
 {"name":"True Premier Football HD1",image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png","url": "https://www.doofootball.com/dootv/live/epl1#main_dootv"},
 
@@ -191,6 +197,13 @@
 {"name"          :  "True Sport HD7",
 "image"          :  "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
 "url"            :  "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
+
+{"name"          :  "True TENNIS",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8",
 "referer"        :  "https://streaming.livescorethai.net/",
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
