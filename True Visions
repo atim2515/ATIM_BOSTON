@@ -82,6 +82,16 @@
 
 {"name":"DLTV15",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV15"},
 
+{
+"name":"True INSIDE ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxnnBlzjV_knpNV5pSn51umhyPCp3NMfnSIw&usqp=CAU",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-inside&api_key=hmcb4rf66f",referer:"https://dooball66.com/"
+},
+
+{"name": "True Film HD","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/RobYvCIjv9KeZe1xJ1IcXjjv27tYhdNhd-tfilm.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
+
+{"name": "True Film HD 2","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/XzIivJOwDozc5ievk7vcL4ZMALbSvXmhd-tfilm2.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f","referer": "https://dooball66.com/",   "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!","embed": "true",playInNatPlayer: "true"},
+
 {"name": "True Chinese More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/truechinesemore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
 {"name": "Warner TV","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/iBlD0YzspNA9b9D8hK3wFnT5EBI5smLwbtv.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
@@ -90,14 +100,12 @@
 
 {"name": "Paramount Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,"url": "https://www.doofootball.com/dootv/live/paramount#main_dootv"},
 
-{"name": "Celestial Classic Movies","image": "https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" ,"url": "https://we-play.live/watching/tv/ccm"},
-
 {"name": "True Korean More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/truekoreanmore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
 {"name": "True Asian More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/trueasianmore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{"name":"tvN",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png","url": "https://www.doofootball.com/dootv/live/tvn#main_dootv"},
-
+{"name": "True Series","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/trueseries.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
+				
 {"name":"GEM",image:"https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=_ej4SuF_","url": "https://www.doofootball.com/dootv/live/gem#main_dootv"},
 
 {"name": "AXN","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
@@ -120,14 +128,6 @@
 
 {"name":"ETV",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0087.png","url": "http://www.etvthai.tv/stream/home.aspx"},
 
-{"name":"Nick Jr.",image:"https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png","url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd"},
-
-{"name":"DreamsWorks",image:"https://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest/scale-to-width-down/250?cb=20201205013126","url": "https://we-play.live/watching/tv/dreamworks"},
-
-{"name":"Cartoon Network",image:"https://www.paho.org/sites/default/files/styles/max_650x650/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=Tci6lftu","url": "https://we-play.live/watching/tv/cartoon-network"},
-
-{"name":"Nickelodeon",image:"https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nickelodeon.png","url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/303/303.mpd"},
-
 {"name":"Discovery Asia",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png","url": "https://www.doofootball.com/dootv/live/discoveryasia#main_dootv"},
 
 {"name":"History Channel HD",image:"https://cdn.mitvstatic.com/channels/co_history-hd_m.png","url": "https://www.doofootball.com/dootv/live/history#main_dootv"},
@@ -137,8 +137,6 @@
 {"name":"National Geographic",image:"https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png","url": "https://www.doofootball.com/dootv/live/natgeo#main_dootv"},
 
 {"name":"Discovery Channel",image:"https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png","url": "https://www.doofootball.com/dootv/live/discovery#main_dootv"},
-
-{"name":"LoveNature",image:"https://mms.businesswire.com/media/20160221005243/en/510305/4/LoveNature_TypeMask_FINAL_webready.jpg","url": "https://we-play.live/watching/tv/lovenature-4k"},
 
 {"name":"TLC",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png","url": "https://www.doofootball.com/dootv/live/tlc#main_dootv"},
 
@@ -195,10 +193,6 @@
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
 
-{"name":"Outdoor Channel",image:"https://cms.dmpcdn.com/livetv/2018/12/17/f2c30832-7d77-4a24-88ad-1d30c593bda1.png","url": "https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8"},
-
-{"name":"NBA TV HD",image:"https://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png","url": "https://www.doofootball.com/dootv/live/truenba#main_dootv"},
-
 {"name"          :  "Golf Channel",
 "image"          :  "https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=100&h=75",
 "url"            :  "https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8",
@@ -236,8 +230,6 @@ playInNatPlayer: "true"},
 {"name":"YTN","image": "https://cms.dmpcdn.com/livetv/2017/10/18/4b856cb3-908d-4789-8953-3b9d598d8de8.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC44/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
 {"name":"NHK World TV",image:"https://cms.dmpcdn.com/livetv/2017/10/18/1476e49b-cf56-4fc0-873b-dc61e4207273.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"},
-
-{"name":"CGTN",image:"https://ui.cgtn.com/static/ng/resource/images/header_icon/cgtn2020_logo.png","url": "http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/604/604.mpd"},
 
 ]
 }
