@@ -52,7 +52,7 @@
 
 {"name":"มูเตลู",image:"https://www.mvtv.co.th/wp-content/uploads/2020/06/%E0%B8%A1%E0%B8%B9%E0%B9%80%E0%B8%A5%E0%B8%95%E0%B8%B9.png","url": "https://www.mvtv.co.th/channel/mutalu"},
 
-{"name":"บันเทิงเกินร้อย",image:"https://www.mvtv.co.th/wp-content/uploads/2021/09/banterng110-1.png","url": "https://www.mvtv.co.th/channel/banterng"},
+{"name":"บันเทิงเกิน 110",image:"https://www.mvtv.co.th/wp-content/uploads/2021/05/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2110-ok-edit.png","url": "https://www.mvtv.co.th/channel/bunteg100"},
 
 {"name":"HAPPY TV",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png","url": "https://www.mvtv.co.th/channel/happy-tv"},
 
@@ -84,7 +84,7 @@
 
 {"name":"Brian TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0MZLi649n-VeTFyT-czq_vJPOq0b5_KlxkMxNEh675TiNHZMvgFEesv0GQ1so54bH0Y&usqp=CAU","url": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"},
 
-{"name":"เชียงราย แชลแนล",image:"https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632362127_movie_image.jpg","url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8"},
+{"name":"เชียงราย แชลแนล",image:"https://thaitvstream.com/streaming/chiangrai/chiangrai.png","url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8"},
 
 {"name":"ISTV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobqdb6IPI0TKlLSCqu_G6tP-T3jmFUKzP64TXJRlWYSsueVATffgiruKIznxi_lIUYEI&usqp=CAU","url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"},
 
@@ -94,9 +94,9 @@
 
 {"name":"HI NEWS",image:"https://i.ytimg.com/vi/_CkciYQqmdg/maxresdefault.jpg","url": "http://203.154.243.89:4555/got/hinews"},
 
-{"name":"Prachuap News",image:"https://i.ytimg.com/vi/_CkciYQqmdg/maxresdefault.jpg","url": "https://live1.thaitvstream.com/play/prachuapnews/index.m3u8"},
+{"name":"Prachuap News",image:"https://thaitvstream.com/streaming/prachuapnews/prachuapnews.png","url": "https://live1.thaitvstream.com/play/prachuapnews/index.m3u8"},
 
-{"name":"Chan TV Live",image:"https://i.ytimg.com/vi/_CkciYQqmdg/maxresdefault.jpg","url": "https://live.thaitvstream.com/play/wadyantv/index.m3u8"},
+{"name":"Chan TV Live",image:"https://thaitvstream.com/streaming/wadyantv/wadyantv.png","url": "https://live.thaitvstream.com/play/wadyantv/index.m3u8"},
 
 {"name":"ฟาร์มทีวี.HD",image:"https://farmchannelthailand.com/main/wp-content/uploads/2020/02/logo-farm-channel-w2.png","url": "http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8?NHZCY0F6TnQ5VitwckhxeGQ0TXVzR2RpdFJlcTczVy8yYmxsS1dybzVyMkhDNENvcFpLZk1rdmEzUG1ZSTZCeEVZbll1Zno1c1kwZWpldFgvWG83QUhBejRXOVM5T0xoS1ZrTm5ybTAyTm5JN1lZWm91ZnJSQ3BjT1A3bHRrcDVUS0RjNWQ4ZXBBUWN1aC9qUWZNZDV3PT0=,c6a705a447f9a76b2a248a90a26fd9aa"},
 
@@ -104,8 +104,12 @@
 
 {"name":"Good Idea TV",image:"https://yt3.ggpht.com/ytc/AKedOLQ3CXdit8ZwlwvrAm7lyPiYSRNwZikjIkCH-up11Q=s900-c-k-c0x00ffffff-no-rj","url": "https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8"},
 
-{"name":"ข่าวชัด TV",image:"https://play-lh.googleusercontent.com/SVNSlBRVtqaw1_KBypQQ0yFu8hzm61MDCZvaJYspVUbUHX-QOLYUbLWbJ28muPnAFTk=s150-rw","url": "https://live1.thaitvstream.com/play/khaochadtv/index.m3u8"},
+{"name":"ข่าวชัด TV",image:"https://thaitvstream.com/streaming/khaochadtv/khaochadtv.png","url": "https://live1.thaitvstream.com/play/khaochadtv/index.m3u8"},
 
 {"name":"Zabb tv",image:"https://thaitvstream.com/streaming/zabbtv/zabbtv.png","url": "https://www.ทีวีท้องถิ่นไทย.com/count.php?id=28&url=https://live1.thaitvstream.com/play/zabbtv/index.m3u8"},
+
+{"name":"มวลชน ทีวี",image:"https://thaitvstream.com/streaming/mounchontv/mounchontv.png","url": "https://www.ทีวีท้องถิ่นไทย.com/count.php?id=12&url=https://live2.thaitvstream.com/play/mounchontv/index.m3u8"},
+
+{"name":"PTV",image:"https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png","url": "https://www.ทีวีท้องถิ่นไทย.com/count.php?id=2&url=https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8"},
 ]
 }
