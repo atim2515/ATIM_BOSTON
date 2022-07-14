@@ -46,7 +46,7 @@
 
 {"name":"Sword & Shield",image:"https://d14c63magvk61v.cloudfront.net/hls/22808/sword-1/thumbv_20200714_212032.jpg","url": "https://www.distro.tv/live/sword-1"},
 
-{"name":"Love Nuture 4K",image:"https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png","url": "https://we-play.live/watching/tv/lovenature-4k"},
+{"name":"Love Nuture 4K",image:"https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png","url": "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"},
 
 {"name":"สำรวจโลก",image:"https://i2.wp.com/www.nextsteptv.com/wp-content/uploads/2018/03/logo_SRL-01-26-03-.png?fit=300%2C100","url": "https://cdn6.goprimetime.info/feed/202105171329/LC8/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
@@ -58,7 +58,13 @@
 
 {"name":"Amazing Discoveries TV",image:"https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png","url": "http://streamstat.net/videoplayer.cgi?sid=116370345&ext=.m3u8"},
 
-{"name":"National Geographic Wild Russia",image:"https://download.logo.wine/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.png","url": "https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"},
+{
+				"name": "NAT GEO Wild",
+				"image": "http://idooxtream.streaming-fast.com/xtream/LOGO/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
+                "url": "http://203.154.243.88:11088/hi/natgeo",
+			    referer:"",
+			   	"info": "TIM TV",
+				"desktop": "true"},
 
 {"name": "Animal world","image": "https://cdn1.vectorstock.com/i/thumb-large/28/60/tv-tuner-black-glyph-icon-vector-33392860.jpg" ,"url": "http://203.154.243.89:28010/pa/animal.ts"},
 
