@@ -140,9 +140,23 @@
 
 {"name":"History Channel HD",image:"https://cdn.mitvstatic.com/channels/co_history-hd_m.png","url": "https://www.doofootball.com/dootv/live/history#main_dootv"},
 
-{"name": "H2","image": "https://www.pngkit.com/png/detail/432-4329573_h2-channel-logo-h2-hd.png","url": "https://www.doomovie-hd.com/?r=tv_view&id=58","referer": "https://www.doomovie-hd.com/","info": "TIM TV", "embed": "true",playInNatPlayer: "true"},
+{
+				"name": "H2",
+				"image": "https://www.pngkit.com/png/detail/432-4329573_h2-channel-logo-h2-hd.png",
+				url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-history2&api_key=hmcb4rf66f",
+				"referer": "https://dooball66.com/",   
+				"info": "TIM TV",
+				"embed": "true",playInNatPlayer: "true"},
 
 {"name":"National Geographic",image:"https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png","url": "https://www.doofootball.com/dootv/live/natgeo#main_dootv"},
+
+{
+				"name": "NAT GEO Wild",
+				"image": "http://idooxtream.streaming-fast.com/xtream/LOGO/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
+                "url": "http://203.154.243.88:11088/hi/natgeo",
+			    referer:"",
+			   	"info": "TIM TV",
+				"desktop": "true"},
 
 {"name":"Discovery Channel",image:"https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png","url": "https://www.doofootball.com/dootv/live/discovery#main_dootv"},
 
