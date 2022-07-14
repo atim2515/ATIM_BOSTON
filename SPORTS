@@ -8,9 +8,20 @@
 		"stations":[
     
     
-{"name":"SPOTV",image:"https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg","url": "https://we-play.live/watching/tv/spotv"},
+{"name": "SPOTV 1",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-spotv-eng&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"info": "TIM TV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
 
-{"name":"SPOTV2",image:"https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg","url": "https://we-play.live/watching/tv/spotv2"},
+{"name"          :  "SPOTV 2",
+"image"          :  "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+"url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com:443/allball168/spotv2/sport/spotv2/chunks.m3u8",
+"referer"        :  "https://allball168.com/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
 {"name":"ถิ่นใต้",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5r08THChLAIzSpAeZQXNoMhFNBOthmmLfeSv2NeCSWOOAbpNhirmpaouooJ0oAhh9QVY&usqp=CAU","url": "http://freelive.inwstream.com:1935/freelive-edge/the_battle.stream/playlist.m3u8"},
 
@@ -166,33 +177,45 @@
 
 {"name": "BEIN SPORT 2 TH","image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png","url": "http://203.159.95.172:8081/live/bein02/playlist.m3u8","referer": "","playInNatPlayer": "true"},
 
-{"name": "True Sports HD 1","image": "https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png","url": "https://www.doofootball.com/dootv/live/truesporthd#main_dootv"},
+{"name":"True Sports HD 1",image:"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png","url": "https://www.dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1/"},
 
-{"name": "True Sports HD 2","image": "https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png","url": "https://www.doofootball.com/dootv/live/truesporthd2#main_dootv"},
+{"name":"True Sports HD 2",image:"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://www.dooball2you.com/truesporthd2/"},
 
-{"name": "True Sports HD 3","image": "https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png","url": "https://www.doofootball.com/dootv/live/truesporthd3#main_dootv"},
+{"name"          :  "True Sports HD 3",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
-{"name": "True Sports 5","image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png","url": "https://www.doofootball.com/dootv/live/truesport5#main_dootv"},
+{"name"          :  "True Sports HD 5",
+"image"          :  "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
-{"name": "True Sports 7","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png","url": "https://www.doofootball.com/dootv/live/truesport7#main_dootv"},
+{"name"          :  "True Sports HD 7",
+"image"          :  "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
 {"name": "Snooker","image": "https://cdn1.vectorstock.com/i/thumb-large/28/60/tv-tuner-black-glyph-icon-vector-33392860.jpg" ,"url": "http://203.154.243.89:28010/pa/snooker.ts"},
 
 {"name": "WTB","image": "https://cdn1.vectorstock.com/i/thumb-large/28/60/tv-tuner-black-glyph-icon-vector-33392860.jpg" ,"url": "http://203.154.243.89:28010/pa/wtb.ts"},
 
-{"name": "Star Sports Select 1 HD","image": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg/revision/latest/scale-to-width-down/220?cb=20180806112549" ,"url": "http://new-pro.tv:8080/Fernando/123321/72044"},
+{"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV-1568x1045.jpg?ezimgfmt=rs:412x659/rscb1/ng:webp/ngcb1" ,"url": "https://www.dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87nbatv/"},
 
-{"name": "Star Sports Select 2 HD","image": "https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438" ,"url": "http://new-pro.tv:8080/Fernando/123321/72045"},
+{"name"          :  "True TENNIS",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
-{"name": "Star Sports 3 HD [English]","image": "https://www.sportda.com/wp-content/uploads/2018/10/f630405883d600e197b8e8a714bf7422.png" ,"url": "http://new-pro.tv:8080/Fernando/123321/72043"},
-
-{"name": "Star Sports 1 [Hindi]","image": "https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest/scale-to-width-down/200" ,"url": "http://new-pro.tv:8080/Fernando/123321/178133"},
-
-{"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV-1568x1045.jpg?ezimgfmt=rs:412x659/rscb1/ng:webp/ngcb1" ,"url": "https://www.doofootball.com/dootv/live/truenba#main_dootv"},
-
-{"name": "True Tennis","image": "https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png" ,"url": "https://www.doofootball.com/dootv/live/truetennis#main_dootv"},
-
-
+{"name": "Hi Sport","image": "http://203.154.243.32/upload/tb2609154689.jpg" ,"url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115709"},
 
 
 
