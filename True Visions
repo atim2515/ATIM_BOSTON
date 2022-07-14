@@ -136,8 +136,6 @@
 
 {"name":"BBC Lifestyle",image:"https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png","url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115625"},
 
-{"name":"BBC Earth",image:"https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png","url": "http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8"},
-
 {"name":"Discovery Asia",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png","url": "https://www.doofootball.com/dootv/live/discoveryasia#main_dootv"},
 
 {"name":"History Channel HD",image:"https://cdn.mitvstatic.com/channels/co_history-hd_m.png","url": "https://www.doofootball.com/dootv/live/history#main_dootv"},
@@ -241,6 +239,8 @@ playInNatPlayer: "true"},
 "referer"        :  "https://allball168.com/",
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
+
+{"name":"Outdoor Channel HD",image:"https://mir-s3-cdn-cf.behance.net/project_modules/1400/019f9a50258033.58cb840c2b144.jpg","url": "https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8"},
 
 {"name":"CNN",image:"https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/CNN.png","url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"},
 
