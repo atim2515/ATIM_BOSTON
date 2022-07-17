@@ -1,31 +1,71 @@
 #EXTM3U
+#===================List kênh SCTV HD miễn phí, update 09072022=================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="IPTV",HBO
-https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20382405_ico.png?ts=1655456567" group-title="IPTV",HBO Signature
-https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20172029_ico.png?ts=1655454924" group-title="IPTV",HITS Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20206261_ico.png?ts=1657696826" group-title="IPTV",Galaxy
-https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103424_ico.png?ts=1657696895" group-title="IPTV",GALAXY PREMIUM
-https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1,SCTV1 HD
+http://live.television4you.xyz:8080/sctv1
+#EXTINF:-1,SCTV2 HD
+http://live.television4you.xyz:8080/sctv2
+#EXTINF:-1,SCTV3 HD
+http://live.television4you.xyz:8080/sctv3
+#EXTINF:-1,SCTV4 HD
+http://live.television4you.xyz:8080/sctv4
+#EXTINF:-1,SCTV5 HD
+http://live.television4you.xyz:8080/sctv5
+#EXTINF:-1, SCTV6 HD
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,SCTV7 HD
+http://live.television4you.xyz:8080/sctv7
+#EXTINF:-1,SCTV8 HD
+http://live.television4you.xyz:8080/sctv8
+#EXTINF:-1,SCTV9 HD
+http://live.television4you.xyz:8080/sctv9
+#EXTINF:-1,SCTV10
+http://live.television4you.xyz:8080/sctv10
+#EXTINF:-1,SCTV11 HD
+http://live.television4you.xyz:8080/sctv11
+#EXTINF:-1,SCTV12 HD
+http://live.television4you.xyz:8080/sctv12
+#EXTINF:-1,SCTV13 HD
+http://live.television4you.xyz:8080/sctv13
+#EXTINF:-1,SCTV14 HD
+http://live.television4you.xyz:8080/sctv14
+#EXTINF:-1,SCTV15 HD
+http://live.television4you.xyz:8080/sctv15
+#EXTINF:-1,SCTV16 HD
+http://live.television4you.xyz:8080/sctv16
+#EXTINF:-1,SCTV17 HD
+http://live.television4you.xyz:8080/sctv17
+#EXTINF:-1,SCTV18 HD
+http://live.television4you.xyz:8080/sctv18
+#EXTINF:-1,SCTV19 HD
+http://live.television4you.xyz:8080/sctv19
+#EXTINF:-1,SCTV20 HD
+http://live.television4you.xyz:8080/sctv20
+#EXTINF:-1,SCTV21 HD
+http://live.television4you.xyz:8080/sctv21
+#EXTINF:-1,SCTV22 HD
+http://live.television4you.xyz:8080/sctv22
+#EXTINF:-1,SCTV Phim Tổng Hợp HD
+http://live.television4you.xyz:8080/sctvpth
+#EXTINF:-1, BTV5 HD
+http://live.television4you.xyz:8080/btv5
+#EXTINF:-1, Box Movie 1
+http://live.television4you.xyz:8080/boxmovie1
+#EXTINF:-1, Hollywood Classics
+http://live.television4you.xyz:8080/hollywood
+#EXTINF:-1, In The Box
+http://live.television4you.xyz:8080/inthebox
+#EXTINF:-1, Box Hits
+http://live.television4you.xyz/boxhits/mpegts
+#EXTINF:-1, Man
+http://live.television4you.xyz:8080/man
+#EXTINF:-1, Dr.Fit
+http://live.television4you.xyz:8080/drfit
+#EXTINF:-1, Happy Kids
+http://live.television4you.xyz:8080/happykids
+#EXTINF:-1, Music Box
+http://live.television4you.xyz:8080/musicbox
+#EXTINF:-1, Planet Earth
+http://live.television4you.xyz:8080/planetearth
+#EXTINF:-1, Woman
+http://live.television4you.xyz:8080/woman
