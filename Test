@@ -56,7 +56,7 @@ http://live.television4you.xyz:8080/hollywood
 #EXTINF:-1, In The Box
 http://live.television4you.xyz:8080/inthebox
 #EXTINF:-1, Box Hits
-http://live.television4you.xyz/boxhits/mpegts
+http://live.television4you.xyz:8080/boxhits
 #EXTINF:-1, Man
 http://live.television4you.xyz:8080/man
 #EXTINF:-1, Dr.Fit
@@ -69,3 +69,10 @@ http://live.television4you.xyz:8080/musicbox
 http://live.television4you.xyz:8080/planetearth
 #EXTINF:-1, Woman
 http://live.television4you.xyz:8080/woman
+
+#EXTINF:-1, vtv
+http://live.television4you.xyz:8080/vtv1
+
+#EXTINF:-1, vtv
+http://live.television4you.xyz:8080/vtv
+
