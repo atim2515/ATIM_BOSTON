@@ -26,7 +26,9 @@
 
 {"name":"Bloomberg TV US Live Event",image:"https://pbs.twimg.com/profile_images/991781464953024513/hmi4V7e3_400x400.jpg","url": "https://www.bloomberg.com/media-manifest/streams/us-event.m3u8"},
 
-{"name":"BBC World News",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png","url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"},
+{"name":"BBC News",image:"https://yt3.ggpht.com/ytc/AKedOLSfTJprAlY4uzdWV0RVkL3EuBySEm5E64xZZvAW8A=s900-c-k-c0x00ffffff-no-rj","url": "https://aqstream.com/news/bbcn/BBC-News"},
+
+{"name":"BBC World News",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png","url": "https://aqstream.com/news/bbcwn/BBC-World-News"},
 
 {"name":"Global News",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png","url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"},
 
