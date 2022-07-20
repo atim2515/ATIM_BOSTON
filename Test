@@ -1,7 +1,22 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" refresh="3600"
 
-#EXTINF:-1 tvg-id="TDMSportsMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Sports",TDM Sports Macau (720p)
-http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="Japan",NHK General TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png" group-title="Japan",NHK Educational TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="Japan",TV Asahi
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png" group-title="Japan",TV Tokyo (JOTX-DTV)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="Japan",TBS (JORX-DTV)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" group-title="Japan",Fuji TV (JOCX-DTV)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="Japan",Nippon TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="Japan",NTV News 24
+https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://www.at-x.com/images/common/logo.png" group-title="Japan",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" group-title="Japan",Tokyo MX (JOMX-DTV)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
