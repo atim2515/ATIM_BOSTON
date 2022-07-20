@@ -20,3 +20,35 @@ https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" group-title="Japan",Tokyo MX (JOMX-DTV)
 https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/967Ud6N.png",MBS
+http://203.162.235.41:16910
+#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/XoDOeDW.png",Tokyo - Narita Airport
+http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="Channel5Singapore.sg" status="blocked",Channel 5 
+https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8
+#EXTINF:-1 tvg-id="Channel8Singapore.sg" status="blocked",Channel 8 
+https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg",!JP-KRet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK: ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d35b4c918eee7e24b511a6ac18d82d68.png" group-title="UK",UK: ANIMAL PLANET HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1130.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK: Discovery Science HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e76011290ff4124502f1af1e6fb6e980.png" group-title="UK",UK: Discovery Science HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/713.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK Discovery Science HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e76011290ff4124502f1af1e6fb6e980.png" group-title="Best of Documentary",UK Discovery Science HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273672.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK: Discovery Turbo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac2c475dbdb448898e219c4a51c1f848.png" group-title="UK",UK: Discovery Turbo HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1114.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK Discovery Turbo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac2c475dbdb448898e219c4a51c1f848.png" group-title="Best of Documentary",UK Discovery Turbo HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273676.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: Discovery World HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/15e5cd004d609028edf73514b493c1bf.png" group-title="UK",UK: Discovery World HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/708.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK Discovery World HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/15e5cd004d609028edf73514b493c1bf.png" group-title="Best of Documentary",UK Discovery World HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273671.m3u8
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK: DMAX HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4da07a802fec387b6b52048f87851ac.png" group-title="UK",UK: DMAX HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC News FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e26090febadd0239539333ab8e082a4e.png" group-title="UK",UK: BBC News FHD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC World News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e10b2d15b4b36501b5235c17667d830d.png" group-title="UK",UK: BBC World News HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/280286.m3u8
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png" group-title="UK",UK: LFC TV HD
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/4721.m3u8
