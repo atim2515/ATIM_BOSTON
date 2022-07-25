@@ -1,65 +1,293 @@
 #EXTM3U
-#EXTINF:0 group-title="Kênh Tổng Hợp" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/182139-VTV1.png",VTV1 HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv1
-#EXTINF:0 tvg-logo="https://img.hplus.com.vn/355x200/poster/2021/05/30/515902-VTV2-HD.png",VTV2 HD
-#http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv2
-#EXTINF:0 tvg-logo="https://img.hplus.com.vn/355x200/poster/2019/08/15/940603-vtv3_new.png",VTV3 HD
-#http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv3
-#EXTINF:0 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg",VTV4 HD
-#http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv4
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/VTV5HD.png/180px-VTV5HD.png",VTV5 HD
-#http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv5
-#http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-#EXTINF:0 tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/09/11/101550-vtv6.png",VTV6 HD
-#http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv6
-#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-NdUXBBjNoyw/WsTpwaMlaPI/AAAAAAAAAI4/hoCKOGqUtM8xlXcBSBT2mlEtxlreKCTOwCLcBGAs/s1600/truyen+hinh+vtv7.png",VTV7 HD
-#http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv7
-#EXTINF:0 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg",VTV8 HD
-#http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv8
-#EXTINF:0 tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/532177-VTV9HD.png",VTV9 HD
-#http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
-#http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv9
-#EXTM3U
-#EXTINF:0 group-title="Dia Phuong Bắc Trung Bộ" tvg-logo="http://truyenhinhthanhhoa.vn/dataimages/201803/original/images5392868_logoTTV.png",Thành Hoa (TTV HD)
-http://gg.gg/TTV_Dai-phat-thanh-truyen-hinh-thanh-hoa-HD
-#EXTINF:0 group-title="Dia Phuong Bắc Trung Bộ" tvg-logo="https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/4028eaa467639b470167787ae85a0a2d/logontv2019-lai.png",Nghệ An (NTV HD)
-http://103.90.220.236/natvlive/tv1live.m3u8
-#EXTINF:0 group-title="Dia Phuong Bắc Trung Bộ" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/04/843599-hatinh.png", Hà Tinh (HTTV HD)
-https://hatinhtv.vn/hls/httv.m3u8
-#EXTINF:0 group-title="Dia Phuong Bắc Trung Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/QBTV_logo_2019.png/revision/latest?cb=20210728024048&path-prefix=vi",Quang Binh (QBTV)
-https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
-#http://apps2.101vn.com/app/code/nextbet.php?id=104_2&token=(*)j(TwNTo0O9}
-#EXTINF:0 group-title="Dia Phuong Bắc Trung Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3e/QRTV_logo_18-2-2021.png/revision/latest/scale-to-width-down/200?cb=20210816000746&path-prefix=vi", Quảng Trị (QRTV HD)
-http://103.90.220.236/qrtvlive/tv1live.m3u8
-#EXTINF:0 group-title="Dia Phuong Bắc Trung Bộ" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/Logo_TRT_Hue.svg/revision/latest/scale-to-width-down/200?cb=20210926074652&path-prefix=vi",TT Huế (TRT)
-https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:0 group-title="Kênh Thiết Yếu" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/182139-VTV1.png",VTV1 HD
-
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv1
-#EXTINF:0 group-title="Kênh Tổng Hợp" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/379565-MTV.png",MTV
-
-#EXTINF:0 tvg-logo="https://static.mediacdn.vn/vnews/mob_images/VNEWS-logo.png" group-title="Kênh Tổng Hợp",VNEWS
-http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/781776-ANTV-HD.png" group-title="Kênh Thiết Yếu",AN NINH TV HD
-https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png" group-title="Kênh Thiết Yếu",NHAN DAN TV
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
-#EXTINF:0 tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/04/121429-quoc-hoi.png" group-title="Kênh Thiết Yếu",QUOC HOI
-http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
-#EXTINF:0 group-title="Kênh Tổng Hợp" tvg-logo="https://static.mediacdn.vn/vovTV/mob_images/logo.png",VOV TV HD
-http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-#EXTINF:0 tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/04/456623-QuocPhong.png" group-title="Kênh Thiết Yếu",QUOC PHONG VIET NAM
-http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://vitv.vn/Content/Images/logo.png" group-title="Kênh Tổng Hợp",VITV
-http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 group-title="Kênh Tổng Hợp" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg",VINH LONG 1 HD
-https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/An_Viên_TV_BChannel_2021.png/revision/latest/scale-to-width-down/200?cb=20210918031751&path-prefix=vi" group-title="Kênh Tổng Hợp",BTV9 - An Vien TV (B Channel)
-https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/ANT_BPTV3-0.png/revision/latest/scale-to-width-down/200?cb=20211004001335&path-prefix=vi",ANT-Thieu Nhi (BPTV3)
-https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-logo="http://imageidc1.tv360.vn/image1/2021/07/01/13/1625121030178/202271161019_180_180.png" group-title="Kênh Tổng Hợp",SCTV6 - Fim 360
-https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,NBT
+https://iptv-thai.herokuapp.com/tv.php?channel=2599
+#EXTINF:-1,THAI PBS
+https://iptv-thai.herokuapp.com/tv.php?channel=2598
+#EXTINF:-1,ALTV4
+https://iptv-thai.herokuapp.com/tv.php?channel=2597
+#EXTINF:-1,TV5 HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2602
+#EXTINF:-1,T-Sports
+https://iptv-thai.herokuapp.com/tv.php?channel=2564
+#EXTINF:-1,TPTV
+https://iptv-thai.herokuapp.com/tv.php?channel=2596
+#EXTINF:-1,TNN 16
+https://iptv-thai.herokuapp.com/tv.php?channel=2595
+#EXTINF:-1,JKN 18
+https://iptv-thai.herokuapp.com/tv.php?channel=2594
+#EXTINF:-1,Nation TV
+https://iptv-thai.herokuapp.com/tv.php?channel=2593
+#EXTINF:-1,Workpoint 23
+https://iptv-thai.herokuapp.com/tv.php?channel=2592
+#EXTINF:-1,True 4U
+https://iptv-thai.herokuapp.com/tv.php?channel=2591
+#EXTINF:-1,GMM 25
+https://iptv-thai.herokuapp.com/tv.php?channel=2590
+#EXTINF:-1,CH 8
+https://iptv-thai.herokuapp.com/tv.php?channel=2600
+#EXTINF:-1,Mono29
+https://iptv-thai.herokuapp.com/tv.php?channel=2589
+#EXTINF:-1,MCOT HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2588
+#EXTINF:-1,ONE HD
+https://iptv-thai.herokuapp.com/tv.php?channel=3418
+#EXTINF:-1,Thairath TV
+https://iptv-thai.herokuapp.com/tv.php?channel=2587
+#EXTINF:-1,CH3 HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2603
+#EXTINF:-1,AMARIN TV HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2586
+#EXTINF:-1,BBTV CH 7
+https://iptv-thai.herokuapp.com/tv.php?channel=2601
+#EXTINF:-1,PPTV HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2585
+#EXTINF:-1,Video to Home 9
+https://iptv-thai.herokuapp.com/tv.php?channel=2584
+#EXTINF:-1,VIP TV
+https://iptv-thai.herokuapp.com/tv.php?channel=2582
+#EXTINF:-1,Mangkorn
+https://iptv-thai.herokuapp.com/tv.php?channel=2581
+#EXTINF:-1,Cool Channel
+https://iptv-thai.herokuapp.com/tv.php?channel=2580
+#EXTINF:-1,TV5 MONDE
+https://iptv-thai.herokuapp.com/tv.php?channel=2576
+#EXTINF:-1,LunthungTV
+https://iptv-thai.herokuapp.com/tv.php?channel=2575
+#EXTINF:-1,MVTV
+https://iptv-thai.herokuapp.com/tv.php?channel=2574
+#EXTINF:-1,MEDIA TV
+https://iptv-thai.herokuapp.com/tv.php?channel=2573
+#EXTINF:-1,ATTV
+https://iptv-thai.herokuapp.com/tv.php?channel=2572
+#EXTINF:-1,Esan TV
+https://iptv-thai.herokuapp.com/tv.php?channel=2571
+#EXTINF:-1,Five Channel
+https://iptv-thai.herokuapp.com/tv.php?channel=2570
+#EXTINF:-1,4050
+https://iptv-thai.herokuapp.com/tv.php?channel=2569
+#EXTINF:-1,Topline
+https://iptv-thai.herokuapp.com/tv.php?channel=2568
+#EXTINF:-1,MV Lao
+https://iptv-thai.herokuapp.com/tv.php?channel=2567
+#EXTINF:-1,Mix Major
+https://iptv-thai.herokuapp.com/tv.php?channel=2566
+#EXTINF:-1,eGG
+https://iptv-thai.herokuapp.com/tv.php?channel=2565
+#EXTINF:-1,T-Sports
+https://iptv-thai.herokuapp.com/tv.php?channel=2564
+#EXTINF:-1,Boomerang
+https://iptv-thai.herokuapp.com/tv.php?channel=2563
+#EXTINF:-1,Cartoon Club
+https://iptv-thai.herokuapp.com/tv.php?channel=2562
+#EXTINF:-1,AniPlus
+https://iptv-thai.herokuapp.com/tv.php?channel=2561
+#EXTINF:-1,TOONEE
+https://iptv-thai.herokuapp.com/tv.php?channel=2560
+#EXTINF:-1,Channel News Asia  CNA
+https://iptv-thai.herokuapp.com/tv.php?channel=2558
+#EXTINF:-1,Euro News
+https://iptv-thai.herokuapp.com/tv.php?channel=2557
+#EXTINF:-1,DW
+https://iptv-thai.herokuapp.com/tv.php?channel=2556
+#EXTINF:-1,France 24
+https://iptv-thai.herokuapp.com/tv.php?channel=2555
+#EXTINF:-1,Arirang
+https://iptv-thai.herokuapp.com/tv.php?channel=2554
+#EXTINF:-1,News 1
+https://iptv-thai.herokuapp.com/tv.php?channel=2553
+#EXTINF:-1,Police TV
+https://iptv-thai.herokuapp.com/tv.php?channel=2552
+#EXTINF:-1,Al Jazeera
+https://iptv-thai.herokuapp.com/tv.php?channel=2551
+#EXTINF:-1,DLTV1
+https://iptv-thai.herokuapp.com/tv.php?channel=2550
+#EXTINF:-1,DLTV2
+https://iptv-thai.herokuapp.com/tv.php?channel=2549
+#EXTINF:-1,DLTV3
+https://iptv-thai.herokuapp.com/tv.php?channel=2548
+#EXTINF:-1,DLTV4
+https://iptv-thai.herokuapp.com/tv.php?channel=2547
+#EXTINF:-1,DLTV5
+https://iptv-thai.herokuapp.com/tv.php?channel=2546
+#EXTINF:-1,DLTV6
+https://iptv-thai.herokuapp.com/tv.php?channel=2545
+#EXTINF:-1,DLTV7
+https://iptv-thai.herokuapp.com/tv.php?channel=2544
+#EXTINF:-1,DLTV8
+https://iptv-thai.herokuapp.com/tv.php?channel=2543
+#EXTINF:-1,DLTV9
+https://iptv-thai.herokuapp.com/tv.php?channel=2542
+#EXTINF:-1,DLTV10
+https://iptv-thai.herokuapp.com/tv.php?channel=2541
+#EXTINF:-1,DLTV11
+https://iptv-thai.herokuapp.com/tv.php?channel=2540
+#EXTINF:-1,DLTV12
+https://iptv-thai.herokuapp.com/tv.php?channel=2539
+#EXTINF:-1,DLTV13
+https://iptv-thai.herokuapp.com/tv.php?channel=2538
+#EXTINF:-1,DLTV14
+https://iptv-thai.herokuapp.com/tv.php?channel=2537
+#EXTINF:-1,DLTV15
+https://iptv-thai.herokuapp.com/tv.php?channel=2536
+#EXTINF:-1,ETV
+https://iptv-thai.herokuapp.com/tv.php?channel=2534
+#EXTINF:-1,NEW TM
+https://iptv-thai.herokuapp.com/tv.php?channel=2532
+#EXTINF:-1,White Channel
+https://iptv-thai.herokuapp.com/tv.php?channel=2531
+#EXTINF:-1,High Shopping
+https://iptv-thai.herokuapp.com/tv.php?channel=2530
+#EXTINF:-1,O shopping
+https://iptv-thai.herokuapp.com/tv.php?channel=2529
+#EXTINF:-1,TVD MOMO
+https://iptv-thai.herokuapp.com/tv.php?channel=2528
+#EXTINF:-1,TVD 1
+https://iptv-thai.herokuapp.com/tv.php?channel=2527
+#EXTINF:-1,True Shopping
+https://iptv-thai.herokuapp.com/tv.php?channel=2526
+#EXTINF:-1,TrueSelect
+https://iptv-thai.herokuapp.com/tv.php?channel=2525
+#EXTINF:-1,Thai LPGA Championship
+https://iptv-thai.herokuapp.com/tv.php?channel=2523
+#EXTINF:-1,NEWTM
+https://iptv-thai.herokuapp.com/tv.php?channel=2515
+#EXTINF:-1,NHK
+https://iptv-thai.herokuapp.com/tv.php?channel=2514
+#EXTINF:-1,TopNews
+https://iptv-thai.herokuapp.com/tv.php?channel=2513
+#EXTINF:-1,Food Network
+https://iptv-thai.herokuapp.com/tv.php?channel=2510
+#EXTINF:-1,ASSP1(d) Astro Supersports Premier League 1
+https://iptv-thai.herokuapp.com/tv.php?channel=656
+#EXTINF:-1,ASSP2(d) Astro Supersports Premier League 2
+https://iptv-thai.herokuapp.com/tv.php?channel=655
+#EXTINF:-1,ASSP3(f)Astro Supersports Premier League 3
+https://iptv-thai.herokuapp.com/tv.php?channel=654
+#EXTINF:-1,ASSP4(d)Astro Supersports Premier 4
+https://iptv-thai.herokuapp.com/tv.php?channel=653
+#EXTINF:-1,WWE Network
+https://iptv-thai.herokuapp.com/tv.php?channel=652
+#EXTINF:-1,Golf Channel HD
+https://iptv-thai.herokuapp.com/tv.php?channel=651
+#EXTINF:-1,Fox Sports 1
+https://iptv-thai.herokuapp.com/tv.php?channel=650
+#EXTINF:-1,Fox Sports 2
+https://iptv-thai.herokuapp.com/tv.php?channel=649
+#EXTINF:-1,Fox Sports 3
+https://iptv-thai.herokuapp.com/tv.php?channel=648
+#EXTINF:-1,Eurosport HD
+https://iptv-thai.herokuapp.com/tv.php?channel=647
+#EXTINF:-1,HGTV HD
+https://iptv-thai.herokuapp.com/tv.php?channel=641
+#EXTINF:-1,AFC AFN
+https://iptv-thai.herokuapp.com/tv.php?channel=640
+#EXTINF:-1,TLC HD
+https://iptv-thai.herokuapp.com/tv.php?channel=639
+#EXTINF:-1,Asia Food Network
+https://iptv-thai.herokuapp.com/tv.php?channel=638
+#EXTINF:-1,E! HD
+https://iptv-thai.herokuapp.com/tv.php?channel=637
+#EXTINF:-1,DMAX HD
+https://iptv-thai.herokuapp.com/tv.php?channel=636
+#EXTINF:-1,Travel Channel HD
+https://iptv-thai.herokuapp.com/tv.php?channel=635
+#EXTINF:-1,Crime Investigation
+https://iptv-thai.herokuapp.com/tv.php?channel=634
+#EXTINF:-1,Animal Planet HD
+https://iptv-thai.herokuapp.com/tv.php?channel=633
+#EXTINF:-1,NatGeo HD National Geographic
+https://iptv-thai.herokuapp.com/tv.php?channel=632
+#EXTINF:-1,NatGeo Wild HD
+https://iptv-thai.herokuapp.com/tv.php?channel=630
+#EXTINF:-1,History HD
+https://iptv-thai.herokuapp.com/tv.php?channel=629
+#EXTINF:-1,Discovery Science HD
+https://iptv-thai.herokuapp.com/tv.php?channel=628
+#EXTINF:-1,Discovery HD
+https://iptv-thai.herokuapp.com/tv.php?channel=627
+#EXTINF:-1,Disney XD HD
+https://iptv-thai.herokuapp.com/tv.php?channel=626
+#EXTINF:-1,BBC Lifestyle
+https://iptv-thai.herokuapp.com/tv.php?channel=625
+#EXTINF:-1,BBC Earth HD
+https://iptv-thai.herokuapp.com/tv.php?channel=624
+#EXTINF:-1,BBC News HD
+https://iptv-thai.herokuapp.com/tv.php?channel=623
+#EXTINF:-1,DW HD
+https://iptv-thai.herokuapp.com/tv.php?channel=622
+#EXTINF:-1,Love Nature HD
+https://iptv-thai.herokuapp.com/tv.php?channel=621
+#EXTINF:-1,Nick Jr
+https://iptv-thai.herokuapp.com/tv.php?channel=619
+#EXTINF:-1,Cartoon Network HD
+https://iptv-thai.herokuapp.com/tv.php?channel=618
+#EXTINF:-1,Nickelodeon HD
+https://iptv-thai.herokuapp.com/tv.php?channel=617
+#EXTINF:-1,Baby First
+https://iptv-thai.herokuapp.com/tv.php?channel=616
+#EXTINF:-1,Cbeebies
+https://iptv-thai.herokuapp.com/tv.php?channel=615
+#EXTINF:-1,Boomerang HD
+https://iptv-thai.herokuapp.com/tv.php?channel=614
+#EXTINF:-1,Dreamworks HD
+https://iptv-thai.herokuapp.com/tv.php?channel=613
+#EXTINF:-1,FOX Action Movies
+https://iptv-thai.herokuapp.com/tv.php?channel=612
+#EXTINF:-1,FOX Family Movies
+https://iptv-thai.herokuapp.com/tv.php?channel=611
+#EXTINF:-1,FOX Movies HD
+https://iptv-thai.herokuapp.com/tv.php?channel=610
+#EXTINF:-1,FOX HD
+https://iptv-thai.herokuapp.com/tv.php?channel=609
+#EXTINF:-1,AXN HD
+https://iptv-thai.herokuapp.com/tv.php?channel=608
+#EXTINF:-1,Cinemax HD
+https://iptv-thai.herokuapp.com/tv.php?channel=607
+#EXTINF:-1,Cinema World HD
+https://iptv-thai.herokuapp.com/tv.php?channel=606
+#EXTINF:-1,Animax
+https://iptv-thai.herokuapp.com/tv.php?channel=605
+#EXTINF:-1,Warner TV
+https://iptv-thai.herokuapp.com/tv.php?channel=604
+#EXTINF:-1,Hits HD
+https://iptv-thai.herokuapp.com/tv.php?channel=603
+#EXTINF:-1,Hits Movies HD
+https://iptv-thai.herokuapp.com/tv.php?channel=602
+#EXTINF:-1,Blue Ant Entertainment
+https://iptv-thai.herokuapp.com/tv.php?channel=601
+#EXTINF:-1,Blue Ant Extreme
+https://iptv-thai.herokuapp.com/tv.php?channel=600
+#EXTINF:-1,HBO HD
+https://iptv-thai.herokuapp.com/tv.php?channel=599
+#EXTINF:-1,HBO Hits
+https://iptv-thai.herokuapp.com/tv.php?channel=598
+#EXTINF:-1,HBO Family
+https://iptv-thai.herokuapp.com/tv.php?channel=597
+#EXTINF:-1,HBO Signature
+https://iptv-thai.herokuapp.com/tv.php?channel=596
+#EXTINF:-1,Indosiar
+https://iptv-thai.herokuapp.com/tv.php?channel=595
+#EXTINF:-1,CNN HD
+https://iptv-thai.herokuapp.com/tv.php?channel=594
+#EXTINF:-1,CNBC
+https://iptv-thai.herokuapp.com/tv.php?channel=593
+#EXTINF:-1,ABC Australia
+https://iptv-thai.herokuapp.com/tv.php?channel=592
+#EXTINF:-1,Sky News HD
+https://iptv-thai.herokuapp.com/tv.php?channel=591
+#EXTINF:-1,Bloomberg TV
+https://iptv-thai.herokuapp.com/tv.php?channel=590
+#EXTINF:-1,France 24 HD
+https://iptv-thai.herokuapp.com/tv.php?channel=589
+#EXTINF:-1,Euro news my
+https://iptv-thai.herokuapp.com/tv.php?channel=588
+#EXTINF:-1,FOX NEWS
+https://iptv-thai.herokuapp.com/tv.php?channel=587
+#EXTINF:-1,MTV Live
+https://iptv-thai.herokuapp.com/tv.php?channel=586
+#EXTINF:-1,[ID] NHK World Premium
+https://iptv-thai.herokuapp.com/tv.php?channel=585
+#EXTINF:-1,OUTDOOR
+https://iptv-thai.herokuapp.com/tv.php?channel=582
+#EXTINF:-1,Celestial Movies HD
+https://iptv-thai.herokuapp.com/tv.php?channel=581
