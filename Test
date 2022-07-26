@@ -1,131 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo=https://i.postimg.cc/R0pT89dj/1200px-TVRILogo2019-svg.png group-title=LOCAL,TVRI Nasional
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1, tvg-logo=https://i.postimg.cc/6QYtM4KX/RCTI.png group-title=LOCAL,RCTI+
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1, tvg-logo=https://i.postimg.cc/HsqNM8Hc/globaltv.png, group-title=LOCAL, Global TV
-https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF: 1, tvg-logo=https://i.ibb.co/vQZbBCg/MENCEID-S1.png group-title=LOCAL, MNC TV+
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png group-title=LOCAL,SCTV
-https://fikrulmkc.my.id/bagus/usee-sctv.m3u8
-http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png group-title=LOCAL,INDOSIAR
-https://fikrulmkc.my.id/bagus/usee-indosiar.m3u8
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
-#EXTINF:-1, tvg-logo=https://i.postimg.cc/XJjc0ht5/net-HD.jpg group-title=LOCAL,NET TV HD
-https://fikrulmkc.my.id/bagus/usee-net.m3u8
-#EXTINF: 1, tvg-logo=https://i.ibb.co/KzKJNMq/NETESID-S1.png group-title=LOCAL,NET.
-http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1, tvg-id=ANTV.id tvg-name=ANTV ID tvg-logo=https://i.ibb.co/tpdTH3m/antvlogo.png group-title=LOCAL, ANTV
-http://210.210.155.35:80/session/5b297488-4a83-11eb-a112-b82a72d63267/qwr9ew/s/s07/02.m3u8?app_type=mobile&userid=b86j16etxda&tkn=TmdhcGFpbkthdUtvbnRvbD8=&chname=antv
-http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
-#EXTINF:0, tvg-logo=http://elhank.6te.net/LOGO/TRANTV.jpg group-title=LOCAL, TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:0, tvg-logo=http://elhank.6te.net/LOGO/TRANS7.png group-title=LOCAL, TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-http://210.210.155.35/session/0062e3ca-c615-11e9-b6d9-c81f66f89318/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1, tvg-logo=https://antvgo.an.tv/bor/assets/logotv/RTV.png group-title=LOCAL,Rajawali TV
-https://fikrulmkc.my.id/bagus/usee-rtv.m3u8
-http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1, tvg-logo=https://i.postimg.cc/NfHXZBLV/JTV.png group-title=LOCAL,JTV
-https://fikrulmkc.my.id/bagus/usee-jtv.m3u8
-#EXTINF:-1 group-title=LOCAL tvg-logo=https://i.postimg.cc/vTbB9TXb/h-XC6-Vd-Yi-400x400.jpg,JITV
-https://fikrulmkc.my.id/bagus/usee-jitv.m3u8
-#EXTINF:-1, tvg-logo=https://i.postimg.cc/LsGtMnNH/jaktv-tv.jpg group-title=LOCAL, JakTV
-https://fikrulmkc.my.id/bagus/usee-jaktv.m3u8
-#EXTINF:-1 tvg-name="Daai TV ID tvg-logo=https://i.ibb.co/d0GbGhj/daiitvlogo.png group-title=LOCAL,DAAI TV INDONESIA
-http://210.210.155.35/session/f8839692-c617-11e9-b949-c81f66f89318/qwr9ew/s/s13/index.m3u8
-#EXTINF:-1, tvg-logo=https://i.postimg.cc/sgxBDrsC/Bali-TV-2014.png group-title=LOCAL,BALI TV
-https://fikrulmkc.my.id/bagus/usee-balitv.m3u8
-#EXTINF:-1, tvg-logo=https://i.imgur.com/4PPPAEv.png group-title=LOCAL,MY TV
-
-#EXTINF:-1, tvg-logo=https://i.imgur.com/dhKnCid.png group-title=LOCAL,Usee Photo
-https://fikrulmkc.my.id/bagus/usee-useephoto.m3u8
-#EXTINF:-1, tvg-logo=https://i.imgur.com/OvK16mw.png group-title=LOCAL,Usee Prime
-https://fikrulmkc.my.id/bagus/usee-useeprime.m3u8
-#EXTINF:-1, tvg-logo=https://i.ibb.co/FmcgNfx/ruangtrampil.png group-title=LOCAL, Ruang Terampil
-https://fikrulmkc.my.id/bagus/usee-useeinfo.m3u8
-#EXTINF:-1, tvg-logo=https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13 group-title=LOCAL, Insert
-https://fikrulmkc.my.id/bagus/usee-insert.m3u8
-#EXTINF:-1, tvg-logo=https://i.postimg.cc/qBjmjfQR/persija-tv-channel-logo.png group-title=LOCAL, Persija TV
-
-#EXTINF:-1, tvg-logo=https://i.postimg.cc/ZKNdFPnw/ochannel.jpg group-title=LOCAL, O Channel
-
-#EXTINF:-1 tvg-logo=https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg group-title=LOCAL, Biznet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:0 tvg-logo=https://cdn-production-thumbor-vidio.akamaized.net/yD_Ig6mNztgtUqxRSLjmEwnsJlQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg group-title=LOCAL,Nusantara TV
-https://fikrulmkc.my.id/bagus/usee-nusantaratv.m3u8
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/jjbGRfjx/ox.png group-title=LOCAL, Oxygen Home.id
-
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/HxJC4F90/atv-channel-tv-logo.png group-title=LOCAL, ATV
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/sx9m90zX/JOWO-CH.jpg group-title=LOCAL,JOWO TV
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/62
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/denslifestyle.png" group-title=LOCAL,DENS Lifestyle
-http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/denslearning.png" group-title=LOCAL,DENS Learning Knowlegde
-http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/densshowbiz.png" group-title=LOCAL,DENS Showbiz
-http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:0, tvg-logo=https://i.postimg.cc/Fz685L35/tvku.png, group-title=LOCAL,TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/hGcg87rw/elshintatv.png group-title=LOCAL, ELSHINTA TV
 http://210.210.155.35/qwr9ew/s/s10/02.m3u8
-#EXTINF:0, tvg-logo=https://i.postimg.cc/NMN49vNQ/tegartv.png, group-title=LOCAL,Tegar TV Lampung
-http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/vZdWmmQW/RRINet.jpg, group-title=LOCAL, RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:0, tvg-logo=https://i.postimg.cc/jq4nRY81/ctv.png, group-title=LOCAL,CTV
-http://103.23.201.170:1935/live/livestream/lihattv.m3u8
-#EXTINF:0, tvg-logo=https://i.postimg.cc/tgzGYkL9/I-AM-Channel.png, group-title=LOCAL, I AM CHANNEL
-http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:0, tvg-logo=https://i.postimg.cc/VN71K44D/reformed21.png, group-title=LOCAL, REFORMED 21 HD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:-1  tvg-logo=https://i.postimg.cc/J4R6hmRH/simpang5tv.jpg, group-title=LOCAL,SIMPANG LIMA PATI
-http://122.248.43.138:1935/ch4/myStream/live.m3u8
 #EXTINF:-1  tvg-logo=https://i.postimg.cc/cHZYcx9Q/kawanuatv.jpg, group-title=LOCAL,KAWANUA MANADO
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
 #EXTINF:-1  tvg-logo=https://i.postimg.cc/BZPL11Qd/radartv.png, group-title=LOCAL,Radar TV
 http://122.248.43.138:1935/ch11/myStream/live.m3u8
 #EXTINF:-1  tvg-logo=https://i.postimg.cc/L52cR1yn/Logo-Balikpapan-TV.png group-title=LOCAL,BALIK PAPAN TV
 http://122.248.43.138:1935/ch10/myStream/chunklist_w476334342.m3u8
-#EXTINF:-1  tvg-logo=https://i.postimg.cc/5t8K0tQv/jektv.jpg group-title=LOCAL,JEK TV JAMBI
-http://122.248.43.138:1935/ch14/myStream/live.m3u8
-#EXTINF:-1  tvg-logo=https://i.postimg.cc/N0P8QqpT/logojambitv.jpg group-title=LOCAL,JAMBI TV
-http://122.248.43.138:1935/ch23/myStream/live.m3u8
 #EXTINF:-1  tvg-logo= group-title=LOCAL,Simpang5Tv
 http://122.248.43.138:1935/ch4/myStream/live.m3u8
-#EXTINF:0  tvg-logo=https://i.postimg.cc/yNT5jd6K/BETV.png group-title=LOCAL,BETV Bengkulu
-http://122.248.43.138:1935/ch3/myStream/live.m3u8
-#EXTINF:0  tvg-logo=https://i.postimg.cc/nhpNDBZ2/Ch-rbtv-logo-250px.png group-title=LOCAL,RBTV Bengkulu
-http://122.248.43.138:1935/ch12/myStream/live.m3u8
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/xdTGp7G2/primatv-logo-2.png group-title=LOCAL,PrimaTv
-
-
-#EXTINF: 1, tvg-logo=https://i.ibb.co/xgXdWwN/TEVE1-ID-S1.png group-title=BERITA,TVONE
-http://210.210.155.35:80/session/2447653c-4a84-11eb-8e17-b82a72d63267/qwr9ew/s/s105/02.m3u8?app_type=mobile&userid=b86j16etxda&tkn=TmdhcGFpbkthdUtvbnRvbD8=&chname=tvOne
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-#EXTINF: 1, tvg-logo=https://i.ibb.co/Dwj5mD8/METROD-S1.png group-title=BERITA,METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/TYYC8Sv8/magna.jpg group-title=BERITA,MagnaTv HD
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w194611520_b2692000_sleng.m3u8
-#EXTINF: 1, tvg-logo=https://i.ibb.co/hBy8N74/BERITA1.png group-title=BERITA,BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-0, tvg-logo=http://elhank.6te.net/LOGO/CNN.jpg group-title=BERITA, CNN INDONESIA HD
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF: 1, tvg-logo=https://i.ibb.co/zSGwct7/KOMPASIDS-S1.png group-title=BERITA, KOMPAS TV
-https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8
-http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1, tvg-ID= tvg-name=I NEWS tvg-logo=https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg group-title=BERITA,I NEWS +
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF: 1, tvg-logo=https://i.postimg.cc/sDMCmp8c/mnc-news-logo-ver2.png group-title=BERITA,MNC NEWS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/243a1aea2191dec.m3u8
-#EXTINF:-1, tvg-logo=https://i.ibb.co/8xnfQBJ/cnbc.jpg group-title=BERITA, CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
-#EXTINF:-1, tvg-logo=http://firstmedia.com/uploads/LOGO-JAKARTA-GLOBE-news-channel.jpg?1450088826 group-title=BERITA,JAKARTA GLOBE
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
 #EXTINF:-1, tvg-logo=https://i.postimg.cc/sgzJcvKK/VOA.jpg group-title=BERITA,VOA INDONESIA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:0 tvg-id= tvg-name= tvg-logo=https://imgur.com/zijtR5y group-title=BERITA,ANTARA
