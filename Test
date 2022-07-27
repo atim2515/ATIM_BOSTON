@@ -1,29 +1,29 @@
 #EXTM3U
 
-#EXTINF:0, tvg-logo=https://i.postimg.cc/Fz685L35/tvku.png, group-title=LOCAL,TVKU
-http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:0, tvg-logo=https://i.postimg.cc/Fz685L35/tvku.png, group-title=LOCAL,j
+https://chiru.no:8080/stream.webm
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/hGcg87rw/elshintatv.png group-title=LOCAL, ELSHINTA TV
-http://210.210.155.35/qwr9ew/s/s10/02.m3u8
+http://194.163.179.246/slovenci/filmski/hbohd.m3u8
 #EXTINF:-1  tvg-logo=https://i.postimg.cc/cHZYcx9Q/kawanuatv.jpg, group-title=LOCAL,KAWANUA MANADO
-http://122.248.43.138:1935/ch18/myStream/live.m3u8
+http://194.163.179.246/slovenci/filmski/hbo2hd.m3u8
 #EXTINF:-1  tvg-logo=https://i.postimg.cc/BZPL11Qd/radartv.png, group-title=LOCAL,Radar TV
-http://122.248.43.138:1935/ch11/myStream/live.m3u8
+http://194.163.179.246/slovenci/filmski/hbo3hd.m3u8
 #EXTINF:-1  tvg-logo=https://i.postimg.cc/L52cR1yn/Logo-Balikpapan-TV.png group-title=LOCAL,BALIK PAPAN TV
-http://122.248.43.138:1935/ch10/myStream/chunklist_w476334342.m3u8
+http://190.171.101.36/MTV/tracks-v3a1/mono.m3u8
 #EXTINF:-1  tvg-logo= group-title=LOCAL,Simpang5Tv
-http://122.248.43.138:1935/ch4/myStream/live.m3u8
+https://j3.lhlh.app/mv.m3u8
 #EXTINF:-1, tvg-ID= tvg-name=I NEWS tvg-logo=https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg group-title=BERITA,I NEWS +
-https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF: 1, tvg-logo=https://i.postimg.cc/sDMCmp8c/mnc-news-logo-ver2.png group-title=BERITA,MNC NEWS
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/243a1aea2191dec.m3u8
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo=https://i.postimg.cc/sgzJcvKK/VOA.jpg group-title=BERITA,VOA INDONESIA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+http://iptv12k.com:35461/80301051401/878900/3152
 #EXTINF:0 tvg-id= tvg-name= tvg-logo=https://imgur.com/zijtR5y group-title=BERITA,ANTARA
-h https://home-tv.web.id/kicau/butbut.m3u8?channel=usee-antara
+https://91vod-adaptive.akamaized.net/exp=1652962553~acl=%2F44becffd-4138-4c09-ab59-25fface95112%2F%2A~hmac=ba4426fc43338e0cea7a6df5d97e37cc1d823c84fb470f7310911d85afc8db52/44becffd-4138-4c09-ab59-25fface95112/video/99723f2e,333512f6,900028ab,50414d6a/master.json?query_string_ranges=1&base64_init=1
 #EXTINF:-1, tvg-logo=https://cdn-static.metube.id//live/image/YSxBtR0DYJ5MkLTLDBmI.png group-title=BERITA,IDX
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
+http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 #EXTINF:-1 tvg-logo=https://imgur.com/8DbPQ6Q group-title=BERITA,SEA Today
-https://fikrulmkc.my.id/bagus/usee-seatoday.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
 #EXTINF:-1, tvg-logo=https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13 group-title=MOVIES,BIOSKOP INDONESIA
 https://fikrulmkc.my.id/bagus/usee-bioskopindonesia.m3u8
