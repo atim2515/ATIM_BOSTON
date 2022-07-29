@@ -174,7 +174,7 @@ https://iptv-thai.herokuapp.com/tv.php?channel=115415
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=115665
 
-#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="https://i.imgur.com/Y6ZnSx3.png" group-title="Movies&Series",CCM
+#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies&Series",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=115802
 
