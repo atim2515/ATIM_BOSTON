@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,外AXN HD
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,K+SPORT1 HD
+http://live.television4you.xyz:8080/ksport1
 
-#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,外AXN HD
-https://avdmono.do.am/AVD/avdru.m3u
+#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,K+SPORT2
+http://live.television4you.xyz:8080/ksport2
 
-#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,外AXN HD
-https://avdmono.do.am/AVD/peerstv.m3u
+#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,K+KIDS HD
+http://live.television4you.xyz:8080/kkids
 
-#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,外AXN HD
-https://avdmono.do.am/AVD/tbru.m3u
+#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,K+CINE HD
+http://live.television4you.xyz:8080/kcine
 
-#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,外AXN HD
-https://m3url.ru/978844.m3u
+#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“,K+LIFE HD
+http://live.television4you.xyz:8080/klife
