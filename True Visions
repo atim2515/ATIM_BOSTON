@@ -128,7 +128,9 @@
 
 {"name": "True X-ZYTE","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/6yUxSSruYwQZeV62cvAEUvP11HOFzrnimages.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{"name":"True Gaming Up",image:"https://cms.dmpcdn.com/livetv/2021/09/28/3d92d760-200d-11ec-9629-7dc4459cd94d_webp_320.png","url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115621"},
+{"name":"True Gaming Up","image":"https://cms.dmpcdn.com/livetv/2021/09/28/3d92d760-200d-11ec-9629-7dc4459cd94d_webp_320.png","url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-gamingup&api_key=kmf743jnd","referer":"https://ufac4.net/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","desktop": "true"},
+
+{"name":"ESports Thai Leagues","image":"https://cms.dmpcdn.com/livetv/2020/12/28/c8ce2320-48c2-11eb-9b6d-3fdf37c2e48e_320.jpg","url":"https://tv.trueid.net/embed/ESPORTSTHAILEAGUESTV?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
 {"name":"Fashion TV HD",image:"https://i0.wp.com/opportunitycell.com/wp-content/uploads/2021/06/fashion-tv-logo-png-3.png?fit=1200%2C1200&ssl=1","url": "https://www.doofootball.com/dootv/live/fashiontv#main_dootv"},
 
@@ -138,7 +140,9 @@
 
 {"name":"ETV",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0087.png","url": "http://www.etvthai.tv/stream/home.aspx"},
 
-{"name":"BBC Lifestyle",image:"https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png","url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115625"},
+{name:"BBC Earth",image:"https://drive.google.com/uc?export=download&id=120VOhbDHCCV-eN_Wx_vakH6BJOFu_46C","url": " https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8 ", "referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+ 
+{name:"BBC Lifestyle",image:"https://drive.google.com/uc?export=download&id=1k1K9ZDBahqGIcrhrhS4-HSPbHYianSC0",url:"https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8",referer:""},
 
 {"name":"Discovery Asia",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png","url": "https://www.doofootball.com/dootv/live/discoveryasia#main_dootv"},
 
@@ -284,7 +288,7 @@ playInNatPlayer: "true"},
 
 {"name":"NHK World TV",image:"https://cms.dmpcdn.com/livetv/2017/10/18/1476e49b-cf56-4fc0-873b-dc61e4207273.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"},
 
-{"name":"ABC Australia",image:"https://cms.dmpcdn.com/livetv/2019/05/16/0e6eaeb5-2194-49c7-8cda-1bb2deaab230_original.png","url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115605"},
+{"name":"TV5 MONDE ASIE",image:"https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_810/LANDSCAPE_43/aUwEJIgo.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC10/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
 {"name":"Russia Today",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png","url": "https://rt-uk.rttv.com/live/rtuk/playlist.m3u8"},
 
