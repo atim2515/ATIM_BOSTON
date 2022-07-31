@@ -16,12 +16,7 @@
     
 {"name":"TV5 HD",image:"https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png","url": "http://freelive2.inwstream.com:1935/freelive-edge/5hd/playlist.m3u8"},
 
-	{
-				"name":"T-Sports7",
-				image:"https://sv1.picz.in.th/images/2021/11/09/up45aV.jpg",
-				url:"https://www.doofootball.com/dootv/live/tsports#main_dootv","referer": "https://www.doofootball.com/",
-				"info": "TIM TV",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name":"T-Sports7","image":"https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png","url":"https://aisplay.ais.co.th/portal/live?vid=627a27b26dbfe345cfc8a27f","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 				
 {"name":"TPTV",image:"https://i.imgur.com/cpiFbex.png","url": "http://freelive.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8"},
 
@@ -63,7 +58,7 @@
 
 {"name": "HITS MOVIES","image": "https://www.pngkey.com/png/full/303-3038868_the-60s-to-90s-hits.png" ,"url": "https://www.doofootball.com/dootv/live/hitsmovie#main_dootv"},
 
-{"name": "Hits","image": "https://cms.cignal.tv/Upload/Images/Hits.png" ,"url": "http://210.210.155.35:80/dr9445/h/h37/01.m3u8"},
+{name:"HITS",image:"https://www.hitstv.com/img/hits-movies-logo.png",url:"https://www.doofootball.com/dootv/live/hits#main_dootv","referer": "https://wacth.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
 
 {"name": "มังกร","image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png" ,"url": "https://www.dailymotion.com/embed/video/x80wbgj?autoplay=1"},
 
