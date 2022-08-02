@@ -192,6 +192,8 @@
 
 {"name":"JTBC",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN9MhoEhffiwrTeBwBCmVumRQY_CQfNIol7xoms56k2j8IU9bfFWBm8Dix8GGFgRaLJCo&usqp=CAU","url": "https://allanf181.github.io/adaptive-streams/streams/kr/JTBC.m3u8"},
 
+{"name":"JTBC2",image:"https://i.pinimg.com/originals/0d/fd/67/0dfd673fe59e2c64d5d60e1f6451fedd.jpg","url": "https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8"},
+
 {"name":"JTBC4",image:"https://static.tvmaze.com/uploads/images/large_landscape/158/396675.jpg","url": "https://allanf181.github.io/adaptive-streams/streams/kr/JTBC4.m3u8"},
 
 {"name":"JTBC Golf",image:"https://image.jtbcgolf.joins.com/main/jtbcgolf_og_800x400.png","url": "https://allanf181.github.io/adaptive-streams/streams/kr/JTBCGolf.m3u8"},
@@ -233,6 +235,40 @@
 {"name":"tvN SHOW",image:"https://seeklogo.com/images/T/tvn-show-logo-9BD951A062-seeklogo.com.png","url": "https://allanf181.github.io/adaptive-streams/streams/kr/tvNShow.m3u8"},
 
 {"name":"tvN STORY",image:"https://yt3.ggpht.com/ytc/AMLnZu81vtPMG2E7ZimxhTvzVYWgYojo48khk9aHlnf3=s900-c-k-c0x00ffffff-no-rj","url": "https://allanf181.github.io/adaptive-streams/streams/kr/tvNStory.m3u8"},
+
+{"name":"부산MBC (MBC Busan)",image:"https://yt3.ggpht.com/ytc/AMLnZu_HjqVpPYaToelYSL-ufho786TRxxT8QfMKOo4E0w=s900-c-k-c0x00ffffff-no-rj","url": "http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8"},
+
+{"name":"대구 MBC (MBC Daegu)",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpF6MY9g_LQrhcB9nmsfrqYTLXqvxjUdGhYIaJEdl9rAjG2PuHCKcfUBOqWb7_SMP4BXw&usqp=CAU","url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"},
+
+{"name":"대전MBC (MBC Daejeon)",image:"https://yt3.ggpht.com/ytc/AMLnZu_HUzgauu3gh-IPN8PSgZuqarvZEGd1zww_HMDWAw=s176-c-k-c0x00ffffff-no-rj-mo","url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"},
+
+{"name":"JTV SBS",image:"https://upload.wikimedia.org/wikipedia/ko/2/20/JTV_LOGO.jpg","url": "https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8"},
+
+{"name":"K-Baduk",image:"https://www.rapidtvnews.com/images/2017/11/K_Baduk_TV_-_30_Nov_2017.png","url": "https://allanf181.github.io/adaptive-streams/streams/kr/KBaduk.m3u8"},
+
+{"name":"K League 1",image:"https://obs.line-scdn.net/0h6kQStTXMaURsKkGuEc4WE1Z8aitfRnpHCBw4RzBEN3AVE3sUUR8kcUAvY3MSGC4aAhwlIksscnUSSCYaVhwk/w644","url": "https://allanf181.github.io/adaptive-streams/streams/kr/KLeague1.m3u8"},
+
+{"name":"K League 2",image:"https://obs.line-scdn.net/0h6kQStTXMaURsKkGuEc4WE1Z8aitfRnpHCBw4RzBEN3AVE3sUUR8kcUAvY3MSGC4aAhwlIksscnUSSCYaVhwk/w644","url": "https://allanf181.github.io/adaptive-streams/streams/kr/KLeague2.m3u8"},
+
+{"name":"K League 3",image:"https://obs.line-scdn.net/0h6kQStTXMaURsKkGuEc4WE1Z8aitfRnpHCBw4RzBEN3AVE3sUUR8kcUAvY3MSGC4aAhwlIksscnUSSCYaVhwk/w644","url": "https://allanf181.github.io/adaptive-streams/streams/kr/KLeague3.m3u8"},
+
+{"name":"경상MBC (MBC Gyeongnam Changwon)",image:"https://kmug.co.kr/data/file/demand/thumb-data_demand_MBC_%EA%B2%BD%EB%82%A8_760x460.png","url": "https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8"},
+
+{"name":"목포 MBC Mokpo",image:"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/yxdpzk4d0ljbbw3zlr7r","url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8"},
+
+{"name":"Professional Baseball 1",image:"https://o.qoo-img.com/ggpht/Yho-JfRmcOHGHxLlwa17pEt-XFyu-0_77MT2mZrQlTJ_Z67xSF56DN5E87ZKdRVeZIky?h=144","url": "https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball1.m3u8"},
+
+{"name":"Professional Baseball 2",image:"https://o.qoo-img.com/ggpht/Yho-JfRmcOHGHxLlwa17pEt-XFyu-0_77MT2mZrQlTJ_Z67xSF56DN5E87ZKdRVeZIky?h=144","url": "https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball2.m3u8"},
+
+{"name":"Professional Baseball 3",image:"https://o.qoo-img.com/ggpht/Yho-JfRmcOHGHxLlwa17pEt-XFyu-0_77MT2mZrQlTJ_Z67xSF56DN5E87ZKdRVeZIky?h=144","url": "https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball3.m3u8"},
+
+{"name":"Professional Baseball 4",image:"https://o.qoo-img.com/ggpht/Yho-JfRmcOHGHxLlwa17pEt-XFyu-0_77MT2mZrQlTJ_Z67xSF56DN5E87ZKdRVeZIky?h=144","url": "https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball4.m3u8"},
+
+{"name":"Professional Baseball 5",image:"https://o.qoo-img.com/ggpht/Yho-JfRmcOHGHxLlwa17pEt-XFyu-0_77MT2mZrQlTJ_Z67xSF56DN5E87ZKdRVeZIky?h=144","url": "https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball5.m3u8"},
+
+{"name":"skySports",image:"https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt","url": "https://allanf181.github.io/adaptive-streams/streams/kr/SkySports.m3u8"},
+
+{"name":"TBC SBS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Daegu_Broadcasting_Corporation.svg/1200px-Daegu_Broadcasting_Corporation.svg.png","url": "http://221.157.125.239:1935/live/psike/playlist.m3u8"},
 
 {"name":"Honey TV",image:"https://www.media24.com/wp-content/uploads/2021/03/honeylogo5.png","url": "https://allanf181.github.io/adaptive-streams/streams/kr/HoneyTV.m3u8"},
 
