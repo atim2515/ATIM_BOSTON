@@ -1,9 +1,24 @@
 #EXTM3U
 
-#EXTINF:-0 group-title="GoodTV"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113190222khongdee.png",
-KhongDee
-#EXTVLCOPT:http-referrer=https://wacth.tv
+#EXTINF:-1 group-title="CABLE TV (TH)", REAL METRO HD
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv41_RealMetro./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA2OjIyIEFNJmhhc2hfdmFsdWU9NEM3dGJ5TW90Y0llM1piUm9vNnBidz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMSZpZD1jaF8zNTIxMA==
+
+#EXTINF:-1 group-title="CABLE TV (TH)", KHONGDEE HD
+#EXTVLCOPT:http-referrer=https://wacth.tv/
 https://mediasv.online/stream_live/goodtv37_KhongDee./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjQyIEFNJmhhc2hfdmFsdWU9L0Y5bkRYSGtrSFFCK2dwVHl6alpPQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF81Njk4MQ==
+
+#EXTINF:-1 group-title="CABLE TV (TH)", NEW EXPLORER HD
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjIxIEFNJmhhc2hfdmFsdWU9eUx2b21vQkFmK0NGbXNURE45eThEZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zNCZpZD1jaF85NDIwNA==
+
+#EXTINF:-1 group-title="CABLE TV (TH)", BXCITE HD
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA4OjU5IEFNJmhhc2hfdmFsdWU9Q0JCTHptdXhENVlYeFNlQ0pLczFlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF81NDIyNg==
+
+#EXTINF:-1 group-title="CABLE TV (TH)", NEXT KID
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjU1OjA3IEFNJmhhc2hfdmFsdWU9YTQxOE56cUhTSFN5RHd2dkt6ZVpXQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF81NzA4Mw==
 
 #EXTINF:-0 group-title="GoodTV"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113190144busaba.png",Busaba
 #EXTVLCOPT:http-referrer=https://wacth.tv
@@ -14,6 +29,7 @@ https://mediasv.online/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2
 https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjEwOjMwIEFNJmhhc2hfdmFsdWU9TmNCWEJjRmt0Njh4MEFjWSttc0xJUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF81MzgyNQ==
 
 #EXTINF:-0 group-title="GoodTV"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113190044thainess.png",ThaiNess
+#EXTVLCOPT:http-referrer=https://wacth.tv
 https://mediasv.online/stream_live/goodtv40_ThaiNess./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA2OjAwIEFNJmhhc2hfdmFsdWU9T3pEdkx1K21INnBXMm1XVTUyL2ZrUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF81NzY3OQ==
 
 #EXTINF:-0 group-title="GoodTV"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185953realmetro.png",RealMetro
@@ -25,6 +41,7 @@ https://mediasv.online/stream_live/goodtv41_RealMetro./playlist.m3u8?wmsAuthSign
 https://mediasv.online/stream_live/goodtv42_Sweet./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjUxOjUwIEFNJmhhc2hfdmFsdWU9Z1dPQzRpeTBTM0Y5YnNoL3hVYUVNQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF8zOTM1OQ==
 
 #EXTINF:-0 group-title="GoodTV"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185853heart.png",Heart
+#EXTVLCOPT:http-referrer=https://wacth.tv
 https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjE5IEFNJmhhc2hfdmFsdWU9VzJ3aXZFWUUrWkZGeWM4M1ZzNlBVUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF80NTYxMg==
 
 #EXTINF:-0 group-title="GoodTV"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185823hero.png",Hero
@@ -40,38 +57,19 @@ https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign
 https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA3OjU1IEFNJmhhc2hfdmFsdWU9SndOUUdOMjhIUHlqWTcrcHlCam0vQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMiZpZD1jaF83NTQ1MA==
 
 #EXTINF:-0 group-title="GoodTV"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185617bxcite.png",BXcite
+#EXTVLCOPT:http-referrer=https://wacth.tv
 https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA4OjU5IEFNJmhhc2hfdmFsdWU9Q0JCTHptdXhENVlYeFNlQ0pLczFlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF81NDIyNg==
 
 #EXTINF:-0 group-title="GoodTV"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png",MYSCI
+#EXTVLCOPT:http-referrer=https://wacth.tv
 https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjA5IEFNJmhhc2hfdmFsdWU9NFRxTzVoS2YvNnNJSUoxUExScmtvQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF82MDQxNQ==
 
 #EXTINF:-0 group-title="GoodTV"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185502new-explorer.png",New_Explorer
+#EXTVLCOPT:http-referrer=https://wacth.tv
 https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjIxIEFNJmhhc2hfdmFsdWU9eUx2b21vQkFmK0NGbXNURE45eThEZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zNCZpZD1jaF85NDIwNA==
 
-#EXTINF:-0 group-title="CABLE TV (TH)", MYSCI HD 
-https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjA5IEFNJmhhc2hfdmFsdWU9NFRxTzVoS2YvNnNJSUoxUExScmtvQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF82MDQxNQ== 
-
-#EXTINF:-0 group-title="CABLE TV (TH)", REAL METRO HD 
-https://mediasv.online/stream_live/goodtv41_RealMetro./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA2OjIyIEFNJmhhc2hfdmFsdWU9NEM3dGJ5TW90Y0llM1piUm9vNnBidz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMSZpZD1jaF8zNTIxMA== 
-
-#EXTINF:-0 group-title="CABLE TV (TH)", KHONGDEE HD 
-https://mediasv.online/stream_live/goodtv37_KhongDee./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjQyIEFNJmhhc2hfdmFsdWU9L0Y5bkRYSGtrSFFCK2dwVHl6alpPQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zMCZpZD1jaF81Njk4MQ==
-
-#EXTINF:-0 group-title="CABLE TV (TH)", NEW EXPLORER HD  
-https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA5OjIxIEFNJmhhc2hfdmFsdWU9eUx2b21vQkFmK0NGbXNURE45eThEZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zNCZpZD1jaF85NDIwNA== 
-
-#EXTINF:-0 group-title="CABLE TV (TH)", BXCITE HD  
-https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjA4OjU5IEFNJmhhc2hfdmFsdWU9Q0JCTHptdXhENVlYeFNlQ0pLczFlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF81NDIyNg==
-
-#EXTINF:-0 group-title="CABLE TV (TH)", CARTOON NETWORK 
-https://streaming.livescorethai.net/iptv/sd-cartoonnetworkeng.stream/chunks.m3u8 
-
-#EXTINF:-0 group-title="CABLE TV (TH)", TRUE SPARK JUMP 
-https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r7/truesparkjump/playlist.m3u8
-
-#EXTINF:-0 group-title="CABLE TV (TH)", NEXT KID  
+#EXTINF:-0 group-title="GoodTV"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185343nextkid.jpeg",nextKid
+#EXTVLCOPT:http-referrer=https://wacth.tv
 https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjU1OjA3IEFNJmhhc2hfdmFsdWU9YTQxOE56cUhTSFN5RHd2dkt6ZVpXQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF81NzA4Mw==
-
-
 
 
