@@ -375,7 +375,13 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "Pluto TV Movies England","image": "https://www.jordanharbinger.com/wp-content/uploads/2021/08/pluto-tv.png" ,"url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId="},
 
-{"name": "True Movie Hits","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F379fa28c-251c-46d6-a1dd-e008c2ec54d0.png&w=320&h=240" ,"url": "https://www.doofootball.com/dootv/live/moviehits#main_dootv"},
+{
+"name": "True Movie Hits",
+"image": "http://tvsmagazine.com/images/channels/sm_057.jpg",
+"url": "https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE0OjMwIEFNJmhhc2hfdmFsdWU9dDRQMzFpQWhmcElMMFlab0IxWUFGUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNCZpZD1jaF8yNDE0Nw==",
+"referer": "https://wacth.tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "True Series","image": "https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" ,"url": "https://www.doofootball.com/dootv/live/trueseries#main_dootv"},
 
@@ -385,7 +391,9 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "TVN Movies","image": "https://mncvision.id/userfiles/image/channel/channel_109.png" ,"url": "http://210.210.155.35:80/dr9445/h/h21/01.m3u8"},
 
-{"name": "CCM (Thai)","image": "https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" ,"url": "http://uhdtv.one:2095/Jh67lk78frs/Tgf67yhK8790/115636"},
+{"name": "CCM","image": "http://tvsmagazine.com/images/channels/sm_CMC.png","url": "https://bit.ly/3JilaEG",
+"referer": "https://wacth.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"},
 
 {"name": "CCM (Chinese)","image": "https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" ,"url": "http://210.210.155.35/qwr9ew/s/s31/index.m3u8"},
 
