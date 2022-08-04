@@ -88,6 +88,13 @@
 
 {"name":"NHK World TV",image:"https://cms.dmpcdn.com/livetv/2017/10/18/1476e49b-cf56-4fc0-873b-dc61e4207273.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"},
 
+{      
+        "name": "France24",  
+        "image": "https://images.livebox.co/images/tv/png/sd-france24.png",  
+        "url": "http://61.19.242.134/feed/202105171329/LC34/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+
     { 
 				"name": "บุษบาคาเฟ่",
 				"image": "https://wacth.officebk.co/uploads/tv_image/20220113190144busaba.png",
