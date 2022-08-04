@@ -72,6 +72,10 @@
 
 {"name":"3BB Sport one",image:"https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBSportsOne.png","url": "https://www.doofootball.com/dootv/live/3bbsport"},
 
+#EXTINF:-1 tvg-id="EDGE Sport" tvg-name="EDGE Sport" tvg-logo="https://i.imgur.com/Vql6RaF.png",EDGE Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
 {"name":"DLTV 1",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV1/header_webboard.png","url": "https://www.dltv.ac.th/streaming"},
 
 {"name":"DLTV 2",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV2/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV2"},
