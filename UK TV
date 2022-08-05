@@ -14,8 +14,6 @@
 
 {"name":"TJC",image:"http://cdn.teleon.tv/logo/tjc-uk2.png","url": "http://player.teleon.tv/us/channel/tjc-uk"},
 
-{"name":"BBC CBEEBIES",image:"https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png","url": "https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8"},
-
 {"name":"Kerrang!",image:"https://images-na.ssl-images-amazon.com/images/I/51T6rZsXuIL.png","url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/"},
 
 {"name":"4Music",image:"https://storage.googleapis.com/freesat-production-assets/styles/body_image_max/cloud-storage/inline-images/4music%20logo.png?itok=oLl0t5AZ","url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/"},
@@ -62,13 +60,15 @@
 
 {"headers":{},"image":"https://media.info/i/lf/0/1546303327/1161.png","imageScale":"fitCenter","name":"Sky Sports Racing","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-attheraces.stream/chunks.m3u8"},
 
-{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/sky-sporta-boxoffice.png","imageScale":"fitCenter","name":"Sky Sport Box Office","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-skyboxoffice.stream/playlist.m3u8"},
-
 {"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-fi.png","imageScale":"fitCenter","name":"Sky Sport F1","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8"},
 
 {"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-cricket.png","imageScale":"fitCenter","name":"Sky Sports Cricket","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/chunks.m3u8"},
 
 {"headers":{},"image":"https://images.ctfassets.net/2pwalfr1ykol/5X1P8UleXT6p7Vjimtq4fi/847277c50f4c3a3a473c504840f9d0e6/premier-sports-1.jpg?h=250","imageScale":"fitCenter","name":"Premier Sports 1","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png","imageScale":"fitCenter","name":"EuroSport 1","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-eurosport.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/440px-Eurosport_2_Logo_%282011-2015%29.svg.png","imageScale":"fitCenter","name":"EuroSport 2","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8"},
 
 {"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/sky-news.png","imageScale":"fitCenter","name":"Sky News","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8"},
 
@@ -104,7 +104,11 @@
 
 {"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/bbc-news.png","imageScale":"fitCenter","name":"BBC News","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/chunks.m3u8"},
 
-{"headers":{},"image":"https://rxtvinfo.com/wp-content/uploads/2022/04/rx-cbbc-logo-2022.png","imageScale":"fitCenter","name":"CBBC","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-bbc3hd.stream/chunks.m3u8"},
+{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/bbc-one.png","imageScale":"fitCenter","name":"BBC One","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-bbc1hd.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/bbc-two.png","imageScale":"fitCenter","name":"BBC Two","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-bbc2hd.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_%28television_channel%29_2008_logo.svg/1280px-BBC_Three_%28television_channel%29_2008_logo.svg.png","imageScale":"fitCenter","name":"BBC Three","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-bbc3hd.stream/chunks.m3u8"},
 
 {"headers":{},"image":"https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1200px-RT%C3%892_logo.svg.png","imageScale":"fitCenter","name":"RTE Two","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/ie-rte2.stream/chunks.m3u8"},
 
@@ -148,11 +152,33 @@
 
 {"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/gold.png","imageScale":"fitCenter","name":"Gold","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-gold.stream/chunks.m3u8"},
 
-{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/hln.png","imageScale":"fitCenter","name":"HLN","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/sd-hln.stream/chunks.m3u8"},
-
 {"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/inside-crime-investigation.png","imageScale":"fitCenter","name":"Crime+Investigation","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-ci.stream/chunks.m3u8"},
 
 {"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/id-investigation-discovery.png","imageScale":"fitCenter","name":"Investigation Discovery","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-id.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/hbo.png","imageScale":"fitCenter","name":"HBO","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/cartoon-network.png","imageScale":"fitCenter","name":"Cartoon Network","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/sd-cartoonnetworkeng.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/boomerang.png","imageScale":"fitCenter","name":"Boomerang","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/golf.png","imageScale":"fitCenter","name":"NBC Golf","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/hd-golfeng.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png","imageScale":"fitCenter","name":"FOX Sports 1","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/us-foxsports1.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png","imageScale":"fitCenter","name":"FOX Sports 2","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/nat-geo-wild.png","imageScale":"fitCenter","name":"National Geographic Wild","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/bloomberge-relevision.png","imageScale":"fitCenter","name":"Bloomberg Asia","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/sd-bloomberg.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://theident.gallery/thumbs/realityxtra_2022_REALITYXTRA-2022-ID-10S-1-300622-2.webp","imageScale":"fitCenter","name":"RealityXtra","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-cbsdrama.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/fox-news-channel.png","imageScale":"fitCenter","name":"FOX News","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-foxnews.stream/chunks.m3u8"},
+
+{"headers":{},"image":"https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1069.1590582252.png","imageScale":"fitCenter","name":"Sky History","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-history.stream/chunks.m3u8"},
+
+
 
 ]
 }
