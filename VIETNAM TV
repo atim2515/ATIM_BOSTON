@@ -52,7 +52,14 @@
 
 {"name":"MAN",image:"https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png","url": "https://cutt.ly/HaNoiIPTV-MAN"},
 
-{"name":"WOMAN HD",image:"https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/WOMAN%20HD.png","url": "https://cutt.ly/HaNoiIPTV-WOMAN"},
+{
+"name": "Dr. Fit HD","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dr.%20Fit%20HD.png",
+"url":"https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8",
+"referer": "http://sctvonline.vn/",
+"info": " TIM TV ",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
 
 {"name":"SBS HD • TRUYỀN HÌNH THỦ ĐÔ",image:"https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20HD.png","url": "https://cutt.ly/Ha_Noi_IPTV_2-SBS_HD-Truyen_hinh_Thu_do"},
 
