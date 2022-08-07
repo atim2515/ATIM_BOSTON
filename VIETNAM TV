@@ -12,51 +12,6 @@
 
 {"name":"Da Nang TV2",image:"https://img.hplus.com.vn/728x409/banner/2018/06/05/788942-DN2.png","url": "http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8"},
 
-{
-"name": "SCTV1 HD","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV1%20HD.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s2/index.m3u8",
-"referer": "http://sctvonline.vn/",
-"info": " TIM TV ",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "SCTV2 HD","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV2%20HD.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s2/index.m3u8",
-"referer": "http://sctvonline.vn/",
-"info": " TIM TV ",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "SCTV3 - SeeTV","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV3%20-%20SeeTV.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s2/index.m3u8",
-"referer": "http://sctvonline.vn/",
-"info": " TIM TV ",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "SCTV4 HD","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV4%20HD.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4/s2/index.m3u8",
-"referer": "http://sctvonline.vn/",
-"info": " TIM TV ",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "SCTV5 HD","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV5%20-%20SCJ%20Life%20on.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/s2/index.m3u8",
-"referer": "http://sctvonline.vn/",
-"info": " TIM TV ",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
-},
-
 {"name":"SCTV 6 HD",image:"https://cdn.fing.io/images/isp/VN/logo/sctv_logo.png","url": "http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8"},
 
 {
