@@ -69,6 +69,60 @@
 "playInNatPlayer": "true"
 },
 
+{
+"name": "ON Phim Việt","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab2%20-%20ON%20Phim%20Vi%E1%BB%87t.png",
+"url":"https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8",
+"referer": "http://sctvonline.vn/",
+"info": " TIM TV ",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ON Cine","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20ON%20Cine.png",
+"url":"https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8",
+"referer": "http://sctvonline.vn/",
+"info": " TIM TV ",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "VTVCab7","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab7%20HD.png",
+"url":"https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8",
+"referer": "http://sctvonline.vn/",
+"info": " TIM TV ",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "VTVCab8 - BiBi","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab8%20-%20BiBi.png",
+"url":"https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8",
+"referer": "http://sctvonline.vn/",
+"info": " TIM TV ",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "VTVCab15","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab15%20-%20M%20CHANNEL%20HD.png",
+"url":"https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8",
+"referer": "http://sctvonline.vn/",
+"info": " TIM TV ",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "VTVCab17 - Yeah1 TV","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab17%20-%20Yeah1%20TV.png",
+"url":"https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8",
+"referer": "http://sctvonline.vn/",
+"info": " TIM TV ",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
 {"name":"In The BOX Channel",image:"https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png","url": "https://cutt.ly/HaNoiIPTV-In_The_Box_Channel"},
 
 {
