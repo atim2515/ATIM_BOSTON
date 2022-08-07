@@ -57,15 +57,6 @@
 "playInNatPlayer": "true"
 },
 
-{
-"name": "SCTV15 HD","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s2/index.m3u8",
-"referer": "http://sctvonline.vn/",
-"info": " TIM TV ",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
-},
-
 {"name":"SCTV 6 HD",image:"https://cdn.fing.io/images/isp/VN/logo/sctv_logo.png","url": "http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8"},
 
 {
