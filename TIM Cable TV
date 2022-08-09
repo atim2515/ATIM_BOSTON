@@ -331,5 +331,18 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name":"Retro Crush",image:"https://i.pcmag.com/imagery/reviews/03Qx3rokUFhvyC5YyDnvqVT-1.1586275702.fit_lim.size_1050x591.png","url": "https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush"},
 
+{"name": "True Spark Jump","image": "https://images.livebox.co/images/tv/png/sd-sparkjump.png","url": "https://bit.ly/3Q7eU4V",
+"referer": "https://https://wacth.tv/","userAgent": "exoplayer_video"},
+ 
+{name:"True Spark Play",image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2Ffc9ea58f-72b7-44a4-b27b-3179df6c8445.png&w=320&h=240",url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115784&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+{name:"DreamWorks",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png",url:"http://103.174.190.72:25461/001122/001122/4384"},
+
+{"name":"ROCK ENTERTAINMENT",image:"https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_320.png","url": "https://www.doofootball.com/dootv/live/blueant#main_dootv"},
+
+{"name":"Rock Extreme",image:"https://cms.dmpcdn.com/livetv/2021/08/31/12db2650-0a7b-11ec-8b33-05dadd6cbd44_original.png","url": "https://www.doofootball.com/dootv/live/blueantextream#main_dootv"},
+
+{"name": "AXN","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
+
 ]
 }
