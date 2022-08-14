@@ -1,0 +1,51 @@
+{
+"name":"CABLE TV",
+"author": "TIM",
+"image": "https://www.iriefm.net/storage/cable-tv.png",
+"url": "",
+
+
+"groups":
+[
+{"name":"Distro TV","image":"https://play-lh.googleusercontent.com/v3QIzknOCowrsMEhQCnggLSmY7JLwIz_te01eVdlU-EHCXGWmzUjehM8fcYZy2XqptA",
+stations:[
+
+{"name":"Hard Knocks",image:"https://i0.wp.com/clark.com/wp-content/uploads/2022/06/DistroTV-1.jpg?resize=800%2C420&ssl=1","url": "https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8"},
+
+{"name":"Humor Mill",image:"https://i0.wp.com/clark.com/wp-content/uploads/2022/06/DistroTV-1.jpg?resize=800%2C420&ssl=1","url": "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8"},
+
+{"name":"Newsmax",image:"https://i0.wp.com/clark.com/wp-content/uploads/2022/06/DistroTV-1.jpg?resize=800%2C420&ssl=1","url": "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8"},
+
+{"name":"TD Ameritrade Network",image:"https://i0.wp.com/clark.com/wp-content/uploads/2022/06/DistroTV-1.jpg?resize=800%2C420&ssl=1","url": "https://tdameritrade-distro.amagi.tv/playlist.m3u8"},
+
+{"name":"The Film Detective",image:"https://i0.wp.com/clark.com/wp-content/uploads/2022/06/DistroTV-1.jpg?resize=800%2C420&ssl=1","url": "https://tfd-distro.amagi.tv/index.m3u8"},
+
+{"name":"World Poker Tour",image:"https://i0.wp.com/clark.com/wp-content/uploads/2022/06/DistroTV-1.jpg?resize=800%2C420&ssl=1","url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8"},]},
+
+
+{"name":"Redbox TV","image":"https://play-lh.googleusercontent.com/3toaL3P4FjLBuz-yVAWzl-o8NelBXbt0Dy28hmIywUmj8eRTyFwgbqsr4LcVHBLsB48",
+stations:[
+
+{"name":"CONtv",image:"https://lh3.googleusercontent.com/34WdU6L5SbwVx9tYLQ38jcgmjH25lav4ZlqOfs2GVT6kh3RbA1k1xtVZJRS0UFxTdLM","url": "https://contv-redbox-us-ingest.cinedigm.com/playlist.m3u8"},
+
+{"name":"Docurama",image:"https://lh3.googleusercontent.com/34WdU6L5SbwVx9tYLQ38jcgmjH25lav4ZlqOfs2GVT6kh3RbA1k1xtVZJRS0UFxTdLM","url": "https://docurama-redbox-us-ingest.cinedigm.com/playlist.m3u8"},
+
+{"name":"Johnny Carson TV",image:"https://lh3.googleusercontent.com/34WdU6L5SbwVx9tYLQ38jcgmjH25lav4ZlqOfs2GVT6kh3RbA1k1xtVZJRS0UFxTdLM","url": "https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8"},
+
+{"name":"MST3K",image:"https://lh3.googleusercontent.com/34WdU6L5SbwVx9tYLQ38jcgmjH25lav4ZlqOfs2GVT6kh3RbA1k1xtVZJRS0UFxTdLM","url": "https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8"},
+
+{"name":"Pac 12 Insider",image:"https://lh3.googleusercontent.com/34WdU6L5SbwVx9tYLQ38jcgmjH25lav4ZlqOfs2GVT6kh3RbA1k1xtVZJRS0UFxTdLM","url": "https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8"},
+
+{"name":"Redbox 1: Spotlight",image:"https://lh3.googleusercontent.com/34WdU6L5SbwVx9tYLQ38jcgmjH25lav4ZlqOfs2GVT6kh3RbA1k1xtVZJRS0UFxTdLM","url": "https://spotlight-redbox.amagi.tv/playlist.m3u8"},
+
+{"name":"Redbox 2: Comedy",image:"https://lh3.googleusercontent.com/34WdU6L5SbwVx9tYLQ38jcgmjH25lav4ZlqOfs2GVT6kh3RbA1k1xtVZJRS0UFxTdLM","url": "https://comedy-redbox.amagi.tv/playlist.m3u8"},
+
+{"name":"Redbox 3: Rush",image:"https://lh3.googleusercontent.com/34WdU6L5SbwVx9tYLQ38jcgmjH25lav4ZlqOfs2GVT6kh3RbA1k1xtVZJRS0UFxTdLM","url": "https://rush-redbox.amagi.tv/playlist.m3u8"},
+
+{"name":"Shout! Factory TV",image:"https://lh3.googleusercontent.com/34WdU6L5SbwVx9tYLQ38jcgmjH25lav4ZlqOfs2GVT6kh3RbA1k1xtVZJRS0UFxTdLM","url": "http://shoutfactory-redbox.amagi.tv/playlist.m3u8"},
+
+{"name":"Tastemade France",image:"https://lh3.googleusercontent.com/34WdU6L5SbwVx9tYLQ38jcgmjH25lav4ZlqOfs2GVT6kh3RbA1k1xtVZJRS0UFxTdLM","url": "https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8"},]
+    
+},
+]
+}
