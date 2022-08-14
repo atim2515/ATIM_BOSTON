@@ -1,13 +1,13 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png",BOX HITS HD
-http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
+https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png",BOX HITS HD
-https://epg.pm/stream/ec0e1d541e06ac92367eac8d3f11fa8594a5cb43ed3a34970934ea12696a5482.m3u8
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png",BOX HITS HD
-http://194.163.179.246/slovenci/filmski/foxmovies.m3u8
+https://a500d902bdf94ea69ad343720add6036.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_littlstar/master.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png",BOX HITS HD
-https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
