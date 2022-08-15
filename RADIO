@@ -57,6 +57,28 @@
 "referer": "https://radio.tvjaa.com/"
 },
 
+{
+name:"City Radio Pattaya",
+image:"https://www.cityradiopattaya.com/wp-content/uploads/2022/01/linerichmessage-2022-01-07T153638.696-1.jpg",
+url:"https://plus.onair.network/radio/8020/ctmobile.mp3",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Goodtime Radio",
+image:"https://www.goodtimeradio.fm/wp-content/themes/goodtimeradio_phase2/assets/images/goodtime_sqaure_logo.png",
+url:"https://pulltest.bbtvnewmedia.com/test/8b35f16a01811000147b5a4c00000000/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Hitz 955",
+image:"https://hitz955.teroradio.com/assets/images/logo-top.png",
+url:"https://18313.live.streamtheworld.com:443/HITZ_955AAC_128_SC?dist=TRITON-WEB&pname=TDSdk&ttag=work%253A",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
 {"name":"MET 107 FM",image:"https://www.met107.fm/assets/images/icon/logo-transparent.png","url": "https://www.met107.fm/"},
 
 {"name":"Active FM 99 คลื่นเมืองไทยแข็งแรง",image:"https://www.khaosod.co.th/wpapp/uploads/2019/09/1508902881993-960x0.jpg","url": "https://fm99activeradio.mcot.net/index"},
