@@ -351,21 +351,45 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "Film","image": "https://uploads-eu-west-1.insided.com/tmobile-nl/attachment/dd86effd-5146-4a56-a0b3-5f014aa4451d.png" ,"url": "https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8"},
 
-{"name": "HBO LATINO","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png" ,"url": "https://telefullenvivo.com/ver-canal-hbo-en-vivo-online/"},
+{"name":"Star Channel",image:"https://verlatelevision.com/logos/22.jpg","url": "https://verlatelevision.com/star-channel-en-vivo-online/"},
 
-{"name": "HBO 2 LATINO","image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" ,"url": "https://telefullenvivo.com/ver-canal-hbo-2-en-vivo-online/"},
+{"name":"HBO",image:"https://verlatelevision.com/logos/46.jpg","url": "https://verlatelevision.com/hbo-en-vivo-online/"},
 
-{"name": "HBO FAMILY LATINO","image": "https://static.wikia.nocookie.net/logopedia/images/9/93/HBO_Family_Asia.svg/revision/latest/scale-to-width-down/250?cb=20201126025523" ,"url": "https://telefullenvivo.com/ver-canal-hbo-family-en-vivo-online/"},
+{"name":"HBO 2",image:"https://verlatelevision.com/logos/47.jpg","url": "https://verlatelevision.com/hbo-2-en-vivo-online/"},
 
-{"name": "HBO XTREME LATINO","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" ,"url": "https://telefullenvivo.com/ver-canal-hbo-xtreme-en-vivo-online/"},
+{"name":"HBO Plus",image:"https://verlatelevision.com/logos/50.jpg","url": "https://verlatelevision.com/hbo-plus-en-vivo-online/"},
 
-{"name": "HBO MUNDI LATINO","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" ,"url": "https://telefullenvivo.com/ver-canal-hbo-mundi-en-vivo-online/"},
+{"name":"HBO Family",image:"https://verlatelevision.com/logos/48.jpg","url": "https://verlatelevision.com/hbo-family-en-vivo-online/"},
 
-{"name": "HBO POP LATINO","image": "https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" ,"url": "https://telefullenvivo.com/ver-canal-hbo-pop-en-vivo-online/"},
+{"name":"HBO Signature",image:"https://verlatelevision.com/logos/49.jpg","url": "https://verlatelevision.com/hbo-signature-en-vivo-online/"},
 
-{"name": "GOLDEN","image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" ,"url": "https://telefullenvivo.com/ver-canal-golden-en-vivo-online/"},
+{"name":"HBO Xtreme",image:"https://verlatelevision.com/logos/52.jpg","url": "https://verlatelevision.com/hbo-xtreme-en-vivo-online/"},
 
-{"name": "GOLDEN EDGE","image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png" ,"url": "https://telefullenvivo.com/ver-canal-golden-edge-en-vivo-online/"},
+{"name":"HBO Mundi",image:"https://verlatelevision.com/logos/51.jpg","url": "https://verlatelevision.com/hbo-mundi-en-vivo-online/"},
+
+{"name":"HBO Pop",image:"https://verlatelevision.com/logos/53.jpg","url": "https://verlatelevision.com/hbo-pop-en-vivo-online/"},
+
+{"name":"Cinecanal",image:"https://verlatelevision.com/logos/31.jpg","url": "https://verlatelevision.com/cinecanal-en-vivo-online/"},
+
+{"name":"TNT",image:"https://verlatelevision.com/logos/28.jpg","url": "https://verlatelevision.com/tnt-en-vivo-online/"},
+
+{"name":"TNT Series",image:"https://verlatelevision.com/logos/25.jpg","url": "https://verlatelevision.com/tnt-series-en-vivo-online/"},
+
+{"name":"TCM",image:"https://verlatelevision.com/logos/37.jpg","url": "https://verlatelevision.com/tcm-en-vivo-online/"},
+
+{"name":"Syfy",image:"https://verlatelevision.com/logos/1.jpg","url": "https://verlatelevision.com/syfy-en-vivo-online/"},
+
+{"name":"Space",image:"https://verlatelevision.com/logos/32.jpg","url": "https://verlatelevision.com/canal-space-en-vivo-online/"},
+
+{"name":"Comedy Central",image:"https://verlatelevision.com/logos/54.jpg","url": "https://verlatelevision.com/comedy-central-en-vivo-online/"},
+
+{"name":"Sony Channel",image:"https://verlatelevision.com/logos/26.jpg","url": "https://verlatelevision.com/canal-sony-en-vivo-online/"},
+
+{"name":"TBS",image:"https://verlatelevision.com/logos/tbs.png","url": "https://verlatelevision.com/canal-tbs-en-vivo-online/"},
+
+{"name":"Studio Universal",image:"https://verlatelevision.com/logos/33.jpg","url": "https://verlatelevision.com/canal-studio-universal-en-vivo-online/"},
+
+{"name":"Universal TV",image:"https://verlatelevision.com/logos/36.jpg","url": "https://verlatelevision.com/canal-universal-channel-en-vivo-online/"},
 
 {"name": "Spydar TV","image": "https://image.roku.com/developer_channels/prod/71ab9ad5191ecb197dddaf62c5aca47db20cf006bed09c46e17c347e7ba63349.png" ,"url": "https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8"},
 
@@ -505,7 +529,7 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name":"Paramount Network",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXiaxFveyQl6f4hC0nCFRrADYb7mhFf7HOg52V8EfmujEyrOu8VzmsROiUqZwCClbABTw&usqp=CAU","url": "http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137297"},
 
-{"name":"3BB ASIAN",image:"https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png","url": "https://www.doofootball.com/dootv/live/3bbasian"},
+{"name":"3BB ASIAN",image:"https://fiber.3bb.co.th/wp-content/uploads/2021/01/3-logo-3BB-Asian-%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3_370x180.jpg","url": "https://www.doofootball.com/dootv/live/3bbasian"},
 
 {"name": "+HBO","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3vyvzuMmVv1tk5EoTXEjl6W3FNj9o1pSI1MhEUCJf3Q-6xNaJdWLxQVXTVwtic65UZs&usqp=CAU" ,"url": "http://194.163.179.246/slovenci/filmski/hbohd.m3u8"},
 
