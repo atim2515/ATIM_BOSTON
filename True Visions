@@ -116,11 +116,23 @@
 
 {"name": "True Korean More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/truekoreanmore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{"name": "True Asian More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/trueasianmore.jpg","url": "http://103.174.190.72:25461/001122/001122/4367"},
+{"name"          :  "True Asian More",
+"image"          :  "http://tvsmagazine.com/images/channels/sm_158.jpg",
+"url"            :  "https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE1OjU0IEFNJmhhc2hfdmFsdWU9ZWJIWTVKOEh6cmFuQmtDdStUK2p5dz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNSZpZD1jaF84NjI1MA==",
+"referer"        :  "https://wacth.tv/",
+"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
 {"name": "True Series","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/trueseries.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{"name": "CCM","image": "http://tvsmagazine.com/images/channels/sm_CMC.png","url": "http://103.174.190.72:25461/001122/001122/4376"},
+{"name"          :  "CCM",
+"image"          :  "https://freetvdd.com/wp-content/uploads/2019/12/ccm-1.png",
+"url"            :  "https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE1OjIyIEFNJmhhc2hfdmFsdWU9UWNlNy80ck10K3lybFhvS0g5YnhmUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8xODEwOQ==",
+"referer"        :  "https://wacth.tv/",
+"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
 {"name":"MEDIA TV","image":"https://cms.dmpcdn.com/livetv/2021/02/24/cc358130-764d-11eb-9057-2d10fb4d0cf4_320.png","url":"https://tv.trueid.net/embed/MediaTV?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
@@ -229,7 +241,13 @@ playInNatPlayer: "true"
 
 {name:"NICK JR.",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",url:"https://streaming.livescorethai.net/iptv/uk-nickjr.stream/chunks.m3u8","referer":"https://freetvdd.com/"},
 
-{name:"DreamWorks",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png",url:"http://103.174.190.72:25461/001122/001122/4384"},
+{"name"          :  "DreamWorks",
+"image"          :  "https://images.livebox.co/images/tv/png/hd-dreamworks.png",
+"url"            :  "https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjExOjE2IEFNJmhhc2hfdmFsdWU9MWtKYzUvZlZBZFd4RzBhbjh6TUhxdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMiZpZD1jaF82ODQ5NQ==",
+"referer"        :  "https://wacth.tv/",
+"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
 {"name":"True Premier Football HD1",image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png","url": "https://www.doofootball.com/dootv/live/epl1#main_dootv"},
 
@@ -245,9 +263,21 @@ playInNatPlayer: "true"
 
 {"name":"beIN Sports HD 3",image:"https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png","url": "https://www.doofootball.com/dootv/live/bein3#main_dootv"},
 
-{"name":"True Sports HD 1",image:"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png","url": "https://www.dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1/"},
+{"name"          :  "True Sports HD 1",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"            :  "https://streaming.iamtheme.com:30443/cloudstreaming/true-sport-1/playlist.m3u8",
+"referer"        :  "https://ufabetcompany.com/",
+"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
-{"name":"True Sports HD 2",image:"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://www.dooball2you.com/truesporthd2/"},
+{"name"          :  "True Sports HD 2",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"            :  "https://streaming.iamtheme.com:30443/cloudstreaming/true-sport-2/playlist.m3u8",
+"referer"        :  "https://ufabetcompany.com/",
+"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
 {"name"          :  "True Sports HD 3",
 "image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
@@ -285,7 +315,7 @@ playInNatPlayer: "true"
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
 
-{"name":"NBA TV",image:"https://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png","url": "https://www.dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87nbatv/"},
+{"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV.jpg","url": "https://www.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8","referer": "https://www.siammovie-hd.com/"},
 
 {"name"          :  "Golf Channel Thailand",
 "image"          :  "https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=100&h=75",
@@ -294,11 +324,7 @@ playInNatPlayer: "true"
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
 
-{"name":"Golf Channel Thailand HD Plus",
-"image":"https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",
-"url":"https://www.dooball2you.com/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87golf-channel-thailand-2/",
-"referer": "",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","playInNatPlayer": "true"},
+{"name":"Golf Channel Thailand HD Plus","image":"https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png","url":"https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-golf-channel-thailand-2/","referer": "https://freetvdd.com"},
 
 {"name":"Motorvision TV",image:"https://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png","url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"},
 
@@ -319,7 +345,7 @@ playInNatPlayer: "true"},
 
 {"name":"CNN",image:"https://s.isanook.com/hi/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2hpLzAvdWQvMzA3LzE1Mzc1OTcvY25uLmpwZw==.jpg","url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"},
 
-{"name":"BBC World News",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png","url": "https://aqstream.com/news/bbcwn/BBC-World-News"},
+{"name":"BBC World News","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png","url":"https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/playlist.m3u8","referer": "https://freetvdd.com"},
 
 {"name":"CNBC",image:"https://logowik.com/content/uploads/images/cnbc4159.jpg","url": "http://ott-cdn.ucom.am/s65/index.m3u8"},
 
