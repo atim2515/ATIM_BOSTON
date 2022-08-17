@@ -177,9 +177,21 @@ playInNatPlayer: "true"},
 
 {"name":"beIN Sports HD 3",image:"https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png","url": "https://www.doofootball.com/dootv/live/bein3#main_dootv"},
 
-{"name":"True Sports HD 1",image:"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png","url": "https://www.dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1/"},
+{"name"          :  "True Sports HD 1",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"            :  "https://streaming.iamtheme.com:30443/cloudstreaming/true-sport-1/playlist.m3u8",
+"referer"        :  "https://ufabetcompany.com/",
+"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
-{"name":"True Sports HD 2",image:"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png","url": "https://www.dooball2you.com/truesporthd2/"},
+{"name"          :  "True Sports HD 2",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"            :  "https://streaming.iamtheme.com:30443/cloudstreaming/true-sport-2/playlist.m3u8",
+"referer"        :  "https://ufabetcompany.com/",
+"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
 {"name"          :  "True Sports HD 3",
 "image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
@@ -206,7 +218,7 @@ playInNatPlayer: "true"},
 
 {"name": "WTB","image": "https://cdn1.vectorstock.com/i/thumb-large/28/60/tv-tuner-black-glyph-icon-vector-33392860.jpg" ,"url": "http://203.154.243.89:28010/pa/wtb.ts"},
 
-{"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV-1568x1045.jpg?ezimgfmt=rs:412x659/rscb1/ng:webp/ngcb1" ,"url": "https://www.dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87nbatv/"},
+{"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV.jpg","url": "https://www.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8","referer": "https://www.siammovie-hd.com/"},
 
 {"name"          :  "True TENNIS",
 "image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
@@ -214,6 +226,23 @@ playInNatPlayer: "true"},
 "referer"        :  "https://streaming.livescorethai.net/",
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
+
+{"name"          :  "NFL Network",
+"image"          :  "https://cms.dmpcdn.com/livetv/2020/06/23/db9e0980-b550-11ea-8fac-236a281cd6c5_320.png",
+"url"            :  "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-nfl&api_key=hmcb4rf66f",
+"referer"        :  "https://www.dooball66.com/",
+"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
+
+{"name"          :  "Golf Channel Thailand",
+"image"          :  "https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=100&h=75",
+"url"            :  "https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
+
+{"name":"Golf Channel Thailand HD Plus","image":"https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png","url":"https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-golf-channel-thailand-2/","referer": "https://freetvdd.com"},
 
 {"name": "Hi Sport","image": "http://203.154.243.32/upload/tb2609154689.jpg" ,"url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115709"},
 
