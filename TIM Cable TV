@@ -490,6 +490,15 @@ playInNatPlayer: "true"},
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
 
+{
+"name": "True Sports HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " TIM TV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
 {"name"          :  "True Sports HD 5",
 "image"          :  "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
 "url"            :  "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8",
