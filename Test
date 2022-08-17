@@ -1,388 +1,302 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",CHCO
-https://temp3.isilive.ca/live/CHCOTV/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",PHXTV
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/chunklist.m3u8
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",CHCH
-https://flowcaster1-sh.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w778337051_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTY2MDQ5MDYyMCZpaW1hZTBVQzJhaGFzaD1oS0lmOEQwNzlxNWhLLU43OW8wM1BNZkd0LWZBRG5reE9MVmZySTRua2w0PQ==.m3u8
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",LHCAZTV
-https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/chunklist.m3u8
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",TV4 Bullhead City, AZ
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_001/chunklist.m3u8
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",NYXT
-https://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",UALR TV
-https://vblive-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
-#EXTINF:-1 tvg-id="ClassicRerunsTV.us" status="online",Cuatro
-https://directos.telecinco.es/orilinear01/live/linear01/main/main.isml/web.m3u8?hdnts=st=1659978978~exp=1659979157~acl=/*~hmac=856d6681c51221c51f41f8c4baf3a0ddf15c7afa13cc7e33b26bd7ac85ea5dbc 
+#EXTINF:-1 tvg-id="AndorraTV.ad" status="online",ATV (720p)
+https://videos.rtva.ad/live/rtva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCNews.us" status="online",ABC News (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
-#EXTINF:-1 tvg-id="AdventureSportsNetwork.us" status="error",Adventure Sports Network (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:-1 tvg-id="AdventureSportsNetwork.us" status="error",Adventure Sports Network (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioadventuresportsnetwork/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Ameba.us" status="error",Ameba (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericanClassics.us" status="online",American Classics (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericasTestKitchen.us" status="online",America's Test Kitchen (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ArchitecturalDigest.us" status="online",Architectural Digest (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ArchitecturalDigest.us" status="error",Architectural Digest (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Asylum.us" status="error",Asylum (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="BaebleMusic.us" status="online",Baeble Music (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="BatteryPopXUMO.us" status="online",Battery Pop (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" status="online",Black News Channel (1080p)
-http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" status="online",Black News Channel (1080p)
-https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" status="online",Black News Channel (1080p)
-https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" status="online",Black News Channel (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTelevision.us" status="online",Bloomberg TV US (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="bonappetit.us" status="online",bon appétit (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Cheddar.us" status="online",Cheddar News (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Cheddar.us" status="error",Cheddar News (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
-#EXTINF:-1 tvg-id="ChiveTV.us" status="online",Chive TV (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CineRomantico.us" status="error",Cine Romantico (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Circle.us" status="online",Circle (1080p)
-https://circle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Circle.us" status="online",Circle (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-circle/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Circle.us" status="timeout",Circle (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us" status="online",Comedy Dynamics (1080p)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Complex.us" status="online",Complex (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Complex.us" status="error",Complex (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CONtv.us" status="error",CONtv (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CONtvAnime.us" status="online",CONtv Anime (1080p)
-https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CONtvAnime.us" status="online",CONtv Anime (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Crackle.us" status="online",Crackle (XUMO) (1080p)
-http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Docurama.us" status="error",Docurama (1080p)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Docurama.us" status="error",Docurama (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdocurama/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Docurama.us" status="error",Docurama (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 tvg-id="DoveChannel.us" status="online",Dove Channel (1080p)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:-1 tvg-id="ElectricNow.us" status="online",Electric Now (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
-#EXTINF:-1 tvg-id="eScapesXUMO.us" status="error",eScapes (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us" status="online",FailArmy International (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmHub.us" status="online",Film Hub (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseAction.us" status="error",FilmRise Action (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" status="online",FilmRise Classic TV on Redbox (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" status="error",FilmRise Classic TV (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" status="error",FilmRise Classic TV (432p)
-https://hls.xumo.com/channel-hls/v1/9fe012a9926c4e91/9999400/master.m3u8
-#EXTINF:-1 tvg-id="FilmRiseFamily.us" status="online",FilmRise Family (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseFamily.us" status="error",FilmRise Family (720p)
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseFamily.us" status="error",FilmRise Family (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" status="error",FilmRise Free Movies (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseHellsKitchen.us" status="error",FilmRise Hell's Kitchen (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseMysteries.us" status="error",FilmRise Mysteries (XUMO) (432p)
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" status="error",FilmRise True Crime (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseWestern.us" status="error",FilmRise Western (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FiremanSam.us" status="error",Fireman Sam (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Food52.us" status="online",Food 52 (720p)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Food52.us" status="online",Food 52 (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Food52.us" status="error",Food 52 (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofood52/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" status="online",Fox Weather
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" status="online",Fox Weather
-https://foxweather-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FunnyorDie.us" status="online",Funny or Die (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FunnyorDie.us" status="error",Funny or Die (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
-#EXTINF:-1 tvg-id="FuseEast.us" status="online",Fuse East (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Glamour.us" status="online",Glamour (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Glamour.us" status="error",Glamour (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuglamour/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GlobalGotTalent.us" status="error",Global Got Talent (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GloryKickboxing.us" status="online",Glory Kickboxing (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GoTraveler.us" status="online",Go Traveler (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GQ.us" status="online",GQ (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GQ.us" status="error",GQ (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GravitasMovies.us" status="online",Gravitas Movies (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GravitasMovies.us" status="error",Gravitas Movies (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugravitasmovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" status="error",Hallmark Movies & More (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="HardKnocks.ca" status="online",Hard Knocks (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Hungry.us" status="timeout",Hungry (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="InsightTV.nl" status="timeout",Insight TV (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-insighttv/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Journy.us" status="online",Journy (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us" status="online",Just for Laughs Gags (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us" status="error",Just for Laughs Gags (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
-#EXTINF:-1 tvg-id="kabillion.us" status="online",kabillion (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="KidGenius.us" status="error",Kid Genius (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukidgenius/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="KocowaClassic.us" status="error",Kocowa Classic (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="LatidoMusic.us" status="error",Latido Music (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8
-#EXTINF:-1 tvg-id="LawCrime.us" status="online",Law & Crime (720p) [Not 24/7]
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 tvg-id="LawCrime.us" status="error",Law & Crime (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziolawandcrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="LawCrimeXUMO.us" status="online",Law & Crime (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="LIVExLIVE.us" status="online",LIVExLIVE (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumolivexlive/CDN/master.m3u8
-#EXTINF:-1 tvg-id="MaverickBlackCinema.us" status="online",Maverick Black Cinema (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Moovimex.mx" status="online",Moovimex (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Moovimex.mx" status="error",Moovimex (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNow.us" status="online",NBC News Now (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNow.us" status="online",NBC News Now (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us" status="online",Newsmax (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="NitroCircus.us" status="timeout",Nitro Circus (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Nosey.us" status="online",Nosey (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="NowThis.us" status="online",Now This (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="NowThis.us" status="error",Now This (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="NowThisXUMO.us" status="error",Now This (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8
-#EXTINF:-1 tvg-id="OutdoorAmerica.us" status="online",Outdoor America (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us" status="online",Outside TV (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTVPlus.us" status="online",Outside TV Plus (1080p)
-https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="OutsideTVPlus.us" status="online",Outside TV Plus (1080p)
-https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesomeUS.us" status="online",People are Awesome (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesomeUS.us" status="error",People are Awesome (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleTV.us" status="online",People TV (1080p)
-https://peopletvssai.akamaized.net/amagi_hls_data_peopletvA-peopletvxumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="PlayersTV.ca" status="online",Players TV (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-#EXTINF:-1 tvg-id="PocketWatch.us" status="timeout",pocket.watch (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="PongaloNovelaclub.us" status="error",Pongalo Novelaclub (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="RainbowRuby.us" status="error",Rainbow Ruby (360p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Realnosey.us" status="online",Real nosey (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="RedboxFilmRiseFreeMovies.us" status="online",FilmRise Free Movies (Redbox) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="RedboxUnsolvedMysteries.us" status="timeout",FilmRise Forensic Files (XUMO) (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Reelz.us" status="error",Reelz (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" status="online",Reelz Channel (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="RevandRoll.us" status="error",Rev and Roll (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Revry.us" status="error",Revry (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="RokuFilmRiseForensicFiles.us" status="error",FilmRise Forensic Files (144p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
-#EXTINF:-1 tvg-id="RokuFilmRiseMysteries.us" status="error",FilmRise Mysteries (XUMO) (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="RokuFilmRiseSciFi.us" status="error",FilmRise Sci-Fi (XUMO) (144p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="SamuelGoldwynChannel.us" status="error",Samuel Goldwyn Channel (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsamuelgoldwyn/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ShopLC.us" status="online",Shop LC (1080p)
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us" status="online",Shout! Factory TV (1080p)
-https://shoutfactory-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ShowtimeattheApollo.us" status="online",Showtime at the Apollo (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="SoYummy.us" status="online",So Yummy! (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="SoYummy.us" status="online",So Yummy! (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="SportsGrid.uk" status="online",SportsGrid (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
-#EXTINF:-1 tvg-id="SportsGrid.uk" status="online",SportsGrid (1080p)
-https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" status="online",Stadium (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:-1 tvg-id="StingrayAmbience.ca" status="online",Stingray Ambience (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca" status="online",Stingray Classic Rock (1080p) [Not 24/7]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca" status="online",Stingray Classic Rock (1080p)
-https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca" status="error",Stingray Classic Rock (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" status="online",Stingray Greatest Hits (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" status="online",Stingray Greatest Hits (1080p)
-https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" status="error",Stingray Greatest Hits (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHitList.ca" status="online",Stingray Hit List (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayHitList.ca" status="online",Stingray Hit List (1080p)
-https://xumo-redbox.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" status="online",Stingray Hot Country (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" status="online",Stingray Hot Country (1080p)
-https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" status="error",Stingray Hot Country (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca" status="error",Stingray Karaoke (144p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca" status="online",Stingray Naturescape (360p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca" status="error",Stingray Naturescape (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
-#EXTINF:-1 tvg-id="StingrayQello.ca" status="online",Stingray Qello Concerts (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" status="online",Stingray Soul Storm (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" status="online",Stingray Soul Storm (1080p)
-https://xumo-redbox.ott-channels.stingray.com/134/master.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" status="error",Stingray Soul Storm (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us" status="online",Tastemade (1080p)
-https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Teletubbies.uk" status="error",Teletubbies (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TheArchive.us" status="online",The Archive (540p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TheBobRossChannel.us" status="online",The Bob Ross Channel (1080p)
-https://bobross-xumous-ingest.cinedigm.com/master.m3u8
-#EXTINF:-1 tvg-id="TheBobRossChannel.us" status="online",The Bob Ross Channel (1080p)
-https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="TheBobRossChannel.us" status="online",The Bob Ross Channel (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TheDesignNetwork.us" status="online",The Design Network (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us" status="online",The Pet Collective (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us" status="error",The Pet Collective (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8
-#EXTINF:-1 tvg-id="ThePreviewChannel.us" status="error",The Preview Channel (720p)
-https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
-#EXTINF:-1 tvg-id="TheYoungTurks.us" status="online",The Young Turks (TYT) (1080p) [Not 24/7]
-https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="TMZ.us" status="online",TMZ (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TMZ.us" status="timeout",TMZ (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziotmz/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="TMZ.us" status="error",TMZ (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ToonGoggles.us" status="timeout",Toon Goggles (720p) [Not 24/7]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="USAToday.us" status="online",USA Today (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="USAToday.us" status="error",USA Today (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="USAToday.us" status="error",USA Today (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="USATodaySportswire.us" status="error",USA Today Sportswire (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatodaysportswire/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="VanityFair.us" status="online",Vanity Fair (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="VanityFair.us" status="error",Vanity Fair (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvanityfair/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo80s.us" status="online",Vevo 80s (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="VevoPop.us" status="online",Vevo Pop (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="VizioFilmRiseFreeMovies.us" status="error",FilmRise Free Movies (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofilmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Vogue.us" status="online",Vogue (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Vogue.us" status="error",Vogue (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvogue/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" status="online",Voyager Documentaries (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" status="error",Voyager Documentaries (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.us" status="timeout",WeatherSpy (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.us" status="error",WeatherSpy (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Wired.us" status="timeout",Wired (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us" status="online",World Poker Tour (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="XumoFreeMovies.us" status="error",Xumo Free Movies (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="XumoFreeWesterns.us" status="error",Xumo Free Westerns (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="YoGabbaGabba.us" status="error",Yo Gabba Gabba! (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",CBC News (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Hi-YAH! (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",CBC News (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" status="error",EDGEsport (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" status="error",Stingray Hitlist (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" status="error",Stingray Qello Concerts (474p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
+#EXTINF:-1 tvg-id="3eeshAlAanTV.ae" status="online",Al Aan TV (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x74wje5
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" status="online",Abu Dhabi Aloula (1080p)
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" status="online",Abu Dhabi Emirates (1080p)
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" status="online",Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" status="online",Abu Dhabi Sports 2 (1080p)
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" status="error",Abu Dhabi Sports 3 (1080p)
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" status="blocked",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AjmanTV.ae" status="online",Ajman TV [Not 24/7]
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/d3e9fc3b874a46159ce3724d802e3f8d/playlist.m3u8
+#EXTINF:-1 tvg-id="AlAanTV.ae" status="online",Al Aan (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x74wje5
+#EXTINF:-1 tvg-id="Alarabiya.ae" status="online",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae" status="online",Al Arabiya (1080p)
+https://mn-nl.mncdn.com/alarabiya_live_channel/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae" status="online",Al Arabiya (1080p)
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="AlHadath.ae" status="online",Al Hadath TV (1080p) [Not 24/7]
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHadath.ae" status="online",Al Hadath TV (1080p)
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 tvg-id="AlHadath.ae" status="online",Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQamarTV.ae" status="online",Al Qamar TV (360p)
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" status="online",Al Sharqiya Min Kabla (1080p)
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlWoustaTV.ae" status="online",Al Wousta TV (1080p)
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlYaumTV.ae" status="online",Al Yaum TV (720p)
+https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" status="online",Cartoon Network Arabia (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="CitrussTV.ae" status="blocked",Citruss TV (720p) [Geo-blocked]
+https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
+#EXTINF:-1 tvg-id="CNBCArabiya.ae" status="online",CNBC Arabia (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cnbcarabiaTV/live
+#EXTINF:-1 tvg-id="CNBCArabiya.ae" status="online",CNBC Arabia (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.cnbcarabia.com/Pages/live
+#EXTINF:-1 tvg-id="CNBCArabiya.ae" status="online",CNBC Arabia (1080p)
+https://hiplayer.hibridcdn.net/p/cnbcarabia-live.m3u8
+#EXTINF:-1 tvg-id="DubaiOne.ae" status="online",Dubai One (1080p)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" status="online",Dubai Racing 2 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" status="online",Dubai Racing 3 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing.ae" status="online",Dubai Racing (1080p)
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" status="online",Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" status="online",Dubai Sports 2 (720p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" status="online",Dubai Sports 3 (1080p) [Not 24/7]
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiTV.ae" status="online",Dubai TV (1080p)
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiTV.ae" status="online",Dubai TV (1080p)
+https://weyyak-live.akamaized.net/weyyak_dubai_tv/index.m3u8
+#EXTINF:-1 tvg-id="DubaiTV.ae" status="online",Dubai TV (576p)
+http://210.210.155.37/uq2663/h/h152/index2.m3u8
+#EXTINF:-1 tvg-id="DubaiTV.ae" status="error",Dubai TV (576p) [Geo-blocked]
+http://210.210.155.35/uq2663/h/h152/index2.m3u8
+#EXTINF:-1 tvg-id="DubaiZaman.ae" status="online",Dubai Zaman (1080p) [Not 24/7]
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HawasTV.ae" status="online",Hawas TV (480p)
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
+#EXTINF:-1 tvg-id="Majid.ae" status="online",Majid TV (1080p)
+https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC1.ae" status="blocked",MBC 1 KSA (1080p) [Geo-blocked]
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 tvg-id="MBC1USA.us" status="online",MBC 1 USA (1080p)
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
+#EXTINF:-1 tvg-id="MBC1USA.us" status="online",MBC 1 North America (1080p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-id="MBC2.ae" status="error",MBC 2 (720p)
+http://multies.xyz:8000/live/22-5-MbC2-Mx-AcT/G8bwyFcnsM/106.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" status="online",MBC 3 EUR (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" status="online",MBC 3 KSA (1080p)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" status="blocked",MBC 3 KSA
+http://zinachannels.zinamedia.net/ar-s/mbc-3/index.m3u8
+#EXTINF:-1 tvg-id="MBC3USA.us" status="online",MBC 3 USA (1080p)
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae" status="blocked",MBC 4 (1080p) [Geo-blocked]
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae" status="error",MBC 4
+http://zinachannels.zinamedia.net/ar-s/mbc-4/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae" status="online",MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae" status="blocked",MBC 5
+http://zinachannels.zinamedia.net/ar-s/mbc-5/index.m3u8
+#EXTINF:-1 tvg-id="MBCAction.ae" status="blocked",MBC Action (1080p) [Geo-blocked]
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.ae" status="online",MBC Bollywood (1080p) [Geo-blocked]
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.ae" status="blocked",MBC Bollywood (1080p) [Geo-blocked]
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae" status="online",MBC Drama KSA (1080p)
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="MBCDramaUSA.us" status="online",MBC Drama USA (1080p)
+https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
+#EXTINF:-1 tvg-id="MBCFM.ae" status="online",MBC FM (1080p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="MBCIraq.iq" status="online",MBC Iraq (1080p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.eg" status="online",MBC Masr 2 (1080p) [Geo-blocked]
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr.eg" status="online",MBC Masr 1 (1080p) [Geo-blocked]
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasrUSA.us" status="online",MBC Masr 1 USA (1080p)
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+#EXTINF:-1 tvg-id="MBCPersia.ae" status="online",MBC Persia (1080p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" status="online",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" status="online",National Geographic Abu Dhabi (1080p)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NoorDubai.ae" status="online",Noor Dubai (576p)
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PeaceTVAlbanian.ae" status="online",Peace TV Albanian (360p)
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="SamaDubai.ae" status="online",Sama Dubai (1080p)
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SamaDubai.ae" status="online",Sama Dubai (1080p)
+https://weyyak-live.akamaized.net/weyyak_sama_dubai/index.m3u8
+#EXTINF:-1 tvg-id="Sharjah2.ae" status="online",Sharjah 2 (1080p)
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahRadioQuran.ae" status="online",Sharjah Radio Quran (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCn8lMRYDANs_1yAL3iuw7_g/live
+#EXTINF:-1 tvg-id="SharjahSports.ae" status="online",Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahTV.ae" status="online",Sharjah TV (1080p)
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" status="online",Sky News Arabia (720p) [Not 24/7]
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae" status="online",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 tvg-id="TowheedTV.ae" status="timeout",Towheed TV (720p) [Not 24/7]
+http://51.210.199.1/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Wanasah.ae" status="online",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakAction.ae" status="online",Weyyak Action (1080p)
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakDrama.ae" status="online",Weyyak Drama (720p)
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakMix.ae" status="online",Weyyak Mix (720p)
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakNawaem.ae" status="online",Weyyak Nawaem (720p)
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:-1 tvg-id="Yas.ae" status="online",Yas (1080p)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeAflam.in" status="online",Zee Aflam (720p) [Not 24/7]
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAflam.in" status="online",Zee Alwan (720p) [Not 24/7]
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",Weyyak Smashi (720p)
+https://weyyak-live.akamaized.net/weyyak_smashi_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="ArianaAfghanistanInternationalTV.us" status="online",Ariana Afghanistan International TV (720p) [Not 24/7]
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8
+#EXTINF:-1 tvg-id="ArianaTVNational.af" status="online",Ariana TV National (720p) [Not 24/7]
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ArianaTVUS.af" status="online",Ariana TV US (720p) [Not 24/7]
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ArianaTVUS.af" status="online",Ariana TV US (Delayed stream) (720p) [Not 24/7]
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNNews.af" status="online",ATN News (720p) [Not 24/7]
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BaharTV.af" status="online",Bahar TV (720p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1 tvg-id="BarbudMusic.af" status="online",Barbud Music (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
+#EXTINF:-1 tvg-id="BaryaTV.af" status="online",Barya TV (720p) [Not 24/7]
+http://51.210.199.56/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FazaTV.af" status="online",Faza TV (720p)
+https://raw.githubusercontent.com/LaneSh4d0w/IPTV_Exception/master/channels/af/fazatv.m3u8
+#EXTINF:-1 tvg-id="HewadTV.af" status="online",Hewad TV (720p) [Not 24/7]
+http://51.210.199.58/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KayhanTV.af" status="online",Kayhan TV (720p)
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="LemarTV.af" status="online",Lemar TV (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
+#EXTINF:-1 tvg-id="PamirTV.af" status="online",Pamir TV (1080p) [Not 24/7]
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="SolhTV.af" status="online",Solh TV (576p) [Not 24/7]
+http://51.210.199.42/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TOLOnews.af" status="online",Tolo News (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+#EXTINF:-1 tvg-id="ToloTV.af" status="online",Tolo TV (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
+
+#EXTINF:-1 tvg-id="21Plus.xk" status="online",21 Plus (576p) [Not 24/7]
+http://46.29.169.15:4001/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.al" status="online",ABC News (720p) [Not 24/7]
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbUKTV.uk" status="online",AlbUK TV (1080p) [Not 24/7]
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" status="online",ALPO (720p) [Not 24/7]
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="News24.al" status="online",News 24 (392p) [Not 24/7]
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH1HD.al" status="timeout",RTSH 1 (1080p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH2HD.al" status="timeout",RTSH 2 (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH3.al" status="timeout",RTSH 3 (406p)
+https://tvlive.rtsh.dev/live/rtsh3ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH24.al" status="timeout",RTSH 24 (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_24_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHAgro.al" status="timeout",RTSH Agro (560p)
+https://tvlive.rtsh.dev/live/rtsh_agro_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHFemije.al" status="timeout",RTSH Femijë (576p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_femije_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHFilm.al" status="timeout",RTSH Film (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHGjirokastra.al" status="timeout",RTSH Gjirokastra (560p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHKorca.al" status="timeout",RTSH Korça (560p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_korca_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHKukesi.al" status="timeout",RTSH Kukësi (560p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHKuvend.al" status="timeout",RTSH Kuvend (560p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHMuzike.al" status="timeout",RTSH Muzike (270p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHPlus.al" status="timeout",RTSH Plus (560p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHShkolle.al" status="timeout",RTSH Shkollë (360p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHShqip.al" status="timeout",RTSH Shqip (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHSport.al" status="timeout",RTSH Sport (720p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
+#EXTINF:-1 tvg-id="ScanTV.al" status="error",RTV SCAN (480p) [Not 24/7]
+http://edge01eu.ekranet.com/scantv/index.m3u8
+#EXTINF:-1 tvg-id="SyriTV.al" status="online",Syri TV (720p) [Not 24/7]
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:-1 tvg-id="TopNews.al" status="online",Top News (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6inuzo
+#EXTINF:-1 tvg-id="TV7Albania.al" status="online",TV 7 Albania (540p) [Not 24/7]
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" status="online",7 HD (540p) [Not 24/7]
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="TVApollon.al" status="online",TV Apollon (720p)
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:-1 tvg-id="TVOpoja.al" status="online",TV Opoja (720p) [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="ZjarrTV.al" status="error",Zjarr Televizion (360p) [Not 24/7]
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",ATD (1080p)
+http://46.99.146.236/0.m3u8
+#EXTINF:-1 tvg-id="" status="online",NTV
+http://monamour.agency/ntv/livestream/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",TV Johaniter (720p)
+http://monamour.agency/johaniter007web/index.m3u8
+#EXTINF:-1 tvg-id="" status="blocked",Shqiponja (720p) [Not 24/7]
+http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Smile
+http://95.107.132.105/out/u/349_2.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Jolly
+http://95.107.132.105/out/u/463_3.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Comedy
+http://95.107.132.105/out/u/573_1.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring International
+http://95.107.132.105/out/u/609_3.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Family
+http://95.107.132.105/out/u/673_3.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Shqip
+http://95.107.132.105/out/u/683_1.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Super
+http://95.107.132.105/out/u/689_3.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Info
+http://95.107.132.106/out/u/419_1.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Classic
+http://95.107.132.106/out/u/842_5.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Collection
+http://95.107.132.106/out/u/847_5.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Novelas
+http://95.107.132.106/out/u/858_5.m3u8
+#EXTINF:-1 tvg-id="" status="error",Bang Bang
+http://199.127.60.117:8081/live/bangbang/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="error",Klan
+http://199.127.60.117:8081/live/klan/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="error",Klan Plus
+http://199.127.60.117:8081/live/klanplus/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring 3Plus
+http://199.127.60.117:8081/live/tring3plus/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="error",Tring Tring
+http://199.127.60.117:8081/live/tringtring/playlist.m3u8
