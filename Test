@@ -71,3 +71,8 @@ http://ott-cdn.ucom.am/s13/index.m3u8
 #EXTINF:-1 tvg-id="YerkirMediaTV.am" status="online" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Երկիր Մեդիա (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s7/index.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
+https://radioth.net/mun-forward/
+
+
