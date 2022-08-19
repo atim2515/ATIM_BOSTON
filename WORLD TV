@@ -161,3 +161,7 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 http://monamour.agency/ntv/livestream/index.m3u8
 #EXTINF:-1 group-title="Albania TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/210px-Flag_of_Albania.svg.png",TV Johaniter
 http://monamour.agency/johaniter007web/index.m3u8
+
+#EXTINF:-1 group-title="Armenia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1280px-Flag_of_Armenia.svg.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",5-րդ ալիք
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s6/index.m3u8
