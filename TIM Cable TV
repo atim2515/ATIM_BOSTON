@@ -313,6 +313,15 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name":"Action Hollywood Movies",image:"https://i.imgur.com/B3RHwVN.png","url": "https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8"},
 
+{"name":"SERIES+ HD",image:"https://www.img.in.th/images/673c79ed4771fdf06d98476b030332cf.png","url": "http://sv1.ilikehd.xyz:25461/live/888/IslrN4OW0S/7.m3u8"},
+
+{
+"name": "7Flix",  
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png", 
+"url": "https://cdn6.goprimetime.info/feed/202105171329/LC5/playlist.m3u8",
+"userAgent": "exoplayer_video"},
+{
+
 {"name":"SANOOK",image:"https://sv1.picz.in.th/images/2022/02/20/rKibuZ.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC53/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
 {"name":"Aniplus",image:"https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555","url": "http://45.126.83.51/dr9445/h/h02/01.m3u8"},
