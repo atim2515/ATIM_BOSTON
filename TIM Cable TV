@@ -239,11 +239,41 @@ url:"http://sv1.ilikehd.xyz:25461/888/IslrN4OW0S/71"
 
 {"name": "True Thai Film","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/cnhjBZDYHOUdflTU8WdOjWWx6Pk5KNmsd-thaifilm.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmcb4rf66f","referer": "https://dooball66.com/", "info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{name:"True Chinese More",image:"https://cms.dmpcdn.com/livetv/2021/09/28/52605e70-2007-11ec-8e02-8583191306a2_webp_320.png","url": "https://sport.livedoomovie.com:4431/02_FoxMoviesTH_720p/chunklist.m3u8","referer": "https://www.doomovie-hd.com/"},
+{
+"name": "True Chinese More",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/28/52605e70-2007-11ec-8e02-8583191306a2_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-chinesemore",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch3/th-chinesemore",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name": "True Korean More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/truekoreanmore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
+{
+"name": "True Korean More",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/28/d446d890-2009-11ec-9629-7dc4459cd94d_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch/th-koreanmore",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch/th-koreanmore",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 /5.3.8.2000"
+},
 
-{"name": "True Asian More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/trueasianmore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
+{
+"name": "True Asian More",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-asianmore",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch3/th-asianmore",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "American Horrors","image": "https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg" ,"url": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8"},
 
