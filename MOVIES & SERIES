@@ -43,7 +43,41 @@ url:"http://sv1.ilikehd.xyz:25461/888/IslrN4OW0S/71"
 
 {"name": "คูล ชาแนล","image": "https://www.24andlife.com/wp-content/uploads/2019/08/1161739-img.tsia3g.13tfs.jpg","url": "https://moviektu.com/Cool/playlist.m3u8", "userAgent": "ProPlayer"},
 
-{"name": "True Chinese More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/truechinesemore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
+{
+"name": "True Chinese More",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/28/52605e70-2007-11ec-8e02-8583191306a2_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-chinesemore",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch3/th-chinesemore",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+
+{
+"name": "True Korean More",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/28/d446d890-2009-11ec-9629-7dc4459cd94d_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch/th-koreanmore",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch/th-koreanmore",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 /5.3.8.2000"
+},
+
+{
+"name": "True Asian More",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-asianmore",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch3/th-asianmore",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "MVTV ซีรีส์","image": "https://www.mvtv.co.th/wp-content/uploads/2021/02/mvmall_serie.png" ,"url": "https://www.mvtv.co.th/channel/mvtv-series"},
 
@@ -415,8 +449,6 @@ url:"http://sv1.ilikehd.xyz:25461/888/IslrN4OW0S/71"
 
 {"name": "True Series","image": "https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" ,"url": "https://www.doofootball.com/dootv/live/trueseries#main_dootv"},
 
-{"name": "True Korean More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/truekoreanmore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
-
 {"name": "Flix","image": "https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" ,"url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"},
 
 {"name": "TVN Movies","image": "https://mncvision.id/userfiles/image/channel/channel_109.png" ,"url": "http://210.210.155.35:80/dr9445/h/h21/01.m3u8"},
@@ -430,8 +462,6 @@ url:"http://sv1.ilikehd.xyz:25461/888/IslrN4OW0S/71"
 {"name": "Hits","image": "https://cms.cignal.tv/Upload/Images/Hits.png" ,"url": "http://210.210.155.35:80/dr9445/h/h37/01.m3u8"},
 
 {"name": "Siam News TV Online","image": "https://www.siamnews.net/wp-content/uploads/2018/05/cropped-siamnews-bw-helv-square.png" ,"url": "https://thaitvstream.com/application/mtvlive/count.php?id=7&url=https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"},
-
-{"name": "True Asian More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/trueasianmore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
 {"name": "Pluto TV Hunter","image": "https://i.insider.com/5f2994d85af6cc423a615a54?width=700" ,"url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
 
