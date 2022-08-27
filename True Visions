@@ -106,7 +106,17 @@
 
 {"name": "True Thai Film","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/cnhjBZDYHOUdflTU8WdOjWWx6Pk5KNmsd-thaifilm.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmcb4rf66f","referer": "https://dooball66.com/", "info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{name:"True Chinese More",image:"https://cms.dmpcdn.com/livetv/2021/09/28/52605e70-2007-11ec-8e02-8583191306a2_webp_320.png","url": "https://sport.livedoomovie.com:4431/02_FoxMoviesTH_720p/chunklist.m3u8","referer": "https://www.doomovie-hd.com/"},
+{
+"name": "True Chinese More",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/28/52605e70-2007-11ec-8e02-8583191306a2_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-chinesemore",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch3/th-chinesemore",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {
 "name": "True Film Asia",
