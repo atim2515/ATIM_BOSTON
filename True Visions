@@ -283,7 +283,17 @@ playInNatPlayer: "true"
  
 {name:"True Spark Play",image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2Ffc9ea58f-72b7-44a4-b27b-3179df6c8445.png&w=320&h=240",url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115784&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
 
-{name:"NICK JR.",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",url:"https://streaming.livescorethai.net/iptv/uk-nickjr.stream/chunks.m3u8","referer":"https://freetvdd.com/"},
+{
+"name": "Nick Jr.",
+"image": "https://hwc-statics.ais.th/play/images/channel/ch_logo-njr.jpg",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-nickjr",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch3/th-nickjr",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name"          :  "DreamWorks",
 "image"          :  "https://images.livebox.co/images/tv/png/hd-dreamworks.png",
