@@ -108,11 +108,41 @@
 
 {name:"True Chinese More",image:"https://cms.dmpcdn.com/livetv/2021/09/28/52605e70-2007-11ec-8e02-8583191306a2_webp_320.png","url": "https://sport.livedoomovie.com:4431/02_FoxMoviesTH_720p/chunklist.m3u8","referer": "https://www.doomovie-hd.com/"},
 
-{"name": "True Film Asia","image": "https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" ,"url": "https://iptv-thai.herokuapp.com/tv.php?channel=115665"},
+{
+"name": "True Film Asia",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-filmasia",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch3/th-filmasia",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name": "Warner TV","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/iBlD0YzspNA9b9D8hK3wFnT5EBI5smLwbtv.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
+{
+"name": "Warner TV",
+"image": "https://images.livebox.co/images/tv/png/hd-warnertv.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-warnertv",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch3/th-warnertv",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name": "KBS World HD","image": "https://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png" ,"url": "https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8"},
+{
+"name": "KBS World HD",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-kbsworld",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch3/th-kbsworld",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "Paramount Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,"url": "https://www.doofootball.com/dootv/live/paramount#main_dootv"},
 
@@ -146,7 +176,7 @@
 				
 {"name":"GEM",image:"https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=_ej4SuF_","url": "https://www.doofootball.com/dootv/live/gem#main_dootv"},
 
-{"name":"tvN",image:"https://cms.dmpcdn.com/livetv/2021/10/21/9cb0f6b0-326d-11ec-9520-9918a20d7c65_webp_original.png","url": "http://103.174.190.72:25461/001122/001122/4362"},
+{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/tvn.png","imageScale":"fitCenter","name":"tvN","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8"},
 
 {"name": "AXN","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
@@ -339,7 +369,17 @@ playInNatPlayer: "true"},
 
 {"name":"Golf Channel Thailand HD Plus","image":"https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png","url":"https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-golf-channel-thailand-2/","referer": "https://freetvdd.com"},
 
-{"name":"Motorvision TV",image:"https://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png","url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"},
+{
+"name": "Motorvision TV",
+"image": "https://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-motorvision",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "SPOTV 1",
 "image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
@@ -355,6 +395,18 @@ playInNatPlayer: "true"},
 "referer"        :  "https://allball168.com/",
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
+
+{
+"name": "Outdoor Channel",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/f2c30832-7d77-4a24-88ad-1d30c593bda1.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-outdoor",
+"isHost": "true",
+"referer": "https://app.devenvy.xyz/main/watch3/th-outdoor",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name":"CNN",image:"https://s.isanook.com/hi/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2hpLzAvdWQvMzA3LzE1Mzc1OTcvY25uLmpwZw==.jpg","url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"},
 
