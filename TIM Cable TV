@@ -213,7 +213,17 @@ url:"http://sv1.ilikehd.xyz:25461/888/IslrN4OW0S/71"
 
 {"name": "HBO Family","image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" ,"url": "https://www.doofootball.com/dootv/live/hbofamily#main_dootv"},
 
-{"name": "HBO Hits","image": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,"url": "https://www.doofootball.com/dootv/live/hbohit#main_dootv"},
+{
+"name": "HBO Hits",
+"image": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",
+"imageScale": "fitStart",
+"url": "https://app.devenvy.xyz/main/watch3/th-hbohits",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "HBO Signature","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" ,"url": "https://www.doofootball.com/dootv/live/hbosignature#main_dootv"},
 
