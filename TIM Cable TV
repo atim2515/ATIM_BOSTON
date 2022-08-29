@@ -26,7 +26,9 @@
     
 {"name":"True 4U",image:"https://overseer.blackboxsys.net/images/png/sd-24u.png","url": "http://freelive2.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8"},
     
-{"name":"GMM 25",image:"https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png","url": "http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8"},
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://i.imgur.com/sWGT1SD.png" group-title="Digital TV",GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202105171329/chgmm/index.m3u8
     
 {"name":"CH 8",image:"https://overseer.blackboxsys.net/images/png/hd-ch8.png","url": "http://freelive2.inwstream.com:1935/freelive-edge/ch8/playlist.m3u8"},
 
