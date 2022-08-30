@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="HulchulTVCanada.in" status="online",a (720p) [Not 24/7]
+https://www.nettvpro.live/mobile/play.php?aid=4563
 #EXTINF:-1 tvg-id="HulchulTVCanada.in" status="online",Hulchul TV (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-id="ImayamTV.in" status="online",Imayam (480p) [Not 24/7]
