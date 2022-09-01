@@ -1,47 +1,6 @@
 #EXTM3U 
 
-
-#EXTINF:-1 tvg-id="" status="error",kanzai1
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",kanzai2
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",YTV1
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_yomiuri_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",YTV2
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_yomiuri_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",MBS1
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_mbs_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",MBS2
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_mbs_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",TV Osaka1
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_osaka_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",TV Osaka2
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_osaka_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",SUN TV1
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",SUN TV2
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",ABC1
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_abc_asahi_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",ABC2
-http://cdn.us195.jpnettv.live:1935/jptv/kansi_abc_asahi_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",Hiroshima Weather Information
-https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
-
-
--#EXTINF:-1 tvg-id="AndorraTV.ad" status="error",ATV (720p)
-+#EXTINF:-1 tvg-id="AndorraTV.ad" status="online",ATV (720p)
- https://videos.rtva.ad/live/rtva/playlist.m3u8
-diff --git a/streams/ae.m3u b/streams/ae.m3u
-index 7039ee2ae..22d7304c2 100644
---- a/streams/ae.m3u
-+++ b/streams/ae.m3u
-@@ -1,5 +1,5 @@
- #EXTM3U
--#EXTINF:-1 tvg-id="3eeshAlAanTV.ae" status="online",Al Aan TV (720p)
-+#EXTINF:-1 tvg-id="3eeshAlAanTV.ae" status="timeout",Al Aan TV (720p)
- http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x74wje5
- #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" status="online",Abu Dhabi Aloula (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" status="online",Abu Dhabi Aloula (1080p)
  https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 @@ -61,7 +61,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
  https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
