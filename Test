@@ -1,5 +1,10 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" status="online",tvb1 (1080p)
+ http://111.229.84.232/yulin/tvb.php?id=1
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" status="online",tvb2 (1080p)
+ https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1662098109~exp=1662184509~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=3882b4e827f69167f9ca7effadfaf923ed4730403b220766b549369465955671&p=3139
+
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" status="online",Abu Dhabi Aloula (1080p)
  https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 @@ -61,7 +61,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
