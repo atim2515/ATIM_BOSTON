@@ -1109,13 +1109,25 @@ playInNatPlayer: "true"},
 
 {"name":"K-Baduk",image:"https://www.rapidtvnews.com/images/2017/11/K_Baduk_TV_-_30_Nov_2017.png","url": "https://allanf181.github.io/adaptive-streams/streams/kr/KBaduk.m3u8"},
 
-{"name":"MV LAO",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg","url": "https://www.mvtv.co.th/channel/mvlao-tv"},
-
 {"name":"Lao Champa TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJuioA8VXYFnDkFNG5VaVeJyNAuLFclQAL9928Vz3Zu6hRyEyCtAn1-4Klq_LWm0HLiQ&usqp=CAU","url": "https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8"},
 
 {"name":"Lao Champa TV 2",image:"https://zasstv.com/wp-content/uploads/2020/08/Lao-Champa-TV2.jpg","url": "https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8"},
 
 {"name":"Lao Champa TV 3",image:"https://aetlive.s3-us-west-2.amazonaws.com/assets/img/2018/03/03231638/newLaoChampa3.jpg","url": "https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8"},
+
+{"name":"MWD HD",image:"https://play-lh.googleusercontent.com/tirA2hXsMFXPHTN9B2CiyJbejcu4K37FgS9IZpHS2uZNqsepubpBLWGP7tAiJLYHoA","url": "http://203.81.84.130/hls/mwd/index.m3u8"},
+
+{"name":"MWD Variety",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLC4D6yjL6x1lcpPtfz1Z63RHSGX37Ab7gWC9YPqyVqpHSo5JLiIzgYZbi7qAZBIfnPj8&usqp=CAU","url": "http://203.81.84.130/hls/mwd_variety/index.m3u8"},
+
+{"name":"MWD Movies",image:"https://www.asiasat.com/channelguide/images/mwd_movies.png","url": "http://203.81.84.130/hls/mwd_serie/index.m3u8"},
+
+{"name":"MWD Documentary",image:"https://www.asiasat.com/channelguide/images/mwd_documentary.png","url": "http://203.81.84.130/hls/mwd_document/index.m3u8"},
+
+{"name":"MWD Family",image:"https://www.asiasat.com/channelguide/images/mwd-family.jpg","url": "http://203.81.84.130/hls/mwd_family/index.m3u8"},
+
+{"name":"MWD Shopping",image:"https://www.asiasat.com/channelguide/images/mwd-shopping-mm.png","url": "http://203.81.84.130/hls/mwd_shopping/index.m3u8"},
+
+{"name":"ChannelK",image:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAeFBMVEUBAQH///+goKBDQ0Pf39/s7Oz39/fi4uL6+vrFxcXo6OiqqqpaWlqlpaVwcHDz8/PU1NTCwsJ0dHTJycmVlZUdHR2Dg4NUVFRLS0tpaWna2tosLCxjY2MQEBA2Nja0tLSLi4sfHx8yMjKYmJiGhoYUFBQ+Pj4tLS23qZ7iAAADWklEQVR4nO3ZW3OiQBCG4UGJQMQDhyhiouZg8v//4fZ0D+Zid6u2Sl3QvM/FGsWwM19NDw1xDgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPh/PkbebN73OG5A8xCph5e+RzJ8c4sqWjz1PZLhG6chrF3fIxm+ly6r575Hch11VWXnlUxTVVVpP4b9KlpdYGBDtJS9+LwzrCSdeXcuNbvAuAZpEkXL886w77aoImRVXGJcgyST2593BllPk6O8jkJWZ2Y/YI3M7nDeKWSjip1Vo/d4gVENTblvp7lzB5ne+jhqs7BFf+yrlWvyfC1tQJ437nPU7nN/IM/zrfsolnX4/dW+nekBvzYz555DVpPXPmZzVWO7bjk39deu0668Xuiek0RR5Vwl/x700NxW4CY+rZzVRA9U/lTy+v45DVnt7y+rddrtLt0FTK+Jb5PTu5FzElloBaTKyihKw7u5RpwWS/uaj7o8dpv7tO+pXZ6fdp2PCk0kKtYbC8vPOCtXfnmV7skHOm0OFta7X1ObptUmSr6evunXW+dm8tGnFuN9tu6rU9/oE/F1peX1YruPq+W10fLK7JCswEw/02SefcKLIiukKhdarVLOp2vh3S0tWRITeyjQWClZIj7DjbOSO+otsez6rxaABJM47anS7a67qZHT6Nr0cX91H/Y4r6v47tpLy+dLE3m3DcmvogdbKmN7jLDSNP1urovJF+20Vgd3TO2I9qZe/ff/9yYtLZWDldUpEV9+7fhtZPVXaJFpgo3b+kueC/1+Lm+ktXB6t/zZld4uhLXob15XMdOrX2pbulSSJrI+tUqR9hGPVniFVlaoSR+I9PtyBUg2myyaTE9H3Pfdzr3dRVsTUOgPfsMJm7R9HNuEU7vJizVOv+jerPOsrXi7XPw6tOZ0HT68uxZ+v4jSduNe2jjxNZQlsb9jGUtnsJjtkvhx7HZxnBzks2WcSGajJPbLrJRDvgBz30JMMilgN0viNjzi6Xq2sqdJXc/2j8/IX7f/+Ouv29+/2T1Sbs8Z148Rh7TWfQ/kFnQPHqq+B3ITusfK474HcgvqENaZjxN/iG7Xurvb6auo7W/3ed/jAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwPD8Ak0VHhXOGo5HAAAAAElFTkSuQmCC","url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"},
 
 {"name":"TVB NEWS",image:"https://www.tvchinese.net/uploads/tv/tvb-news.jpg","url": "http://111.229.84.232/yulin/tvb.php?id=1"},
 
