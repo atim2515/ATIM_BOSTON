@@ -728,6 +728,12 @@ playInNatPlayer: "true"},
 
 {"name":"Pluto TV VH1 Classics",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png","url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
 
+{"name": "Now 70's","image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL" ,"url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"},
+
+{"name": "Now 80's","image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL" ,"url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8"},
+
+{"name": "Now 90's","image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-01/now90s255x140.jpg?itok=v4ebJsn1" ,"url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"},
+
 {
 "name": "Channel V Asia",  
 "image": "https://mir-s3-cdn-cf.behance.net/projects/404/6348447.546c15d0864b1.jpg",  
