@@ -1,24 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="SanaTV.in" status="online",Sana TV (576p) [Not 24/7]
-http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV9News.in" status="online",TV9 News (720p) [Not 24/7]
-https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" status="online",Relax TV (576p) [Not 24/7]
-http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
-
-#EXTINF:-1 tvg-id="" status="online",Star Cinema (576p)
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-
-#EXTINF:-1 tvg-id="" status="online",Star Family (576p)
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-
-#EXTINF:-1 tvg-id="" status="online",Vyas NIC (480p)
-#EXTVLCOPT:http-referrer=https://webcast.gov.in/
-https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
-
 #EXTINF:-1 tvg-id="" status="online",Life TV (480p) [Not 24/7]
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/playlist.m3u8
 
