@@ -4,22 +4,7 @@
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="3ABNFrench.us" status="online",v2 (720p)
 https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 tvg-id="3ABNFrench.us" status="online",v2 (720p)
-http://104.238.221.63:9138/stream/live/c20114.m3u8
-#EXTINF:-1 tvg-id="3ABNFrench.us" status="online",v2 (720p)
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20114
-#EXTINF:-1 tvg-id="3ABNFrench.us" status="online",v2 (720p)
-http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/18466_MY_TVB_XING_HE-20220916-1663260477.ts
-#EXTINF:-1 tvg-id="3ABNFrench.us" status="online",v2 (720p)
-http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/18466_MY_TVB_XING_HE-20220916-1663260481.ts
-#EXTINF:-1 tvg-id="3ABNFrench.us" status="online",v2 (720p)
-http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/18466_MY_TVB_XING_HE-20220916-1663260487.ts
-#EXTINF:-1 tvg-id="3ABNFrench.us" status="online",v2 (720p)
-http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/18466_MY_TVB_XING_HE-20220916-1663260491.ts
-#EXTINF:-1 tvg-id="3ABNFrench.us" status="online",v2 (720p)
-http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/18466_MY_TVB_XING_HE-20220916-1663260497.ts
-#EXTINF:-1 tvg-id="3ABNFrench.us" status="online",v2 (720p)
-http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/18466_MY_TVB_XING_HE-20220916-1663260501.ts
+
 
 #EXTINF:-1 tvg-id="3ABNFrench.us" status="online",3ABN French (720p)
 https://3abn-live.akamaized.net/hls/live/2010546-b/French/master.m3u8
