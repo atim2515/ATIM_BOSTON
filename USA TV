@@ -8,8 +8,6 @@
 		"stations":[
     
     
-{"name":"3ABN",image:"https://3abn.org/img/logos/tv/3ABN.png","url": "http://player.teleon.tv/us/channel/3abn-english"},
-
 {"name":"7News (Boston)",image:"https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png","url": "http://player.teleon.tv/us/channel/7news-boston-us"},
 
 {"name":"ABC News",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1200px-ABC_News_solid_black_logo.svg.png","url": "http://player.teleon.tv/us/channel/abc-news-hd"},
@@ -291,5 +289,35 @@
 {"name":"Beach TV Myrtle Beach & The Grand Strand",image:"https://play-lh.googleusercontent.com/-FseenFgq7WJ_82uLebjznqjM4LjYMJdB8Vb5Vlg0CvekZy24bMSoZElrBk_a0I5fM1S","url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8"},
 
 {"name":"Beach TV Panama City",image:"https://play-lh.googleusercontent.com/-FseenFgq7WJ_82uLebjznqjM4LjYMJdB8Vb5Vlg0CvekZy24bMSoZElrBk_a0I5fM1S","url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"},
+
+{"name":"3ABN Kids Network",image:"https://yt3.ggpht.com/ytc/AMLnZu8busHLEIQz-X-aTdpaUqRV8fCb0ZRduRUqQ4e-=s900-c-k-c0x00ffffff-no-rj","url": "https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8"},
+
+{"name":"Adventure Sports TV",image:"https://image.roku.com/developer_channels/prod/88a440255269e1782103522844732107d34aa120f27dedf0c2339f9e6e2ae72b.png","url": "https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275"},
+
+{"name":"Aghapy Kids",image:"https://www.lyngsat.com/logo/tv/aa/aghapy-kids-us.png","url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8"},
+
+{"name":"AKC TV",image:"https://play-lh.googleusercontent.com/ejoeM7Y_xiEyJj88UjNxivHDEHxIkBmgyhDyQ6ZOdvp4Zl4__0Jak7YolrmKoLoxIrL6","url": "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8"},
+
+{"name":"AKC TV Meet the Breeds",image:"http://blive.imgix.net/web/tv/2061/4/945_poster_meetthebreedsposter498737?auto=compress","url": "https://broadcast.blivenyc.com/speed/broadcast/71/desktop-playlist.m3u8"},
+
+{"name":"AKC TV Puppies",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy0VFXfllAFHBSefxDJb1mHJosFRamxYFd9lzzU42Xvv22HaOaBM2eF-6yLcpOyHGha-g&usqp=CAU","url": "https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8"},
+
+{"name":"American Horrors",image:"https://m.media-amazon.com/images/M/MV5BNTE1MmNkNDktOTIwMS00YjkwLWIzNzktN2RiZTE1N2NjNjBiXkEyXkFqcGdeQXVyMTQ1MDgxMjc@._V1_FMjpg_UX1000_.jpg","url": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8"},
+
+{"name":"America's Voice",image:"https://play-lh.googleusercontent.com/TIBgIfQtp1artFLK_IXBJTLRutMT1R3KFYLCcrIuQPPTEoBaacpq6Skrkz4_XKYuK1s","url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8"},
+
+{"name":"AMG TV",image:"https://photos.live-tv-channels.org/tv-logo/us-amg-tv-1213.jpg","url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"},
+
+{"name":"Access Media Productions Community (AMP) 1 (Monterey CA)",image:"https://images.squarespace-cdn.com/content/v1/5d950ed20434e4165a5d57ba/1570205620626-MRNRMMDFQSCNLU2RIU0J/thumbnail_large.png?format=1500w","url": "https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streama/manifest.m3u8"},
+
+{"name":"Access Media Productions Community (AMP) 2 (Monterey CA)",image:"https://images.squarespace-cdn.com/content/v1/5d950ed20434e4165a5d57ba/1570205620626-MRNRMMDFQSCNLU2RIU0J/thumbnail_large.png?format=1500w","url": "https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamb/manifest.m3u8"},
+
+{"name":"Audio Dungeon",image:"https://images.squarespace-cdn.com/content/v1/602a1d259f10401f2e5e474f/0a380683-71f4-40be-82bf-3fb0388794ba/LOGO+APRIL+2021+TRANSPARENT.png?format=1500w","url": "https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8"},
+
+{"name":"AWE Encore",image:"https://pbs.twimg.com/media/EXgr1P5XgAAVjTF.jpg:large","url": "https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8"},
+
+{"name":"AXS TV NOW",image:"https://f9q4g5j6.ssl.hwcdn.net/610196db9561b72cae334986/1920/1080","url": "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8"},
+
+{"name":"BabyTV",image:"https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png","url": "http://194.163.179.246/slovenci/djeciji/babytv.m3u8"},
 ]
 }
