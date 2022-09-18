@@ -166,7 +166,7 @@
 
 {"name":"MEDIA TV","image":"https://cms.dmpcdn.com/livetv/2021/02/24/cc358130-764d-11eb-9057-2d10fb4d0cf4_320.png","url":"https://tv.trueid.net/embed/MediaTV?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
-{"name": "NK TV","image": "https://sv1.picz.in.th/images/2022/06/23/VgXWxa.jpg","url": "http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8","userAgent": "Windows NT 6.1; WOW64) AppleWebKit / 536.5 (KHTML, like Gecko) Chrome /61.0.3163.79 Safari / 536.5","playInNatPlayer": "true"},
+{"name": "NK TV","image": "https://sv1.picz.in.th/images/2022/06/23/VgXWxa.jpg","url": "http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8"},
 
 {"name":"SUN","image": "https://sv1.picz.in.th/images/2021/01/26/lVgBqD.png","url": "http://tvfree.gleeze.com/feed/202205171329/LC1/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
@@ -370,10 +370,10 @@ url:"http://sv1.ilikehd.xyz:25461/888/IslrN4OW0S/71"
 {
 "name": "7Flix",  
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png", 
-"url": "https://cdn6.goprimetime.info/feed/202105171329/LC5/playlist.m3u8",
-"userAgent": "exoplayer_video"},
+"url": "http://tvfree.gleeze.com/feed/202205171329/LC5/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
-{"name":"SANOOK",image:"https://sv1.picz.in.th/images/2022/02/20/rKibuZ.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC53/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"SANOOK",image:"https://drive.google.com/uc?export=download&id=1OBWOD9IZ3sdJTBL-izNVldG-59P5qVeZ","url": "http://tvfree.gleeze.com/feed/202205171329/LC53/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
 {"name":"Aniplus",image:"https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555","url": "http://45.126.83.51/dr9445/h/h02/01.m3u8"},
 
