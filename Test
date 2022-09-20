@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
+https://j3.lhlh.app/mv.m3u8
+
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",Chino Hills City TV Channel 3/41 (360p)
 https://edge-f.swagit.com/live/chinohillsca/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTVLakewood.us" status="online",Lakewood CityTV (720p)
