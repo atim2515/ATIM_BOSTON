@@ -2,19 +2,25 @@
 
 
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/1000/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/1001/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/1002/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4008/chunklist0.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/1003/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4009/chunklist0.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4007/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
+http://38.64.72.148/hls/modn/list/4014/chunklist0.m3u8
+#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",Chino Hills City TV Channel 3/41 (360p)
 https://edge-f.swagit.com/live/chinohillsca/smil:std-4x3-1-a/playlist.m3u8
