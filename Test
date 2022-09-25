@@ -1,26 +1,26 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",YY宗玉师傅
+http://fangsong.live/hls/yy.php?id=52870290
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+http://fangsong.live/hls/douyu.php?id=4332
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+http://fangsong.live/hls/huya.php?id=23865164
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4008/chunklist0.m3u8
+http://fangsong.live/hls/huya.php?id=11352961
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4009/chunklist0.m3u8
+http://fangsong.live/hls/bili.php?id=21377115
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+http://fangsong.live/hls/huya.php?id=23735126
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
+http://fangsong.live/hls/huya.php?id=880261
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+http://fangsong.live/hls/huya.php?id=11601968
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-http://38.64.72.148/hls/modn/list/4014/chunklist0.m3u8
-#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",j2
-https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",Chino Hills City TV Channel 3/41 (360p)
 https://edge-f.swagit.com/live/chinohillsca/smil:std-4x3-1-a/playlist.m3u8
