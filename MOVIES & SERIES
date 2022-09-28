@@ -31,11 +31,9 @@
 url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11?ticket=6FC9BAB537E100512D508A92161443105F07A3D9"
 },
 
-{
-"name": "IPM I-Asia",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXvnGsGLSuJWa3TWwA9VQER30xrPYEQr8hVRPZqhtY3ycNEXlUphbejhm0jv4u5fp57s&usqp=CAU",
-url:"http://sv1.ilikehd.xyz:25461/888/IslrN4OW0S/71"
-},
+{"name":"IPM I-Asia","image":"https://drive.google.com/uc?export=download&id=1prX0WZjZFtAbq4Iv7U2U1xvvxuDvm50y","url":"http://150.95.25.221:8000/i%2D%20Asia%20HD?u=covid19:p=KkjJidasIilliqQ","userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", "playInNatPlayer": "true"},
+
+{"name":"LIVE SKY 2","image":"https://drive.google.com/uc?export=download&id=1pxoPFAbsr9yH2rnoJNy2Toh-NWRO4fLL","url":"http://150.95.25.221:8000/Live%20Sky2?u=covid19:p=KkjJidasIilliqQ","userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", "playInNatPlayer": "true"},
 
 {"name":"โชคดี ทีวี","image":"https://th.top10place.com/img_files/346492425548903","url":"http://freelive2.inwstream.com:1935/freelive-edge/zeenang/playlist.m3u8"},
 
@@ -107,7 +105,9 @@ url:"http://sv1.ilikehd.xyz:25461/888/IslrN4OW0S/71"
 
 {"name": "Channel 8","image": "https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1" ,"url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"},
 
-{"name": "NK TV","image": "https://sv1.picz.in.th/images/2022/06/23/VgXWxa.jpg","url": "http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8"},
+{"name": "NK TV","image": "https://drive.google.com/uc?export=download&id=1oiTu3icEpEB0ipj4adx1IE_VRIGw7xWz","url": "http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8"},
+
+{"name": "TAYARNFLIX","image": "https://drive.google.com/uc?export=download&id=1kBiORrEJeQRMVbg7xUvtPAiYFsdp41D3","url": "http://st.livestations.tv/playlist_tayarnflix.m3u8","referer": "https://wacth.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
 
 {"name": "70s Cinema","image": "https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" ,"url": "http://player.teleon.tv/us/channel/70s-cinema-us"},
 
@@ -593,7 +593,7 @@ url:"http://sv1.ilikehd.xyz:25461/888/IslrN4OW0S/71"
 
 {"name":"Action Hollywood Movies",image:"https://i.imgur.com/B3RHwVN.png","url": "https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8"},
 
-{"name":"SERIES+ HD",image:"https://www.img.in.th/images/673c79ed4771fdf06d98476b030332cf.png","url": "http://sv1.ilikehd.xyz:25461/live/888/IslrN4OW0S/7.m3u8"},
+{"name":"SERIES+ HD","image":"https://drive.google.com/uc?export=download&id=1pzJMGTRYjpi9muBgrpTdNX6uweuIpnwi","url":"http://150.95.25.221:8000/Series%2B%20HD?u=covid19:p=KkjJidasIilliqQ","userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", "playInNatPlayer": "true"},
 
 {
 "name": "7Flix",  
