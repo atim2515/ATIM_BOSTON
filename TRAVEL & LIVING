@@ -20,7 +20,17 @@
 
 {"name":"HGTV",image:"https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png","url": "https://ustvgo.tv/hgtv-live-streaming-free/"},
 
-{"name":"Outdoor Channel",image:"https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png","url": "https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8"},
+{
+"name": "Outdoor Channel",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/f2c30832-7d77-4a24-88ad-1d30c593bda1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-outdoor&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name":"Pluto TV Backcountry",image:"https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur","url": "http://player.teleon.tv/us/channel/pluto-tv-backcountry-us"},
 
