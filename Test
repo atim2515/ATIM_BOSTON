@@ -50,22 +50,8 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136655
 #EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",disney
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136659
 
-#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",北京通州/
-http://pull.dayuntongzhou.com/live/tztv.m3u8
-#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",吉林公共/
-http://stream1.jlntv.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",吉林乡村/
-http://stream1.jlntv.cn/xcpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",吉林生活/
-http://stream1.jlntv.cn/shpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",吉林公共新闻/
-http://stream1.jlntv.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",吉林都市/
-http://stream1.jlntv.cn/dspd/sd/live.m3u8
-#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",宁夏卫视/
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
-#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",兵团卫视/
-http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CityTVChannel341.us" status="online",北京通州
+http://www.weishizaixian.com/v/52.html
 
 #EXTINF:-1 tvg-id="ShalomTV.us" status="online",Shalom TV (720p) [Not 24/7]
 http://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
