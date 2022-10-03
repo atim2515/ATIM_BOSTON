@@ -52,28 +52,6 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136659
 
 #EXTINF:-1 tvg-id="ShalomTV.us" status="online",Shalom TV (720p) [Not 24/7]
 http://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
-#EXTINF:-1 tvg-id="WJLADT1.us" status="online",ABC 7 Washington DC (WJLA) (720p)
-https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.us" status="online",WKAQ-DT1 (Telemundo Puerto Rico)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKMJDT1.us" status="online",PBS KET Louisville KY (WKMJ-TV) (720p)
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="WKYCDT1.us" status="online",3 Studios Cleveland OH (WKYC) (1080p)
-https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="WLBZDT1.us" status="online",NBC 207 Bangor Portland ME (WLBZ) (1080p)
-https://livevideo01.newscentermaine.com/hls/live/2014540/newscasts/live/wcsh.m3u8
-#EXTINF:-1 tvg-id="WLNGRadio.us" status="online",WLNG Radio (410p) [Not 24/7]
-http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="WLSDT1.us" status="online",WLS TV News (720p)
-https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
-#EXTINF:-1 tvg-id="WLTXDT1.us" status="online",CBS 19 Columbia SC (WLTX) (1080p)
-https://livevideo01.wltx.com/hls/live/2017152/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="WLVTDT1.us" status="online",PBS 39 Allentown PA (WLVT) (720p)
-https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WMAZDT1.us" status="online",CBS 13 Macon GA (WMAZ-TV) (1080p)
-https://livevideo01.13wmaz.com/hls/live/2017376/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="WMGTDT1.us" status="online",WMGT-TV News Macon GA (720p)
-https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
 #EXTINF:-1 tvg-id="WMPTDT1.us" status="online",PBS MPT Baltimore MD (WMPB) (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WMTVDT1.us" status="online",NBC 15 Madison WI (WMTV) (720p)
@@ -88,8 +66,6 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
 #EXTINF:-1 tvg-id="WPIXDT1.us" status="timeout",WPIX 11 (1080p)
 http://71.187.29.220:8000/play/a08o/index.m3u8
-#EXTINF:-1 tvg-id="WPLGDT1.us" status="blocked",abc (WPLG-DT1) Miami FL (720p)
-https://16live00.akamaized.net/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WPMTDT1.us" status="online",Fox 43 Harrisburg PA (WPMT) (1080p)
 https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WPSUDT1.us" status="blocked",PBS (WPSU-DT1) Altoona PA (720p)
