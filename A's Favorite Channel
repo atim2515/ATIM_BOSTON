@@ -87,6 +87,44 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
+{"name": "MVTV ซีรีส์","image": "https://www.mvtv.co.th/wp-content/uploads/2021/02/mvmall_serie.png" ,"url": "https://www.mvtv.co.th/channel/mvtv-series"},
+
+{"name": "TVB ไทย","image": "https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png" ,"url": "https://www.mvtv.co.th/channel/tvb-thai"},
+
+{"name": "Mix Major","image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png" ,"url": "https://www.mvtv.co.th/channel/mix-major-channel"},
+
+{"name": "สยาม","image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg" ,"url": "https://www.mvtv.co.th/channel/siamchannel"},
+
+{"name": "ลิโด้","image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg" ,"url": "https://www.mvtv.co.th/channel/lidochannell"},
+
+{"name": "สกาล่า","image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg" ,"url": "https://www.mvtv.co.th/channel/sakalachannel"},
+
+{"name": "ราม่า","image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg" ,"url": "https://www.mvtv.co.th/channel/ramachannel"},
+
+{"name": "จอมยุทธ์","image": "https://s2.dmcdn.net/v/StXKv1WVIjy5ZeW2u/x1080" ,"url": "https://www.mvtv.co.th/channel/tvd10"},
+
+{"name": "FWMOV","image": "https://sv1.picz.in.th/images/2021/11/12/ueNbxy.jpg" ,"url": "http://freelive.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8"},
+
+{"name": "FWSOV","image": "https://sv1.picz.in.th/images/2021/06/10/s7O8Ne.jpg" ,"url": "http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8"},
+
+{"name":"MEDIA TV","image":"https://cms.dmpcdn.com/livetv/2021/02/24/cc358130-764d-11eb-9057-2d10fb4d0cf4_320.png","url":"https://tv.trueid.net/embed/MediaTV?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+{"name": "CTB","image": "https://f.ptcdn.info/601/063/000/pqcvhsxk7PuKUZbFKv4-o.png" ,"url": "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8"},
+
+{"name": "Channel 8","image": "https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1" ,"url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"},
+
+{"name": "NK TV","image": "https://drive.google.com/uc?export=download&id=1oiTu3icEpEB0ipj4adx1IE_VRIGw7xWz","url": "http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8"},
+
+{"name": "TAYARNFLIX","image": "https://drive.google.com/uc?export=download&id=1kBiORrEJeQRMVbg7xUvtPAiYFsdp41D3","url": "http://st.livestations.tv/playlist_tayarnflix.m3u8","referer": "https://wacth.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+
+{"name": "70s Cinema","image": "https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" ,"url": "http://player.teleon.tv/us/channel/70s-cinema-us"},
+
+{"name": "80s Rewind","image": "https://i.pinimg.com/originals/61/8f/14/618f1405e5de6f552d3d02d550b74d37.png" ,"url": "http://player.teleon.tv/us/channel/80s-rewind-us"},
+
+{"name": "90s Throwback","image": "https://images.pluto.tv/channels/5f4d86f519358a00072b978e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" ,"url": "http://player.teleon.tv/us/channel/90s-throwback-us"},
+
+{"name": "90210","image": "https://pbs.twimg.com/media/Ejf7VrVU8AEJLDD.jpg" ,"url": "http://player.teleon.tv/us/channel/90210-us"},
+
     
 ]
 }
