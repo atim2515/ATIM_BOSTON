@@ -125,8 +125,27 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "90210","image": "https://pbs.twimg.com/media/Ejf7VrVU8AEJLDD.jpg" ,"url": "http://player.teleon.tv/us/channel/90210-us"},
 
+{"name": "Baywatch","image": "https://pbs.twimg.com/media/EHb_-sMW4AItkwP.jpg" ,"url": "http://player.teleon.tv/us/channel/baywatch-us"},
+
+{"name": "CSI","image": "https://pbs.twimg.com/media/Ec6y88JXsAIesoq.png:large" ,"url": "http://player.teleon.tv/us/channel/csi-us"},
+
 {"name": "Thrill","image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" ,"url": "http://210.210.155.37/qwr9ew/s/s34/index.m3u8"},
 
-    
+{"name": "Shout! Factory TV","image": "https://pbs.twimg.com/profile_images/1366411943498686464/dQmyK9-b.jpg" ,"url": "https://shoutfactory-xumo.amagi.tv/playlist.m3u8"},
+
+{"name": "Midnight Pulp TV","image": "https://www.midnightpulp.com/channels/mp/channel-banner.png" ,"url": "https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=263&ads.wurl_name=MidnightPulp"},
+
+{"name": "Dark Matter TV","image": "https://play-lh.googleusercontent.com/2pttSLCr3eRQdpKh_ikVv-aeIM4IQDgLqcnCuJUyamzQlTRxRYXCJeawWizGux9v-k4" ,"url": "https://dmtv-plex.amagi.tv/playlist.m3u8"},
+
+{"name": "MovieSphere","image": "https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" ,"url": "https://moviesphere-plex.amagi.tv/playlist.m3u8"},
+
+{"name": "American Horrors","image": "https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg" ,"url": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8"},
+
+{"name": "Bloody Disgusting","image": "https://upload.wikimedia.org/wikipedia/en/7/7f/Bloody_Disgusting.PNG" ,"url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8"},
+
+{"name": "Flicks of Fury","image": "https://corporate.pluto.tv/wp-content/uploads/2017/05/FLICKSofFURY_3_Facebook_1200x628-1.png" ,"url": "http://player.teleon.tv/us/channel/flicks-of-fury-us"},
+
+{"name": "KIX","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" ,"url": "https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8"},
+
 ]
 }
