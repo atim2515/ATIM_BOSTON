@@ -162,6 +162,12 @@
 
 {"name":"TOP News",image:"https://images.topnews.co.th/2021/04/cropped-topnews-logo.png","url": "https://www.adintrend.tv/hd/ch40?t=live"},
 
+{
+"name": "JKN-CNBC",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CNBC.png",
+"url" : "https://aisplay.ais.co.th/portal/live?vid=628afb3359cb25f3fc0cbb6c",
+"referer": "https://web-player.ais-vidnt.com","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"},
+
 {"name":"DLTV 1",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV1/header_webboard.png","url": "https://www.dltv.ac.th/streaming"},
 
 {"name":"DLTV 2",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV2/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV2"},
@@ -198,7 +204,12 @@
 
 {"name":"White Channel",image:"https://sites.google.com/site/s5720610137/_/rsrc/1472844836043/white-channel/WhiteChannel.jpg","url": "https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8"},
 
-{"name":"JKN 18",image:"https://mpics.mgronline.com/pics/Images/564000004092001.JPEG","url": "https://tvjaa.com/jkn18.html"},
+{
+
+"name": "JKN Hi Shopping",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKNHiShopping.png",
+"url" : "https://aisplay.ais.co.th/portal/live?vid=59a9b265aae7311c5f0cc5e3",
+"referer": "https://web-player.ais-vidnt.com","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"},
 
 {"name":"O Shopping",image:"https://image.oshoppingtv.com/media/wysiwyg/faq/banner-1.jpg","url": "https://www.oshoppingtv.com/"},
 
@@ -217,6 +228,12 @@
 {"name":"AIS PLAY STADIUM 7","image":"https://sv1.picz.in.th/images/2021/11/17/6drZSW.png","url":"https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8","referer": "https://olympic-embed.ais-vidnt.com/","playInNatPlayer": "true"},
 
 {"name":"AIS PLAY STADIUM 8","image":"https://sv1.picz.in.th/images/2021/11/17/6drZSW.png","url":"https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8","referer": "https://olympic-embed.ais-vidnt.com/","playInNatPlayer": "true"},
+
+{"name": "AIS 5G e-Sports S Series","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SSereisMSV.png","url": "https://bit.ly/3ypZtOY",
+"referer": "https://bit.ly/3ypZtOY",
+"origin": "https://ais-s.ais-vidnt.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
     
 ]
 }
