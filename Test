@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
+http://15.235.82.195/get.php?username=c91cf98d-0c9b-4fd1-a4a6-054de1e73e1e&password=ocdJVE7YEN&type=m3u_plus
+#EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
+http://15.235.82.195/get.php?username=shoGKhRtIR&password=VVMRjRlYh7&type=m3u_plus
+#EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
+http://15.235.82.195/get.php?username=xFSWEv0UmU&password=6jY64bAO3X&type=m3u_plus
+#EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
+http://15.235.82.195/get.php?username=cc8ujfkkr&password=kYuOTF4QUE&type=m3u_plus
+
 
 #EXTINF:-1 tvg-id="WMPTDT1.us" status="online",PBS MPT Baltimore MD (WMPB) (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
