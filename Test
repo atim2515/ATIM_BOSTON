@@ -1,13 +1,21 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
-http://15.235.82.195/get.php?username=c91cf98d-0c9b-4fd1-a4a6-054de1e73e1e&password=ocdJVE7YEN&type=m3u_plus
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
-http://15.235.82.195/get.php?username=shoGKhRtIR&password=VVMRjRlYh7&type=m3u_plus
+https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
-http://15.235.82.195/get.php?username=xFSWEv0UmU&password=6jY64bAO3X&type=m3u_plus
+https://mtvdashliveusp2-a.akamaized.net/live/E39USP/E39USP.isml/E39USP.m3u8
 #EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
-http://15.235.82.195/get.php?username=cc8ujfkkr&password=kYuOTF4QUE&type=m3u_plus
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/high.m3u8
+#EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
+https://emisoras.hn:8081/tsh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-id="WMPTDT1.us" status="online",a (1080p)
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="WMPTDT1.us" status="online",PBS MPT Baltimore MD (WMPB) (1080p)
