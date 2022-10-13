@@ -747,5 +747,21 @@
 {"name":"Rev'n",image:"https://upload.wikimedia.org/wikipedia/commons/2/29/Rev%27n_logo.jpg","url": "https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8"},
 
 {"name":"Scream Factory TV",image:"https://www.shoutfactory.com/media_cache/userFiles/uploads/Shout_TV/max2000/ScreamFactoryTV_Logo.png","url": "https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8"},
+
+{"name":"Shop LC",image:"https://play-lh.googleusercontent.com/4iA6XSN5FubWElaak-dCLcSqtuRDiILEGm_w8u3ByYoMvwVq2h58N2PfxMjiaugRNgvF","url": "https://cdn.igocast.com/channel10_hls/channel10_master.m3u8"},
+
+{"name":"The Grapevine",image:"https://image.roku.com/developer_channels/prod/ffdf653a4b63ebefd17dce105d64e301ef0b8b0f8ba0932558d8774092c23042.png","url": "https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us"},
+
+{"name":"Toonami Aftermath",image:"https://static.wikia.nocookie.net/toonami/images/0/0f/Toonami_aftermath_logo.png/revision/latest?cb=20121120205018","url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8"},
+
+{"name":"Toonami Aftermath Movies",image:"https://static.wikia.nocookie.net/toonami/images/0/0f/Toonami_aftermath_logo.png/revision/latest?cb=20121120205018","url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8"},
+
+{"name":"Toonami Aftermath Radio",image:"https://static.wikia.nocookie.net/toonami/images/0/0f/Toonami_aftermath_logo.png/revision/latest?cb=20121120205018","url": "http://api.toonamiaftermath.com:3000/radio/playlist.m3u8"},
+
+{"name":"VH1",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vigmAxQ8HSaemSxtWKWpuihN9W8wSAQFYFPVfMp9_TG2tJeFF5Zz0xwpmhPG4Jxn3NI&usqp=CAU","url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"},
+
+{"name":"WDAY-X Automatic Weather Frago ND",image:"https://play-lh.googleusercontent.com/WwQOsEj-Ph3sRllXND0mBHDPDPwImM58mOGCN0aWwHEE7lC-gUCw6LoBm66gqiwJMqk","url": "https://player-api.new.livestream.com/accounts/27442514/events/8331542/live.m3u8"},
+
+{"name":"WeatherNation",image:"https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png","url": "https://cdn.igocast.com/channel6_hls/channel6_master.m3u8"},
 ]
 }
