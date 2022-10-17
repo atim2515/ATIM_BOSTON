@@ -98,13 +98,36 @@
 
 {"name":"4050",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwVYaWgx_-hNVV8HCu9RXFiuGCHzLGofvof4qFoihcNdcFk-ZH8sX3ffPPruM0r_PFg&usqp=CAU","url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c454034384m5c4a494i513s2s2p274a4w2l5o5q2s244x2"},
 
-{"name":"SUN","image": "https://sv1.picz.in.th/images/2021/01/26/lVgBqD.png","url": "http://tvfree.gleeze.com/feed/202205171329/LC1/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ {
+"name": "SUN",  
+"image": "https://drive.google.com/uc?id=1sc29bRrgnEt9rycGwYZJWJk4GVcsNloo",  
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8",
+"userAgent": "exoplayer_video",
+"info": "TIM TV"},
 
-{"name":"SAMURAI","image": "https://sv1.picz.in.th/images/2021/01/26/lVg0Fg.png","url": "http://tvfree.gleeze.com/feed/202205171329/LC2/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{
+"name": "SAMURAI",  
+"image": "https://drive.google.com/uc?id=1sWiRSQUbD3wwqYRwc8saoYhhrEPsb30R",  
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC2/index.m3u8",
+"userAgent": "exoplayer_video"},
 
-{"name":"BOX FILM",image:"https://drive.google.com/uc?export=download&id=1I1UceUstxuzi3a-lVKoGR4PMkYmVHOW8","url": "http://tvfree.gleeze.com/feed/202205171329/LC52/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{
+"name": "BOX FILM",
+"image":"https://tv.sritown.com/images/chlogo/box-film.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8",
+"userAgent": "exoplayer_video"},
  
-{"name":"MOVIES WORLD 1","image": "https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png","url": "http://tvfree.gleeze.com/feed/202205171329/LC11/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{
+name:"MOVIES WORLD 1 ",
+image:"https://www.kindpng.com/picc/m/8-80652_world-movies-logo-png-transparent-png.png",
+url:"http://61.19.242.134/feed/202205171929/LC11/index.m3u8",
+"userAgent": "exoplayer_video"},
+
+{
+"name": "7Flix",  
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png",  
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC5/index.m3u8",
+"userAgent": "exoplayer_video", "info": "TIM TV"},
 
 {
 "name": "POPART MOVIE","image": "https://sv1.picz.in.th/images/2022/03/11/rrJ89D.jpg",
@@ -355,6 +378,10 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name":"Thai Tomorrow TV",image:"https://thaitvstream.com/streaming/thaitomorrowtv/thaitomorrowtv.png","url": "https://www.ทีวีท้องถิ่นไทย.com/count.php?id=29&url=https://live.thaitvstream.com/play/thaitomorrowtv/index.m3u8"},
 
+{
+"name": "            TRT UHD",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png",
+"url":"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=400958&extension=ts&play_token", "referer": "", "info": "TIM TV", "playInNatPlayer": "true"},
 
 
 ]
