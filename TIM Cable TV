@@ -168,13 +168,30 @@
 
 {"name": "NK TV","image": "https://drive.google.com/uc?export=download&id=1oiTu3icEpEB0ipj4adx1IE_VRIGw7xWz","url": "http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8"},
 
-{"name":"SUN","image": "https://sv1.picz.in.th/images/2021/01/26/lVgBqD.png","url": "http://tvfree.gleeze.com/feed/202205171329/LC1/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{
+"name": "SUN",  
+"image": "https://drive.google.com/uc?id=1sc29bRrgnEt9rycGwYZJWJk4GVcsNloo",  
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8",
+"userAgent": "exoplayer_video",
+"info": "TIM TV"},
 
-{"name":"SAMURAI","image": "https://sv1.picz.in.th/images/2021/01/26/lVg0Fg.png","url": "http://tvfree.gleeze.com/feed/202205171329/LC2/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{
+"name": "SAMURAI",  
+"image": "https://drive.google.com/uc?id=1sWiRSQUbD3wwqYRwc8saoYhhrEPsb30R",  
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC2/index.m3u8",
+"userAgent": "exoplayer_video"},
 
-{"name":"BOX FILM",image:"https://drive.google.com/uc?export=download&id=1I1UceUstxuzi3a-lVKoGR4PMkYmVHOW8","url": "http://tvfree.gleeze.com/feed/202205171329/LC52/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{
+"name": "BOX FILM",
+"image":"https://tv.sritown.com/images/chlogo/box-film.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8",
+"userAgent": "exoplayer_video"},
  
-{"name":"MOVIES WORLD 1","image": "https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png","url": "http://tvfree.gleeze.com/feed/202205171329/LC11/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{
+name:"MOVIES WORLD 1 ",
+image:"https://www.kindpng.com/picc/m/8-80652_world-movies-logo-png-transparent-png.png",
+url:"http://61.19.242.134/feed/202205171929/LC11/index.m3u8",
+"userAgent": "exoplayer_video"},
 
 {
 "name": "POPART MOVIE","image": "https://sv1.picz.in.th/images/2022/03/11/rrJ89D.jpg",
@@ -363,9 +380,9 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {
 "name": "7Flix",  
-"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png", 
-"url": "http://tvfree.gleeze.com/feed/202205171329/LC5/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png",  
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC5/index.m3u8",
+"userAgent": "exoplayer_video", "info": "TIM TV"},
 
 {"name":"SANOOK",image:"https://drive.google.com/uc?export=download&id=1OBWOD9IZ3sdJTBL-izNVldG-59P5qVeZ","url": "http://tvfree.gleeze.com/feed/202205171329/LC53/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
