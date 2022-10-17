@@ -378,10 +378,48 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name":"Thai Tomorrow TV",image:"https://thaitvstream.com/streaming/thaitomorrowtv/thaitomorrowtv.png","url": "https://www.ทีวีท้องถิ่นไทย.com/count.php?id=29&url=https://live.thaitvstream.com/play/thaitomorrowtv/index.m3u8"},
 
+{"name":"BBC World News",image:"https://i.imgur.com/B3RHwVN.png","url": "http://78.83.191.18:8000/play/a07a"},
+
+{"name":"CNA",image:"https://i.imgur.com/B3RHwVN.png","url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8"},
+
+{"name":"Euronews",image:"https://i.imgur.com/B3RHwVN.png","url": "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"},
+
+{"name":"Al Jazeera",image:"https://i.imgur.com/B3RHwVN.png","url": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"},
+
+{"name":"Love Nature",image:"https://i.imgur.com/B3RHwVN.png","url": "http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"},
+
+{"name":"Smithsonian Channel HD",image:"https://i.imgur.com/B3RHwVN.png","url": "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"},
+
+{"name":"TV5Monde",image:"https://i.imgur.com/B3RHwVN.png","url": "http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8"},
+
 {
 "name": "            TRT UHD",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png",
 "url":"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=400958&extension=ts&play_token", "referer": "", "info": "TIM TV", "playInNatPlayer": "true"},
+
+{"name":"NHK World",image:"https://i.imgur.com/B3RHwVN.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8"},
+
+{"name":"NHK General TV",image:"https://i.imgur.com/B3RHwVN.png","url": "https://nhk2.mov3.co/hls/nhk.m3u8"},
+
+{"name":"Arirang",image:"https://i.imgur.com/B3RHwVN.png","url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"},
+
+{"name":"KBS World",image:"https://i.imgur.com/B3RHwVN.png","url": "https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8"},
+
+{"name":"KBS 1",image:"https://i.imgur.com/B3RHwVN.png","url": "http://ye23.vip/z7z8/2021/kbs2020.php?id=1"},
+
+{"name":"KBS 2",image:"https://i.imgur.com/B3RHwVN.png","url": "http://ye23.vip/z7z8/2021/kbs2020.php?id=2"},
+
+{"name":"TVN",image:"https://i.imgur.com/B3RHwVN.png","url": "http://210.210.155.37/dr9445/h/h20/index.m3u8"},
+
+{"name":"MBC KOREA",image:"https://i.imgur.com/B3RHwVN.png","url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8"},
+
+{"name":"TJB SBS KOREA",image:"https://i.imgur.com/B3RHwVN.png","url": "http://1.245.74.5:1935/live/tv/.m3u8"},
+
+{"name":"Channel A Korea",image:"https://i.imgur.com/B3RHwVN.png","url": "http://ye23.win/iptv/korea2021.php?id=Channel"},
+
+{"name":"YTN",image:"https://i.imgur.com/B3RHwVN.png","url": "http://nettvpro.live/hls/naver.php?id=3074734"},
+
+{"name":"TVBS",image:"https://i.imgur.com/B3RHwVN.png","url": "http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5"},
 
 
 ]
