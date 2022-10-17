@@ -66,26 +66,80 @@ http://ye23.win/iptv/korea2021.php?id=Channel
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",Smithsonian Channel HD
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",Smithsonian Channel HD
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
+http://livetv.dnsfor.me/channel.18.m3u8
+#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+//#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
+//http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
+#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
+http://m.567it.com/jade.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="香港",無線互動新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="香港",無線財經資訊台
+http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000515620839/621dfe1a3a58fd2a4971dac155c830d1_400x400.png" tvg-name="" group-title="香港",無線電視J1台
+https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",Smithsonian Channel HD
-http://media.fantv.hk/m3u8/archive/channel.m3u8
+//#EXTINF:0 tvg-logo="https://www.chillglobal.com/images/channels/tvb-j2-1432636011.jpg" tvg-name="" group-title="香港",無線電視J2台
+//http://livetv.dnsfor.me/channel.19.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",Smithsonian Channel HD
-http://media.fantv.hk/m3u8/archive/channe2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" tvg-name="" group-title="香港",無線電視明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",Smithsonian Channel HD
-http://media.fantv.hk/m3u8/archive/channe3.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV
+http://livetv.dnsfor.me/channel.20.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",Smithsonian Channel HD
-http://media.fantv.hk/m3u8/archive/channel3.m3u8
+#EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="香港",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",Smithsonian Channel HD
-http://media.fantv.hk/m3u8/archive/channel4.m3u8
+#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
+http://livetv.dnsfor.me/channel.5.m3u8
+#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線新聞直播台
+http://teslagram.com/live/channel_110.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
+http://livetv.dnsfor.me/channel.6.m3u8
+#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線綜合娛樂台
+http://livetv.dnsfor.me/channel.7.m3u8
+//#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f5/I-CABLE_Channel18.png/220px-I-CABLE_Channel18.png" group-title="香港",有線18台
+//http://pullstream-ucan.speedws.com/live/65a9327d633a25634b1db9eff823071e/playlist.m3u8
+//#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q113132S50-L.jpg" group-title="香港",有線603台
+//http://pullstream-ucan.speedws.com/live/d910706635c34f85df619019bf9ca089/playlist.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",Smithsonian Channel HD
-	p2p://96.44.141.58:6038/57a46017000b1582e64c107e6b7456f5
+#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now新聞台
+http://teslagram.com/live/channel_332.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="香港",Now直播台
+http://teslagram.com/live/channel_331.m3u8
+#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20040Q335270-L.jpg" group-title="香港",NowSportsPRIME
+http://livetv.dnsfor.me:80/channel.12.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="香港",rthk31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
+http://livetv.dnsfor.me/channel.2.m3u8
+
+
+#EXTINF:0 tvg-logo="" tvg-name="亞旅衛視" group-title="香港",亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:0 tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225144GK51.png" tvg-name="星空衛視" group-title="香港",星空衛視
+rtmp://58.200.131.2:1935/livetv/startv?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="https://www.searchpng.com/wp-content/uploads/2019/02/Star-Sports-Logo-PNG-Image-1024x1024.png" tvg-name="" group-title="香港",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+
+#EXTINF:-1 tvg-logo="https://www.qingmo.net/wp-content/uploads/2019/02/fhwszxt.jpg" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
+https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_hi_1080p.m3u8
+//#EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
+//https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/42/香港卫视HKS.jpg" tvg-name="" group-title="香港",香港衛視HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 
 
 
