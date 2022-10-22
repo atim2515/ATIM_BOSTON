@@ -222,6 +222,13 @@
 
 {"name":"K-Daily Tv",image:"https://booksandbeautiescom.files.wordpress.com/2017/06/blackpink-as-if-it-s-your-last-m-v-black-pink-40517078-500-231.gif","url": "https://asrazunifi.ddns.net:8443/live.m3u8"},
 
+{
+"name":"THE K-POP",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa5NvuFKyJyMDpM2VWJLYAU_LdpAgw9N5uyw&usqp=CAU",
+"url":"https://youtu.be/F4aby5WN1Rw", "userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
 {"name": "TNT Music HD","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pHmH6gYom1gyxwsWtZxFm2mB9NdZ8FhS_qArfi7MsfKfYJpwGfLo3AncRxLHOiAiPQE&usqp=CAU" ,"url": "http://83.222.205.65:8080/tntmusic/index.m3u8"},
 
 {"name": "Now 70's","image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL" ,"url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"},
@@ -229,5 +236,14 @@
 {"name": "Now 80's","image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-01/Now80s-logo255x140.png?itok=jOXm9NjN" ,"url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8"},
 
 {"name": "Now 90's","image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-01/now90s255x140.jpg?itok=v4ebJsn1" ,"url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"},
+
+ {
+ "name": "MTV HITS",
+ "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png",
+ "url": "http://190.2.155.162:8080/mtvhit/mpegts",
+ "userAgent": "REDLINECLIENT 650HD_PRO V2.7.59",
+ "isHost": false
+ },
+ 
 ]
 }
