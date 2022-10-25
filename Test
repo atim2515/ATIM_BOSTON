@@ -1,6 +1,19 @@
 #EXTM3U
  
 
+#EXTINF:1 ,Kansai TV
+https://cdnv148.cloudrsst.com/jptv/kansi_tv_720/playlist.m3u8
+#EXTINF:1 ,ABC Asahi
+https://cdnv148.cloudrsst.com/jptv/kansi_abc_asahi_720/playlist.m3u8
+#EXTINF:1 ,YTV Yomiuri TV
+https://cdnv148.cloudrsst.com/jptv/kansi_yomiuri_720/playlist.m3u8
+#EXTINF:1 ,MBS TV
+https://cdnv148.cloudrsst.com/jptv/kansi_mbs_720/playlist.m3u8
+#EXTINF:1 ,Sun TV
+https://cdnv148.cloudrsst.com/jptv/kansi_sun_tv_720/playlist.m3u8
+#EXTINF:1 ,TV Osaka
+https://cdnv148.cloudrsst.com/jptv/kansi_tv_osaka_720/playlist.m3u8
+
 #EXTINF:1 ,上虞1新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:1 ,上虞3新商都
