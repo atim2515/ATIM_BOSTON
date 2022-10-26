@@ -145,5 +145,14 @@
 {"name":"SBB TV",image:"https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png?v=202012190947","url": "http://edge3-bkk.3bb.co.th:1935/sbbtv999/sbbtv.stream_live1/playlist.m3u8"},
 
 {"name":"Thai Tomorrow TV",image:"https://thaitvstream.com/streaming/thaitomorrowtv/thaitomorrowtv.png","url": "https://www.ทีวีท้องถิ่นไทย.com/count.php?id=29&url=https://live.thaitvstream.com/play/thaitomorrowtv/index.m3u8"},
+
+{
+"name": "UMMTV","image": "https://photos.live-tv-channels.org/tv-logo/th-umm-tv-4419-300x225.jpg",
+"url":"https://symc-cdn.violin.co.th/madoit/timetv/playlist.m3u8",
+"referer": "xxx",
+"info": " TIM TV ",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
 ]
 }
