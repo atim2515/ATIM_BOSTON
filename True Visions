@@ -170,19 +170,23 @@
 
 {"name": "True Korean More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/truekoreanmore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{"name"          :  "True Asian More",
-"image"          :  "http://tvsmagazine.com/images/channels/sm_158.jpg",
-"url"            :  "https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE1OjU0IEFNJmhhc2hfdmFsdWU9ZWJIWTVKOEh6cmFuQmtDdStUK2p5dz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNSZpZD1jaF84NjI1MA==",
-"referer"        :  "https://wacth.tv/",
-"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info" : "TIM TV",
-"playInNatPlayer": "true"},
+{
+"name": "True Asian More",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-asianmore&api_key=hmcb4rf66f#ref=dooball66.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "True Series","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/trueseries.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
 {"name"          :  "CCM",
 "image"          :  "https://freetvdd.com/wp-content/uploads/2019/12/ccm-1.png",
-"url"            :  "https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE1OjIyIEFNJmhhc2hfdmFsdWU9UWNlNy80ck10K3lybFhvS0g5YnhmUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8xODEwOQ==",
+"url"            :  "http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115636&extension=ts&play_token",
 "referer"        :  "https://wacth.tv/",
 "userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "info" : "TIM TV",
