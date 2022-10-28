@@ -99,11 +99,11 @@
 {"name": "True Film HD 2","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/XzIivJOwDozc5ievk7vcL4ZMALbSvXmhd-tfilm2.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f","referer": "https://dooball66.com/",   "info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
 {
-"name": "True Movie Hits",
-"image": "http://tvsmagazine.com/images/channels/sm_057.jpg",
-"url": "https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjE0OjMwIEFNJmhhc2hfdmFsdWU9dDRQMzFpQWhmcElMMFlab0IxWUFGUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNCZpZD1jaF8yNDE0Nw==",
-"referer": "https://wacth.tv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"name":"True Movie Hits",
+"image":"https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",
+"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com/",
+"info":"TIM TV"
 },
 
 {
@@ -228,9 +228,14 @@ playInNatPlayer: "true"
 
 {
 "name": "KMTV",
-"image": "http://tvsmagazine.com/images/channels/sm_KMTV.jpg",
-"url": "https://bit.ly/3vt4xR2",
-"referer": "https://wacth.tv/"
+"image": "https://images.livebox.co/images/tv/png/hd-kmtv.png",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-kmtv&api_key=hmcb4rf66f#ref=dooball66.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
 {
