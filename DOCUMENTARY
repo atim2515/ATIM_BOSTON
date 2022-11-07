@@ -36,8 +36,18 @@
 				"referer": "https://dooball66.com/",   
 				"info": "TIM TV",
 				"embed": "true",playInNatPlayer: "true"},
+				
+{"name":"National Geographic",image:"https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png","url": "https://www.doofootball.com/dootv/live/natgeo#main_dootv"},				
 
 {"name":"National Geographic Abu Dhabi",image:"https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png","url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8"},
+
+{
+				"name": "NAT GEO Wild",
+				"image": "http://idooxtream.streaming-fast.com/xtream/LOGO/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
+                "url": "http://203.154.243.88:11088/hi/natgeo",
+			    referer:"",
+			   	"info": "TIM TV",
+				"desktop": "true"},
 
 {"name":"Pluto TV Animals",image:"https://pbs.twimg.com/media/ElhFU6zUYAAm-tS.jpg:large","url": "http://player.teleon.tv/us/channel/pluto-tv-animals-us"},
 
@@ -52,8 +62,6 @@
 {"name":"History Channel Best of",image:"https://cdn.freebiesupply.com/logos/thumbs/2x/history-channel-logo.png","url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8"},
 
 {"name":"Local Now Discover",image:"https://image.roku.com/developer_channels/prod/b4e8385b18098ab1a09bb81760ef44835c59464fb807e0a27c926acc5003fa71.png","url": "https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8"},
-
-{"name":"National Geographic",image:"https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png","url": "https://www.doofootball.com/dootv/live/natgeo#main_dootv"},
 
 {"name":"NASA TV",image:"https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png","url": "https://www.nasa.gov/multimedia/nasatv/#public"},
 
@@ -76,16 +84,6 @@
 {"name":"Spark Tv",image:"https://i.ytimg.com/vi/wA7D0MBqymc/maxresdefault.jpg","url": "https://sparktv-samsunguk.amagi.tv/playlist.m3u8"},
 
 {"name":"Amazing Discoveries TV",image:"https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png","url": "http://streamstat.net/videoplayer.cgi?sid=116370345&ext=.m3u8"},
-
-{
-				"name": "NAT GEO Wild",
-				"image": "http://idooxtream.streaming-fast.com/xtream/LOGO/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
-                "url": "http://203.154.243.88:11088/hi/natgeo",
-			    referer:"",
-			   	"info": "TIM TV",
-				"desktop": "true"},
-
-
 
 ]
 }
