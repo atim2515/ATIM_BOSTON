@@ -615,7 +615,10 @@ playInNatPlayer: "true"},
 
 {name:"BBC Earth",image:"https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png","url": " https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8 ", "referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
  
-{name:"BBC Lifestyle",image:"http://tvsmagazine.com/images/channels/sm_130.jpg",url:"https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8",referer:""},
+{
+"name": "BBC Lifestyle",
+"image":"https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",
+"url":"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbclifestyle/playlist.m3u8", "referer": "https://www.doofootball.com/dootv/live", "info": "TIM TV", "playInNatPlayer": "true"},
 
 {"name":"Discovery Asia",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png","url": "https://www.doofootball.com/dootv/live/discoveryasia#main_dootv"},
 
