@@ -32,6 +32,12 @@
 
 {"name":"JKN 18","image": "https://images.livebox.co/images/tv/png/sd-new.png","url": "https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
+{
+"name": "JKN-CNBC",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CNBC.png",
+"url" : "https://aisplay.ais.co.th/portal/live?vid=628afb3359cb25f3fc0cbb6c",
+"referer": "https://web-player.ais-vidnt.com","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"},
+
 {"name":"ONE 31",image:"https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png","url": "http://183.89.246.119:8010/play/a00e/index.m3u8"},
 
 {"name":"Thairath TV",image:"https://www.thairath.co.th/assets/tv/img/250PX/trtv_logo2.jpg","url": "http://183.89.246.119:8010/play/a00i/index.m3u8"},
