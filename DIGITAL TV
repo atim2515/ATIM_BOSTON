@@ -42,6 +42,8 @@
 
 {"name":"Thairath TV",image:"https://www.thairath.co.th/assets/tv/img/250PX/trtv_logo2.jpg","url": "http://183.89.246.119:8010/play/a00i/index.m3u8"},
 
+{"name":"Mono29",image:"https://overseer.blackboxsys.net/images/png/hd-mono.png","url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8"},
+
 {"name":"True4U",image:"https://www.true4u.com/images/true4u.jpg","url": "https://moviektu.com/key/live/digital/True4u/playlist.m3u8"},
 
 {"name"              :     "Workpoint",
@@ -49,6 +51,8 @@
 "url"               :     "https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8",
 "referer"           :  "https://www.siammovie-hd.com/",
 "playInNatPlayer"   :     "true"},
+
+{"name":"TNN16",image:"https://i.imgur.com/hD3wGq3.png","url": "http://183.89.246.119:8010/play/a00b/index.m3u8"},
 
 {"name":"ALTV 4",image:"https://i.ytimg.com/vi/2X0u7OjYWnE/maxresdefault.jpg","url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"},
 
