@@ -467,7 +467,7 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/VoiceTV.png/120px-VoiceTV.png",             
 "url": "https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/voice_480p/playlist.m3u8", "playInNatPlayer": "true" },
 
-{"name":"TOP NEWS",image:"https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png","url": "https://www.topnews.co.th/"},
+{"name":"TOP NEWS",image:"https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png","url": "https://live.topnews.co.th/hls/topnews.m3u8"},
 
 {"name":"CNN",image:"https://i.imgur.com/oHXDurA.png","url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"},
 
@@ -1191,8 +1191,6 @@ playInNatPlayer: "true"},
 {"name":"TVB NEWS",image:"https://www.tvchinese.net/uploads/tv/tvb-news.jpg","url": "http://9.zhxinda.xyz/newss.php?id=1"},
 
 {"name":"TVB Finance & Information",image:"http://fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg","url": "https://tvp22.sky4k.top/index2.php"},
-
-{"name":"TVB Xing He",image:"https://adeasy.co/storage/images/media_profile/picture/1613716056_497_small.jpg","url": "http://104.238.221.63:9138/stream/live/c20114.m3u8"},
 
 ]
 }
