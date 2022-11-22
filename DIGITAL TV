@@ -24,7 +24,7 @@
 
 {"name":"8",image:"https://cms.kapook.com/uploads/tag/39/ID_38576_5878a2f99d1af.jpg","url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8"},
 
-{"name":"AMARIN TV",image:"https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png","url": "https://moviektu.com/key/live/digital/Amarintv-HD/playlist.m3u8"},
+{"name":"AMARIN TV",image:"https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png","url": "http://183.89.246.119:8010/play/a00r/index.m3u8"},
 
 {"name":"PPTV HD",image:"https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png","url": "http://183.89.246.119:8010/play/a00s/index.m3u8"},
 
@@ -44,7 +44,9 @@
 
 {"name":"Mono29",image:"https://overseer.blackboxsys.net/images/png/hd-mono.png","url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8"},
 
-{"name":"True4U",image:"https://www.true4u.com/images/true4u.jpg","url": "https://moviektu.com/key/live/digital/True4u/playlist.m3u8"},
+{
+"name": "True4U", "image": "https://www.true4u.com/images/true4u.jpg", 
+"url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "TIM TV", "desktop": "true"},
 
 {"name"              :     "Workpoint",
 "image"             :     "https://play-lh.googleusercontent.com/n14mShxRKxDUcWUur0cZEH2Ww--hzYNRfbIYRhG1inckuyXOezKemaDPli0bGxaQNvc",
@@ -54,7 +56,14 @@
 
 {"name":"TNN16",image:"https://i.imgur.com/hD3wGq3.png","url": "http://183.89.246.119:8010/play/a00b/index.m3u8"},
 
-{"name":"Nation TV",image:"https://us-fbcloud.net/wb/data/1134/1134684-img.tk0g16.w7se.jpg","url": "https://moviektu.com/key/live/digital/Nationtv/playlist.m3u8"},
+{
+"name": "TNN2",  
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2Ff1b957db-b175-45fc-ab2b-60150f9c570a.png&w=320&h=240",  
+"url":"https://tv.trueid.net/embed/tnn-2?autoplay=yes&nopageview=yes", "referer": "https://tv.trueid.net", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+{
+"name": "Nation TV", "image": "https://cms.kapook.com/uploads/tag/42/ID_41851_5c93153cacbdc.jpg",  
+"url":"https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/nation_480p/playlist.m3u8", "referer": "https://www.doofootball.com/", "info": "TIM TV", "desktop": "true"},
 
 {"name":"TOP NEWS",image:"https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png","url": "https://live.topnews.co.th/hls/topnews.m3u8"},
 
@@ -114,7 +123,10 @@
 
 {"name":"NEWS1",image:"https://upload.wikimedia.org/wikipedia/th/thumb/a/a0/News12017.png/500px-News12017.png","url": "https://server1.streamssl.com/stream/news1_hi.m3u8"},
 
-{"name":"VOICE TV",image:"https://yt3.ggpht.com/ytc/AAUvwniZOsjMBK_TZs0hbTpLZ-aiLa1NPbAuF9szViacWHs=s900-c-k-c0x00ffffff-no-rj","url": "https://www.voicetv.co.th/live"},
+{
+"name": "Voice TV",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/VoiceTV.png/120px-VoiceTV.png",             
+"url": "https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/voice_480p/playlist.m3u8", "playInNatPlayer": "true" },
 
 {"name":"HI NEWS",image:"https://i.ytimg.com/vi/_CkciYQqmdg/maxresdefault.jpg","url": "http://203.154.243.89:4555/got/hinews"},
 
