@@ -463,9 +463,10 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 "url":"https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/nation_480p/playlist.m3u8", "referer": "https://www.doofootball.com/", "info": "TIM TV", "desktop": "true"},
 
 {
-"name": "Voice TV",
+"name": "  Voice TV",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/VoiceTV.png/120px-VoiceTV.png",             
-"url": "https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/voice_480p/playlist.m3u8", "playInNatPlayer": "true" },
+"url": "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+"playInNatPlayer": "true" },
 
 {"name":"TOP NEWS",image:"https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png","url": "https://live.topnews.co.th/hls/topnews.m3u8"},
 
@@ -518,7 +519,9 @@ playInNatPlayer: "true"},
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
 
-{"name":"ถิ่นใต้",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5r08THChLAIzSpAeZQXNoMhFNBOthmmLfeSv2NeCSWOOAbpNhirmpaouooJ0oAhh9QVY&usqp=CAU","url": "http://freelive2.inwstream.com:1935/freelive-edge/the_battle.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMiAxMDoxMjoyMCBBTSZoYXNoX3ZhbHVlPTNKbUVXYTRiOUkwQzEzN3lVdGFPa2c9PSZ2YWxpZG1pbnV0ZXM9Mg==&demo"},
+{name:"                ถิ่นใต้",
+image:"http://sun9-83.userapi.com/s/v1/ig2/lL76bdFZnckqZX24C1mmyxMBAqz9jIo1TwWN5N4C4mWWG49dmgEA9ab2mgsfgqIG-tzfjejsfnkb_7ncQmAKBlOm.jpg?size=200x200&quality=96&crop=353,0,962,963&ava=1",
+url:"https://www.inwiptv.com/player_demo.php?channel=61235", referer:"https://www.inwiptv.com/"},
 
 {"name":"Bellator MMA",image:"https://bellator.mtvnimages.com/images/shows/bellator/web-series/BellatorMMA_CBS_Announce_300dpi_1920x1080.jpg?quality=0.85&width=1029&height=581&crop=true","url": "http://player.teleon.tv/us/channel/bellator-mma-us"},
 
