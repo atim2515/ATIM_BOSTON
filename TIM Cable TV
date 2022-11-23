@@ -504,20 +504,29 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name":"YTN","image": "https://i.imgur.com/1uS5LpG.png","url": "https://cdn6.goprimetime.info/feed/202205171929/LC44/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
-{"name": "SPOTV 1",
+{
+"name": "SPOTV 1",
 "image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-spotv-eng&api_key=hmcb4rf66f",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
+"isHost": "true",
 "referer": "https://dooball66.com",
-"info": "TIM TV",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-playInNatPlayer: "true"},
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name"          :  "SPOTV 2",
-"image"          :  "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
-"url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com:443/allball168/spotv2/sport/spotv2/chunks.m3u8",
-"referer"        :  "https://allball168.com/",
-"info" : "TIM TV",
-"playInNatPlayer": "true"},
+{
+"name": "SPOTV 2",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv2&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {name:"                ถิ่นใต้",
 image:"http://sun9-83.userapi.com/s/v1/ig2/lL76bdFZnckqZX24C1mmyxMBAqz9jIo1TwWN5N4C4mWWG49dmgEA9ab2mgsfgqIG-tzfjejsfnkb_7ncQmAKBlOm.jpg?size=200x200&quality=96&crop=353,0,962,963&ava=1",
