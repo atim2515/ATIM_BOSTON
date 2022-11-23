@@ -124,9 +124,10 @@
 {"name":"NEWS1",image:"https://upload.wikimedia.org/wikipedia/th/thumb/a/a0/News12017.png/500px-News12017.png","url": "https://server1.streamssl.com/stream/news1_hi.m3u8"},
 
 {
-"name": "Voice TV",
+"name": "  Voice TV",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/VoiceTV.png/120px-VoiceTV.png",             
-"url": "https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/voice_480p/playlist.m3u8", "playInNatPlayer": "true" },
+"url": "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+"playInNatPlayer": "true" },
 
 {"name":"HI NEWS",image:"https://i.ytimg.com/vi/_CkciYQqmdg/maxresdefault.jpg","url": "http://203.154.243.89:4555/got/hinews"},
 
