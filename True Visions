@@ -182,7 +182,17 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{"name": "Paramount Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,"url": "https://www.doofootball.com/dootv/live/paramount#main_dootv"},
+{
+"name": "Paramount Network",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f#ref=dooball66.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "True Korean More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/truekoreanmore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
@@ -218,7 +228,7 @@
 				
 {"name":"GEM",image:"https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=_ej4SuF_","url": "https://www.doofootball.com/dootv/live/gem#main_dootv"},
 
-{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/tvn.png","imageScale":"fitCenter","name":"tvN","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8"},
+{"name":"tvN",image:"https://cms.dmpcdn.com/livetv/2021/10/21/9cb0f6b0-326d-11ec-9520-9918a20d7c65_webp_original.png","url": "http://210.210.155.37/dr9445/h/h20/index.m3u8"},
 
 {"name": "AXN","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
@@ -267,7 +277,7 @@
 {
 "name": "BBC Lifestyle",
 "image":"https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",
-"url":"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbclifestyle/playlist.m3u8", "referer": "https://www.doofootball.com/dootv/live", "info": "TIM TV", "playInNatPlayer": "true"},
+"url":"https://wacthstream.com/wacth_1_dvr/337_Rock_Entertainment/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMiAzOjEwOjA5IFBNJmhhc2hfdmFsdWU9RE03QUJVb2gxR3ZVUWtXMlhXdDMyUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzEzMTAz", "referer": "https://wacth.tv/", "info": "TIM TV", "playInNatPlayer": "true"},
 
 {"name":"Discovery Asia",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png","url": "https://www.doofootball.com/dootv/live/discoveryasia#main_dootv"},
 
@@ -297,20 +307,69 @@
 
 {"name":"Animal Planet",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png","url": "https://www.doofootball.com/dootv/live/animalplanet#main_dootv"},
 
-{"name":"Love Nature 4K",image:"https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png","url": "https://www.doofootball.com/dootv/live/lovenature4k"},
+{
+"name": "Love Nature 4K",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-lovenature&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name":"True Explore Wild","image": "https://drive.google.com/uc?id=1ljf6YLbLZ49tMpy-wwtvn4OkegqbCu7k","url":"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8","referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+{
+"name": "True Explore Wild",
+"image": "https://drive.google.com/uc?id=1ljf6YLbLZ49tMpy-wwtvn4OkegqbCu7k",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "True Explore Life","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/muhbpkM56JYGXya1aT6VbKuSmbnK5pCtruelife.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=th-explife&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
 
 {"name": "True Explore Sci","image": "https://www.img01.xyz/assets/img/ch_logo/sd-expsci.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=th-expsci&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{name:"Cartoon Network",image:"https://www.animationkolkata.com/blog/wp-content/uploads/2016/08/tumblr_m4ksayhoaZ1qbbs8oo1_500.gif","url": "https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8", "referer": "https://freetvdd.com", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+{
+"name": "Cartoon Network",
+"image": "https://www.animationkolkata.com/blog/wp-content/uploads/2016/08/tumblr_m4ksayhoaZ1qbbs8oo1_500.gif",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-cartoonnetwork&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name": "True Spark Jump","image": "https://images.livebox.co/images/tv/png/sd-sparkjump.png","url": "https://bit.ly/3Q7eU4V",
-"referer": "https://https://wacth.tv/","userAgent": "exoplayer_video"},
+{
+"name": "True Spark Jump",
+"image": "https://images.livebox.co/images/tv/png/sd-sparkjump.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-sparkjump&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
  
-{name:"True Spark Play",image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2Ffc9ea58f-72b7-44a4-b27b-3179df6c8445.png&w=320&h=240",url:"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115784&extension=ts&play_token","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+{
+"name": "True Spark Play",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2Ffc9ea58f-72b7-44a4-b27b-3179df6c8445.png&w=320&h=240",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-sparkplay&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {
 "name": "Nick Jr.",
@@ -324,13 +383,17 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{"name"          :  "DreamWorks",
-"image"          :  "https://images.livebox.co/images/tv/png/hd-dreamworks.png",
-"url"            :  "https://mediasv.online/stream_live/DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIyIDExOjExOjE2IEFNJmhhc2hfdmFsdWU9MWtKYzUvZlZBZFd4RzBhbjh6TUhxdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMiZpZD1jaF82ODQ5NQ==",
-"referer"        :  "https://wacth.tv/",
-"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info" : "TIM TV",
-"playInNatPlayer": "true"},
+{
+"name": "DreamWorks",
+"image": "https://images.livebox.co/images/tv/png/hd-dreamworks.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-dreamworks&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name":"True Premier Football HD1",image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png","url": "https://www.doofootball.com/dootv/live/epl1#main_dootv"},
 
@@ -346,21 +409,29 @@
 
 {"name":"beIN Sports HD 3",image:"https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png","url": "https://www.doofootball.com/dootv/live/bein3#main_dootv"},
 
-{"name"          :  "True Sports HD 1",
-"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url"            :  "https://streaming.iamtheme.com:30443/cloudstreaming/true-sport-1/playlist.m3u8",
-"referer"        :  "https://ufabetcompany.com/",
-"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info" : "TIM TV",
-"playInNatPlayer": "true"},
+{
+"name": "True Sports HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name"          :  "True Sports HD 2",
-"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
-"url"            :  "https://streaming.iamtheme.com:30443/cloudstreaming/true-sport-2/playlist.m3u8",
-"referer"        :  "https://ufabetcompany.com/",
-"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info" : "TIM TV",
-"playInNatPlayer": "true"},
+{
+"name": "True Sports HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name"          :  "True Sports HD 3",
 "image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
@@ -401,13 +472,13 @@ playInNatPlayer: "true"},
 
 {"name"          :  "NFL Network",
 "image"          :  "https://cms.dmpcdn.com/livetv/2020/06/23/db9e0980-b550-11ea-8fac-236a281cd6c5_320.png",
-"url"            :  "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-nfl&api_key=hmcb4rf66f",
-"referer"        :  "https://www.dooball66.com/",
+"url"            :  "https://embed-dev.blackboxsys.net/player.php?channel=us-nbcsports&api_key=kmf743jnd",
+"referer"        :  "https://ufac4.net/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%aa%e0%b8%94/",
 "userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
 
-{"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV.jpg","url": "https://www.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8","referer": "https://www.siammovie-hd.com/"},
+{"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV.jpg","url": "https://live.vip-streaming.com:30443/cloudstreaming/true-nba/chunks.m3u8","referer": "https://ufabetcompany.com"},
 
 {"name"          :  "Golf Channel Thailand",
 "image"          :  "https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=100&h=75",
@@ -486,7 +557,7 @@ playInNatPlayer: "true"},
 
 {"name":"NHK World TV",image:"https://cms.dmpcdn.com/livetv/2017/10/18/1476e49b-cf56-4fc0-873b-dc61e4207273.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"},
 
-{"name":"TV5 MONDE ASIE",image:"https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_810/LANDSCAPE_43/aUwEJIgo.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC10/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"TV5 MONDE ASIE",image:"https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_810/LANDSCAPE_43/aUwEJIgo.png","url": "https://cdn6.goprimetime.info/feed/202205171929/LC10/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
 {"name":"Russia Today",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png","url": "https://rt-uk.rttv.com/live/rtuk/playlist.m3u8"},
 
