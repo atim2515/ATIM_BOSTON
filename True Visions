@@ -294,12 +294,8 @@
 {"name":"National Geographic",image:"https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png","url": "https://www.doofootball.com/dootv/live/natgeo#main_dootv"},
 
 {
-				"name": "NAT GEO Wild",
-				"image": "http://idooxtream.streaming-fast.com/xtream/LOGO/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",
-                "url": "http://203.154.243.88:11088/hi/natgeo",
-			    referer:"",
-			   	"info": "TIM TV",
-				"desktop": "true"},
+"name": "NAT GEO Wild", "image": "http://idooxtream.streaming-fast.com/xtream/LOGO/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png", 
+"url":"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=12086&extension=ts&play_token", "referer": "", "info": "TIM TV", "playInNatPlayer": "true"},
 
 {"name":"Discovery Channel",image:"https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png","url": "https://www.doofootball.com/dootv/live/discovery#main_dootv"},
 
@@ -374,15 +370,10 @@
 },
 
 {
-"name": "Nick Jr.",
-"image": "https://hwc-statics.ais.th/play/images/channel/ch_logo-njr.jpg",
-"imageScale": "fitStart",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-nickjr&api_key=hmcb4rf66f&ref=https://doofootballs.com",
-"isHost": "true",
-"referer": "https://dooball66.com",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+name:"Nick Jr.",
+image:"https://hwc-statics.ais.th/play/images/channel/ch_logo-njr.jpg",
+url:"https://www.doofootball.com/dootv/live/nickjr#main_dootv",
+"playInNatPlayer": "true"
 },
 
 {
@@ -489,7 +480,7 @@ playInNatPlayer: "true"},
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
 
-{"name":"Golf Channel Thailand HD Plus","image":"https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png","url":"https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-golf-channel-thailand-2/","referer": "https://freetvdd.com"},
+{"name":"Golf Channel Thailand HD Plus","image":"https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png","url":"http://clientsportals.com:2095/live/mfEsyKem/tJWQ4g8d/115698.m3u8"},
 
 {
 "name": "Motorvision TV",
