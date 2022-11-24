@@ -188,21 +188,29 @@ url:"https://www.inwiptv.com/player_demo.php?channel=61235", referer:"https://ww
 
 {"name":"beIN Sports HD 3",image:"https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png","url": "https://www.doofootball.com/dootv/live/bein3#main_dootv"},
 
-{"name"          :  "True Sports HD 1",
-"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url"            :  "https://streaming.iamtheme.com:30443/cloudstreaming/true-sport-1/playlist.m3u8",
-"referer"        :  "https://ufabetcompany.com/",
-"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info" : "TIM TV",
-"playInNatPlayer": "true"},
+{
+"name": "True Sports HD 1",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name"          :  "True Sports HD 2",
-"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
-"url"            :  "https://streaming.iamtheme.com:30443/cloudstreaming/true-sport-2/playlist.m3u8",
-"referer"        :  "https://ufabetcompany.com/",
-"userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"info" : "TIM TV",
-"playInNatPlayer": "true"},
+{
+"name": "True Sports HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name"          :  "True Sports HD 3",
 "image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
@@ -234,7 +242,7 @@ playInNatPlayer: "true"},
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
 
-{"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV.jpg","url": "https://www.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8","referer": "https://www.siammovie-hd.com/"},
+{"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV.jpg","url": "https://live.vip-streaming.com:30443/cloudstreaming/true-nba/chunks.m3u8","referer": "https://ufabetcompany.com"},
 
 {"name"          :  "True TENNIS",
 "image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
@@ -245,8 +253,8 @@ playInNatPlayer: "true"},
 
 {"name"          :  "NFL Network",
 "image"          :  "https://cms.dmpcdn.com/livetv/2020/06/23/db9e0980-b550-11ea-8fac-236a281cd6c5_320.png",
-"url"            :  "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-nfl&api_key=hmcb4rf66f",
-"referer"        :  "https://www.dooball66.com/",
+"url"            :  "https://embed-dev.blackboxsys.net/player.php?channel=us-nbcsports&api_key=kmf743jnd",
+"referer"        :  "https://ufac4.net/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%aa%e0%b8%94/",
 "userAgent"         :     "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
@@ -258,7 +266,7 @@ playInNatPlayer: "true"},
 "info" : "TIM TV",
 "playInNatPlayer": "true"},
 
-{"name":"Golf Channel Thailand HD Plus","image":"https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png","url":"https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-golf-channel-thailand-2/","referer": "https://freetvdd.com"},
+{"name":"Golf Channel Thailand HD Plus","image":"https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png","url":"http://clientsportals.com:2095/live/mfEsyKem/tJWQ4g8d/115698.m3u8"},
 
 {"name": "Hi Sport","image": "http://203.154.243.32/upload/tb2609154689.jpg" ,"url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115709"},
 
