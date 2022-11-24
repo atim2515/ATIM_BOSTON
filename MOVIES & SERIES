@@ -134,7 +134,7 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "NK TV","image": "https://drive.google.com/uc?id=1o4QMVUKaNfGH1LD0aelim-OPVWatLcHg","url": "http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8"},
 
-{"name": "TAYARNFLIX","image": "https://yt3.ggpht.com/QzMW2I4jD533wyxj0k-hH7QTIC7Ol9_wE-htQyh5oZiNFgHP1C3lNVpaC8lS3epmxpahTMvUIWA=s900-c-k-c0x00ffffff-no-rj","url": "http://st.livestations.tv/playlist_tayarnflix.m3u8","referer": "https://wacth.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+{"name": "TAYARNFLIX","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjiPF4Vgp_WqvvE8o_kJF19CPlexQVl8PTrJKOj8hwzbDp-xx36zmjmnl1w8KYngyemo&usqp=CAU","url": "http://st.livestations.tv/playlist_tayarnflix.m3u8","referer": "https://wacth.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
 
 {"name": "70s Cinema","image": "https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" ,"url": "http://player.teleon.tv/us/channel/70s-cinema-us"},
 
@@ -334,7 +334,7 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "มังกร","image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png" ,"url": "https://www.dailymotion.com/embed/video/x80wbgj?autoplay=1"},
 
-{"name": "ดูนี่ทีวี","image": "https://mango.dooneetv.com/files/2021/1618819970_release.jpg" ,"url": "https://www.dailymotion.com/embed/video/x80po78?autoplay=1"},
+{"name": "ดูนี่ทีวี","image": "https://play-lh.googleusercontent.com/D0gcwx2T69Rz5C3N9b0KrJDAU-pwCq4e_63WO2sBJvw-gYFYssLin_bCIqweKY7jBJ4" ,"url": "https://www.dailymotion.com/embed/video/x80po78?autoplay=1"},
 
 {"name": "PopCornFlix Action","image": "https://i.pinimg.com/originals/9b/8b/c2/9b8bc2cb28833bf5ac2d15dfb3f3d717.png" ,"url": "https://bx-tv.com/popcornflix-action/"},
 
@@ -356,11 +356,21 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "True Film HD 2","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/XzIivJOwDozc5ievk7vcL4ZMALbSvXmhd-tfilm2.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f","referer": "https://dooball66.com/",   "info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{"name": "Paramount","image": "https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" ,"url": "https://www.doofootball.com/dootv/live/paramount#main_dootv"},
+{
+"name": "Paramount Network",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f#ref=dooball66.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "Warner TV","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/iBlD0YzspNA9b9D8hK3wFnT5EBI5smLwbtv.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{"name": "SONY PIX","image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" ,"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true"},
+{"name": "SONY PIX","image": "https://static.wikia.nocookie.net/logopedia/images/9/9a/Sony-pix.jpg/revision/latest?cb=20171207125001" ,"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true"},
 
 {"name": "Thrill","image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" ,"url": "http://210.210.155.37/qwr9ew/s/s34/index.m3u8"},
 
