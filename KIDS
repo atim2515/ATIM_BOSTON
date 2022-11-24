@@ -114,8 +114,60 @@
 
 {"name":"Baby TV",image:"https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png","url": "https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8"},
 
-{"name": "True Spark Jump","image": "https://images.livebox.co/images/tv/png/sd-sparkjump.png","url": "https://bit.ly/3Q7eU4V",
-"referer": "https://https://wacth.tv/","userAgent": "exoplayer_video"},
+{
+"name": "True Spark Jump",
+"image": "https://images.livebox.co/images/tv/png/sd-sparkjump.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-sparkjump&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+
+{
+"name": "True Spark Play",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2Ffc9ea58f-72b7-44a4-b27b-3179df6c8445.png&w=320&h=240",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-sparkplay&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+
+{
+"name": "Nickelodeon",
+"image": "https://images.livebox.co/images/tv/png/sd-nickelodeon.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-nickelodeon&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+
+{
+name:"Nick Jr.",
+image:"https://hwc-statics.ais.th/play/images/channel/ch_logo-njr.jpg",
+url:"https://www.doofootball.com/dootv/live/nickjr#main_dootv",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "DreamWorks",
+"image": "https://images.livebox.co/images/tv/png/hd-dreamworks.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-dreamworks&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name":"BBC CBEEBIES",image:"https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png","url": "https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8"},
 ]
