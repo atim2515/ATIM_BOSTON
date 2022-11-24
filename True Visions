@@ -319,17 +319,7 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{
-"name": "True Explore Wild",
-"image": "https://drive.google.com/uc?id=1ljf6YLbLZ49tMpy-wwtvn4OkegqbCu7k",
-"imageScale": "fitStart",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
-"isHost": "true",
-"referer": "https://dooball66.com",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
+{"name":"True Explore Wild","image": "https://drive.google.com/uc?id=1ljf6YLbLZ49tMpy-wwtvn4OkegqbCu7k","url":"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8","referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
 
 {"name": "True Explore Life","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/muhbpkM56JYGXya1aT6VbKuSmbnK5pCtruelife.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=th-explife&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
 
@@ -364,6 +354,18 @@
 "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2Ffc9ea58f-72b7-44a4-b27b-3179df6c8445.png&w=320&h=240",
 "imageScale": "fitStart",
 "url": "https://embed-dev.blackboxsys.net/player.php?channel=th-sparkplay&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+
+{
+"name": "Nickelodeon",
+"image": "https://images.livebox.co/images/tv/png/sd-nickelodeon.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-nickelodeon&api_key=hmcb4rf66f&ref=https://doofootballs.com",
 "isHost": "true",
 "referer": "https://dooball66.com",
 "embed": "true",
