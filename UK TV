@@ -100,7 +100,13 @@
 
 {"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/animal-planet.png","imageScale":"fitCenter","name":"Animal Planet","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/sd-animalplaneteng.stream/playlist.m3u8"},
 
-{"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/bbc-world-news.png","imageScale":"fitCenter","name":"BBC World News","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8"},
+{
+                    "name": "BBC World News",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png",
+                    "url": "http://ott-cdn.ucom.am/s24/04.m3u8",
+                    "userAgent": "REDLINECLIENT 650HD_PRO V2.7.59",
+                    "isHost": false
+                },
 
 {"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/bbc-news.png","imageScale":"fitCenter","name":"BBC News","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/chunks.m3u8"},
 
