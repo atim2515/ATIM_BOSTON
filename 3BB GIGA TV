@@ -83,7 +83,7 @@
 {
 "name": "BBC Lifestyle",
 "image":"https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",
-"url":"https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbclifestyle/playlist.m3u8", "referer": "https://www.doofootball.com/dootv/live", "info": "TIM TV", "playInNatPlayer": "true"},
+"url":"https://wacthstream.com/wacth_1_dvr/337_Rock_Entertainment/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMiAzOjEwOjA5IFBNJmhhc2hfdmFsdWU9RE03QUJVb2gxR3ZVUWtXMlhXdDMyUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzEzMTAz", "referer": "https://wacth.tv/", "info": "TIM TV", "playInNatPlayer": "true"},
 
 {"name":"ROCK EXTREME",image:"https://cms.dmpcdn.com/livetv/2021/08/31/12db2650-0a7b-11ec-8b33-05dadd6cbd44_original.png","url": "https://www.doofootball.com/dootv/live/blueantextream#main_dootv"},
 
@@ -91,7 +91,17 @@
 
 {name:"Cartoon Network",image:"https://www.animationkolkata.com/blog/wp-content/uploads/2016/08/tumblr_m4ksayhoaZ1qbbs8oo1_500.gif","url": "https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8", "referer": "https://freetvdd.com", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
 
-{"name":"Nickelodeon",image:"https://static.wikia.nocookie.net/spongebob/images/1/11/Nickelodeon_1984_%28Splat%29.png/revision/latest?cb=20200824050542","url": "https://ustvgo.tv/nickelodeon-live-streaming-free/"},
+{
+"name": "Nickelodeon",
+"image": "https://images.livebox.co/images/tv/png/sd-nickelodeon.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-nickelodeon&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {name:"NICK JR.",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",url:"https://streaming.livescorethai.net/iptv/uk-nickjr.stream/chunks.m3u8","referer":"https://freetvdd.com/"},
 
@@ -103,13 +113,23 @@
 
 {"name":"EDGE Sport",image:"https://i.imgur.com/Vql6RaF.png","url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"},
 
-{"name":"Golf Channel Thailand HD Plus","image":"https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png","url":"https://www.livestream88.com/sport/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-golf-channel-thailand-2/","referer": "https://freetvdd.com"},
+{"name":"Golf Channel Thailand HD Plus","image":"https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png","url":"http://clientsportals.com:2095/live/mfEsyKem/tJWQ4g8d/115698.m3u8"},
 
-{"name":"Love Nature 4K",image:"https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png","url": "https://www.doofootball.com/dootv/live/lovenature4k"},
+{
+"name": "Love Nature 4K",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-lovenature&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {name:"BBC Earth",image:"https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png","url": " https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8 ", "referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
 
-{"name": "ดูนี่ทีวี","image": "https://mango.dooneetv.com/files/2021/1618819970_release.jpg" ,"url": "https://www.dailymotion.com/embed/video/x80po78?autoplay=1"},
+{"name": "ดูนี่ทีวี","image": "https://sv1.picz.in.th/images/2022/10/07/p2Eg6J.png" ,"url": "https://www.dailymotion.com/embed/video/x80po78?autoplay=1"},
 
 {"name":"DLTV 1",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV1/header_webboard.png","url": "https://www.dltv.ac.th/streaming"},
 
@@ -145,7 +165,13 @@
 
 {"name":"TOP NEWS",image:"https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png","url": "https://live.topnews.co.th/hls/topnews.m3u8"},
 
-{"name":"BBC World News",image:"https://i.imgur.com/q7rGbl1.png","url": "http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8"},
+{
+                    "name": "BBC World News",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png",
+                    "url": "http://ott-cdn.ucom.am/s24/04.m3u8",
+                    "userAgent": "REDLINECLIENT 650HD_PRO V2.7.59",
+                    "isHost": false
+                },
 
 {"name":"CNN",image:"https://i.imgur.com/oHXDurA.png","url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"},
 
