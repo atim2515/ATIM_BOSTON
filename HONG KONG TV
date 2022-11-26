@@ -38,6 +38,8 @@
 
 {"name":"熱血時報",image:"https://www.passiontimes.hk/images/logo.jpg","url": "https://www.nettvpro.live/en/play.php?aid=9495"},
 
+{"name":"TVB华丽台",image:"https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png","url": "http://23.237.10.66:16410"},
+
 {"name":"TVB JADE","image": "https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429","url": "http://23.237.10.66:16106"},
 
 {"name":"VIU TV","image": "https://www.wiseknow.com/wp-content/uploads/2020/08/viutv_logo1.png","url": "https://cdn.hklive.tv/xxxx/99/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
@@ -52,9 +54,11 @@
 
 {"name":"TVB NEWS","image": "https://www.tvchinese.net/uploads/tv/tvb-news.jpg","url": "https://tvp22.sky4k.top/index1.php"},
 
-{"name":"TVB Pearl","image": "http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png","url": "https://cdn.hklive.tv/xxxx/84/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"TVB Pearl","image": "http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png","url": "http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top"},
 
 {"name":"TVB Finance & Information","image": "http://fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg","url": "https://tvp22.sky4k.top/index2.php"},
+
+{"name":"面包台","image": "https://image.redstop.info/redstop/images/red-company/breadtv/breadtv.jpg","url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"},
 
 {"name":"RTHK31",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png","url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8"},
 
