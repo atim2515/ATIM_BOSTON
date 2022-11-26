@@ -234,7 +234,7 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "NK TV","image": "https://drive.google.com/uc?id=1o4QMVUKaNfGH1LD0aelim-OPVWatLcHg","url": "http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8"},
 
-{"name": "TAYARNFLIX","image": "https://yt3.ggpht.com/QzMW2I4jD533wyxj0k-hH7QTIC7Ol9_wE-htQyh5oZiNFgHP1C3lNVpaC8lS3epmxpahTMvUIWA=s900-c-k-c0x00ffffff-no-rj","url": "http://st.livestations.tv/playlist_tayarnflix.m3u8","referer": "https://wacth.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+{"name": "TAYARNFLIX","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjiPF4Vgp_WqvvE8o_kJF19CPlexQVl8PTrJKOj8hwzbDp-xx36zmjmnl1w8KYngyemo&usqp=CAU","url": "http://st.livestations.tv/playlist_tayarnflix.m3u8","referer": "https://wacth.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
 
 {"name": "70s Cinema","image": "https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" ,"url": "http://player.teleon.tv/us/channel/70s-cinema-us"},
 
@@ -284,7 +284,7 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "มังกร","image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png" ,"url": "https://www.dailymotion.com/embed/video/x80wbgj?autoplay=1"},
 
-{"name": "ดูนี่ทีวี","image": "https://mango.dooneetv.com/files/2021/1618819970_release.jpg" ,"url": "https://www.dailymotion.com/embed/video/x80po78?autoplay=1"},
+{"name": "ดูนี่ทีวี","image": "https://play-lh.googleusercontent.com/D0gcwx2T69Rz5C3N9b0KrJDAU-pwCq4e_63WO2sBJvw-gYFYssLin_bCIqweKY7jBJ4" ,"url": "https://www.dailymotion.com/embed/video/x80po78?autoplay=1"},
 
 {"name": "THAI NEWS","image": "https://i.ytimg.com/vi/_CkciYQqmdg/maxresdefault.jpg" ,"url": "https://live.thaitvstream.com/play/thainews/index.m3u8"},
 
@@ -300,7 +300,17 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "True Film HD 2","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/XzIivJOwDozc5ievk7vcL4ZMALbSvXmhd-tfilm2.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f","referer": "https://dooball66.com/",   "info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{"name": "Paramount","image": "https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" ,"url": "https://www.doofootball.com/dootv/live/paramount#main_dootv"},
+{
+"name": "Paramount Network",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f#ref=dooball66.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "Warner TV","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/iBlD0YzspNA9b9D8hK3wFnT5EBI5smLwbtv.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
 
@@ -416,7 +426,13 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "ไทไชโย","image": "https://sv1.picz.in.th/images/2022/10/31/vUN0Ay.png" ,"url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8"},
 
-{"name":"BBC World News",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png","url": "http://78.83.191.18:8000/play/a07a"},
+{
+                    "name": "BBC World News",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png",
+                    "url": "http://ott-cdn.ucom.am/s24/04.m3u8",
+                    "userAgent": "REDLINECLIENT 650HD_PRO V2.7.59",
+                    "isHost": false
+                },
 
 {"name":"CNA",image:"https://play-lh.googleusercontent.com/F7kryheJM-vlSy3fGkvgzaHgQNWv1XVXbgREvuoUBh_8JQmNBzgD2FDbSQ-7qJMTeEam","url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8"},
 
