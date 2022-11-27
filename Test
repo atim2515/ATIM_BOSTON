@@ -1,32 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,m
-vjms://58.215.133.148:8500:3502/live/cid=495&delay=200&httpbuf=200&memory=50
 #EXTINF:-1 ,民视新闻HD
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 ,中視新聞
-http://tv.redrainl.site:9500/live.m3u8?c=02
-#EXTINF:-1 ,台视新闻HD
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 ,東森美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-#EXTINF:-1 ,东森幼幼
-http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
-#EXTINF:-1 ,寰宇新聞
-http://tv.redrainl.site:9500/live.m3u8?c=22
-#EXTINF:-1 ,鏡新聞
-http://tv.redrainl.site:9500/live.m3u8?c=28
-#EXTINF:-1 ,華視新聞
-http://stream.dsichannel.com:80/hls/cts-news.m3u8
-#EXTINF:-1 ,蕃薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 ,華語電視
-http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-#EXTINF:-1 ,華語電視
-http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-#EXTINF:-1 ,HBO
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 ,超级电影[1920*1080][1920*1080][1920*1080]
 http://39.134.115.221:8080/PLTV/88888910/224/3221225623/index.m3u8
 #EXTINF:-1 ,超级电视剧[1920*1080][1920*1080][1920*1080]
