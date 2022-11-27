@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 ,凤凰电影台
-http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
-#EXTINF:-1 ,八度空间
-http://51.79.82.208:16005
+
+#EXTINF:-1 ,m
+vjms://58.215.133.148:8500:3502/live/cid=495&delay=200&httpbuf=200&memory=50
 #EXTINF:-1 ,民视新闻HD
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 ,中視新聞
