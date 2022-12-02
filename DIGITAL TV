@@ -95,7 +95,13 @@
 
 {"name":"YATEEM TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PfF5f2Gfzj73OOTavkXOzgKFjvNrWffom2tnpOIeomeVrSslT2Q3lp-35f1l266uN4U&usqp=CAU","url": "https://yateem.tv/live"},
 
-{"name":"TPTV","image":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg","url":"https://tv.trueid.net/embed/tptv?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{
+"name":"TPTV",
+"image":"https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/tptv/playlist.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM TV", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {"name":"GBN",image:"https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png","url": "https://gbnus.com/"},
 
