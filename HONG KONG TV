@@ -38,25 +38,29 @@
 
 {"name":"熱血時報",image:"https://www.passiontimes.hk/images/logo.jpg","url": "https://www.nettvpro.live/en/play.php?aid=9495"},
 
+{"name":"VIU TV","image": "https://www.wiseknow.com/wp-content/uploads/2020/08/viutv_logo1.png","url": "http://50.7.220.74:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b"},
+
+{"name":"VIU TV SIX","image": "http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg","url": "http://50.7.220.74:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e"},
+
 {"name":"TVB华丽台",image:"https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png","url": "http://23.237.10.66:16410"},
 
 {"name":"TVB JADE","image": "https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429","url": "http://23.237.10.66:16106"},
 
-{"name":"VIU TV","image": "https://www.wiseknow.com/wp-content/uploads/2020/08/viutv_logo1.png","url": "https://cdn.hklive.tv/xxxx/99/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"TVB J2","image": "https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332","url": "http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032"},
 
-{"name":"VIU TV SIX","image": "http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg","url": "https://cdn.hklive.tv/xxxx/96/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"TVB J5","image": "https://static.wikia.nocookie.net/evchk/images/7/7f/TVB_J5_Cap.png/revision/latest?cb=20180530093657","url": "http://50.7.220.74:8278/j5_twn/playlist.m3u8?tid=MEAE8702052087020520&ct=19254&tsum=2d02794c870a70f27e27d47b2b6a9915"},
 
-{"name":"Now Sports Prime",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305","url": "http://livetv.dnsfor.me:80/channel.12.m3u8"},
-
-{"name":"LOTUS MACAU",image:"https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg","url": "https://www.nettvpro.live/en/play.php?aid=612"},
-
-{"name":"TVB J2","image": "https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332","url": "https://j3.lhlh.app/mv.m3u8"},
+{"name":"TVB INEWS","image": "https://www.tvchinese.net/uploads/tv/tvb-news.jpg","url": "http://50.7.220.74:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80"},
 
 {"name":"TVB NEWS","image": "https://www.tvchinese.net/uploads/tv/tvb-news.jpg","url": "https://tvp22.sky4k.top/index1.php"},
 
 {"name":"TVB Pearl","image": "http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png","url": "http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top"},
 
 {"name":"TVB Finance & Information","image": "http://fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg","url": "https://tvp22.sky4k.top/index2.php"},
+
+{"name":"Now Sports Prime",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305","url": "http://livetv.dnsfor.me:80/channel.12.m3u8"},
+
+{"name":"LOTUS MACAU",image:"https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg","url": "https://www.nettvpro.live/en/play.php?aid=612"},
 
 {"name":"面包台","image": "https://image.redstop.info/redstop/images/red-company/breadtv/breadtv.jpg","url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"},
 
