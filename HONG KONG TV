@@ -10,8 +10,6 @@
     
 {"name":"HOY TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmahnSoF-sWm_Q-8054488wamNNKP3v1PSJ2IgQrOPJYAYDcZCllmsal65FROXZXeyX0&usqp=CAU","url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"},
 
-{"name":"now直播台",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png","url": "http://livetv.dnsfor.me:80/channel.3.m3u8"},
-
 {"name":"澳视澳门",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU","url": "http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8"},
 
 {"name":"澳视葡文",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU","url": "http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8"},
@@ -38,7 +36,7 @@
 
 {"name":"熱血時報",image:"https://www.passiontimes.hk/images/logo.jpg","url": "https://www.nettvpro.live/en/play.php?aid=9495"},
 
-{"name":"VIU TV","image": "https://www.wiseknow.com/wp-content/uploads/2020/08/viutv_logo1.png","url": "http://50.7.220.74:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b"},
+{"name":"VIU TV","image": "https://static.viu.tv/viutv_logo.png","url": "http://50.7.220.74:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b"},
 
 {"name":"VIU TV SIX","image": "http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg","url": "http://50.7.220.74:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e"},
 
@@ -58,6 +56,10 @@
 
 {"name":"TVB Finance & Information","image": "http://fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg","url": "https://tvp22.sky4k.top/index2.php"},
 
+{"name":"now直播台",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png","url": "http://livetv.dnsfor.me:80/channel.3.m3u8"},
+
+{"name":"Now新聞台",image:"https://rb.gy/p0eiwo","url": "http://livetv.dnsfor.me:80/channel.4.m3u8"},
+
 {"name":"Now Sports Prime",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305","url": "http://livetv.dnsfor.me:80/channel.12.m3u8"},
 
 {"name":"LOTUS MACAU",image:"https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg","url": "https://www.nettvpro.live/en/play.php?aid=612"},
@@ -74,8 +76,6 @@
 
 {"name":"有線直播新聞台",image:"https://rb.gy/os4eh1","url": "https://api.leonardpark.dev/live/icable/110"},
 
-{"name":"Now新聞台",image:"https://rb.gy/p0eiwo","url": "http://livetv.dnsfor.me:80/channel.4.m3u8"},
-
 {"name":"HKIBC",image:"https://www.tvchinese.net/uploads/tv/hkibc.jpg","url": "http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8"},
 
 {"name":"東網直播1台",image:"https://yt3.ggpht.com/ytc/AKedOLSOxP7fyv7wRrlRU515u7ZWFznS9c7btQhNU7gfhw=s900-c-k-c0x00ffffff-no-rj","url": "https://streamw-az-news3.on.cc/video/playlist720p.m3u8"},
@@ -86,7 +86,7 @@
 
 {"name":"澳門賽馬會",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWinhveULgX9KGI2i4_woeOTo7WIMgJOEa3DJZCArCqtRUTWuoUhUScuLa_u6tf92JAQ&usqp=CAU","url": "https://www.nettvpro.live/aomen/5289.html"},
 
-{"name":"澳亞衛視",image:"http://www.combostv.hk/upfile/2018/10/19/20181019094303_841.png","url": "https://www.nettvpro.live/aomen/macau.html"},
+{"name":"澳亞衛視",image:"http://9102920.s21i.faiusr.com/4/ABUIABAEGAAgz8-cuAUoyO-DiAcw7Q047A0!300x300.png","url": "https://www.nettvpro.live/aomen/macau.html"},
 
 {"name":"Miao Mi",image:"https://assetsmysky.blob.core.windows.net/assetsmysky/production/1527562168_artcard-miao-mi.jpg","url": "https://kr-streams.onrender.com/scraper?channel=521"},
 
