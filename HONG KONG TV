@@ -30,11 +30,13 @@
 
 {"name":"鳳凰衛視中文台",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbp9_rZ76z1by66fVli9_8Xs2uLpxmgZrfIlXkc-JwfJ-eUOKVz3sTLwTVolsasJhSlRg&usqp=CAU","url": "https://www.nettvpro.live/en/play.php?aid=147"},
 
-{"name":"Phoenix InfoNews Channel",image:"https://cms.dmpcdn.com/livetv/2017/10/18/63cee66a-3db9-47f1-8809-869308f2a152.png","url": "http://210.210.155.37/qwr9ew/s/s21/index.m3u8"},
+{"name":"Phoenix InfoNews Channel 1",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/220px-Phoenix_InfoNews.svg.png","url": "http://198.16.64.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0"},
+
+{"name":"Phoenix InfoNews Channel 2",image:"https://cms.dmpcdn.com/livetv/2017/10/18/63cee66a-3db9-47f1-8809-869308f2a152.png","url": "http://210.210.155.37/qwr9ew/s/s21/index.m3u8"},
 
 {"name":"熱血時報",image:"https://www.passiontimes.hk/images/logo.jpg","url": "https://www.nettvpro.live/en/play.php?aid=9495"},
 
-{"name":"VIU TV","image": "https://static.viu.tv/viutv_logo.png","url": "http://50.7.220.74:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b"},
+{"name":"VIU TV","image": "https://static.viu.tv/viutv_logo.png","url": "http://198.16.64.10:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f"},
 
 {"name":"VIU TV SIX","image": "http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg","url": "http://50.7.220.74:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e"},
 
@@ -93,8 +95,6 @@
 {"name":"澳亞衛視",image:"http://9102920.s21i.faiusr.com/4/ABUIABAEGAAgz8-cuAUoyO-DiAcw7Q047A0!300x300.png","url": "https://www.nettvpro.live/aomen/macau.html"},
 
 {"name":"Miao Mi",image:"https://assetsmysky.blob.core.windows.net/assetsmysky/production/1527562168_artcard-miao-mi.jpg","url": "https://kr-streams.onrender.com/scraper?channel=521"},
-
-{"name":"Celestial Movies",image:"https://mncvision.tv/userfiles/image/channel/celestial.png","url": "http://51.79.82.208:16024"},
 
 {"name":"Celestial Movies",image:"https://mncvision.tv/userfiles/image/channel/celestial.png","url": "http://210.210.155.37/dr9445/h/h14/index.m3u8"},
 
