@@ -118,26 +118,38 @@ url:"https://mediasv.online/tvonline/goodtv38_Busaba./playlist_dvr.m3u8?wmsAuthS
    {  
 name:"THAINESS",
 image:"https://i.ytimg.com/vi/4T3fjHdgmYo/maxresdefault.jpg",
-url:"https://mediasv.online/tvonline/goodtv40_ThaiNess./playlist_dvr.m3u8",
+url:"https://mediasv.online/tvonline/goodtv40_ThaiNess./playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyMiAxMDo1ODo0MyBBTSZoYXNoX3ZhbHVlPXA0Y2ZWSmM1NllxWjNlSU9VYk8vL2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfOTU4MzM=",
 "referer": "https://wacth.tv/"
 },
     
     {  
 name:"Real Metro",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8z3WFkALnPLdDqcv5QkAcW089iXmEALobA&usqp=CAU",
-url:"https://mediasv.online/tvonline/goodtv41_RealMetro./playlist_dvr.m3u8","referer": "https://wacth.tv/"
+url:"https://mediasv.online/tvonline/goodtv41_RealMetro./playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyMiAxMDo1ODo0MyBBTSZoYXNoX3ZhbHVlPXA0Y2ZWSmM1NllxWjNlSU9VYk8vL2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfOTU4MzM=","referer": "https://wacth.tv/"
 },
     
- {"name":"Sweet","image": "https://wacth.officebk.co/uploads/tv_image/20220113185932sweet.png","url": "https://cdn6.goprimetime.info/feed/202205171929/LC58/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+   {  
+name:"Sweet",
+image:"https://wacth.officebk.co/uploads/tv_image/20220113185932sweet.png",
+url:"https://mediasv.online/tvonline/goodtv42_Sweet./playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyMiAxMDo1ODo0MyBBTSZoYXNoX3ZhbHVlPXA0Y2ZWSmM1NllxWjNlSU9VYk8vL2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfOTU4MzM=","referer": "https://wacth.tv/"
+},
     
    {
 "name": "Heart",
 "image": "https://drive.google.com/uc?id=1MS0KVSszA4-SD6L4dk9wZoABMGnREJp-",
 "url":"https://mediasv.online/tvonline/goodtv43_Heart./playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyMiAxMDo1OToxMCBBTSZoYXNoX3ZhbHVlPXRXdDBDdFVlMGh6VkwrVHM4Z1hhVUE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjQmaWQ9Y2hfNjI2MDM=", "referer": "https://wacth.tv/", "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "info": "TIM TV", "desktop": "true"},
 
-{"name":"สำรวจโลก","image": "https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg?fit=240%2C240","url": "https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ {  
+name:"สำรวจโลก",
+image:"https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg?fit=240%2C240",
+url:"https://mediasv.online/tvonline/goodtv55_Sumlojlok./playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyMiAxMDo1ODo0MyBBTSZoYXNoX3ZhbHVlPXA0Y2ZWSmM1NllxWjNlSU9VYk8vL2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfOTU4MzM=","referer": "https://wacth.tv/"
+},
 
-{"name":"ของดีประเทศไทย","image": "https://wacth.officebk.co/uploads/tv_image/20220113190222khongdee.png","url": "https://cdn6.goprimetime.info/feed/202205171929/LC31/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ {  
+name:"ของดีประเทศไทย",
+image:"https://wacth.officebk.co/uploads/tv_image/20220113190222khongdee.png",
+url:"https://mediasv.online/tvonline/goodtv37_KhongDee./playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyMiAxMDo1ODo0MyBBTSZoYXNoX3ZhbHVlPXA0Y2ZWSmM1NllxWjNlSU9VYk8vL2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfOTU4MzM=","referer": "https://wacth.tv/"
+},
     
     {  
 name:"Hero",
