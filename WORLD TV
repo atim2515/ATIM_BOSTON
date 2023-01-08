@@ -619,6 +619,16 @@ http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://thewatchtv.com/wp-content/uploads/2013/04/Watch-TBS-Live-TV-from-South-Korea-1.jpg",ฺTBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/%ED%95%9C%EA%B5%AD%EC%84%A0%EA%B1%B0%EB%B0%A9%EC%86%A1ci.jpg",ฺ선거방송
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%EB%B0%A9%EC%86%A1_BI.png",ฺ소상공인방송
+http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV_%EB%A1%9C%EA%B3%A0.png",ฺ연합뉴스TV
+https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://cphoto.asiae.co.kr/listimglink/6/2019061117163873423_1560240998.jpg",ฺ채널숨
+http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/%ED%95%9C%EA%B5%AD%EC%A7%81%EC%97%85%EB%B0%A9%EC%86%A1_logo_2017.png/revision/latest/scale-to-width-down/250?cb=20210309113754",ฺ한국직업방송
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 
 
 
