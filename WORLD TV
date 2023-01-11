@@ -629,6 +629,39 @@ https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b
 http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 #EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/%ED%95%9C%EA%B5%AD%EC%A7%81%EC%97%85%EB%B0%A9%EC%86%A1_logo_2017.png/revision/latest/scale-to-width-down/250?cb=20210309113754",ฺ한국직업방송
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="http://www.fltaradio.com/upload/2018/11/bbs-Buddhist-Broadcasting-System.jpg",ฺBBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu-dQv3Kqdpv5ECJNJSd-eD4vF7SwJk2YRUlYO5iYw=s900-c-k-c0x00ffffff-no-rj",ฺBTN
+http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Christian_Broadcasting_System_logo.svg/640px-Christian_Broadcasting_System_logo.svg.png",ฺCBS TV
+http://cbs-live.gscdn.com:80/cbs-live//cbs-live.stream/chunklist_w203939631.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-GpP_01aZK4O3VbePRlDjSCzdq9yC-_YlgMly8=s900-c-k-c0x00ffffff-no-rj",ฺCPBC
+https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/1280px-EBS_Logo.svg.png",ฺEBS e
+http://ebsonair.ebs.co.kr:80/plus3familypc/familypc1m/chunklist_w1014165602.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/1280px-EBS_Logo.svg.png",ฺEBS i
+http://ebsonair.ebs.co.kr:80/plus1tablet500k//tablet500k/chunklist_w778673124.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/1280px-EBS_Logo.svg.png",ฺEBS加一频道
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/1280px-EBS_Logo.svg.png",ฺEBS加二频道
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/1280px-EBS_Logo.svg.png",ฺEBS第一频道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/1280px-EBS_Logo.svg.png",ฺEBS第二频道
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/1280px-EBS_Logo.svg.png",ฺEBS어린이TV
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kr-good-tv.jpg",ฺGOOD-1(중국교회방송)
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kr-good-tv.jpg",ฺGOOD-2(중국교회방송)
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKxijcqvmRXKKGohfdvMJI_qrfe4WAv4AHQ_0WhK4HUXjqeEy2Y-BTqPKYg2Gq5zn0fc&usqp=CAU",ฺSBS CJB
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKxijcqvmRXKKGohfdvMJI_qrfe4WAv4AHQ_0WhK4HUXjqeEy2Y-BTqPKYg2Gq5zn0fc&usqp=CAU",ฺSBS
+http://222.109.117.27:9981/stream/channelid/2096368258
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://i.ytimg.com/vi/6k7WZ4ThHFs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAAStih1GThowGnBAQIBmTpwLCCRA",ฺngrp
+http://123.111.139.103:1935/live/ngrp:hmall.stream_mobile/playlist.m3u8
+
 
 
 
