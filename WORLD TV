@@ -657,6 +657,24 @@ https://api.vthanhtivi.pw/qt/sbs.php?id=S01
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://i.ytimg.com/vi/6k7WZ4ThHFs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAAStih1GThowGnBAQIBmTpwLCCRA",ฺngrp
 http://123.111.139.103:1935/live/ngrp:hmall.stream_mobile/playlist.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/All_the_Kpop.jpeg",ฺAllTheKpop
+http://198.16.64.10:8278/allthekpop_korea/playlist.m3u8?tid=MDDD8149394181493941&ct=19225&tsum=9f1d9df0da62cc0a30d0e5357356e012
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",ฺNHK
+http://198.16.64.10:8278/nhkworld_japan/playlist.m3u8?tid=MD5D5829793458297934&ct=19225&tsum=88195c0527d1cf627a24133aa7fbacad
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://yt3.ggpht.com/TgL5KUN48UWo9ADJskGN0NEDD7QJRUvyotOQ5_i0X5fitOERE-d4Utvw8LQNSX9yXgKNmeaJZO4=s900-c-k-c0x00ffffff-no-rj",ฺThe K-POP
+http://198.16.64.10:8278/jthekpop_korea/playlist.m3u8?tid=MCCC8163723981637239&ct=19225&tsum=53c895b4be81be369500a38192516c6b
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnwY-uSwyTp0CG9Xhedt2MOclFk8nunZyNOjAk4afC6-2XzpnG2M00hFT-0yaKF8kIdcU&usqp=CAU",ฺCGNTV
+http://198.16.64.10:8278/cgntv_korea/playlist.m3u8?tid=MABA6473602964736029&ct=19225&tsum=8564b434d07391db48f35d6545cb33b1
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png",ฺTVN
+http://198.16.64.10:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png",ฺYTN Science
+http://198.16.64.10:8278/ytnscience_korea/playlist.m3u8?tid=MA2A7045792470457924&ct=19249&tsum=b22e04757acb42b0571211eff30b31db
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png",ฺYTN Korea
+http://198.16.64.10:8278/ytnkorean_korea/playlist.m3u8?tid=MA9A7678058476780584&ct=19249&tsum=772cec2c766d5b9dce13c26abd6476e4
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_D.png",ฺYTN DMB
+http://198.16.64.10:8278/ytndmb_korea/playlist.m3u8?tid=MAFA1882156618821566&ct=19249&tsum=3144f8183ec43bd540c8dfc63624d6ca
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbpqFjz%2FbtqURvePXjq%2F3vIhGBO739YUKawwXGqP30%2Fimg.jpg",ฺ한국경제
+http://198.16.64.10:8278/appongoogle_korea/playlist.m3u8?tid=ME7E9313551693135516&ct=19230&tsum=83c6a375578a319942fa99db0d85c6c8
 
 #EXTINF:-1 group-title="Indo Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",ฺ凤凰资讯台
 http://210.210.155.37/qwr9ew/s/s21/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix
