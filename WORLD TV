@@ -651,14 +651,10 @@ http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 #EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/1280px-EBS_Logo.svg.png",ฺEBS어린이TV
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kr-good-tv.jpg",ฺGOOD-1(중국교회방송)
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kr-good-tv.jpg",ฺGOOD-2(중국교회방송)
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/640px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
+https://api.vthanhtivi.pw/qt/sbs.php?id=S01
 #EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKxijcqvmRXKKGohfdvMJI_qrfe4WAv4AHQ_0WhK4HUXjqeEy2Y-BTqPKYg2Gq5zn0fc&usqp=CAU",ฺSBS CJB
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKxijcqvmRXKKGohfdvMJI_qrfe4WAv4AHQ_0WhK4HUXjqeEy2Y-BTqPKYg2Gq5zn0fc&usqp=CAU",ฺSBS
-http://222.109.117.27:9981/stream/channelid/2096368258
 #EXTINF:-1 group-title="Korea Cable TV" tvg-logo="https://i.ytimg.com/vi/6k7WZ4ThHFs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAAStih1GThowGnBAQIBmTpwLCCRA",ฺngrp
 http://123.111.139.103:1935/live/ngrp:hmall.stream_mobile/playlist.m3u8
 
