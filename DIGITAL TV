@@ -62,34 +62,38 @@
 "url":"https://tv.trueid.net/embed/tnn-2?autoplay=yes&nopageview=yes", "referer": "https://tv.trueid.net", "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
 {
-"name": "Nation TV", "image": "https://cms.kapook.com/uploads/tag/42/ID_41851_5c93153cacbdc.jpg",  
-"url":"https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/nation_480p/playlist.m3u8", "referer": "https://www.doofootball.com/", "info": "TIM TV", "desktop": "true"},
+"name":"Nation tv",
+"image":"https://freetvdd.com/wp-content/uploads/2019/12/nation.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM TV", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {"name":"TOP NEWS",image:"https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png","url": "https://live.topnews.co.th/hls/topnews.m3u8"},
 
 {"name":"ALTV 4",image:"https://i.ytimg.com/vi/2X0u7OjYWnE/maxresdefault.jpg","url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"},
 
-{"name":"T Sports 7",image:"https://play-lh.googleusercontent.com/PoZ7cwWM3qXaZQRHGLMvWFIjdCymB904stfZZv9k9usHdTUxoVx0yrrzUiuuTq9k5rU","url": "https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8"},
+{
+"name":"T Sports 7",
+"image":"https://images.livebox.co/images/tv/png/sd-tsports.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "tim tv", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {"name": "RAMA CHANNEL","image": "https://www.rama.mahidol.ac.th/sites/default/files/public/Logo%20RC%20HD%20no%2042-01.png" ,"url": "https://youtu.be/UasTS26HzW8"},
 
 {"name":"MVTV",image:"http://mvtv.co.th//ios/icons/GIF/MVTV_HD.gif","url": "https://www.mvtv.co.th/channel/mvtv_home"},
 
-{"name":"V2H8",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/V2H8-LOGO.png","url": "https://www.mvtv.co.th/channel/v2h8"},
-
 {"name":"V2H2",image:"https://www.mvtv.co.th/wp-content/uploads/2019/06/V2H2-LOGO-PNG.png","url": "https://www.mvtv.co.th/channel/v2h2"},
-
-{"name":"V2H9",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/v2h9.png","url": "https://www.mvtv.co.th/channel/v2h9"},
-
-{"name":"มูเตลู",image:"https://www.mvtv.co.th/wp-content/uploads/2020/06/%E0%B8%A1%E0%B8%B9%E0%B9%80%E0%B8%A5%E0%B8%95%E0%B8%B9.png","url": "https://www.mvtv.co.th/channel/mutalu"},
 
 {"name":"บันเทิงเกินร้อย 110",image:"https://www.mvtv.co.th/wp-content/uploads/2021/05/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2110-ok-edit.png","url": "https://www.mvtv.co.th/channel/bunteg100"},
 
 {"name":"HAPPY TV",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png","url": "https://www.mvtv.co.th/channel/happy-tv"},
 
-{"name":"รักแท้",image:"https://www.mvtv.co.th/wp-content/uploads/2021/08/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%97%E0%B9%89-66-tv.png","url": "https://www.mvtv.co.th/channel/ruktae"},
+{"name":"สื่อออนไลทีวี",image:"https://www.mvtv.co.th/wp-content/uploads/2020/02/Logo66.png","url": "https://www.mvtv.co.th/channel/montera"},
 
-{"name":"69TV สื่อออนไลน์",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png","url": "https://www.mvtv.co.th/channel/%e0%b8%a1%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99"},
+{"name":"ไทยวาไรตี้",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/Logo_thaivariety01.png","url": "https://www.mvtv.co.th/channel/%e0%b8%a1%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99"},
 
 {"name":"ไทบ้าน",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png","url": "https://www.mvtv.co.th/channel/thaiban"},
 
