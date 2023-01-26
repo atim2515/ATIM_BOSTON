@@ -219,8 +219,18 @@ http://ott-cdn.ucom.am/s13/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s7/index.m3u8
 
-#EXTINF:-1 group-title="Angola TV" tvg-logo="https://flagpedia.net/data/flags/w580/ao.png",TPA 1
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
+#EXTINF:-1 group-title="Azerbaijan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png",Azad TV (ATV)
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png",Azad TV -2 (ATV)
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png",Azad TV -4 (ATV)
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaijan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png",İdman TV
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
 
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png",5RTv
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -738,7 +748,9 @@ http://198.16.64.10:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsu
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/d41e0982445367.Y3JvcCwxMDAyLDc4NCwxOTgsMA.jpg",ฺ天映頻道
 http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P92H244530-L.jpg",ฺ天映經典
-http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://mediasv.online/tvonline/233_CCM/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDIzIDM6MDk6NTUgUE0maGFzaF92YWx1ZT1nOHBKdURuVXNWMysrQktVcGVOaGhRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzYzODI2
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1280px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",ฺ八度空间
 http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg",ฺTVBS
@@ -753,30 +765,28 @@ http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&
 http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Astro_XTY.png/400px-Astro_XTY.png",ฺ小太阳
 http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MD0D9499792694997926&ct=19254&tsum=900f8779aea05605b068dd6741e0feae
-#EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",ฺ全佳
-http://198.16.64.10:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png",ฺ双星
 http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png",ฺ华丽台
-http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-#EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",ฺAEC
-http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
-#EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ฺAOD
-http://198.16.64.10:8278/AodHD/playlist.m3u8?tid=MFCF1671455616714556&ct=19254&tsum=35c21f14930ec375838c13622f10759a
-#EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ฺAOD350
-http://198.16.64.10:8278/Aod350/playlist.m3u8?tid=MF1F3186735831867358&ct=19254&tsum=a39293798a92f4779c48b2e917adbf74
+http://23.237.10.66:16410
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ฺSPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+https://playerembed-lb.blackboxsys.net/player.php?channel=hd-spotv&api_key=hmfklstgerter5
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_original.jpg",ฺSPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
+https://playerembed-lb.blackboxsys.net/player.php?channel=hd-spotv2&api_key=hmfklstgerter5
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",ฺASSP 1
-http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudi.webtv1.lol/lb/premium123/index.m3u8
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",ฺASSP 2
-http://198.16.64.10:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudi.webtv1.lol/lb/premium124/index.m3u8
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",ฺASSP 3
-http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudi.webtv1.lol/lb/premium125/index.m3u8
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ฺASSP 4
-http://198.16.64.10:8278/Assp4/playlist.m3u8?tid=MC3C8659251086592510&ct=19249&tsum=94b1b760d8384a41d62be6113bfc36a5
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudi.webtv1.lol/lb/premium126/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Cable TV" tvg-logo="https://img.isuper.tv/live-tv/ftv-live.jpg",ฺ民视
 http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
