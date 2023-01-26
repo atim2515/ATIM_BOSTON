@@ -769,12 +769,6 @@ http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MD0D9499792694997926&ct=1
 http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png",ฺ华丽台
 http://23.237.10.66:16410
-#EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ฺSPOTV
-#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
-https://playerembed-lb.blackboxsys.net/player.php?channel=hd-spotv&api_key=hmfklstgerter5
-#EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_original.jpg",ฺSPOTV 2
-#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
-https://playerembed-lb.blackboxsys.net/player.php?channel=hd-spotv2&api_key=hmfklstgerter5
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",ฺASSP 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudi.webtv1.lol/lb/premium123/index.m3u8
