@@ -28,7 +28,7 @@
 "name":"7",
 "image":"https://cdni-cf.ch7.com/i/static/default/ch7hd-default.jpg",
 "url":"https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8", 
-"referer": "", 
+"referer": "xxx", 
 "info": "TimSat", 
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
@@ -139,8 +139,6 @@
 
 {"name":"TOP NEWS",image:"https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png","url": "https://live.topnews.co.th/hls/topnews.m3u8"},
 
-{"name":"ALTV 4",image:"https://i.ytimg.com/vi/2X0u7OjYWnE/maxresdefault.jpg","url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"},
-
 {
 "name":"T Sports 7",
 "image":"https://images.livebox.co/images/tv/png/sd-tsports.png",
@@ -148,6 +146,106 @@
 "referer": "https://freetvdd.com/", 
 "info": "TimSat", 
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{
+"name":"TPTV",
+"image":"https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/tptv/playlist.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TimSat", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name":"Cable Channel 37HD",image:"https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA.png","url": "http://www.cablechannel37.com/17128842/cable-channel-37-live"},
+
+{
+"name":"Nation tv",
+"image":"https://freetvdd.com/wp-content/uploads/2019/12/nation.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TimSat", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+
+{"name":"TOP NEWS",image:"https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png","url": "https://live.topnews.co.th/hls/topnews.m3u8"},
+
+{"name":"NEWS1",image:"https://upload.wikimedia.org/wikipedia/th/thumb/a/a0/News12017.png/500px-News12017.png","url": "https://server1.streamssl.com/stream/news1_hi.m3u8"},
+
+{
+"name": "  Voice TV",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/VoiceTV.png/120px-VoiceTV.png",             
+"url": "https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th",
+"playInNatPlayer": "true" },
+
+{"name":"MVTV",image:"http://mvtv.co.th//ios/icons/GIF/MVTV_HD.gif","url": "https://www.mvtv.co.th/channel/mvtv_home"},
+
+{"name":"V2H2",image:"https://www.mvtv.co.th/wp-content/uploads/2019/06/V2H2-LOGO-PNG.png","url": "https://www.mvtv.co.th/channel/v2h2"},
+
+{"name":"บันเทิงเกินร้อย 110",image:"https://www.mvtv.co.th/wp-content/uploads/2021/05/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2110-ok-edit.png","url": "https://www.mvtv.co.th/channel/bunteg100"},
+
+{"name":"HAPPY TV",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png","url": "https://www.mvtv.co.th/channel/happy-tv"},
+
+{"name":"สื่อออนไลน์TV",image:"https://www.mvtv.co.th/wp-content/uploads/2020/02/Logo66.png","url": "https://www.mvtv.co.th/channel/montera"},
+
+{"name":"ไทยวาไรตี้",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/Logo_thaivariety01.png","url": "https://www.mvtv.co.th/channel/%e0%b8%a1%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99"},
+
+{"name":"ไทบ้าน",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png","url": "https://www.mvtv.co.th/channel/thaiban"},
+
+{"name":"YATEEM TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PfF5f2Gfzj73OOTavkXOzgKFjvNrWffom2tnpOIeomeVrSslT2Q3lp-35f1l266uN4U&usqp=CAU","url": "https://yateem.tv/live"},
+
+{"name":"GBN",image:"https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png","url": "https://gbnus.com/"},
+
+{"name":"TV Muslim Thailand",image:"https://yt3.ggpht.com/ytc/AAUvwnjLP48bBaX4kLfuLgPwkMW6nZ-RhrjS1ktkXMBcsg=s900-c-k-c0x00ffffff-no-rj","url": "http://tvmuslim.org/"},
+
+{"name":"White Channel",image:"https://sites.google.com/site/s5720610137/_/rsrc/1472844836043/white-channel/WhiteChannel.jpg","url": "https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8"},
+
+{"name":"SBT TV",image:"https://play-lh.googleusercontent.com/-fFcns0kfxU2UHSgu_PsJXu4anYpY5zJ5HHHn-BWNWwvfUBPkbl5ZlEHTV48FhZhUw","url": "http://202.142.203.28/desktop/sbt_tv_rtmp.html"},
+
+{"name":"สถานีโทรทัศน์สุวรรณภูมิ",image:"https://cms.dmpcdn.com/livetv/2017/10/18/57e474db-0dce-4fdc-93d8-bc2b57d3a685.png","url": "http://suwannabhumi.tv/"},
+
+{"name":"NAT TV",image:"https://www.nattv.com/images/natlogo02.jpg","url": "https://live-tv-channels.org/livetv/us-nat-tv.html"},
+
+{"name":"บุญนิยม ทีวี",image:"https://yt3.ggpht.com/ytc/AAUvwnh0gL2Zd0zhRifTbQGKanrsL7DHgMNc9MDplJMv=s176-c-k-c0x00ffffff-no-rj-mo","url": "https://livestream.com/boonniyom/live"},
+
+{"name":"Brian TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0MZLi649n-VeTFyT-czq_vJPOq0b5_KlxkMxNEh675TiNHZMvgFEesv0GQ1so54bH0Y&usqp=CAU","url": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"},
+
+{"name":"ISTV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobqdb6IPI0TKlLSCqu_G6tP-T3jmFUKzP64TXJRlWYSsueVATffgiruKIznxi_lIUYEI&usqp=CAU","url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"},
+
+{"name":"13 สยามไทย",image:"http://4.bp.blogspot.com/-E9xlLJb4lxU/Xgrx4q2lGcI/AAAAAAAAXpk/VOZAHE7Y1uYrLEmp9LA-a-HMWqkL_Gh9ACK4BGAYYCw/s1600/Logo-13-SiamThai.png","url": "https://www.13livetv.com/"},
+
+{ "name": "ฟาร์มทีวี.HD", "image": "https://farmchannelthailand.com/main/wp-content/uploads/2020/02/logo-farm-channel-w2.png", "url": "https://playlist.xtemus.com/play.php?ch=t256y454t415741586s2t233", "playInNatPlayer": "true" },
+
+{"name":"Good Idea TV",image:"https://yt3.ggpht.com/ytc/AKedOLQ3CXdit8ZwlwvrAm7lyPiYSRNwZikjIkCH-up11Q=s900-c-k-c0x00ffffff-no-rj","url": "https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8"},
+
+{"name":"Zabb tv",image:"https://thaitvstream.com/streaming/zabbtv/zabbtv.png","url": "https://www.ทีวีท้องถิ่นไทย.com/count.php?id=28&url=https://live1.thaitvstream.com/play/zabbtv/index.m3u8"},
+
+{"name":"PTV",image:"https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png","url": "https://www.ทีวีท้องถิ่นไทย.com/count.php?id=2&url=https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8"},
+
+{"name":"4050",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwVYaWgx_-hNVV8HCu9RXFiuGCHzLGofvof4qFoihcNdcFk-ZH8sX3ffPPruM0r_PFg&usqp=CAU","url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c454034384m5c4a494i513s2s2p274a4w2l5o5q2s244x2"},
+
+{"name":"ลั่นทุ่งทีวี",image:"https://yt3.ggpht.com/ytc/AMLnZu9GavXhpt9mFmpKwAc7XFM44Hw4YHv4_AottY7p=s900-c-k-c0x00ffffff-no-rj","url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2l5a48494a4b4b403b45494245434x254e4k5l564u29433"},
+
+{"name":"Police TV",image:"https://www.policetv.tv/wp-content/uploads/2019/10/cropped-LOGO-POLICE-2019_512.png","url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c454038433b4b4a494i513s2s2p27494e464l534x2h5b4"},
+
+{"name":"ZOOM072.Net",image:"https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png","url": "https://live.zoom072.com/ch5/ch5.m3u8"},
+
+{"name":"หลวงพ่อทัตตชีโว",image:"https://apitv.dmc.tv/uploads/t02_41535e4e06.jpeg","url": "https://live.zoom072.com/ch6/ch6.m3u8"},
+
+{"name":"สมาธิ 24 น.",image:"https://apitv.dmc.tv/uploads/med_0965d3b20b.png","url": "https://live.zoom072.com/ch7/ch7.m3u8"},
+
+{"name":"สวดธรรมจักร",image:"https://apitv.dmc.tv/uploads/dmk_2786e1c457.png","url": "https://live.zoom072.com/ch9/ch9.m3u8"},
+
+{"name":"เพลงธรรมะ",image:"https://apitv.dmc.tv/uploads/music_1a24273b17.png","url": "https://live.zoom072.com/ch8/ch8.m3u8"},
+
+{"name":"ฝันในฝัน",image:"https://apitv.dmc.tv/uploads/S_5226718_90999a8e9f.jpg","url": "https://live.zoom072.com/ch10/ch10.m3u8"},
+
+{
+"name": "UMMTV","image": "https://photos.live-tv-channels.org/tv-logo/th-umm-tv-4419-300x225.jpg",
+"url":"https://symc-cdn.violin.co.th/madoit/timetv/playlist.m3u8",
+"referer": "xxx",
+"info": "TimSat",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
 
 ]
 }
