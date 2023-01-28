@@ -28,7 +28,7 @@
 "name":"7",
 "image":"https://cdni-cf.ch7.com/i/static/default/ch7hd-default.jpg",
 "url":"https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8", 
-"referer": "xxx", 
+"referer": "", 
 "info": "TimSat", 
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
@@ -197,6 +197,35 @@
 {"name":"ไทยวาไรตี้",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/Logo_thaivariety01.png","url": "https://www.mvtv.co.th/channel/%e0%b8%a1%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%99"},
 
 {"name":"ไทบ้าน",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png","url": "https://www.mvtv.co.th/channel/thaiban"},
+
+{"name": "MVTV ซีรีส์","image": "https://www.mvtv.co.th/wp-content/uploads/2021/02/mvmall_serie.png" ,"url": "https://www.mvtv.co.th/channel/mvtv-series"},
+
+{"name": "TVB ไทย","image": "https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png" ,"url": "https://www.mvtv.co.th/channel/tvb-thai"},
+
+{"name": "Mix Major","image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png" ,"url": "https://www.mvtv.co.th/channel/mix-major-channel"},
+
+{"name": "สยาม","image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg" ,"url": "https://www.mvtv.co.th/channel/siamchannel"},
+
+{"name": "ลิโด้","image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg" ,"url": "https://www.mvtv.co.th/channel/lidochannell"},
+
+{"name": "สกาล่า","image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg" ,"url": "https://www.mvtv.co.th/channel/sakalachannel"},
+
+{"name": "ราม่า","image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg" ,"url": "https://www.mvtv.co.th/channel/ramachannel"},
+
+{"name": "จอมยุทธ์","image": "https://s2.dmcdn.net/v/StXKv1WVIjy5ZeW2u/x1080" ,"url": "http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8"},
+
+{"name":"ลูกทุ่งเน็ตเวิร์ก",image:"https://yt3.ggpht.com/ytc/AKedOLThfCiwNaFtyUSbLRbAvB1gxqXUjXTbTLTftMF2kQ=s900-c-k-c0x00ffffff-no-rj","url": "https://54c241893bf39.streamlock.net/looktungnetwork1/looktungnetwork1/chunklist_w9273485.m3u8"},
+
+{"name":"ลูกทุ่ง TVHD",image:"https://i.ytimg.com/vi/kXpqaPiMAcc/maxresdefault_live.jpg","url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist_Fuso_121120.m3u8"},
+
+{
+"name": "ไทไซโย",
+"image": "https://dl.dropbox.com/s/53njjabp453iua4/thaichiyo.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8",
+"info": "TimSat",
+"userAgent": "VLC/3.0.9 LibVLC/3.0.9"
+},
 
 {"name":"YATEEM TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PfF5f2Gfzj73OOTavkXOzgKFjvNrWffom2tnpOIeomeVrSslT2Q3lp-35f1l266uN4U&usqp=CAU","url": "https://yateem.tv/live"},
 
