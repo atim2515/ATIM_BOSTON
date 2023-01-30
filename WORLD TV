@@ -451,8 +451,6 @@ https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="New Zealand_Samsung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gusto_TV_logo.jpg/1200px-Gusto_TV_logo.jpg",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="New Zealand_Samsung" tvg-logo="https://advanced-television.com/wp-content/uploads/2021/07/bite-freeview.jpg",Bite
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bitenz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="New Zealand_Samsung" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiB_DptkReAgFedjTU3q94846ztiEggKNJ_lBArR6eFKBno4BAAisShPWH-2Z37_O-g&usqp=CAU",Bloomberg TV
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="New Zealand_Samsung" tvg-logo="https://image.roku.com/developer_channels/prod/7df5fa343a71d7bf8f0b015aba58b2c2260430f3489f9c8fb28086be7b2b0b30.png",Real Crime
@@ -748,9 +746,7 @@ http://198.16.64.10:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsu
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/d41e0982445367.Y3JvcCwxMDAyLDc4NCwxOTgsMA.jpg",ฺ天映頻道
 http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P92H244530-L.jpg",ฺ天映經典
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://mediasv.online/tvonline/233_CCM/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDIzIDM6MDk6NTUgUE0maGFzaF92YWx1ZT1nOHBKdURuVXNWMysrQktVcGVOaGhRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE2JmlkPWNoXzYzODI2
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1280px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",ฺ八度空间
 http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
 #EXTINF:-1 group-title="Malay Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg",ฺTVBS
