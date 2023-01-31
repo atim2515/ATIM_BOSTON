@@ -1,20 +1,32 @@
 {
-		"name": "FOOD",
+		"name": "FOOD ZONE",
 		"author": "TIM",
-		"image":"http://4.bp.blogspot.com/-qW6p5E1cRhw/UxWqpJgFydI/AAAAAAAAAEM/mqiZZGg-YaE/s1600/12345.gif",
+		"image":"https://media.tenor.com/WmJKILsEP2AAAAAC/guy-fieri-eating.gif",
 		"url": "https://github.com/atim2515/ATIM_BOSTON/blob/main/FOOD",
 		 
  
 		"stations":[
     
     
-{"name":"Food Network",image:"https://findlogovector.com/wp-content/uploads/2019/09/food-network-logo-vector.png","url": "https://www.doofootball.com/dootv/live/foodnetwork#main_dootv"},
+{
+"name": "Food Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0162/HLS/V0162.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=d21d9601b80535a61622f95200b111c9&chunkHttps=false&tmid=B0001&tpbk=ctrWk6s7GvWIcgwA&rrt=1675141202&tmod=rfk&rsid=1cda80f2-6c22-4927-bc7c-cfd7fa93cb44&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1675227602",
+"referer": "https://ais-vidnt.com/",
+"info": "TimSat",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
 
-{"name":"AFN",image:"https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_320.png","url": "https://www.doofootball.com/dootv/live/afc#main_dootv"},
+{
+"name": "Asian Food Network","image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Asian_Food_Network.svg",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0161/HLS/V0161.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=d21d9601b80535a61622f95200b111c9&chunkHttps=false&tmid=B0001&tpbk=ctrWk6s7GvWIcgwA&rrt=1675141202&tmod=rfk&rsid=1cda80f2-6c22-4927-bc7c-cfd7fa93cb44&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1675227602",
+"referer": "https://ais-vidnt.com/",
+"info": "TimSat",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
 
 {"name":"Cooking Panda ",image:"https://image.roku.com/developer_channels/prod/67c772bb9fce340d413ebc744e90bb590624c5c5335323e72b3400f3d8a3c152.png","url": "http://player.teleon.tv/us/channel/cooking-panda-us"},
-
-{"name":"BBC Food",image:"https://pbs.twimg.com/profile_images/1180803776/04_winter_profile_pic.jpg","url": "http://player.teleon.tv/us/channel/bbc-food-us"},
 
 {"name":"America's Test Kitchen",image:"https://searchvectorlogo.com/wp-content/uploads/2020/03/americas-test-kitchen-logo-vector.png","url": "http://player.teleon.tv/us/channel/americas-test-kitchen-us"},
 
@@ -38,8 +50,6 @@
 
 {"name":"Food 52",image:"https://mms.businesswire.com/media/20211214005775/en/935444/23/Food52_Logo.jpg","url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows"},
  
-{"name":"Pluto TV Cuisine",image:"https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="},
-
 {"name":"Mad Dog and Merrill",image:"http://www.glewed.tv/wp-content/uploads/2020/03/MadDogMerrillMidwestGrillnHero.jpg","url": "https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8"},
 
 ]
