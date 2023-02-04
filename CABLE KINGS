@@ -752,10 +752,47 @@ stations:[
 
 {"name":"WeatherNation Philadelphia",image:"https://www.howtogeek.com/wp-content/uploads/2022/05/Pluto-TV.png?width=398&trim=1,1&bg-color=000&pad=1,1","url": "https://siloh.pluto.tv/lilo/production/WeatherNation/Philadelphia/master.m3u8"},
 
-{"name":"WeatherNation San Francisco",image:"https://www.howtogeek.com/wp-content/uploads/2022/05/Pluto-TV.png?width=398&trim=1,1&bg-color=000&pad=1,1","url": "https://siloh.pluto.tv/lilo/production/WeatherNation/SF/master.m3u8"},]
+{"name":"WeatherNation San Francisco",image:"https://www.howtogeek.com/wp-content/uploads/2022/05/Pluto-TV.png?width=398&trim=1,1&bg-color=000&pad=1,1","url": "https://siloh.pluto.tv/lilo/production/WeatherNation/SF/master.m3u8"},]},
 
 
+{"name":"CABLE HITS TV","image":"https://images.milledcdn.com/2021-11-17/_r-EkEcaXtkkEAT0/CykGe_IFageQ.gif",
+stations:[
 
+{"name":"Showtime",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/765"},
+
+{"name":"Showtime 2",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/78161"},
+
+{"name":"Showtime Extreme",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/12036"},
+
+{"name":"Showtime Family Zone",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/16139"},
+
+{"name":"Showtime Next",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/13008"},
+
+{"name":"Showtime Showcase",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/6306"},
+
+{"name":"Showtime Women",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/12995"},
+
+{"name":"Sky Cinema Action",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/1092"},
+
+{"name":"Sky Cinema Animation",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/1090"},
+
+{"name":"Sky Cinema Drama",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/1089"},
+
+{"name":"Sky Cinema Family",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/727"},
+
+{"name":"Sky Cinema Greats",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/1087"},
+
+{"name":"Sky Cinema Hits",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/1086"},
+
+{"name":"Sky Cinema Premiere",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/1085"},
+
+{"name":"Sky Cinema Select",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/726"},
+
+{"name":"Sky Cinema Thriller",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/1082"},
+
+{"name":"Sky Cinema sci-fi Horror",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/725"},
+
+{"name":"Sky Comedy",image:"https://pyxis.nymag.com/v1/imgs/0ca/db6/9d3fa67bff015a1afd915835549a50446a-cable-guide.rhorizontal.w700.gif","url": "http://iptvmedia.live:8080/bubullea83/092df5a7953b/1091"},]
 
 },
 ]
