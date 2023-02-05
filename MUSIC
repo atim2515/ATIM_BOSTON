@@ -1,15 +1,13 @@
 {
-		"name": "MUSIC",
+		"name": "MUSIC ZONE",
 		"author": "TIM",
-		"image":"https://cdn.smehost.net/legacyrecordingscouk-ukprod/wp-content/uploads/2015/06/01144219/vV63jx.gif",
+		"image":"https://media.tenor.com/lbe9-29GdEgAAAAM/mtv-mtv-logo.gif",
 		"url": "https://github.com/atim2515/ATIM_BOSTON/blob/main/MUSIC",
 		 
  
 		"stations":[
     
     
-{"name":"ROCK TV",image:"https://www.cxtv.com.br/img/Tvs/Logo/webp-l/67cebad8d46fc668e21b0ae8387ae2cd.webp","url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8"},
-
 {"name":"ลูกทุ่งเน็ตเวิร์ก",image:"https://yt3.ggpht.com/ytc/AKedOLThfCiwNaFtyUSbLRbAvB1gxqXUjXTbTLTftMF2kQ=s900-c-k-c0x00ffffff-no-rj","url": "https://54c241893bf39.streamlock.net/looktungnetwork1/looktungnetwork1/chunklist_w9273485.m3u8"},
 
 {"name":"ลูกทุ่ง TVHD",image:"https://i.ytimg.com/vi/kXpqaPiMAcc/maxresdefault_live.jpg","url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist_Fuso_121120.m3u8"},
@@ -20,15 +18,9 @@
 
 {"name":"MTV Pluto TV",image:"https://rivevideo.com/wp-content/uploads/2019/11/featuredImage-1-900x400.jpg","url": "http://player.teleon.tv/us/channel/mtv-pluto-tv-de"},
 
-{"name":"SPORTLIGHT",image:"https://i.pinimg.com/736x/31/cc/58/31cc58c2d919bfb3a61ce92ae87c934a.jpg","url": "http://player.teleon.tv/us/channel/spotlight-tv-uk"},
-
 {"name":"MTV BIGGEST POP",image:"https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg","url": "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"},
 
 {"name":"KRONE HIT",image:"https://i1.sndcdn.com/artworks-000122130329-brysnm-t500x500.jpg","url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8"},
-
-{"name":"Hit Music",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhC0xGBjU4XwDGXTtLRNZYGcs1Avx1EvQkj-9AxTWD7mtpwpfBcIxw-0i3w_M8h-nmQVA&usqp=CAU","url": "http://hitmusic.hu/hitmusic.m3u8"},
-
-{"name":"MTV UK",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISOeJrgP4jxRYfVQ3IW86GqhMur86Q9Ycy0mjowOTBoEFAG1vHdzLvwYSGfhu8NJ5V98&usqp=CAU","url": "https://ustvgo.tv/mtv"},
 
 {"name":"MTV Block Party",image:"https://static.wikia.nocookie.net/logopedia/images/7/75/MTV_Block_Party.svg/revision/latest/scale-to-width-down/300?cb=20200825033438","url": "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8"},
 
@@ -48,13 +40,9 @@
 
 {"name":"DanceStar TV",image:"https://www.pngkey.com/png/full/172-1720484_dancestar-tv-is-pure-electronic-dance-music-culture.png","url": "https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8"},
 
-{"name":"Juice TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfzhxwpwkh-vykfXXewAgrSjFQfPiUuEwsw&usqp=CAU","url": "https://i.mjh.nz/nz/tv.juice.m3u8"},
-
 {"name":"VEVO 2K",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8"},
 
 {"name":"VEVO Country",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088443baf9abae38ae01fef/live.m3u8"},
-
-{"name":"VEVO Hip Hop",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8"},
 
 {"name":"VEVO Latino",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8"},
 
@@ -82,15 +70,7 @@
 
 {"name":"MTV Latino",image:"https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png","url": "http://player.teleon.tv/us/channel/mtv-latino-us"},
 
-{"name":"MTV The Challenge",image:"https://yt3.ggpht.com/ytc/AKedOLTHXaKv-qchv1F28nQ0qWh4NsnmXIpn7eiaHMNK=s900-c-k-c0x00ffffff-no-rj","url": "http://player.teleon.tv/us/channel/mtv-the-challenge-us"},
-
-{"name":"MTV Wild 'N Out",image:"https://dp6mhagng1yw3.cloudfront.net/entries/11th/11d5979d-cfbd-43e5-b784-51180f85a377.jpg","url": "http://player.teleon.tv/us/channel/mtv-wild-n-out-us"},
-
-{"name":"Recuerdos Retro",image:"https://liveonlineradio.net/wp-content/uploads/2020/07/radio-recuerdos-retro.jpg","url": "https://www.nettvpro.live/en/play.php?aid=10703"},
-
-{"name":"OCKO STAR TV",image:"https://photos.live-tv-channels.org/tv-logo/cz-ocko-star-6827.jpg","url": "http://infoua.biz/en/tvchannels/music/43"},
-
-{"name":"PORTAL FOXMIX",image:"http://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png","url": "https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8"},
+{"name":"OCKO STAR TV",image:"https://1gr.cz/fotky/bulvar/18/023/cl5/SMK71a6fb_OCKOSTAR1.jpg","url": "http://infoua.biz/en/tvchannels/music/43"},
 
 {"name":"1HD MUSIC TELEVISION",image:"https://pbs.twimg.com/profile_images/1351178873455652865/fY_1QOSn_400x400.jpg","url": "http://infoua.biz/en/tvchannels/music/352"},
 
@@ -108,14 +88,6 @@
 
 {"name":"OCKO EXPRES TV",image:"https://photos.live-tv-channels.org/tv-logo/cz-ocko-expres-6319.jpg","url": "http://infoua.biz/en/tvchannels/music/42"},
 
-{"name":"CONTACT VISION",image:"https://cdn-profiles.tunein.com/s10227/images/logog.png","url": "http://infoua.biz/en/tvchannels/music/486"},
-
-{"name":"M2O TV",image:"https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png","url": "http://infoua.biz/en/tvchannels/music/516"},
-
-{"name":"RADIO CAPITAL TV",image:"https://www.capital.it/wp-content/themes/network-capital/img/logo_capital_1024x1024.png","url": "http://infoua.biz/en/tvchannels/music/420"},
-
-{"name":"COUNTRY MUSIC ENTERTAINMENT",image:"https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2021-02/country-music-entertainment-255px.jpg?itok=YGTfos8x","url": "https://www.countrymusicentertainment.com/watch-live"},
-
 {"name":"MTV Love",image:"https://www.itizaps.net/zapper/logo/b/mtv-love.png","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8ad1&deviceDNT=0&deviceModel=0"},
 
 {"name":"V2 BEAT",image:"https://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-1.png","url": "https://abr.de1se01.v2beat.live/playlist.m3u8"},
@@ -130,23 +102,13 @@
 
 {"name":"Zapping Music",image:"http://tv-online.cl/zapping-music-en-vivo.jpg?210107074116","url": "https://www.nettvpro.live/en/play.php?aid=10624"},
 
-{"name":"ท็อปไลน์ทีวี",image:"https://img.discogs.com/e2xrTZ252SwHykQt3yNRhfLPwzM=/fit-in/600x478/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-760860-1416055901-2641.jpeg.jpg","url": "http://toplinetv.com/"},
-
 {"name":"MusicTop",image:"https://storage.googleapis.com/ares-profile-pictures/hd/musictop.ok-07762b8811113a7aa18bf13e9e5217e7_hd.jpg","url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"},
 
 {"name":"The Box",image:"https://s3.eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2013/10/FINAL_LOGO_THE_BOX-1002x708.jpg","url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/"},
 
 {"name":"ZING","image":"https://cms.dmpcdn.com/livetv/2021/01/06/68be8520-500f-11eb-8d28-4b8e3f30b51b_original.png","url":"https://tv.trueid.net/embed/zing?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
-{"name":"Best Cable Music",image:"https://yt3.ggpht.com/ytc/AAUvwniq56MCrk92Ge6Tszwm6Iv6g_tJZFUVlYuQxlOi=s176-c-k-c0x00ffffff-no-rj-mo","url": "https://tv.siete.us/bestcablemusic/bestcablemusic/index.m3u8"},
-
-{"name":"Bonce TV",image:"https://lh5.googleusercontent.com/p/AF1QipPpJxXtOvsUJ7NtFOWf4cnaq0Fs0jRsCVq287d8=w600-h321-p-k-no","url": "https://seswa.bonce.tv/hls/bonceswa.m3u8"},
-
-{"name":"AmoyHouseRelax",image:"https://www.unboxbkk.com/wp-content/uploads/2020/07/topic-blackpink-marketing.jpg","url": "http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs"},
-
 {"name":"Box Hits",image:"https://media.info/i/lf/0/1464128411/1149.png","url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/"},
-
-{"name":"The Breeze",image:"https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/BreezeLogo1280x1280.png?w=300&h=236&mode=crop&format=jpg&bgcolor=F2F4F5","url": "https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8"},
 
 {"name":"Pluto TV VH1 Classics",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png","url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
 
@@ -180,12 +142,6 @@
 
 {"name":"Channel V Asia","image": "https://mir-s3-cdn-cf.behance.net/projects/404/6348447.546c15d0864b1.jpg","url": "https://cdn6.goprimetime.info/feed/202205171929/LC14/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
-{"name":"radio 21 tv",image:"https://photos.live-tv-channels.org/tv-logo/de-radio-21-tv-6387-316x237.jpg","url": "https://livestream.com/accounts/22300508/events/6675945"},
-
-{"name":"JENZ",image:"data:image/png;base64,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","url": "https://ms7.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8"},
-
-{"name":"MUSICPLUS",image:"http://onlinestream.live/logos/6465.png","url": "http://s02.diazol.hu:10192/stream.m3u8"},
-
 {"name":"Qmusic",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png","url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8"},
 
 {"name":"Muzzik AMVA 2020",image:"https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE","url": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8"},
@@ -208,8 +164,6 @@
 
 {"name": "Radio U TV","image": "https://radiou.com/wp-content/uploads/2019/04/RadioUTVPoster1024x576.jpg" ,"url": "https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8"},
 
-{"name": "MTV Vietnam","image": "https://yt3.ggpht.com/ytc/AKedOLRoYGJpp2bEDGjId23FVgMaGRJQwpjGOQsqDmk4=s900-c-k-c0x00ffffff-no-rj" ,"url": "https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8"},
-
 {"name": "Sluhay.by Pop","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTq-FLO5LYks8HUHt-zOXCv2ZGfzsku3qzNw&usqp=CAU" ,"url": "https://sluhay.by/live/Ch066pub/index.m3u8"},
 
 {"name": "Sluhay.by Rap","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvz9jGfHKPzvCzcS1Xhfwpj2eVgB-HXZKjhdDWGbQ75qVkY17dnu01ltgK0mr93_b&usqp=CAU" ,"url": "https://sluhay.by/live/Ch107pub/index.m3u8"},
@@ -218,10 +172,6 @@
 
 {"name": "Sluhay.by Live","image": "https://smotret.tv/images/sluhay-live.jpg" ,"url": "https://sluhay.by/live/Ch173pub/index.m3u8"},
 
-{"name": "VSVHD_DeepMusic","image": "https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png" ,"url": "http://176.9.17.76:7080/live/stream/8dl627dwai/56.ts?shareext.ts"},
-
-{"name":"K-Daily Tv",image:"https://booksandbeautiescom.files.wordpress.com/2017/06/blackpink-as-if-it-s-your-last-m-v-black-pink-40517078-500-231.gif","url": "https://asrazunifi.ddns.net:8443/live.m3u8"},
-
 {
 "name":"THE K-POP",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa5NvuFKyJyMDpM2VWJLYAU_LdpAgw9N5uyw&usqp=CAU",
@@ -229,27 +179,15 @@
 "playInNatPlayer": "true"
 },
 
-{"name": "TNT Music HD","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pHmH6gYom1gyxwsWtZxFm2mB9NdZ8FhS_qArfi7MsfKfYJpwGfLo3AncRxLHOiAiPQE&usqp=CAU" ,"url": "http://83.222.205.65:8080/tntmusic/index.m3u8"},
-
 {"name": "Now 70's","image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL" ,"url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"},
 
 {"name": "Now 80's","image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-01/Now80s-logo255x140.png?itok=jOXm9NjN" ,"url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8"},
 
 {"name": "Now 90's","image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-01/now90s255x140.jpg?itok=v4ebJsn1" ,"url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"},
 
- {
- "name": "MTV HITS",
- "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png",
- "url": "http://190.2.155.162:8080/mtvhit/mpegts",
- "userAgent": "REDLINECLIENT 650HD_PRO V2.7.59",
- "isHost": false
- },
+{"name": "Oldies Hits","image": "https://static.mytuner.mobi/media/tvos_radios/sscruhfzvayf.png" ,"url": "https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w794351848.m3u8"},
  
- {"name":"Loop 80s",image:"https://static.12core.net/a3dab2ebc27b678fbdbaedc395cd2305.jpeg","url": "https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8"},
- 
- {"name": "Oldies Hits","image": "https://static.mytuner.mobi/media/tvos_radios/sscruhfzvayf.png" ,"url": "https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w794351848.m3u8"},
- 
- {"name": "ไทไชโย","image": "https://sv1.picz.in.th/images/2022/10/31/vUN0Ay.png" ,"url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8"},
+{"name": "ไทไชโย","image": "https://sv1.picz.in.th/images/2022/10/31/vUN0Ay.png" ,"url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8"},
  
 ]
 }
