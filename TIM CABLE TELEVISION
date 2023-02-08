@@ -544,7 +544,51 @@ url:"https://www.inwiptv.com/player_demo.php?channel=61235", referer:"https://ww
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
+{"name"          :  "True Sports HD 3",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
+
+{
+"name": "True Sports HD 4",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"info": " TIM TV",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{"name"          :  "True Sports HD 5",
+"image"          :  "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
+
+{"name"          :  "True Sports HD 7",
+"image"          :  "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
+
 {"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV.jpg","url": "https://live.vip-streaming.com:30443/cloudstreaming/true-nba/chunks.m3u8","referer": "https://ufabetcompany.com"},
+
+{"name"          :  "True TENNIS",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
+
+{"name"          :  "Golf Channel Thailand",
+"image"          :  "https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=100&h=75",
+"url"            :  "https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM TV",
+"playInNatPlayer": "true"},
 
 {"name": "Hi Sport","image": "http://203.154.243.32/upload/tb2609154689.jpg" ,"url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115709"},
 
