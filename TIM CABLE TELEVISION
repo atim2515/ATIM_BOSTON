@@ -8,7 +8,13 @@
 		"stations":[
     
 
-{"name":"NBT HD",image:"https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png","url": "http://183.89.246.119:8010/play/a009/index.m3u8"},
+{
+"name":"NBT HD",
+"image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {"name":"NBT Central",image:"https://i.imgur.com/Glr0CJE.png","url": "http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8"},
     
@@ -22,7 +28,13 @@
 "info": "TIM", 
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
     
-{"name":"TV5 HD",image:"https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png","url": "http://183.89.246.119:8010/play/a00u/index.m3u8"},
+{
+"name":"5",
+"image":"https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {
 "name":"TPTV",
@@ -40,37 +52,87 @@
 "url" : "https://aisplay.ais.co.th/portal/live?vid=628afb3359cb25f3fc0cbb6c",
 "referer": "https://web-player.ais-vidnt.com","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"},
 
-{"name"              :     "Workpoint",
-"image"             :     "https://play-lh.googleusercontent.com/n14mShxRKxDUcWUur0cZEH2Ww--hzYNRfbIYRhG1inckuyXOezKemaDPli0bGxaQNvc",
-"url"               :     "https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8",
-"referer"           :  "https://www.siammovie-hd.com/",
-"playInNatPlayer"   :     "true"},
+{
+"name":"Workpoint",
+"image":"https://static.wikia.nocookie.net/logopedia/images/8/8e/Workpoint-logo.png/revision/latest/scale-to-width-down/1200?cb=20170508090614",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
     
 {
 "name": "True4U", "image": "https://www.true4u.com/images/true4u.jpg", 
 "url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "TIM", "desktop": "true"},
     
-{"name":"GMM 25","image": "https://i.imgur.com/sWGT1SD.png","url": "https://www.doofootball.com/dootv/live/gmm25#main_dootv"},
+{"name":"GMM 25","image": "https://static.thairath.co.th/media/4DQpjUtzLUwmJZZO8z9VN5NIgaKSrOiW8Uxx0i826t1c.jpg","url": "https://cdn6.goprimetime.info/feed/202205171929/chgmm/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
     
 {"name":"CH 8",image:"https://overseer.blackboxsys.net/images/png/hd-ch8.png","url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8"},
 
 {"name":"Mono29",image:"https://overseer.blackboxsys.net/images/png/hd-mono.png","url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8"},
     
-{"name":"MCOT HD",image:"https://i.imgur.com/KQu4dTf.png","url": "http://183.89.246.119:8010/play/a00h/index.m3u8"},
+{
+"name":"MCOT HD",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MCOT_Ch9_Logo.png/1200px-MCOT_Ch9_Logo.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
     
-{"name":"ONE HD",image:"https://overseer.blackboxsys.net/images/png/hd-gmmone.png","url": "http://183.89.246.119:8010/play/a00e/index.m3u8"},
+{
+"name":"ONE 31",
+"image":"https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0012/HLS/B0012.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=fbf9b1b49480ceae99e48e1406c649c4&chunkHttps=false&tmid=B0001&tpbk=VtMZjlieaVhNnl0F&rrt=1674493202&tmod=rfk&rsid=17c1375f-7d6d-4274-af9d-84481b5b0a98&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1674536403", 
+"referer": "https://ais-vidnt.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
     
-{"name":"Thairath TV",image:"https://overseer.blackboxsys.net/images/png/hd-thairath.png","url": "http://183.89.246.119:8010/play/a00i/index.m3u8"},
+{
+"name":"Thairath TV",
+"image":"https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
     
-{"name":"CH3 HD",image:"https://overseer.blackboxsys.net/images/png/hd-ch3.png","url": "http://183.89.246.119:8010/play/a00n/index.m3u8"},
+{
+"name":"3",
+"image":"https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
     
-{"name":"AMARIN TV HD",image:"https://overseer.blackboxsys.net/images/png/hd-amarin.png","url": "http://183.89.246.119:8010/play/a00r/index.m3u8"},
+{
+"name":"AMARIN TV HD",
+"image":"https://www.amarintv.com/assets/images/logo.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0017/HLS/V0017.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=fbf9b1b49480ceae99e48e1406c649c4&chunkHttps=false&tmid=B0001&tpbk=VtMZjlieaVhNnl0F&rrt=1674493202&tmod=rfk&rsid=17c1375f-7d6d-4274-af9d-84481b5b0a98&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1674536403", 
+"referer": "https://ais-vidnt.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
     
-{"name":"BBTV CH 7",image:"https://overseer.blackboxsys.net/images/png/hd-ch7.png","url": "http://183.89.246.119:8010/play/a00f/index.m3u8"},
+{
+"name":"7",
+"image":"https://cdni-cf.ch7.com/i/static/default/ch7hd-default.jpg",
+"url":"https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8", 
+"referer": "", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
-{"name":"PPTV HD",image:"https://overseer.blackboxsys.net/images/png/hd-pptv.png","url": "http://183.89.246.119:8010/play/a00s/index.m3u8"},
+{
+"name":"PPTV HD",
+"image":"https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0022/HLS/V0022.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=fbf9b1b49480ceae99e48e1406c649c4&chunkHttps=false&tmid=B0001&tpbk=VtMZjlieaVhNnl0F&rrt=1674493202&tmod=rfk&rsid=17c1375f-7d6d-4274-af9d-84481b5b0a98&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1674536403", 
+"referer": "https://ais-vidnt.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
-{"name":"TNN16",image:"https://i.imgur.com/hD3wGq3.png","url": "http://183.89.246.119:8010/play/a00b/index.m3u8"},
+{
+"name":"TNN 16",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TNN16_Logo.png/800px-TNN16_Logo.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {
 "name": "TNN2",  
