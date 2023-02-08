@@ -19,7 +19,7 @@
 "image":"https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png",
 "url":"https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8", 
 "referer": "https://freetvdd.com/", 
-"info": "TimSat", 
+"info": "TIM", 
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
     
 {"name":"TV5 HD",image:"https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png","url": "http://183.89.246.119:8010/play/a00u/index.m3u8"},
@@ -29,7 +29,7 @@
 "image":"https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",
 "url":"https://cdn6.goprimetime.info/feed/202205171929/tptv/playlist.m3u8", 
 "referer": "https://freetvdd.com/", 
-"info": "TIM TV", 
+"info": "TIM", 
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {"name":"JKN 18","image": "https://images.livebox.co/images/tv/png/sd-new.png","url": "https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
@@ -48,7 +48,7 @@
     
 {
 "name": "True4U", "image": "https://www.true4u.com/images/true4u.jpg", 
-"url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "TIM TV", "desktop": "true"},
+"url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "TIM", "desktop": "true"},
     
 {"name":"GMM 25","image": "https://i.imgur.com/sWGT1SD.png","url": "https://www.doofootball.com/dootv/live/gmm25#main_dootv"},
     
@@ -194,7 +194,7 @@
 "image": "https://drive.google.com/uc?id=1sc29bRrgnEt9rycGwYZJWJk4GVcsNloo",  
 "url": "https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8",
 "userAgent": "exoplayer_video",
-"info": "TIM TV"},
+"info": "TIM"},
 
 {
 "name": "SAMURAI",  
@@ -306,7 +306,7 @@ url:"http://61.19.242.134/feed/202205171929/LC11/index.m3u8",
 "name": "7Flix",  
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png",  
 "url": "https://cdn6.goprimetime.info/feed/202205171929/LC5/index.m3u8",
-"userAgent": "exoplayer_video", "info": "TIM TV"},
+"userAgent": "exoplayer_video", "info": "TIM"},
 
 {"name":"SANOOK","image": "https://sv1.picz.in.th/images/2022/02/20/rKibuZ.png","url": "https://cdn6.goprimetime.info/feed/202205171929/LC53/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
@@ -334,7 +334,7 @@ url:"http://61.19.242.134/feed/202205171929/LC11/index.m3u8",
 "url": "https://tv.trueid.net/embed/TOONEE",
 "referer": "https://tv.trueid.net/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
+"info": "TIM",
 "playInNatPlayer": "true"
 },
 
@@ -366,14 +366,14 @@ url:"http://61.19.242.134/feed/202205171929/LC11/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{"name": "AXN","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
+{"name": "AXN","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM","embed": "true",playInNatPlayer: "true"},
 
 {
 "name":"Nation tv",
 "image":"https://freetvdd.com/wp-content/uploads/2019/12/nation.png",
 "url":"https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8", 
 "referer": "https://freetvdd.com/", 
-"info": "TimSat", 
+"info": "TIM", 
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {
@@ -495,7 +495,7 @@ url:"https://www.inwiptv.com/player_demo.php?channel=61235", referer:"https://ww
 				"image": "https://www.pngkit.com/png/detail/432-4329573_h2-channel-logo-h2-hd.png",
 				url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-history2&api_key=hmcb4rf66f",
 				"referer": "https://dooball66.com/",   
-				"info": "TIM TV",
+				"info": "TIM",
 				"embed": "true",playInNatPlayer: "true"},
 
 {
@@ -528,7 +528,7 @@ url:"https://www.inwiptv.com/player_demo.php?channel=61235", referer:"https://ww
 "name": "Food Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",
 "url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0162/HLS/V0162.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=d21d9601b80535a61622f95200b111c9&chunkHttps=false&tmid=B0001&tpbk=ctrWk6s7GvWIcgwA&rrt=1675141202&tmod=rfk&rsid=1cda80f2-6c22-4927-bc7c-cfd7fa93cb44&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1675227602",
 "referer": "https://ais-vidnt.com/",
-"info": "TimSat",
+"info": "TIM",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "playInNatPlayer": "true"
 },
@@ -537,7 +537,7 @@ url:"https://www.inwiptv.com/player_demo.php?channel=61235", referer:"https://ww
 "name": "Asian Food Network","image": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1578301677_logo-asian-food-network.png",
 "url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0161/HLS/V0161.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=d21d9601b80535a61622f95200b111c9&chunkHttps=false&tmid=B0001&tpbk=ctrWk6s7GvWIcgwA&rrt=1675141202&tmod=rfk&rsid=1cda80f2-6c22-4927-bc7c-cfd7fa93cb44&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1675227602",
 "referer": "https://ais-vidnt.com/",
-"info": "TimSat",
+"info": "TIM",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "playInNatPlayer": "true"
 },
