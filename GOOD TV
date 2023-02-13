@@ -14,29 +14,47 @@
 
 {"name":"Thai PBS HD",image:"https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png","url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"},
 
-{"name":"T-Sports7","image":"https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png","url":"https://aisplay.ais.co.th/portal/live?vid=627a27b26dbfe345cfc8a27f","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{
+"name":"T Sports 7",
+"image":"https://images.livebox.co/images/tv/png/sd-tsports.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
-{"name":"TPTV","image":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg","url":"https://tv.trueid.net/embed/tptv?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{
+"name":"TPTV",
+"image":"https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/tptv/playlist.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {"name":"TNN16",image:"https://i.imgur.com/hD3wGq3.png","url": "http://183.89.246.119:8010/play/a00b/index.m3u8"},
 
-{"name":"JKN 18",image:"https://i.imgur.com/0dVYX70.png","url": "https://www.doofootball.com/dootv/live/newtv#main_dootv"},
+{"name":"JKN 18","image": "https://images.livebox.co/images/tv/png/sd-new.png","url": "https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
 {
-"name": "Nation TV", "image": "https://cms.kapook.com/uploads/tag/42/ID_41851_5c93153cacbdc.jpg",  
-"url":"https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/nation_480p/playlist.m3u8", "referer": "https://www.doofootball.com/", "info": "TIM TV", "desktop": "true"},
+"name":"Nation tv",
+"image":"https://freetvdd.com/wp-content/uploads/2019/12/nation.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
-{"name"              :     "Workpoint 23",
-"image"             :     "https://play-lh.googleusercontent.com/n14mShxRKxDUcWUur0cZEH2Ww--hzYNRfbIYRhG1inckuyXOezKemaDPli0bGxaQNvc",
-"url"               :     "https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8",
-"referer"           :  "https://www.siammovie-hd.com/",
-"playInNatPlayer"   :     "true"},
+{
+"name":"Workpoint",
+"image":"https://static.wikia.nocookie.net/logopedia/images/8/8e/Workpoint-logo.png/revision/latest/scale-to-width-down/1200?cb=20170508090614",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {
 "name": "True4U", "image": "https://www.true4u.com/images/true4u.jpg", 
-"url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "TIM TV", "desktop": "true"},
+"url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "TIM", "desktop": "true"},
 
-{"name":"GMM 25","image": "https://i.imgur.com/sWGT1SD.png","url": "https://www.doofootball.com/dootv/live/gmm25#main_dootv"},
+{"name":"GMM 25","image": "https://static.thairath.co.th/media/4DQpjUtzLUwmJZZO8z9VN5NIgaKSrOiW8Uxx0i826t1c.jpg","url": "https://cdn6.goprimetime.info/feed/202205171929/chgmm/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
     
 {"name":"CH 8",image:"https://overseer.blackboxsys.net/images/png/hd-ch8.png","url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8"},
 
@@ -92,16 +110,15 @@
 
 {"name": "MVTV ซีรีส์","image": "https://www.mvtv.co.th/wp-content/uploads/2021/02/mvmall_serie.png" ,"url": "https://www.mvtv.co.th/channel/mvtv-series"},
 
-{"name": "Boomerang","image": "https://images.livebox.co/images/tv/png/sd-boomerang.png","url": "https://cdn6.goprimetime.info/feed/202105171329/chboomberang/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"},
+{
+"name": "Boomerang", "image": "https://i.imgur.com/gu2KjYv.png",  
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0104/HLS/V0104.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=76ab8abd5d31131fdb7bef6cca159360&chunkHttps=true&tmid=B0012&tpbk=PjVbnnTFzjstiEH5&rrt=1676257716&tmod=rfk&rsid=23b4140c-31de-42bc-89a2-cc22a0e05209&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1676321965", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
 
 {"name":"NHK World TV",image:"https://cms.dmpcdn.com/livetv/2017/10/18/1476e49b-cf56-4fc0-873b-dc61e4207273.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"},
 
-{      
-        "name": "France24",  
-        "image": "https://images.livebox.co/images/tv/png/sd-france24.png",  
-        "url": "http://61.19.242.134/feed/202105171329/LC34/index.m3u8",
-        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
-},
+{
+"name": "France 24", "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",  
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0123/HLS/V0123.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=76ab8abd5d31131fdb7bef6cca159360&chunkHttps=true&tmid=B0012&tpbk=PjVbnnTFzjstiEH5&rrt=1676257716&tmod=rfk&rsid=23b4140c-31de-42bc-89a2-cc22a0e05209&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1676321965", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
 
     {  
 name:"บุษบาคาเฟ่",
