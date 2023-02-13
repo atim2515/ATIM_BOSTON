@@ -8,13 +8,11 @@
 		"stations":[
     
     
-{
-"name": "TLC","image": "https://i.blogs.es/8c020b/tlc_logo/1366_2000.jpg",
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0183/HLS/V0183.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=edb592722d4946ae8dcf712e069c9b7f&chunkHttps=false&tmid=B0001&tpbk=uocg82kcB1ZGej9S&rrt=1675314003&tmod=rfk&rsid=9d9e9279-7a2a-4e2b-b46c-98dfd24e36f2&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1675357201",
-"referer": "https://ais-vidnt.com/",
-"info": "TIM",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
+{"name": "TLC","image": "http://tvsmagazine.com/images/channels/sm_068.jpg",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-tlc&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
 {"name":"FOX Soul",image:"https://image.roku.com/developer_channels/prod/98de6b5d6ae0e4caa4a60be5686d23f56632a857e6315cca0cb7a6387cda51e4.png","url": "http://fox-foxsoul-roku.amagi.tv/playlist.m3u8"},
