@@ -250,9 +250,13 @@
 
 {"name": "AXN","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
 
-{"name":"ROCK ENTERTAINMENT",image:"https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_original.png","url": "https://www.doofootball.com/dootv/live/blueant#main_dootv"},
+{
+"name": "Rock Entertainment","image": "https://drive.google.com/uc?id=1Wi2VhPQmDEYqYOhG8VzZULhFmsuz8uO-", 
+"url": "https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyMiAxMTowMjoxOSBBTSZoYXNoX3ZhbHVlPXc5amFEK3dOdE5zOFd0V3I2aEJkV2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8yMTMzOQ==", "referer":"https://wacth.tv", "info": "TIM TV", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
 
-{"name":"ROCK EXTREME",image:"https://cms.dmpcdn.com/livetv/2021/08/31/12db2650-0a7b-11ec-8b33-05dadd6cbd44_original.png","url": "https://www.doofootball.com/dootv/live/blueantextream#main_dootv"},
+{
+"name": "Rock Action", "image": "https://cms.dmpcdn.com/livetv/2023/01/11/a668dbd0-91c8-11ed-b47a-6b8caff34636_webp_original.png", 
+"url":"https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyMiAxMTowMjoxOSBBTSZoYXNoX3ZhbHVlPXc5amFEK3dOdE5zOFd0V3I2aEJkV2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8yMTMzOQ==", "referer":"https://wacth.tv", "info": "wacth", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", "playInNatPlayer":"true" },
 
 {"name": "Life Time","image":"https://rentapi.blackboxsys.net/images/png/hd-lifetime.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
 
@@ -284,9 +288,23 @@
 
 {"name":"Fashion TV HD",image:"https://i0.wp.com/opportunitycell.com/wp-content/uploads/2021/06/fashion-tv-logo-png-3.png?fit=1200%2C1200&ssl=1","url": "https://www.doofootball.com/dootv/live/fashiontv#main_dootv"},
 
-{"name":"Food Network",image:"https://findlogovector.com/wp-content/uploads/2019/09/food-network-logo-vector.png","url": "https://www.doofootball.com/dootv/live/foodnetwork#main_dootv"},
+{
+"name": "Food Network","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0162/HLS/V0162.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=d21d9601b80535a61622f95200b111c9&chunkHttps=false&tmid=B0001&tpbk=ctrWk6s7GvWIcgwA&rrt=1675141202&tmod=rfk&rsid=1cda80f2-6c22-4927-bc7c-cfd7fa93cb44&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1675227602",
+"referer": "https://ais-vidnt.com/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
 
-{"name":"AFN",image:"https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_320.png","url": "https://www.doofootball.com/dootv/live/afc#main_dootv"},
+{
+"name": "Asian Food Network","image": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1578301677_logo-asian-food-network.png",
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0161/HLS/V0161.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http://pl-origin.ais-vidnt.com/ais/play/origin&tt=d21d9601b80535a61622f95200b111c9&chunkHttps=false&tmid=B0001&tpbk=ctrWk6s7GvWIcgwA&rrt=1675141202&tmod=rfk&rsid=1cda80f2-6c22-4927-bc7c-cfd7fa93cb44&tuid=0gL62BTr6DLENRJxqqcYKug3NJqHdPuTJDf0RBHHV6fX/Gf2U2M0frcoI8kE36U0B0QTLYxWNqIVgz3ZzybbJRYx9/h9pIyrbMoyozJUtHU9Y%3D&cdn=redfox&tdid=02004c4f4f508066&tfa=f0-fc&tttl=1675227602",
+"referer": "https://ais-vidnt.com/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
 
 {"name":"ETV",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0087.png","url": "http://www.etvthai.tv/stream/home.aspx"},
 
