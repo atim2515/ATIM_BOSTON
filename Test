@@ -1,20 +1,13 @@
 #EXTM3U
  
 
-#EXTINF:-1 group-title="Andorra TV" tvg-logo="https://www.rama.mahidol.ac.th/sites/default/files/public/Logo%20RC%20HD%20no%2042-01.png",NHK华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="Andorra TV" tvg-logo="https://www.rama.mahidol.ac.th/sites/default/files/public/Logo%20RC%20HD%20no%2042-01.png",SUN TV
-https://cdnv148.cloudrsst.com/jptv/kansi_sun_tv_720/playlist.m3u8
-#EXTINF:-1 group-title="Andorra TV" tvg-logo="https://www.rama.mahidol.ac.th/sites/default/files/public/Logo%20RC%20HD%20no%2042-01.png",Disney Junior Japan
-https://cdnv148.cloudrsst.com/jptv/disney_junior/playlist.m3u8
 #EXTINF:-1 group-title="Andorra TV" tvg-logo="https://www.rama.mahidol.ac.th/sites/default/files/public/Logo%20RC%20HD%20no%2042-01.png",now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 group-title="Andorra TV" tvg-logo="https://www.rama.mahidol.ac.th/sites/default/files/public/Logo%20RC%20HD%20no%2042-01.png",Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 group-title="Andorra TV" tvg-logo="https://www.rama.mahidol.ac.th/sites/default/files/public/Logo%20RC%20HD%20no%2042-01.png",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 group-title="Andorra TV" tvg-logo="https://www.rama.mahidol.ac.th/sites/default/files/public/Logo%20RC%20HD%20no%2042-01.png",Now Sports Prime
-https://radio-thailand.com/city-radio-pattaya
+
 
 
 
