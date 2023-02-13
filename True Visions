@@ -176,55 +176,33 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{
-"name": "True Film Asia",
-"image": "https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"imageScale": "fitStart",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-filmasia&api_key=hmcb4rf66f#ref=dooball66.com",
-"isHost": "true",
-"referer": "https://dooball66.com",
+{"name": "True Film Asia","image": "https://blingtv.net/channels/images/TFA.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-filmasia&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+
+{"name": "Warner TV","image": "https://blingtv.net/channels/images/WNR.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
 "embed": "true",
 "origin": "https://embed-dev.blackboxsys.net",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{
-"name": "Warner TV",
-"image": "https://images.livebox.co/images/tv/png/hd-warnertv.png",
-"imageScale": "fitStart",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-warnertv&api_key=hmcb4rf66f#ref=dooball66.com",
-"isHost": "true",
-"referer": "https://dooball66.com",
+{"name": "KBS World","image": "https://blingtv.net/channels/images/KBS.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-kbsworld&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"}
+
+{"name": "Paramount network","image": "https://blingtv.net/channels/images/PRM.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
 "embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{
-"name": "KBS World HD",
-"image": "https://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",
-"imageScale": "fitStart",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-kbsworld&api_key=hmcb4rf66f#ref=dooball66.com",
-"isHost": "true",
-"referer": "https://dooball66.com",
+{"name": "True Series","image": "https://blingtv.net/channels/images/TRS.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
 "embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
-
-{
-"name": "Paramount Network",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",
-"imageScale": "fitStart",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f#ref=dooball66.com",
-"isHost": "true",
-"referer": "https://dooball66.com",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
-
-{"name": "True Series","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/trueseries.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM","embed": "true",playInNatPlayer: "true"},
 
 {"name"          :  "CCM",
 "image"          :  "https://freetvdd.com/wp-content/uploads/2019/12/ccm-1.png",
@@ -246,15 +224,22 @@
 
 {"name":"tvN",image:"https://cms.dmpcdn.com/livetv/2021/10/21/9cb0f6b0-326d-11ec-9520-9918a20d7c65_webp_original.png","url": "http://210.210.155.37/dr9445/h/h20/index.m3u8"},
 
-{"name": "AXN","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/GtRCensm28TvS3GkSFw3QyzgFqJft1vhd-axn.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM","embed": "true",playInNatPlayer: "true"},
+{"name": "AXN","image": "https://blingtv.net/channels/images/AXN.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-axn&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "Rock Entertainment","image": "https://blingtv.net/channels/images/RKE.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-blueant&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
 
 {"name": "Rock Action","image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-rtlcbsextreme&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
 
-{"name": "Life Time","image":"https://rentapi.blackboxsys.net/images/png/hd-lifetime.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM","embed": "true",playInNatPlayer: "true"},
+{"name": "LifeTime","image": "https://blingtv.net/channels/images/LFT.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
 
-{"name": "True X-ZYTE","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/6yUxSSruYwQZeV62cvAEUvP11HOFzrnimages.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM","embed": "true",playInNatPlayer: "true"},
+{"name": "True X-ZYTE","image": "https://blingtv.net/channels/images/TXZ.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name":"ESports Thai Leagues","image":"https://cms.dmpcdn.com/livetv/2020/12/28/c8ce2320-48c2-11eb-9b6d-3fdf37c2e48e_320.jpg","url":"https://tv.trueid.net/embed/ESPORTSTHAILEAGUESTV?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
