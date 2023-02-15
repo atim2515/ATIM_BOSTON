@@ -128,9 +128,15 @@
 "url":"https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8", "referer": "https://freetvdd.com/",
 "desktop": "true"},
 
-{"name": "True Film HD","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/RobYvCIjv9KeZe1xJ1IcXjjv27tYhdNhd-tfilm.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM","embed": "true",playInNatPlayer: "true"},
+{"name": "True Film HD","image": "https://blingtv.net/channels/images/THF1.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name": "True Film HD 2","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/XzIivJOwDozc5ievk7vcL4ZMALbSvXmhd-tfilm2.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f","referer": "https://dooball66.com/",   "info": "TIM","embed": "true",playInNatPlayer: "true"},
+{"name": "True Film HD 2","image": "https://blingtv.net/channels/images/THF2.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "True Movies Hits","image": "https://blingtv.net/channels/images/TMH.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmfklstgerter5",
 "referer": "https://www.ufazeed.co/",
@@ -138,17 +144,7 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{
-"name": "True Thai Film",
-"image": "https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"imageScale": "fitStart",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
-"isHost": "true",
-"referer": "https://dooball66.com",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
+{"name": "True Thai Film","image": "https://blingtv.net/channels/images/TTF.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
 
 {
 "name": "True Chinese More",
@@ -162,17 +158,15 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{"name": "True Korean More","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/truekoreanmore.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM","embed": "true",playInNatPlayer: "true"},
-
-{
-"name": "True Asian More",
-"image": "https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_320.png",
-"imageScale": "fitStart",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-asianmore&api_key=hmcb4rf66f#ref=dooball66.com",
-"isHost": "true",
-"referer": "https://dooball66.com",
+{"name": "True Korean More","image": "https://blingtv.net/channels/images/TKM.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
 "embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+
+{"name": "True Asian More","image": "https://blingtv.net/channels/images/TAM.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
