@@ -14,13 +14,25 @@
     
 {"name":"Thai PBS HD",image:"https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png","url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"},
     
-{"name":"ALTV",image:"https://i.imgur.com/DA8VpsN.png","url": "https://www.altv.tv/live"},
+{
+"name":"ALTV",
+"image":"https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
     
 {"name":"TV5 HD",image:"https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png","url": "http://183.89.246.119:8010/play/a00u/index.m3u8"},
 
-{"name":"TPTV","image":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg","url":"https://tv.trueid.net/embed/tptv?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{
+"name":"TPTV",
+"image":"https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/tptv/playlist.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
-{"name":"JKN 18",image:"https://i.imgur.com/0dVYX70.png","url": "https://www.doofootball.com/dootv/live/newtv#main_dootv"},
+{"name":"JKN 18","image": "https://images.livebox.co/images/tv/png/sd-new.png","url": "https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
 {
 "name": "JKN-CNBC",
@@ -28,17 +40,19 @@
 "url" : "https://aisplay.ais.co.th/portal/live?vid=628afb3359cb25f3fc0cbb6c",
 "referer": "https://web-player.ais-vidnt.com","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"},
 
-{"name"              :     "Workpoint 23",
-"image"             :     "https://play-lh.googleusercontent.com/n14mShxRKxDUcWUur0cZEH2Ww--hzYNRfbIYRhG1inckuyXOezKemaDPli0bGxaQNvc",
-"url"               :     "https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8",
-"referer"           :  "https://www.siammovie-hd.com/",
-"playInNatPlayer"   :     "true"},
+{
+"name":"Workpoint",
+"image":"https://static.wikia.nocookie.net/logopedia/images/8/8e/Workpoint-logo.png/revision/latest/scale-to-width-down/1200?cb=20170508090614",
+"url":"https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8", 
+"referer": "https://freetvdd.com/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
     
 {
 "name": "True4U", "image": "https://www.true4u.com/images/true4u.jpg", 
 "url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "TIM TV", "desktop": "true"},
     
-{"name":"GMM 25","image": "https://i.imgur.com/sWGT1SD.png","url": "https://www.doofootball.com/dootv/live/gmm25#main_dootv"},
+{"name":"GMM 25","image": "https://static.thairath.co.th/media/4DQpjUtzLUwmJZZO8z9VN5NIgaKSrOiW8Uxx0i826t1c.jpg","url": "https://cdn6.goprimetime.info/feed/202205171929/chgmm/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
     
 {"name":"CH 8",image:"https://overseer.blackboxsys.net/images/png/hd-ch8.png","url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8"},
 
@@ -60,7 +74,7 @@
 
 {"name":"TNN16",image:"https://i.imgur.com/hD3wGq3.png","url": "http://183.89.246.119:8010/play/a00b/index.m3u8"},
 
-{"name": "RAMA CHANNEL","image": "https://www.rama.mahidol.ac.th/sites/default/files/public/Logo%20RC%20HD%20no%2042-01.png" ,"url": "https://youtu.be/BehOX_cwPMk"},
+{"name": "RAMA CHANNEL","image": "https://www.rama.mahidol.ac.th/sites/default/files/public/Logo%20RC%20HD%20no%2042-01.png" ,"url": "https://youtu.be/_5tKW0ZETFI"},
 
 {"name":"DLTV1",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png","url": "https://www.dltv.ac.th/streaming"},
 
@@ -136,27 +150,6 @@ url:"http://61.19.242.134/feed/202205171929/LC11/index.m3u8",
 "userAgent": "exoplayer_video", "info": "TIM TV"},
 
 {
-"name": "POPART MOVIE","image": "https://sv1.picz.in.th/images/2022/03/11/rrJ89D.jpg",
-"url":"https://26t4.short.gy/popart.m3u8",
-"referer": "xxx",
-"info": " TIM TV ",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "IPM A-Film",
-"image": "http://88iptv.org/images/channels/a_film.png",
-url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11?ticket=6FC9BAB537E100512D508A92161443105F07A3D9"
-},
-
-{"name":"IPM I-Asia","image":"http://88iptv.org/images/channels/i_asia.png","url":"http://150.95.25.221:8000/i%2D%20Asia%20HD?u=covid19:p=KkjJidasIilliqQ","userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", "playInNatPlayer": "true"},
-
-{"name":"IPM LIVE SKY 2","image":"https://www.lyngsat.com/logo/tv/cc/csat-th.png","url":"http://150.95.25.221:8000/Live%20Sky2?u=covid19:p=KkjJidasIilliqQ","userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", "playInNatPlayer": "true"},
-
-{"name":"โชคดี ทีวี","image":"https://th.top10place.com/img_files/346492425548903","url":"http://freelive2.inwstream.com:1935/freelive-edge/zeenang/playlist.m3u8"},
-
-{
 "name": "True Thai Film",
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
 "imageScale": "fitStart",
@@ -220,7 +213,7 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "ราม่า","image": "https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg" ,"url": "https://www.mvtv.co.th/channel/ramachannel"},
 
-{"name": "จอมยุทธ์","image": "https://s2.dmcdn.net/v/StXKv1WVIjy5ZeW2u/x1080" ,"url": "https://www.mvtv.co.th/channel/tvd10"},
+{"name": "จอมยุทธ์","image": "https://s2.dmcdn.net/v/StXKv1WVIjy5ZeW2u/x1080" ,"url": "http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8"},
 
 {"name": "FWMOV","image": "https://sv1.picz.in.th/images/2021/11/12/ueNbxy.jpg" ,"url": "https://www.inwiptv.com/player_demo.php?channel=89782"},
 
@@ -264,8 +257,6 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "Flicks of Fury","image": "https://corporate.pluto.tv/wp-content/uploads/2017/05/FLICKSofFURY_3_Facebook_1200x628-1.png" ,"url": "http://player.teleon.tv/us/channel/flicks-of-fury-us"},
 
-{"name": "KIX","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" ,"url": "https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8"},
-
 {"name": "Adrenaline Rush","image": "https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b/200" ,"url": "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8"},
 
 {"name": "Cinevault 80s","image": "https://pbs.twimg.com/media/Ey48tpbWEAIU5ti?format=jpg&name=large" ,"url": "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8"},
@@ -290,107 +281,54 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name": "SRTV","image": "https://i.ytimg.com/vi/_CkciYQqmdg/maxresdefault.jpg" ,"url": "https://live1.thaitvstream.com/play/srtvonline/index.m3u8"},
 
-{"name": "STAR MOVIES","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" ,"url": "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8"},
+{"name": "True Film HD","image": "https://blingtv.net/channels/images/THF1.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name": "HITS MOVIES","image": "https://movies.hitstv.com/assets/logo-HITSMOVIES.png" ,"url": "https://www.doofootball.com/dootv/live/hitsmovie#main_dootv"},
+{"name": "True Film HD 2","image": "https://blingtv.net/channels/images/THF2.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{name:"HITS",image:"https://www.hitstv.com/img/hits-movies-logo.png",url:"https://www.doofootball.com/dootv/live/hits#main_dootv","referer": "https://wacth.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+{"name": "Paramount network","image": "https://blingtv.net/channels/images/PRM.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
-{"name": "True Film HD","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/RobYvCIjv9KeZe1xJ1IcXjjv27tYhdNhd-tfilm.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info": "TIM TV","embed": "true",playInNatPlayer: "true"},
-
-{"name": "True Film HD 2","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/XzIivJOwDozc5ievk7vcL4ZMALbSvXmhd-tfilm2.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f","referer": "https://dooball66.com/",   "info": "TIM TV","embed": "true",playInNatPlayer: "true"},
-
-{
-"name": "Paramount Network",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",
-"imageScale": "fitStart",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmcb4rf66f#ref=dooball66.com",
-"isHost": "true",
-"referer": "https://dooball66.com",
+{"name": "Warner TV","image": "https://blingtv.net/channels/images/WNR.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
 "embed": "true",
 "origin": "https://embed-dev.blackboxsys.net",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{"name": "Warner TV","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/iBlD0YzspNA9b9D8hK3wFnT5EBI5smLwbtv.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
-
 {"name": "AND","image": "https://i.ytimg.com/vi/_CkciYQqmdg/maxresdefault.jpg" ,"url": "https://live.thaitvstream.com/play/andtv/index.m3u8"},
-
-{"name": "HBO","image": "https://variety.com/wp-content/uploads/2019/11/hbo-logo.jpg?w=681&h=383&crop=1" ,"url": "https://www.doofootball.com/dootv/live/hbohd#main_dootv"},
-
-{"name": "HBO Family","image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" ,"url": "https://www.doofootball.com/dootv/live/hbofamily#main_dootv"},
-
-{"name": "HBO Hits","image": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,"url": "https://www.doofootball.com/dootv/live/hbohit#main_dootv"},
-
-{"name": "HBO Signature","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" ,"url": "https://www.doofootball.com/dootv/live/hbosignature#main_dootv"},
 
 {"name": "MEDIANEWS","image": "https://i.ytimg.com/vi/_CkciYQqmdg/maxresdefault.jpg" ,"url": "https://live1.thaitvstream.com/play/medianews/index.m3u8"},
 
-{
-"name":"True Movie Hits",
-"image":"https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",
-"url":"https://playerembed-lb.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info":"TIM TV"
+{"name": "True Movies Hits","image": "https://blingtv.net/channels/images/TMH.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{"name": "True Series","image": "https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" ,"url": "https://www.doofootball.com/dootv/live/trueseries#main_dootv"},
+{"name": "True Series","image": "https://blingtv.net/channels/images/TRS.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name": "Flix","image": "https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" ,"url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"},
 
 {"name": "TVN Movies","image": "https://mncvision.id/userfiles/image/channel/channel_109.png" ,"url": "http://210.210.155.35:80/dr9445/h/h21/01.m3u8"},
 
-{"name": "CCM","image": "http://tvsmagazine.com/images/channels/sm_CMC.png","url": "http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115636&extension=ts&play_token",
-"referer": "https://wacth.tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36"},
+{"name": "Siam News TV Online","image": "https://img.siamnews.net/2018/05/cropped-siamnews-bw-helv-square.png" ,"url": "https://thaitvstream.com/application/mtvlive/count.php?id=7&url=https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"},
 
-{"name": "Siam News TV Online","image": "https://www.siamnews.net/wp-content/uploads/2018/05/cropped-siamnews-bw-helv-square.png" ,"url": "https://thaitvstream.com/application/mtvlive/count.php?id=7&url=https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"},
-
-{"name": "Cinemax","image": "https://static.epg.best/ph/Cinemax.ph.png" ,"url": "https://www.doofootball.com/dootv/live/cinemax#main_dootv"},
-
-{"name":"VSVHD_Marvel",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/57.ts?shareext.ts"},
-
-{"name":"VSVHD_Collection",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/61.ts?shareext.ts"},
-
-{"name":"VSVHD_Thriller",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/62.ts?shareext.ts"},
-
-{"name":"VSVHD_JCVD",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/69.ts?shareext.ts"},
-
-{"name":"VSVHD_MR.BEAN",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/70.ts?shareext.ts"},
-
-{"name":"VSVHD_Premium2",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/83.ts?shareext.ts"},
-
-{"name":"VSVHD_Action",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/34.ts?shareext.ts"},
-
-{"name":"VSVHD_Comedy",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/35.ts?shareext.ts"},
-
-{"name":"VSVHD_Horror",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/36.ts?shareext.ts"},
-
-{"name":"VSVHD_Sci_fi",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/37.ts?shareext.ts"},
-
-{"name":"VSVHD_Western",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/39.ts?shareext.ts"},
-
-{"name":"VSVHD_History",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/40.ts?shareext.ts"},
-
-{"name":"VSVHD_Premium",image:"https://i.postimg.cc/05D5nTns/Romania-Tv-VSVHDshareext.png","url": "http://176.9.17.76:7080/live/stream/8dl627dwai/41.ts?shareext.ts"},
-
-{"name": "+HBO","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3vyvzuMmVv1tk5EoTXEjl6W3FNj9o1pSI1MhEUCJf3Q-6xNaJdWLxQVXTVwtic65UZs&usqp=CAU" ,"url": "http://194.163.179.246/slovenci/filmski/hbohd.m3u8"},
-
-{"name": "+HBO 2","image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" ,"url": "http://194.163.179.246/slovenci/filmski/hbo2hd.m3u8"},
-
-{"name": "+HBO 3","image": "https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG" ,"url": "http://194.163.179.246/slovenci/filmski/hbo3hd.m3u8"},
-
-{"name": "MONO29 PLUS +","image": "https://monoplus.mthai.com/app/themes/monoplus/images/logo_mono29plus.png?4","url": "https://www.doofootball.com/dootv/live/monoplus",
-"referer": "https://www.doofootball.com/dootv/live/monoplus",
-"origin": "https://www.doofootball.com",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
-
-{"name":"TVB XING HE","image":"https://cms.dmpcdn.com/livetv/2022/06/01/bcfd3840-e18e-11ec-9395-ffdbbc2b7b61_webp_original.png",url:"https://www.doofootball.com/dootv/live/tvb#main_dootv","referer": "https://wacth.tv/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
+{"name": "TVB XING HE","image": "https://blingtv.net/channels/images/TVB.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-tvb&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
 
 {"name":"Action Hollywood Movies",image:"https://i.imgur.com/B3RHwVN.png","url": "https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8"},
-
-{"name":"SERIES+ HD","image":"https://www.lyngsat.com/logo/tv/ii/ipm_series_plus_hd.png","url":"http://150.95.25.221:8000/Series%2B%20HD?u=covid19:p=KkjJidasIilliqQ","userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", "playInNatPlayer": "true"},
 
 {"name":"Thai Tomorrow TV",image:"https://thaitvstream.com/streaming/thaitomorrowtv/thaitomorrowtv.png","url": "https://www.ทีวีท้องถิ่นไทย.com/count.php?id=29&url=https://live.thaitvstream.com/play/thaitomorrowtv/index.m3u8"},
 
@@ -414,7 +352,7 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name":"Aniplus",image:"https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555","url": "http://45.126.83.51/dr9445/h/h02/01.m3u8"},
 
-{"name":"Cartoon Network HD",image:"https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png","url": "http://red.ipfox.org:8080/osama2022/osama2023/49100"},
+{"name": "Cartoon Network","image": "https://blingtv.net/channels/images/CTN.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-cartoonnetwork&api_key=hmfklstgerter5&ref=https://playerembed-lb.blackboxsys.net","referer": "https://www.ufazeed.co/","embed": "true"},
 
 {"name":"ZooMoo",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png","url": "http://168.205.87.198:8555/live/michele/123456/162.ts"},
 
@@ -436,20 +374,25 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name":"CNA",image:"https://play-lh.googleusercontent.com/F7kryheJM-vlSy3fGkvgzaHgQNWv1XVXbgREvuoUBh_8JQmNBzgD2FDbSQ-7qJMTeEam","url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8"},
 
-{"name":"Euronews",image:"https://pbs.twimg.com/profile_images/1168824925110620161/aClpPizp_400x400.jpg","url": "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"},
+{"name":"Euronews",image:"https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png","url": "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"},
 
 {"name":"Al Jazeera",image:"https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png","url": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"},
 
-{"name":"Love Nature",image:"https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_original.png","url": "http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"},
+{
+"name": "Love Nature 4K",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-lovenature&api_key=hmcb4rf66f&ref=https://doofootballs.com",
+"isHost": "true",
+"referer": "https://dooball66.com",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name":"Smithsonian Channel HD",image:"https://getlogo.net/wp-content/uploads/2020/10/smithsonian-channel-logo-vector.png","url": "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"},
 
 {"name":"TV5Monde",image:"https://play-lh.googleusercontent.com/V5QeZkor9TK5_wKtCrSw4CR6Oa_0NBhbRY_NXF5bBYP8vNoEYcI4EtSkICt7Acg2Wi8l","url": "http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8"},
-
-{
-"name": "            TRT UHD",
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png",
-"url":"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=400958&extension=ts&play_token", "referer": "", "info": "TIM TV", "playInNatPlayer": "true"},
 
 {"name":"NHK World",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8"},
 
@@ -467,11 +410,9 @@ url:"http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11
 
 {"name":"TJB SBS KOREA",image:"https://www.nettvpro.live/uploads/20/1-201122204432409.jpg","url": "http://1.245.74.5:1935/live/tv/.m3u8"},
 
-{"name":"Channel A Korea",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqOsW-jiO4GECaF_CHMIeR_Pl9AhrfJE_LckCMlRrgNKpTlziKvAywM3Wg1gdM_qHCBA&usqp=CAU","url": "http://ye23.win/iptv/korea2021.php?id=Channel"},
+{"name":"Channel A",image:"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/pz5b2qnqe4eciyq2yqik","url": "http://han.ddkdxmkj.com/api/han123.php?id=15"},
 
 {"name":"YTN",image:"https://cms.dmpcdn.com/livetv/2017/10/18/4b856cb3-908d-4789-8953-3b9d598d8de8.png","url": "http://nettvpro.live/hls/naver.php?id=3074734"},
-
-{"name":"TVBS",image:"https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg","url": "http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5"},
 
 {"name":"Sports News Highlights",image:"https://sportsnn.images.worldnow.com/images/23546723_G.png?auto=webp&disable=upscale&dpr=2&height=70&fit=bounds","url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshigh-ono/playlist.m3u8"},
 
