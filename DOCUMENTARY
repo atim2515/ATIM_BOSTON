@@ -8,7 +8,7 @@
 		"stations":[
     
     
-{"name":"Animal Planet",image:"https://www.exchange4media.com/news-photo/98083-Planet.jpg","url": "https://www.doofootball.com/dootv/live/animalplanet#main_dootv"},
+{"name": "Animal Planet","image": "https://blingtv.net/channels/images/ANP.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-animalplanet&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
 
 {name:"BBC Earth",image:"https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png","url": " https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8 ", "referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
  
@@ -17,15 +17,23 @@
 "image":"https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",
 "url":"https://wacthstream.com/wacth_1_dvr/337_Rock_Entertainment/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMiAzOjEwOjA5IFBNJmhhc2hfdmFsdWU9RE03QUJVb2gxR3ZVUWtXMlhXdDMyUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzEzMTAz", "referer": "https://wacth.tv/", "info": "TIM TV", "playInNatPlayer": "true"},
 
-{"name":"True Explore Sci",image:"https://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png","url": "https://www.doofootball.com/dootv/live/truesci#main_dootv"},
+{"name": "True Explore Sci","image": "http://tvsmagazine.com/images/channels/sm_EXPSC.jpg",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-expsci&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
 
 {"name":"True Explore Wild","image": "https://drive.google.com/uc?id=1ljf6YLbLZ49tMpy-wwtvn4OkegqbCu7k","url":"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8","referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
 
-{"name": "True Explore Life","image": "http://idooxtream.streaming-fast.com/xtream/LOGO/muhbpkM56JYGXya1aT6VbKuSmbnK5pCtruelife.jpg","url": "https://embed-dev.blackboxsys.net/player.php?channel=th-explife&api_key=hmcb4rf66f","referer": "https://dooball66.com/","info":"TIM TV","embed": "true",playInNatPlayer: "true"},
+{"name": "True Explore Life","image": "https://blingtv.net/channels/images/TEL.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-explife&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
 
-{"name":"Discovery Asia",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png","url": "https://www.doofootball.com/dootv/live/discoveryasia#main_dootv"},
+{"name": "Discovery Asia","image": "https://blingtv.net/channels/images/DCA.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
 
-{"name":"Discovery",image:"https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png","url": "https://www.doofootball.com/dootv/live/discovery#main_dootv"},
+{"name": "Discovery Channel","image": "https://blingtv.net/channels/images/DSC.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
 
 {name:"DISCOVERY DMAX",image:"https://sv1.picz.in.th/images/2022/10/07/p2b6YE.png",url:"https://streaming.livescorethai.net/iptv/uk-dmax.stream/chunks.m3u8",referer:"https://freetvdd.com/"},
  
@@ -33,7 +41,8 @@
  
 {name:"DISCOVERY TURBO",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png","url": "https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8","referer": "https://freetvdd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "TIM TV","desktop": "true"},
 
-{"name":"History",image:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91","url": "https://www.doofootball.com/dootv/live/history#main_dootv"},
+{"name": "History Channel","image": "https://blingtv.net/channels/images/HIS.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
 
 {
 				"name": "H2",
@@ -43,7 +52,12 @@
 				"info": "TIM TV",
 				"embed": "true",playInNatPlayer: "true"},
 				
-{"name":"National Geographic",image:"https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png","url": "https://www.doofootball.com/dootv/live/natgeo#main_dootv"},				
+{"name": "National Geographic","image": "https://blingtv.net/channels/images/NGL.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},				
 
 {"name":"National Geographic Abu Dhabi",image:"https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png","url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8"},
 
