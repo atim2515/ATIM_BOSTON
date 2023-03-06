@@ -6,7 +6,65 @@
 		 
  
 		"stations":[
-    
+
+
+{"name":"TVBS",image:"https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg","url": "http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5"},
+
+{"name":"TVBS新闻台",image:"https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png","url": "http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0"},
+
+{"name":"TVBS欢乐台",image:"https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png","url": "http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20"},
+
+{"name":"星卫HD电影",image:"https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png","url": "http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60"},
+
+{"name":"CNA",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFE5PBfcqLjxxk3mbhsV9BRV1g09hIKhQMMK6wmzixMtAwclZJD5WQfdU3s4mlRTcI2aM&usqp=CAU","url": "http://50.7.238.114:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0"},
+
+{"name":"民视",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/4/4e/FTV_Logo.svg/300px-FTV_Logo.svg.png","url": "http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384"},
+
+{"name":"民视新闻台",image:"https://www.ftv.com.tw/images/Ch_04.png","url": "http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689"},
+
+{"name":"民视台湾台",image:"https://upload.wikimedia.org/wikipedia/zh/7/74/FTV_Taiwan_HD_logo.png","url": "http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2"},
+
+{"name":"民视第一台",image:"https://www.ftv.com.tw/images/Ch_02.png","url": "http://50.7.238.114:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab"},
+
+{"name":"中视",image:"https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png","url": "http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e"},
+
+{"name":"中视新闻",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/6/67/CTV_News_logo.png/440px-CTV_News_logo.png","url": "http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da"},
+
+{"name":"中视经典",image:"https://upload.wikimedia.org/wikipedia/zh/c/c5/CTV_Classic.png","url": "http://50.7.238.114:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841"},
+
+{"name":"华视",image:"https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png","url": "http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002"},
+
+{"name":"台视",image:"https://upload.wikimedia.org/wikipedia/zh/4/4b/TTV_World_3rd_logo.jpg","url": "http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e"},
+
+{"name":"公視",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/f/fb/PTS_Taiwan.svg/1200px-PTS_Taiwan.svg.png","url": "http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557"},
+
+{"name":"中天新闻",image:"https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg","url": "http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203"},
+
+{"name":"中天综合台",image:"https://www.nettvpro.live/uploads/allimg/18/1-1P5142331400-L.png","url": "http://23.237.10.66:16372"},
+
+{"name":"中天综合",image:"https://img.isuper.tv/live-tv/cti-tv-live.jpg","url": "http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc"},
+
+{"name":"中天娱乐",image:"https://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg","url": "http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674"},
+
+{"name":"中天亚洲台",image:"https://yt3.googleusercontent.com/ytc/AL5GRJXoyYXZ9AqnKQo8Qe8l4_dAjX0yCxNDZrTHXoIU=s900-c-k-c0x00ffffff-no-rj","url": "http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35"},
+
+{"name":"亚洲旅游台",image:"https://i0.wp.com/www.asiadigital.com.tw/wp-content/uploads/20201209100154_52.png?ssl=1","url": "http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c"},
+
+{"name":"东森新闻",image:"https://upload.wikimedia.org/wikipedia/commons/1/15/EBC_News_logo_20150706.jpg","url": "http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11"},
+
+{"name":"东森超视",image:"https://upload.wikimedia.org/wikipedia/zh/2/25/Ebc-super-live.png","url": "http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5"},
+
+{"name":"东森财经新闻",image:"https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png","url": "http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371"},
+
+{"name":"东森羊片",image:"https://emovie.ebc.net.tw/Images/footer-logo.png","url": "http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee"},
+
+{"name":"东森綜合",image:"https://yt3.googleusercontent.com/ytc/AL5GRJV4IzYzImVbgssxS_s6fNcMZAfkRNVCnZsFdQ6iqw=s900-c-k-c0x00ffffff-no-rj","url": "http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d"},
+
+{"name":"东森电影",image:"https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png","url": "http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859"},
+
+{"name":"东森戏剧",image:"https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png","url": "http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45"},
+
+{"name":"东森幼幼",image:"https://upload.wikimedia.org/wikipedia/zh/3/3d/25chEBCYoyo2015logo.jpg","url": "http://50.7.238.114:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5"},
     
 {"name":"原住民電視",image:"https://upload.wikimedia.org/wikipedia/zh/a/ac/Titv_logo.png","url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"},
 
@@ -20,131 +78,27 @@
 
 {"name":"唯心電視",image:"http://epg.51zmt.top:8000/tb1/gt/weixin.png","url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"},
 
-{"name":"CTS",image:"https://www.cts.com.tw//images/ctslogo_300X300.png","url": "http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002"},
-
-{"name":"CTS News",image:"https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/.m3u8"},
-
 {"name":"FTV",image:"https://tv.itver.cc/wp-content/uploads/2014/05/FTV-HD-Logo.jpg","url": "http://23.237.10.66:16334"},
 
-{"name":"民視第一台",image:"https://www.ftv.com.tw/images/Ch_02.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/.m3u8"},
-
-{"name":"民視台灣台",image:"https://www.ftv.com.tw/images/Ch_03.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/.m3u8"},
-
-{"name":"民視綜藝台",image:"https://obs.line-scdn.net/0hk6nhqxc5NBlTER8lPj9LTmlHN3ZgfScaNydlGhB_ai0rJSBIbnFzKHAWOXssInNHPSVyfHQXLyguKXVGaXBz/w644","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/.m3u8"},
-
-{"name":"豬哥會社",image:"https://i.ytimg.com/vi/jEEYa1HsVHI/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDwOr4aUOjV8lUhtgpTLZDCh4oNug","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/.m3u8"},
-
-{"name":"影迷數位電影台",image:"https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@88@1689.jpg","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8"},
-
-{"name":"CNEX紀實頻道",image:"https://docs.tfai.org.tw/sites/default/files/unit/a71e651bceb9487.jpg","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/.m3u8"},
-
-{"name":"TTV",image:"https://www.tvchinese.net/uploads/tv/ttv.jpg","url": "http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e"},
-
-{"name":"TTV News",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/3/3f/TTV_News_Channel_with_HD_2016.png/220px-TTV_News_Channel_with_HD_2016.png","url": "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8"},
-
-{"name":"ETTV America",image:"https://www.ettvamerica.com/Images/News/ETTVLogo.png","url": "http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8"},
-
-{"name":"CN卡通频道",image:"https://img.isuper.tv/live-tv/cartoon-network-live.jpg","url": "http://50.7.220.74:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e"},
-
-{"name":"年代新聞台",image:"https://taise.org.tw/userfiles/images/News_images/2015/0108-1.jpg","url": "http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a"},
-
-{"name":"八大第1台",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/GTV_One_logo_2018_01.png/440px-GTV_One_logo_2018_01.png","url": "http://50.7.220.74:8278/badafirst/playlist.m3u8?ct=17874&tid=mb8efded78b4e12042621&tsum=028ad819cd9a0f949a043d652fa3e164"},
-
-{"name":"八大戏剧台",image:"https://img.isuper.tv/live-tv/gtv-drama-live.jpg","url": "http://50.7.220.74:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d"},
-
-{"name":"八大综合台",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GTV_Variety_logo_2018.png/440px-GTV_Variety_logo_2018.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/.m3u8"},
-
-{"name":"八大精彩台",image:"https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/.m3u8"},
-
-{"name":"中视",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/6/67/CTV_News_logo.png/440px-CTV_News_logo.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/.m3u8"},
-
-{"name":"中視新聞台",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Chinatvnews.jpg/250px-Chinatvnews.jpg","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/.m3u8"},
-
-{"name":"中视經典",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/c/c5/CTV_Classic.png/200px-CTV_Classic.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/.m3u8"},
-
-{"name":"SET News",image:"https://photos.live-tv-channels.org/tv-logo/tw-set-news-8811.jpg","url": "http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799"},
-
-{"name":"CATCHPLAY電影台",image:"https://moviechannel.catchplay.com/images/logo_20191016.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8"},
-
 {"name":"HBO",image:"https://play-lh.googleusercontent.com/ELLR6rcIP_mr6pB4kX9QhBKF-najkWHfb8RqceX4CBsyel3o_W9DoGas7WfPgfiIsQ","url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"},
-
-{"name":"HBO HD Taiwan",image:"https://www.tvchinese.net/uploads/tv/hbohd.jpg","url": "http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?ct=19225&tid=ME9E5260921952609219&tsum=a904cd480db106670befb11d14149fce"},
-
-{"name":"Hollywood",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4_lNGwtygqk_yNXx2KQgZEtQit-A1epTGZfln-nxNwZuNe30xxqyXTHQC8S4Zun6zA&usqp=CAU","url": "http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?ct=19225&tid=MECE5611281156112811&tsum=ad8884ee16b04f885f24bae98fc5fb9f"},
-
-{"name":"JET綜合台",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqy4K3E4sYCpr_5djgovykB6_h7dWvBg265yLLvIzOvlGTIr7IFRV-DYMZC2WEU3jiQg&usqp=CAU","url": "http://50.7.220.74:8278/jettv_japan/playlist.m3u8?ct=19225&tid=MA7A4202687942026879&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d"},
-
-{"name":"Mei Ah Movie Channel",image:"https://tube.hk/images/tv_cache/c/400x400_20mei_ah_movies_channel.jpg","url": "http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?ct=19226&tid=MFEF1001328410013284&tsum=9839709ca0f37641c5d1ba962c3bc739"},
-
-{"name":"星卫HD电影台",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/Star_chinese_movies_2012.png/200px-Star_chinese_movies_2012.png","url": "http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2"},
-
-{"name":"卫视中文台HD",image:"https://upload.wikimedia.org/wikipedia/zh/b/b0/Star_Chinese_Channel_20161218.png","url": "http://50.7.220.74:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c"},
-
-{"name":"TVBS HD",image:"https://cdn.telummedia.com/uploads/cache/news_image_4x3/uploads/media/logos/crop/2014/04/5dbba2cd6dd04.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/.m3u8"},
-
-{"name":"TVBS News",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/1/1c/Tvbsnews.png/220px-Tvbsnews.png","url": "http://50.7.220.74:8278/tvbs_n/playlist.m3u8?ct=19226&tid=MEFE5283322452833224&tsum=5f4e9bb0782ab3aae36328763cba2ffd"},
-
-{"name":"TVBS Asia",image:"https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png","url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8"},
-
-{"name":"TVBS欢乐台",image:"https://img.meituan.net/csc/aac6f6882096d3fb066b034c6923f68c6369.jpg","url": "http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20"},
-
-{"name":"Videoland Sports",image:"https://www.tvchinese.net/uploads/tv/weilaitiyu.jpg","url": "http://50.7.220.74:8278/videolandsport/playlist.m3u8?ct=19226&tid=MA6A1192684511926845&tsum=0b7ca9a61e7371df68108a27dc358c68"},
-
-{"name":"EBC Financial News",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/300px-Eastern_Broadcasting_Co_Limited_logo.svg.png","url": "http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54"},
-
-{"name":"EBC Movie",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/300px-Eastern_Broadcasting_Co_Limited_logo.svg.png","url": "http://50.7.220.74:8278/ettvmovie/playlist.m3u8?ct=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859"},
-
-{"name":"EBC Foreign Movie",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/300px-Eastern_Broadcasting_Co_Limited_logo.svg.png","url": "http://50.7.220.74:8278/ettvwestern/playlist.m3u8?ct=17874&tid=mfdfc048e6c2416337202&tsum=cad39b26202d525ea820bee1d69e545f"},
-
-{"name":"EBC News",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EBC_News_logo_20150706.jpg/800px-EBC_News_logo_20150706.jpg","url": "http://50.7.220.74:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3"},
-
-{"name":"EBC YOYO",image:"https://upload.wikimedia.org/wikipedia/zh/3/3d/25chEBCYoyo2015logo.jpg","url": "http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5"},
-
-{"name":"CTi亞洲台",image:"https://ctiasia.chinatimes.com/wp-content/uploads/2018/12/logo-460x180-300x117.png","url": "http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1"},
-
-{"name":"CTi News",image:"https://img.isuper.tv/live-tv/cti-news-live.jpg","url": "http://tv.redrainl.site:9500/live.m3u8?c=03"},
 
 {"name":"CTi TV",image:"https://img.isuper.tv/live-tv/cti-tv-live.jpg","url": "http://23.237.10.66:16372"},
 
 {"name":"蕃薯台",image:"http://www.fanstv.tw/images/logo.png","url": "http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8"},
 
-{"name":"Global News",image:"https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png","url": "http://tv.redrainl.site:9500/live.m3u8?c=22"},
-
-{"name":"鏡新聞",image:"https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw","url": "http://tv.redrainl.site:9500/live.m3u8?c=28"},
-
-{"name":"Asia Travel",image:"https://www.tvchinese.net/uploads/tv/asiatravel.jpg","url": "http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c"},
-
-{"name":"華語電視",image:"https://nysino.com/wp-content/uploads/2021/03/sino-tv-300x300-1.png","url": "http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8"},
-
-{"name":"華語電視",image:"https://nysino.com/wp-content/uploads/2021/03/sino-tv-300x300-1.png","url": "http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8"},
-
 {"name":"大立電視台",image:"http://www.dalitv.com.tw/img/LOGOn.png","url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"},
 
 {"name":"Beautiful Life TV",image:"https://www.tvchinese.net/uploads/tv/bltv.jpg","url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"},
 
-{"name":"時尚運動",image:"https://fino.svc.litv.tv/frontpage/channel/image/4gtv-4gtv014_cover.jpg","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/.m3u8"},
-
-{"name":"公視戲劇",image:"https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@33@1555.jpg","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/.m3u8"},
-
-{"name":"客家電视台",image:"https://yt3.ggpht.com/ytc/AMLnZu9in0UoWPV9JT3_1CYxQp5T5TWYIlrmHrfXwADt=s900-c-k-c0x00ffffff-no-rj","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/.m3u8"},
-
 {"name":"靖天卡通台",image:"https://obs.line-scdn.net/0hnDFKAKCUMWt7MhpEiHZOPEFkMgRIXiJoHwRgaDhcb18DB39qE1R8WlgzalgBUHY1FQB5CFk7KloGC3I-Q1V8/w644","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/.m3u8"},
-
-{"name":"靖天日本台",image:"https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv047_mobile.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/.m3u8"},
 
 {"name":"靖天映畫",image:"https://tw.heytv.org/wp-content/uploads/2019/04/1-1P310120I60-L.jpg","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/.m3u8"},
 
 {"name":"靖天戲劇台",image:"https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv058_mobile.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/.m3u8"},
 
-{"name":"靖天電影台",image:"https://www.nettvpro.live/uploads/allimg/18/1-1P3101209580-L.jpg","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/.m3u8"},
-
 {"name":"靖天育樂台",image:"https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv062_mobile.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/.m3u8"},
 
 {"name":"靖天國際台",image:"https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv063_mobile.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/.m3u8"},
-
-{"name":"EYE TV戏剧",image:"https://upload.wikimedia.org/wikipedia/zh/9/94/MOD_CH358_EYE_TV%E6%88%B2%E5%8A%87%E5%8F%B0.png","url": "http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586"},
-
-{"name":"EYE TV旅游",image:"https://upload.wikimedia.org/wikipedia/zh/7/7a/MOD_CH279_EYE_TV%E6%97%85%E9%81%8A%E5%8F%B0.png","url": "http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc"},
 
 {"name":"中视菁采台",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_EID4ysNlAXkKUUDPCZnqKpQR9qyuLm3jHZCRJaclgguf4ErNEdpT95hjRdzClEValg&usqp=CAU","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/.m3u8"},
 
@@ -156,15 +110,7 @@
 
 {"name":"靖天歡樂台",image:"https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv054_mobile.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/.m3u8"},
 
-{"name":"靖洋卡通台",image:"https://www.tbc.net.tw/Upload/EpgChannel/7334739b-a8bd-4342-8bfb-c71752013925.jpg","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/.m3u8"},
-
 {"name":"智林體育台",image:"https://oursport.tv/images/tsl_logo.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/.m3u8"},
-
-{"name":"美食星球",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHYSMBoS-cnFZQXky5ZXvZ-LG9nDFNcxaI-3l525zwHsmD9ENNv9LfObj5rUpgd-RUCK4&usqp=CAU","url": "http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353"},
-
-{"name":"ELEVEN 1",image:"https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg","url": "http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283"},
-
-{"name":"ELEVEN 2",image:"https://img2.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png","url": "http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30"},
 
 {"name":"Ginx Esports TV",image:"https://delegata.pl/wp-content/uploads/2022/03/Ginx.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/.m3u8"},
 
