@@ -14,10 +14,6 @@
 
 {"name":"TVBS欢乐台",image:"https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png","url": "http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20"},
 
-{"name":"星卫HD电影",image:"https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png","url": "http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60"},
-
-{"name":"CNA",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFE5PBfcqLjxxk3mbhsV9BRV1g09hIKhQMMK6wmzixMtAwclZJD5WQfdU3s4mlRTcI2aM&usqp=CAU","url": "http://50.7.238.114:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0"},
-
 {"name":"民视",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/4/4e/FTV_Logo.svg/300px-FTV_Logo.svg.png","url": "http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384"},
 
 {"name":"民视新闻台",image:"https://www.ftv.com.tw/images/Ch_04.png","url": "http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689"},
@@ -65,6 +61,28 @@
 {"name":"东森戏剧",image:"https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png","url": "http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45"},
 
 {"name":"东森幼幼",image:"https://upload.wikimedia.org/wikipedia/zh/3/3d/25chEBCYoyo2015logo.jpg","url": "http://50.7.238.114:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5"},
+
+{"name":"民视台湾台",image:"https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png","url": "http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240"},
+
+{"name":"三立綜合台",image:"https://www.nettvpro.live/uploads/19/1-1Z4211S31I47.jpg","url": "http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220"},
+
+{"name":"三立戏剧台",image:"https://pic.baike.soso.com/ugc/baikepic2/1284/20221109164645-360518426_jpeg_665_444_65538.jpg/1284","url": "http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799"},
+
+{"name":"八大第一台",image:"https://img.isuper.tv/live-tv/gtv-no1-live.jpg","url": "http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164"},
+
+{"name":"八大戏剧台",image:"https://img.isuper.tv/live-tv/gtv-drama-live.jpg","url": "http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d"},
+
+{"name":"八大综合台",image:"https://img.isuper.tv/live-tv/gtv-live.jpg","url": "http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790"},
+
+{"name":"好莱坞电影",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4_lNGwtygqk_yNXx2KQgZEtQit-A1epTGZfln-nxNwZuNe30xxqyXTHQC8S4Zun6zA&usqp=CAU","url": "http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161"},
+
+{"name":"卫视中文台",image:"https://upload.wikimedia.org/wikipedia/zh/b/b0/Star_Chinese_Channel_20161218.png","url": "http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c"},
+
+{"name":"美亚电影台",image:"https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/440px-Mei_Ah_Movies_Channel_logo.png","url": "http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337"},
+
+{"name":"星卫HD电影",image:"https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png","url": "http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60"},
+
+{"name":"美食星球",image:"https://www.asiadigital.com.tw/wp-content/uploads/20200529162202_99.jpg","url": "http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353"},
     
 {"name":"原住民電視",image:"https://upload.wikimedia.org/wikipedia/zh/a/ac/Titv_logo.png","url": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"},
 
@@ -77,8 +95,6 @@
 {"name":"佛衛慈悲台",image:"https://hievent.hinet.net/images/bts/logo.png","url": "https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8"},
 
 {"name":"唯心電視",image:"http://epg.51zmt.top:8000/tb1/gt/weixin.png","url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"},
-
-{"name":"HBO",image:"https://play-lh.googleusercontent.com/ELLR6rcIP_mr6pB4kX9QhBKF-najkWHfb8RqceX4CBsyel3o_W9DoGas7WfPgfiIsQ","url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"},
 
 {"name":"蕃薯台",image:"http://www.fanstv.tw/images/logo.png","url": "http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8"},
 
@@ -107,6 +123,10 @@
 {"name":"靖天歡樂台",image:"https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv054_mobile.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/.m3u8"},
 
 {"name":"智林體育台",image:"https://oursport.tv/images/tsl_logo.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/.m3u8"},
+
+{"name":"HBO",image:"https://play-lh.googleusercontent.com/ELLR6rcIP_mr6pB4kX9QhBKF-najkWHfb8RqceX4CBsyel3o_W9DoGas7WfPgfiIsQ","url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"},
+
+{"name":"CNA",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFE5PBfcqLjxxk3mbhsV9BRV1g09hIKhQMMK6wmzixMtAwclZJD5WQfdU3s4mlRTcI2aM&usqp=CAU","url": "http://50.7.238.114:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0"},
 
 {"name":"Ginx Esports TV",image:"https://delegata.pl/wp-content/uploads/2022/03/Ginx.png","url": "http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/.m3u8"},
 
