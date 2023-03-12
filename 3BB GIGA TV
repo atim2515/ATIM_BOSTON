@@ -82,15 +82,27 @@
 "name": "3BB Asian", "image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",  
 "url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0191/HLS/V0191.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=45b356d1f70f209a0ffcfeaa0d1a02e3&chunkHttps=true&tmid=B0007&tpbk=3aytp9dStklGWLSj&rrt=1676430291&tmod=rfk&rsid=1b35951b-c3b3-4981-98f2-47f7b773db3e&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1676515224", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
 
-{"name": "HBO","image": "https://variety.com/wp-content/uploads/2019/11/hbo-logo.jpg?w=681&h=383&crop=1" ,"url": "https://www.doofootball.com/dootv/live/hbohd#main_dootv"},
+{
+"name":"HBO",
+"image":"https://1000logos.net/wp-content/uploads/2021/02/HBO-logo.jpg",
+"url":"https://mediasv.online/dvr/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjMgMTA6NDM6MjcgUE0maGFzaF92YWx1ZT1LOTVaQzR3ZGcrd1ZneHNwbTFEdGNBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTExJmlkPWNoXzE0MTA2", 
+"referer": "https://wacth.tv/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
-{"name": "HBO Signature","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" ,"url": "https://www.doofootball.com/dootv/live/hbosignature#main_dootv"},
+{"name":"HBO Signature",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png","url": "https://sv2.mixstreams.net/nyanv/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"},
 
-{"name": "HBO Hits","image": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,"url": "https://www.doofootball.com/dootv/live/hbohit#main_dootv"},
+{"name":"HBO Hits",image:"https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png","url": "http://clientportal.link/live/K8JUAAHlQgaB23/ue5PRX2PCgo786/17098.m3u8"},
 
-{"name": "HBO Family","image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" ,"url": "https://www.doofootball.com/dootv/live/hbofamily#main_dootv"},
+{"name":"HBO Family",image:"https://tv.xcoshop.com/wp-content/uploads/2022/10/hbo-family-919-523.png","url": "http://clientportal.link/live/K8JUAAHlQgaB23/ue5PRX2PCgo786/17094.m3u8"},
 
-{"name": "Cinemax","image": "https://static.epg.best/ph/Cinemax.ph.png" ,"url": "https://www.doofootball.com/dootv/live/cinemax#main_dootv"},
+{
+"name":"Cinemax",
+"image":"https://tv.xcoshop.com/wp-content/uploads/2022/09/CINEMAX-919-523.png",
+"url":"https://mediasv.online/dvr/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjMgMTA6NDM6MTYgUE0maGFzaF92YWx1ZT1hQVdrdVFUbVRFUWwrMDB1ODdNTFZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE1JmlkPWNoXzU5NTg3", 
+"referer": "https://wacth.tv/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 {
 "name": "MONO PLUS", "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",  
