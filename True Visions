@@ -120,12 +120,27 @@
 "image":"https://cms.dmpcdn.com/livetv/2020/06/23/99bc7f60-b550-11ea-8fac-236a281cd6c5_320.png",
 "url":"https://mediasv.online/dvr/367_Super_bunteung/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDIzIDU6NTc6MzEgUE0maGFzaF92YWx1ZT1vbmh3M1F4bUw5SW5IUGxEYk9rYll3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzI0MTcx","referer": "https://wacth.tv", "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "info": "TIM", "desktop": "true"},
 
-  {  
-name:"True ID Station",
-image:"https://cms.dmpcdn.com/helpcenter/2021/02/07/46f81d20-6914-11eb-b42e-512affbcb068_original.jpg",
-url:"https://cdn.googlecdnforstreaming.live/goalv8/trueidstation/chunks.m3u8",
-"referer": "https://goalv8.com/"
+ {
+"name": "ID Station",
+"image": "https://dl.dropbox.com/s/w5vf3w7pmyyvsw6/trueid1.jpg?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-idstation&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
+
+{
+"name": "ID Station 2",
+"image": "https://www.dropbox.com/s/wa437bsj37k90fe/trueid2.jpg?dl=1",
+"imageScale": "fitStart",
+"url": "https://ufa77th.tv/channel?ch=trueidstation2",
+"isHost": "true",
+"referer": "https://ufa77th.tv",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
 
 {
 "name":"True Inside",
