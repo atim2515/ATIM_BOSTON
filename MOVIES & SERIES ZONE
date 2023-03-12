@@ -359,13 +359,33 @@ url:"http://61.19.242.134/feed/202205171929/LC11/index.m3u8",
 
 {
 "name": "HITS Movies", "image": "https://images.hdpri.me/images/tv/png/th-hitsmovies.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0138/HLS/V0138.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=45b356d1f70f209a0ffcfeaa0d1a02e3&chunkHttps=true&tmid=B0007&tpbk=3aytp9dStklGWLSj&rrt=1676430291&tmod=rfk&rsid=1b35951b-c3b3-4981-98f2-47f7b773db3e&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1676515224", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0138/HLS/V0138.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=55e213a47e84fec2941016a9f2f9235b&chunkHttps=true&tmid=B0001&tpbk=kmKVMvyCxySQwBCK&rrt=1678553669&tmod=rfk&rsid=cc67425f-c724-4229-a48e-264ef64cda78&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1678639401", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
 
 {
 "name": "HITS", "image": "https://gdplayer.tv/assets/img/logo/hits.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0137/HLS/V0137.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=45b356d1f70f209a0ffcfeaa0d1a02e3&chunkHttps=true&tmid=B0007&tpbk=3aytp9dStklGWLSj&rrt=1676430291&tmod=rfk&rsid=1b35951b-c3b3-4981-98f2-47f7b773db3e&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1676515224", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
+"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0137/HLS/V0137.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=55e213a47e84fec2941016a9f2f9235b&chunkHttps=true&tmid=B0001&tpbk=kmKVMvyCxySQwBCK&rrt=1678553669&tmod=rfk&rsid=cc67425f-c724-4229-a48e-264ef64cda78&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1678639401", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
 
+{
+"name":"HBO",
+"image":"https://1000logos.net/wp-content/uploads/2021/02/HBO-logo.jpg",
+"url":"https://mediasv.online/dvr/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjMgMTA6NDM6MjcgUE0maGFzaF92YWx1ZT1LOTVaQzR3ZGcrd1ZneHNwbTFEdGNBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTExJmlkPWNoXzE0MTA2", 
+"referer": "https://wacth.tv/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
+{"name":"HBO Signature",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png","url": "https://sv2.mixstreams.net/nyanv/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"},
+
+{"name":"HBO Hits",image:"https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png","url": "http://clientportal.link/live/K8JUAAHlQgaB23/ue5PRX2PCgo786/17098.m3u8"},
+
+{"name":"HBO Family",image:"https://tv.xcoshop.com/wp-content/uploads/2022/10/hbo-family-919-523.png","url": "http://clientportal.link/live/K8JUAAHlQgaB23/ue5PRX2PCgo786/17094.m3u8"},
+
+{
+"name":"Cinemax",
+"image":"https://tv.xcoshop.com/wp-content/uploads/2022/09/CINEMAX-919-523.png",
+"url":"https://mediasv.online/dvr/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjMgMTA6NDM6MTYgUE0maGFzaF92YWx1ZT1hQVdrdVFUbVRFUWwrMDB1ODdNTFZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE1JmlkPWNoXzU5NTg3", 
+"referer": "https://wacth.tv/", 
+"info": "TIM", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
 ]
 }
