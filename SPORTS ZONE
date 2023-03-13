@@ -140,7 +140,7 @@ url:"https://www.inwiptv.com/player_demo.php?channel=61235", referer:"https://ww
 "image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
 "url"            :  "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8",
 "referer"        :  "https://streaming.livescorethai.net/",
-"info" : "TIM TV",
+"info" : "TIM",
 "playInNatPlayer": "true"},
 
 {
@@ -148,7 +148,7 @@ url:"https://www.inwiptv.com/player_demo.php?channel=61235", referer:"https://ww
 "image": "https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
 "url": "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8",
 "referer": "https://freetvdd.com/",
-"info": " TIM TV",
+"info": " TIM",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 playInNatPlayer: "true"},
 
@@ -156,14 +156,14 @@ playInNatPlayer: "true"},
 "image"          :  "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
 "url"            :  "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8",
 "referer"        :  "https://streaming.livescorethai.net/",
-"info" : "TIM TV",
+"info" : "TIM",
 "playInNatPlayer": "true"},
 
 {"name"          :  "True Sports HD 7",
 "image"          :  "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
 "url"            :  "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8",
 "referer"        :  "https://streaming.livescorethai.net/",
-"info" : "TIM TV",
+"info" : "TIM",
 "playInNatPlayer": "true"},
 
 {"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV.jpg","url": "https://live.vip-streaming.com:30443/cloudstreaming/true-nba/chunks.m3u8","referer": "https://ufabetcompany.com"},
@@ -172,14 +172,14 @@ playInNatPlayer: "true"},
 "image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
 "url"            :  "https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8",
 "referer"        :  "https://streaming.livescorethai.net/",
-"info" : "TIM TV",
+"info" : "TIM",
 "playInNatPlayer": "true"},
 
 {"name"          :  "Golf Channel Thailand",
 "image"          :  "https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=100&h=75",
 "url"            :  "https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8",
 "referer"        :  "https://streaming.livescorethai.net/",
-"info" : "TIM TV",
+"info" : "TIM",
 "playInNatPlayer": "true"},
 
 {"name": "Hi Sport","image": "http://203.154.243.32/upload/tb2609154689.jpg" ,"url": "http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115709"},
@@ -199,6 +199,140 @@ playInNatPlayer: "true"},
 {"headers":{},"image":"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-cricket.png","imageScale":"fitCenter","name":"Sky Sports Cricket","referer":"https://freetvdd.com/","retries":0,"url":"https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/chunks.m3u8"},
 
 {"name":"Sports News Highlights",image:"https://sportsnn.images.worldnow.com/images/23546723_G.png?auto=webp&disable=upscale&dpr=2&height=70&fit=bounds","url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshigh-ono/playlist.m3u8"},
+
+{"name":"Boxing TV",image:"https://a.jsrdn.com/hls/22964/boxing-tv/logo_20220301_212732_68.png","url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8"},
+
+{"name":"MUTV",image:"https://tv.xcoshop.com/wp-content/uploads/2022/10/MUTV-919-523-new.png","url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"},
+
+{
+"name": "LFC TV",
+"image": "https://images.livebox.co/images/tv/png/uk-lfctv.png",
+"url": "https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "NFL Network",
+"image": "https://images.livebox.co/images/tv/png/hd-nfl.png",
+"url": "https://webudit.onlinewebtv.lol/lb/premium405/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "TSN 1",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png",
+"url": "https://webudit.onlinewebtv.lol/lb/premium111/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "TSN 2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png",
+"url": "https://webudit.onlinewebtv.lol/lb/premium112/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "TSN 3",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png",
+"url": "https://webudit.onlinewebtv.lol/lb/premium113/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "TSN 4",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png",
+"url": "https://webudit.onlinewebtv.lol/lb/premium114/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "Astro SuperSport HD",
+"image": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
+"url": "https://webudit.onlinewebtv.lol/lb/premium123/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "Astro SuperSport 2 HD",
+"image": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
+"url": "https://webudit.onlinewebtv.lol/lb/premium124/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "Astro SuperSport 3 HD",
+"image": "https://sv1.picz.in.th/images/2022/04/05/8QD7ye.png",
+"url": "https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "Astro SuperSport 4 HD",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",
+"url": "https://webudit.onlinewebtv.lol/lb/premium126/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "Astro SuperSport 5 HD",
+"image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png",
+"url": "https://webudit.onlinewebtv.lol/lb/premium43/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{"name":"AXS TV Fights",image:"https://upload.wikimedia.org/wikipedia/commons/4/4f/AXS_TV_Fights_Logo.png","url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8"},
+
+{
+"name": "BT Sport 1",
+"image": "https://picon-13398.kxcdn.com/btsport1.jpg",
+"url": "https://webudit.onlinewebtv.lol/lb/premium31/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "BT Sports 2",
+"image": "https://picon-13398.kxcdn.com/btsport2.jpg",
+"url": "https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+{
+"name": "BT Sport 3",
+"image": "https://picon-13398.kxcdn.com/btsport3.jpg",
+"url": "https://webudit.onlinewebtv.lol/lb/premium33/index.m3u8",
+"referer": "https://streamservicehd.click/",
+"info": " TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+playInNatPlayer: "true"},
+
+
 
 ]
 }
