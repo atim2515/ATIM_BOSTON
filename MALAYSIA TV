@@ -17,6 +17,10 @@
 "playInNatPlayer": "true"
 },
 
+{"name":"TV2 HD",image:"https://telegra.ph/file/6e2aa4e87627d8d06d554.png","url": "http://muka03.wanicelife.com:8880/12mm130128/26367772/1733"},
+
+{"name":"TV3",image:"https://telegra.ph/file/4d99615db2bb644575214.png","url": "http://muka03.wanicelife.com:8880/12mm130128/26367772/1732"},
+
 {
 "name": "TV6","image": "https://telegra.ph/file/04d73bd40aaf937296d26.png",
 "url":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
@@ -26,23 +30,41 @@
 "playInNatPlayer": "true"
 },
 
-{"name":"8TV",image:"https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png","url": "http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35"},
+{"name":"NTV7",image:"https://telegra.ph/file/e329e809e30ac4c5c8414.png","url": "http://muka03.wanicelife.com:8880/12mm130128/26367772/1731"},
+
+{"name":"8TV",image:"https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png","url": "http://muka03.wanicelife.com:8880/12mm130128/26367772/71069"},
+
+{"name":"TV9",image:"https://telegra.ph/file/34773617ec0ae051424b8.png","url": "http://muka03.wanicelife.com:8880/12mm130128/26367772/1729"},
+
+{"name":"TV Okey HD",image:"https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png","url": "http://muka03.wanicelife.com:8880/12mm130128/26367772/71060"},
+
+{"name":"BERNAMA",image:"https://play-lh.googleusercontent.com/1-R0HbHP3u_00v_8eJi9lSb0qVxBXgAPv3QBvVopWK05c05F-LGPECobOHi_lZrFNuo","url": "http://muka03.wanicelife.com:8880/12mm130128/26367772/71026"},
+
+{"name":"TVS",image:"https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg","url": "http://muka03.wanicelife.com:8880/12mm130128/26367772/71148"},
 
 {"name":"MEGASWARA TV",image:"https://www.appcreator24.com/srv/imgs/seccs/20923805_ico.png?ts=1655155582","url": "https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8"},
 
 {"name":"Mahh.tv",image:"https://yt3.ggpht.com/ytc/AKedOLSmPGc7aQMeRHFI5T1VECspSQLy_4vPDfBEsrjg2w=s900-c-k-c0x00ffffff-no-rj","url": "http://www.ทีวีท้องถิ่นไทย.com/play.php?url=http://51.210.199.33/hls/stream.m3u8"},
 
+{"name":"Al-Hijrah",image:"https://telegra.ph/file/d32f701ade54ad5a6bc6e.png","url": "http://muka03.wanicelife.com:8880/12mm130128/26367772/71024"},
+
+{"name":"Awesome TV",image:"https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png","url": "http://muka03.wanicelife.com:8880/12mm130128/26367772/71149"},
+
 {"name":"Cinema World",image:"https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1655455157","url": "http://210.210.155.35/session/88c07ef2-a764-11ec-aeac-b82a72d63267/dr9445/h/h04/01.m3u8"},
 
-{"name":"MCA","image": "http://www.gdplayer.tv/assets/img/logo/my-cinema-asia.png","url": "http://210.210.155.37/uq2663/h/h193/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
-
-{"name":"MFC","image": "http://www.gdplayer.tv/assets/img/logo/my-family-channel.png","url": "http://210.210.155.37/uq2663/h/h194/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name":"MKIDZ",image:"http://www.gdplayer.tv/assets/img/logo/my-kidz.png","url": "http://210.210.155.37/uq2663/h/h191/index.m3u8"},
 
 {"name":"MCN","image": "http://www.gdplayer.tv/assets/img/logo/my-cinema.png","url": "http://210.210.155.37/uq2663/h/h192/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name":"MCA","image": "https://www.lyngsat.com/logo/tv/mm/my-cinema-asia-id.png","url": "http://210.210.155.37/uq2663/h/h193/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name":"MFC","image": "http://www.gdplayer.tv/assets/img/logo/my-family-channel.png","url": "http://210.210.155.37/uq2663/h/h194/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
 {"name":"ACTION MOVIES",image:"https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851","url": "http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8"},
 
 {"name":"MOVIESPHERE",image:"https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932","url": "https://moviesphere-plex.amagi.tv/playlist.m3u8"},
+
+{"name":"KIX",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png","url": "http://210.210.155.35/dr9445/h/h07/01.m3u8"},
 
 {"name":"ADVENTURE SPORTS",image:"https://www.appcreator24.com/srv/imgs/seccs/19538941_ico.png?ts=1655327599","url": "https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275"},
 
@@ -63,6 +85,8 @@
 {"name":"Aniplus",image:"https://telegra.ph/file/376b7cc3c698f1432e499.png","url": "http://210.210.155.35/dr9445/h/h02/01.m3u8"},
 
 {"name":"CNA",image:"https://www.appcreator24.com/srv/imgs/seccs/19529247_ico.png?ts=1654810239","url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
+
+{"name":"Bloomberg",image:"https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Logo.jpg","url": "http://210.210.155.35/dr9445/h/h03/01.m3u8"},
     
 ]
 }
