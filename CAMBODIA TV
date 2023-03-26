@@ -1,0 +1,28 @@
+{
+		"name": "CAMBODIA TV",
+		"author": "TIM",
+		"image":"https://play-lh.googleusercontent.com/Llqal5AZCt7OZiGFiGoGzp5yP4AREWYH9hOp-mZkMxB1Xwn1iIRpugCllrpMxIIuyg=w240-h480-rw",
+		"url": "https://github.com/atim2515/ATIM_BOSTON/blob/main/30A.TV",
+		 
+ 
+		"stations":[
+    
+    
+{"name":"TVK",image:"https://play-lh.googleusercontent.com/Llqal5AZCt7OZiGFiGoGzp5yP4AREWYH9hOp-mZkMxB1Xwn1iIRpugCllrpMxIIuyg=w240-h480-rw","url": "http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8"},
+
+{"name":"Apsara TV",image:"https://yt3.googleusercontent.com/tBucfe95KfZZiMl6F3D8I8Bta-o0B75CbGOpHHpYhfoduAfWpWdcj2-cvNFyX66d2JFXZC3N=s900-c-k-c0x00ffffff-no-rj","url": "http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8"},
+
+{"name":"Bayon TV",image:"https://yt3.googleusercontent.com/4uDBAzccC1GjYMqTrZMq_vQu9grWr3S4Gv8Sz_hzvRAdJaBu2a_TJxFMJ7hTFlgjRKIy3Yh1IM4=s900-c-k-c0x00ffffff-no-rj","url": "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8"},
+
+{"name":"Fresh News",image:"https://play-lh.googleusercontent.com/oEkCn-8RapO7XgDAY_LQvNrTpHyK40BeSaV2mWMGZJRt-8VP92Fd0-eVoQAmiUHPEVg","url": "http://167.99.65.12:1935/live/myStream/playlist.m3u8"},
+
+{"name":"PNN",image:"http://www.mtn-stadium.com.kh/upload/images/production/4-JDIWYR/1500622603-JDIWYR.jpg","url": "http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8"},
+
+{"name":"SEATV",image:"https://tvonline.bg/wp-content/uploads/SEA-tv.jpg","url": "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"},
+
+{"name":"SEATV Radio",image:"https://us0-cdn.onlineradiobox.com/img/fblogo/4/42854.v2.png","url": "https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8"},
+
+{"name":"Netlink TV",image:"https://cdn.freebiesupply.com/logos/large/2x/netlink-logo-png-transparent.png","url": "https://netlink.netlinkbroadcaster.com/hls/test.m3u8"},
+
+]
+}
