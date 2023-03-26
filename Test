@@ -413,29 +413,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 ########################################################### TV ISLAM ###################################################
 
-#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="TV Islam", MAKKAH TV
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
-http://ayat.live.net.sa:1935/live/ayat/chunklist_w893962946.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="TV Islam", MADINAH TV
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="TV Islam",AYAT LIVE TV
-http://m.live.net.sa:1935/live/quran/gmswf.m3u8?v=1605911909
-http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210530/original/pngtree-al-aqsa-mosque-png-image_6351856.jpg" group-title="TV Islam",AQSHA TV
-https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/7b/d4/f47bd4ea4008e8b06ce0d2b1aa08f83b.png" group-title="TV Islam",WESAL TV
-https://h1.intechmedia.net/intech/ch18.m3u8
-http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
-
-#EXTINF:-1 group-title="TV Islam" tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png",IQRA TV
-https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="TV Islam",NABAWI TV
 
