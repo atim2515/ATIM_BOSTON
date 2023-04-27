@@ -90,7 +90,7 @@
 },
 
 {
-"name": "VTVCab5 - E Channel HD","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab5%20-%20E%20Channel.png",
+"name": "VTVCab5 - E Channel HD","image": "http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/adt-echannel-haytv-04-copy2_w200_h200.png",
 "url":"https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8",
 "referer": "http://sctvonline.vn/",
 "info": "TIM",
@@ -197,7 +197,7 @@
 {
 "name":"SCTV4",
 "image":"https://i.ibb.co/QJBsYn6/sctv4.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv4/index.m3u8?kiptv", 
+"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4/s1/index.m3u8?kiptv", 
 "referer": "http://sctvonline.vn/", 
 "info": "TIM", 
 "userAgent": "KIIP"},
@@ -237,22 +237,22 @@
 {
 "name":"SCTV9",
 "image":"https://i.ibb.co/yn5t29y/sctv9.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8?kiptv", 
+"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s1/index.m3u8?kiptv", 
 "referer": "http://sctvonline.vn/", 
 "info": "TIM", 
 "userAgent": "KIIP"},
 
 {
 "name":"SCTV10",
-"image":"hhttps://i.ibb.co/G7j5tsg/sctv10.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8?kiptv", 
+"image":"https://lh3.googleusercontent.com/-FNcdFxnYL6A/WseXxYEYDGI/AAAAAAAAD60/olvipr2bi9MTREEbu5D-U6RIGLve_jwTwCLcBGAs/h300/s10.png",
+"url":"https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv10/index.m3u8?kiptv", 
 "referer": "http://sctvonline.vn/", 
 "info": "TIM", 
 "userAgent": "KIIP"},
 
 {
 "name":"SCTV11",
-"image":"hhttps://i.ibb.co/dtLfGk0/sctv11.png",
+"image":"https://static-stage.tv24.vn/channel/106/s11.png",
 "url":"https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv11/index.m3u8?kiptv", 
 "referer": "http://sctvonline.vn/", 
 "info": "TIM", 
@@ -261,7 +261,7 @@
 {
 "name":"SCTV12",
 "image":"https://i.ibb.co/dPc8Gmq/sctv12.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s2/index.m3u8?kiptv", 
+"url":"https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8?kiptv", 
 "referer": "http://sctvonline.vn/", 
 "info": "TIM", 
 "userAgent": "KIIP"},
@@ -269,7 +269,7 @@
 {
 "name":"SCTV13",
 "image":"https://i.ibb.co/R6ZR8tz/sctv13.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/s1/index.m3u8?kiptv", 
+"url":"https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8?kiptv", 
 "referer": "http://sctvonline.vn/", 
 "info": "TIM", 
 "userAgent": "KIIP"},
@@ -277,7 +277,7 @@
 {
 "name":"SCTV14",
 "image":"https://i.ibb.co/Jjzk1XN/sctv14.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8?kiptv", 
+"url":"https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv14/index.m3u8?kiptv", 
 "referer": "http://sctvonline.vn/", 
 "info": "TIM", 
 "userAgent": "KIIP"},
@@ -301,7 +301,7 @@
 {
 "name":"SCTV17",
 "image":"https://i.ibb.co/r5dvTLy/sctv17.jpg",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s1/index.m3u8?kiptv", 
+"url":"https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8?kiptv", 
 "referer": "http://sctvonline.vn/", 
 "info": "TIM", 
 "userAgent": "KIIP"},
@@ -309,7 +309,7 @@
 {
 "name":"SCTV18",
 "image":"https://i.ibb.co/RyCQb4Z/sctv18.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s2/index.m3u8?kiptv", 
+"url":"https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8?kiptv", 
 "referer": "http://sctvonline.vn/", 
 "info": "TIM", 
 "userAgent": "KIIP"},
@@ -317,7 +317,7 @@
 {
 "name":"SCTV19",
 "image":"https://i.ibb.co/2ndfQyY/sctv19.png",
-"url":"https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/s2/index.m3u8?kiptv", 
+"url":"https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8?kiptv", 
 "referer": "http://sctvonline.vn/", 
 "info": "TIM", 
 "userAgent": "KIIP"},
