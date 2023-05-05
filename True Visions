@@ -228,30 +228,47 @@
 
 {"name":"True Film Asia",image:"http://tvsmagazine.com/images/channels/sm_006.jpg","url":"https://wacthstream.com/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjoxMDoyNyBQTSZoYXNoX3ZhbHVlPS9jSTdkRjRDWDZLWmJ3REp0ZG81Tnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xNzE4MQ==","referer": "https://wacth.tv/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "TIM","desktop": "true"},
 
-{"name": "Warner TV","image": "https://blingtv.net/channels/images/WNR.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmfklstgerter5",
+{
+"name": "Warner TV",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-wb-tv.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmfklstgerter5",
+"isHost": "true",
 "referer": "https://www.ufazeed.co/",
-"embed": "true",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+
+{
+"name": "KBS World",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-kbs-world-hd.jpg", 
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-kbsworld&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+
+{
+"name": "Paramount Network",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-paramount-hd.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
 "origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
 },
 
-{"name": "KBS World","image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-kbs-world-hd.jpg","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-kbsworld&api_key=hmfklstgerter5",
+{
+"name": "True Series",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-series.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmfklstgerter5",
 "referer": "https://www.ufazeed.co/",
-"embed": "true",
+"info": "TIM",
 "origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
-
-{"name": "Paramount network","image": "https://blingtv.net/channels/images/PRM.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmfklstgerter5",
-"referer": "https://www.ufazeed.co/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
-
-{"name": "True Series","image": "https://blingtv.net/channels/images/TRS.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmfklstgerter5",
-"referer": "https://www.ufazeed.co/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 
 {"name"          :  "CCM",
@@ -268,7 +285,12 @@
 
 {"name": "มังกร","image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png" ,"url": "https://www.dailymotion.com/embed/video/x80wbgj?autoplay=1"},
 
-{"name": "TVB XING HE","image": "https://blingtv.net/channels/images/TVB.png","url": "https://streaming.livescorethai.net/iptv/sd-tvb.stream/playlist.m3u8","referer": "https://freetvdd.com","embed": "true"},
+   {  
+name:"TVB Xing He",
+image:"http://tvsmagazine.com/images/channels/sm_048.jpg",
+url:"https://streaming.livescorethai.net/iptv/sd-tvb.stream/playlist.m3u8",
+"referer": "https://freetvdd.com"
+},
 				
    {  
 name:"GEM",
@@ -284,35 +306,58 @@ url:"https://wacthstream.com/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2Vyd
 "referer": "https://wacth.tv/"
 },
 
-{"name": "AXN","image": "https://blingtv.net/channels/images/AXN.png","url": "https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8","referer": "https://freetvdd.com/",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+ {  
+name:"AXN",
+image:"http://tvsmagazine.com/images/channels/sm_120.jpg",
+url:"https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8",
+"referer": "https://freetvdd.com"
 },
 
-{"name": "Rock Entertainment","image": "https://blingtv.net/channels/images/RKE.png","url": "https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjo0MjowMSBQTSZoYXNoX3ZhbHVlPWlSczZMcVQycFZqRDRDd2c3U0lQS3c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8zNzU2OA==","referer": "https://wacth.tv/","embed": "true"},
+   {  
+name:"Rock Entertainment",
+image:"http://tvsmagazine.com/images/channels/sm_177.jpg",
+url:"https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjo0MjowMSBQTSZoYXNoX3ZhbHVlPWlSczZMcVQycFZqRDRDd2c3U0lQS3c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8zNzU2OA==",
+"referer": "https://wacth.tv/"
+},
 
-{"name": "Rock Action","image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png","url": "https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjoxOToxNSBQTSZoYXNoX3ZhbHVlPXd2M3NXQ2VsbFRWNEdjZ2ZtRmhYamc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8yODM3OQ==","referer": "https://wacth.tv/","embed": "true"},
+   {  
+name:"Rock Action",
+image:"https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1670831772-.png",
+url:"https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjoxOToxNSBQTSZoYXNoX3ZhbHVlPXd2M3NXQ2VsbFRWNEdjZ2ZtRmhYamc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8yODM3OQ==",
+"referer": "https://wacth.tv/"
+},
 
-{"name": "LifeTime","image": "https://blingtv.net/channels/images/LFT.png","url": "https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8","referer": "https://freetvdd.com","embed": "true"},
+{
+"name": "LifeTime",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-lifetime.jpg",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+}
 
-{"name": "True X-ZYTE","image": "https://blingtv.net/channels/images/TXZ.png","url": "https://wacthstream.com/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjoxOTo1MSBQTSZoYXNoX3ZhbHVlPVNjNHRmTllxZ2kvZXZkWU1tQ3RzWGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8yNDcyOQ==","referer": "https://wacth.tv/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+{
+"name": "True X-ZYTE",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-xzyte-hd.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co",
+"info": "TIM",
+"origin": "https://www.ufazeed.co",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
 },
 
 {"name":"ESports Thai Leagues","image":"https://cms.dmpcdn.com/livetv/2020/12/28/c8ce2320-48c2-11eb-9b6d-3fdf37c2e48e_320.jpg","url":"https://tv.trueid.net/embed/ESPORTSTHAILEAGUESTV?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
 {
 "name": "KMTV",
-"image": "https://images.livebox.co/images/tv/png/hd-kmtv.png",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-kmtv.jpg",
 "imageScale": "fitStart",
 "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-kmtv&api_key=hmfklstgerter5",
-"isHost": "true",
 "referer": "https://www.ufazeed.co",
-"embed": "true",
+"info": "TIM",
 "origin": "https://www.ufazeed.co",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
 },
 
 {
@@ -325,22 +370,31 @@ url:"https://wacthstream.com/stream_live/241_tvN/playlist.m3u8?wmsAuthSign=c2Vyd
 
 {"name":"ZING","image":"https://cms.dmpcdn.com/livetv/2021/01/06/68be8520-500f-11eb-8d28-4b8e3f30b51b_original.png","url":"https://tv.trueid.net/embed/zing?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
-{"name":"Fashion TV HD",image:"https://i0.wp.com/opportunitycell.com/wp-content/uploads/2021/06/fashion-tv-logo-png-3.png?fit=1200%2C1200&ssl=1","url": "https://www.doofootball.com/dootv/live/fashiontv#main_dootv"},
-
 {
-"name": "Food Network",
-"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-food-network.jpg",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-food&api_key=hmfklstgerter5",
-"referer": "https://www.ufazeed.co",
+"name": "Fashion TV HD",
+"image": "https://tv.xcoshop.com/wp-content/uploads/2022/10/Fashion-HD-919-523-new.png",
+"url": "http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
 },
 
 {
+"name": "Food Network",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-food-network.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-food&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+
+{
 "name": "Asian Food Network",
-"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-afn.jpg",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-afn.jpg", 
+"imageScale": "fitStart",
 "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-asianfood&api_key=hmfklstgerter5",
 "referer": "https://www.ufazeed.co",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
 },
 
 {"name":"ETV",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0087.png","url": "http://www.etvthai.tv/stream/home.aspx"},
