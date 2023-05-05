@@ -148,46 +148,82 @@
 "url":"https://wacthstream.com/stream_live/335_TrueInsideHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjoxODo0MSBQTSZoYXNoX3ZhbHVlPWRpODVVZFB6eTFjN2V4emZ6aURWeGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83NTQ1Ng==", "referer": "https://wacth.tv/",
 "desktop": "true"},
 
-{"name": "True Film HD","image": "https://blingtv.net/channels/images/THF1.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
-
-{"name": "True Film HD 2","image": "https://blingtv.net/channels/images/THF2.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
-
-{"name": "True Movies Hits","image": "https://blingtv.net/channels/images/TMH.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmfklstgerter5",
+{
+"name": "True Film HD",
+"image": "https://www.truevisions.info/wp-content/uploads/2016/12/logo_true-film.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmfklstgerter5",
 "referer": "https://www.ufazeed.co/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true",
 },
 
-{"name": "True Thai Film","image": "https://blingtv.net/channels/images/TTF.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
+{
+"name": " True Film HD 2",
+"image": "http://88iptv.org/images/channels/true-film-hd2.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM", 
+"desktop": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
+{
+"name": "True Movie Hits",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-movie-hits.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true",
+},
+
+{
+"name": "True Thai Film",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thai-film.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true",
+},
 
 {
 "name": "True Chinese More",
-"image": "https://cms.dmpcdn.com/livetv/2021/09/28/52605e70-2007-11ec-8e02-8583191306a2_webp_320.png",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-chinese-more.jpg", 
 "imageScale": "fitStart",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-chinesemore&api_key=hmfklstgerter5",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true",
+},
+
+{
+"name": "True Korean More",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-korean-more.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmfklstgerter5",
 "isHost": "true",
 "referer": "https://www.ufazeed.co/",
-"embed": "true",
+"info": "TIM",
 "origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true",
 },
 
-{"name": "True Korean More","image": "https://blingtv.net/channels/images/TKM.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmfklstgerter5",
+{
+"name": "True Asian More",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-asian-more.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmfklstgerter5",
+"isHost": "true",
 "referer": "https://www.ufazeed.co/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
-
-{"name": "True Asian More","image": "https://blingtv.net/channels/images/TAM.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmfklstgerter5",
-"referer": "https://www.ufazeed.co/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true",
 },
 
 {"name": "True Film Asia","image": "https://blingtv.net/channels/images/TFA.png",
