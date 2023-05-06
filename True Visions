@@ -406,6 +406,18 @@
 "url":"https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjoyMTowOSBQTSZoYXNoX3ZhbHVlPVV3alNhQWpVdlhKbHNUVWV0SDZ2NGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF80MjMzMg==", "referer": "https://wacth.tv", "info": "TIM", "desktop": "true"},
 
 {
+"name": "Discovery Channel",
+"image": "https://dl.dropbox.com/s/hpv2pfy2qfqbuve/discovery.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{
 "name": "Discovery Asia",
 "image": "https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0",
 "imageScale": "fitStart",
@@ -454,18 +466,6 @@
 {
 "name": "NAT GEO Wild", "image": "http://idooxtream.streaming-fast.com/xtream/LOGO/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png", 
 "url":"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=12086&extension=ts&play_token", "referer": "", "info": "TIM", "playInNatPlayer": "true"},
-
-{
-"name": "Discovery Channel",
-"image": "https://dl.dropbox.com/s/hpv2pfy2qfqbuve/discovery.png?dl=0",
-"imageScale": "fitStart",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmfklstgerter5",
-"isHost": "true",
-"referer": "https://www.ufazeed.co/",
-"info": "TIM",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
-},
 
 {
 "name": "TLC",
