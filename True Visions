@@ -403,13 +403,31 @@
  
 {
 "name": "BBC lifestyle", "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBC-lifestylese.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0126/HLS/V0126.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=45b356d1f70f209a0ffcfeaa0d1a02e3&chunkHttps=true&tmid=B0007&tpbk=3aytp9dStklGWLSj&rrt=1676430291&tmod=rfk&rsid=1b35951b-c3b3-4981-98f2-47f7b773db3e&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=0618c58dfb58821f11595a60fcf9f2d2&origin=anevia&tfa=f0-fc&tttl=1676515224", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
+"url":"https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjoyMTowOSBQTSZoYXNoX3ZhbHVlPVV3alNhQWpVdlhKbHNUVWV0SDZ2NGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF80MjMzMg==", "referer": "https://wacth.tv", "info": "TIM", "desktop": "true"},
 
-{"name": "Discovery Asia","image": "https://blingtv.net/channels/images/DCA.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
+{
+"name": "Discovery Asia",
+"image": "https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
 
-{"name": "History Channel","image": "https://blingtv.net/channels/images/HIS.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
+{
+"name": "History Channel",
+"image": "https://dl.dropbox.com/s/ok5j2fbe9y54b4s/history.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true"
+},
 
 {
 				"name": "H2",
@@ -419,11 +437,18 @@
 				"info": "TIM",
 				"embed": "true",playInNatPlayer: "true"},
 
-{"name": "National Geographic","image": "https://blingtv.net/channels/images/NGL.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmfklstgerter5",
+{
+"name": "National Geographic",
+"image": "https://dl.dropbox.com/s/3xym6jy2h7h0q2j/ng.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
 "referer": "https://www.ufazeed.co/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"referer": "https://www.ufazeed.co/",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true"
 },
 
 {
@@ -433,44 +458,59 @@
 {"name": "Discovery Channel","image": "https://blingtv.net/channels/images/DSC.png",
 "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
 
-{"name": "TLC","image": "http://tvsmagazine.com/images/channels/sm_068.jpg",
+{
+"name": "TLC",
+"image": "http://tvsmagazine.com/images/channels/sm_068.jpg",
+"imageScale": "fitStart",
 "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-tlc&api_key=hmfklstgerter5",
 "referer": "https://www.ufazeed.co/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 
 {"name": "Animal Planet","image": "https://blingtv.net/channels/images/ANP.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-animalplanet&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
 
 {
-"name": "Love Nature 4K",
-"image": "https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",
-"imageScale": "fitStart",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-lovenature&api_key=hmcb4rf66f&ref=https://doofootballs.com",
-"isHost": "true",
-"referer": "https://dooball66.com",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
+"name": "Love Nature 4K", "image": "https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",  
+"url":"https://wacthstream.com/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjozNjozNiBQTSZoYXNoX3ZhbHVlPWZXeVRsYUU2ZjdmWDRQQ2RyRDVBZkE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF81NzI0OA==", "referer": "https://wacth.tv", "info": "TIM", "desktop": "true"},
 
 {"name":"True Explore Wild","image": "https://drive.google.com/uc?id=1ljf6YLbLZ49tMpy-wwtvn4OkegqbCu7k","url":"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8","referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
 
-{"name": "True Explore Sci","image": "http://tvsmagazine.com/images/channels/sm_EXPSC.jpg",
+{
+"name": "True Explore Sci",
+"image": "https://dl.dropbox.com/s/utljale0v0vsq0o/trueexplorersci.png?dl=0",
+"imageScale": "fitStart",
 "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-expsci&api_key=hmfklstgerter5",
+"isHost": "true",
 "referer": "https://www.ufazeed.co/",
-"embed": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"
 },
 
-{"name": "True Explore Life","image": "https://blingtv.net/channels/images/TEL.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-explife&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
+{
+"name": "True Explore Life",
+"image": "https://dl.dropbox.com/s/fnvsc8ab9fb8phd/trueexplorerlife.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-explife&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
 
-{"name": "Cartoon Network","image": "https://blingtv.net/channels/images/CTN.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-cartoonnetwork&api_key=hmfklstgerter5&ref=https://playerembed-lb.blackboxsys.net","referer": "https://www.ufazeed.co/","embed": "true"},
+{"name": "Cartoon Network","image": "https://dl.dropbox.com/s/0amwsrf43o29ebu/cn.png?dl=0","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-cartoonnetwork&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
 
-{"name": "True Spark Jump","image": "https://blingtv.net/channels/images/TSJ.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-sparkjump&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
+{"name": "True Spark Jump","image": "https://blingtv.net/channels/images/TSJ.png","url": "https://wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjo0MDo0MCBQTSZoYXNoX3ZhbHVlPTcxUDR0NmkrSkZyd0tGd2g2Q3ZYTWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF80MjA0Nw==","referer": "https://wacth.tv/","embed": "true"},
  
-{"name": "True Spark Play","image": "https://blingtv.net/channels/images/TSP.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-sparkplay&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
+{"name": "True Spark Play","image": "https://dl.dropbox.com/s/ivow94yig7c6h1b/truesparkplay.png?dl=0","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-sparkplay&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
 
 {"name": "Nickelodeon","image": "https://blingtv.net/channels/images/NIK.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-nickelodeon&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
 
@@ -478,61 +518,83 @@
 
 {"name": "Dreamworks","image": "https://blingtv.net/channels/images/DMW.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-dreamworks&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
 
-{"name": "True Premier Football HD1","image": "https://blingtv.net/channels/images/TF1.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-1&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
-"userAgent": "VLC/3.0.9 LibVLC/3.0.9",
-"embed": "true"},
-
-{"name": "True Premier Football HD2","image": "https://blingtv.net/channels/images/TF2.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-2&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
-"embed": "true"},
-
-{"name": "True Premier Football HD3","image": "https://blingtv.net/channels/images/TF3.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-3&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
-"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 Adobe Primetime ExoPlayer@__gN2AjN2kjN0UTM Firefox/48.0 KAIOS/2.0",
-"embed": "true"},
-
-{"name": "True Premier Football HD4","image": "https://blingtv.net/channels/images/TF4.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-4&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
-"embed": "true"},
-
-{"name": "True Premier Football HD5","image": "https://blingtv.net/channels/images/TF5.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-5&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
-"embed": "true"},
-
-{"name": "Bein Sports 1","image": "https://blingtv.net/channels/images/BS1.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmfklstgerter5",
-"referer": "https://www.ufazeed.co/",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
-
-{"name": "Bein Sports 3","image": "https://blingtv.net/channels/images/BS3.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein3&api_key=hmfklstgerter5",
-"referer": "https://www.ufazeed.co/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
-"embed": "true"},
-
 {
-"name": "True Sports HD 1",
-"image": "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"name": "True Premier Football HD1",
+"image": "http://tvsmagazine.com/images/channels/sm_233.jpg",
 "imageScale": "fitStart",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
+"url": "https://ufa77th.tv/channel?ch=epl1",
 "isHost": "true",
-"referer": "https://dooball66.com",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+"referer": "https://ufa77th.tv/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
 },
 
 {
-"name": "True Sports HD 2",
-"image": "https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
+"name": "True Premier Football HD2",
+"image": "http://tvsmagazine.com/images/channels/sm_234.jpg",
 "imageScale": "fitStart",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
+"url": "https://ufa77th.tv/channel?ch=epl2",
 "isHost": "true",
-"referer": "https://dooball66.com",
+"referer": "https://ufa77th.tv/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{
+"name": "True Premier Football HD3",
+"image": "https://blingtv.net/channels/images/TF3.png",
+"imageScale": "fitStart",
+"url": "https://ufa77th.tv/channel?ch=epl3",
+"isHost": "true",
+"referer": "https://ufa77th.tv/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{
+"name": "True Premier Football HD4",
+"image": "https://blingtv.net/channels/images/TF4.png",
+"imageScale": "fitStart",
+"url": "https://ufa77th.tv/channel?ch=epl4",
+"isHost": "true",
+"referer": "https://ufa77th.tv/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+
+{"name": "True Premier Football HD5","image": "https://blingtv.net/channels/images/TF5.png","url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8","referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"embed": "true"},
+
+{"name": "Bein Sports 1","image": "https://blingtv.net/channels/images/BS1.png","url": "https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
 "embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
+
+{"name": "Bein Sports 2","image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png","url": "https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"embed": "true"},
+
+{"name": "Bein Sports 3","image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png","url": "https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"embed": "true"},
+
+{"name"          :  "True Sports HD 1",
+"image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8?",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM",
+"playInNatPlayer": "true"},
+
+{"name"          :  "True Sports HD 2",
+"image"          :  "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
+"url"            :  "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8?",
+"referer"        :  "https://streaming.livescorethai.net/",
+"info" : "TIM",
+"playInNatPlayer": "true"},
 
 {"name"          :  "True Sports HD 3",
 "image"          :  "https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",
@@ -604,41 +666,26 @@ playInNatPlayer: "true"},
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 
-{
-"name": "SPOTV 1",
-"image": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
-"imageScale": "fitStart",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
-"isHost": "true",
-"referer": "https://dooball66.com",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
+{"name"          :  "SPOTV 1",
+"image"          :  "https://i.imgur.com/p1q77RO.png",
+"url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?",
+"referer"        :  "https://dooball2you.com/",
+"info" : "TIM",
+"playInNatPlayer": "true"},
 
-{
-"name": "SPOTV 2",
-"image": "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
-"imageScale": "fitStart",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv2&api_key=hmcb4rf66f&ref=https://doofootballs.com/",
-"isHost": "true",
-"referer": "https://dooball66.com",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
+{"name"          :  "SPOTV 2",
+"image"          :  "https://i.imgur.com/5D0YW20.png",
+"url"            :  "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?",
+"referer"        :  "https://dooball2you.com/",
+"info" : "TIM",
+"playInNatPlayer": "true"},
 
-{
-"name": "Outdoor Channel",
-"image": "https://cms.dmpcdn.com/livetv/2018/12/17/f2c30832-7d77-4a24-88ad-1d30c593bda1.png",
-"imageScale": "fitStart",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-outdoor&api_key=hmcb4rf66f&ref=https://doofootballs.com",
-"isHost": "true",
-"referer": "https://dooball66.com",
-"embed": "true",
-"origin": "https://embed-dev.blackboxsys.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
+{"name"          :  "Outdoor Channel",
+"image"          :  "https://dl.dropbox.com/s/ed7x1ozg9iz4s0l/outdoor.png?dl=0",
+"url"            :  "https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjMgMjoyOTowMiBQTSZoYXNoX3ZhbHVlPTVsTlJJNVp1aEdZSHk3NXd0UktPVEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF82NTcwNw==",
+"referer"        :  "https://wacth.tv/",
+"info" : "TIM",
+"playInNatPlayer": "true"},
 
 {"name":"CNN",image:"https://s.isanook.com/hi/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2hpLzAvdWQvMzA3LzE1Mzc1OTcvY25uLmpwZw==.jpg","url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"},
 
