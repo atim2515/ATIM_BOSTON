@@ -455,8 +455,17 @@
 "name": "NAT GEO Wild", "image": "http://idooxtream.streaming-fast.com/xtream/LOGO/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png", 
 "url":"http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=12086&extension=ts&play_token", "referer": "", "info": "TIM", "playInNatPlayer": "true"},
 
-{"name": "Discovery Channel","image": "https://blingtv.net/channels/images/DSC.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
+{
+"name": "Discovery Channel",
+"image": "https://dl.dropbox.com/s/hpv2pfy2qfqbuve/discovery.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
 
 {
 "name": "TLC",
@@ -468,7 +477,16 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 
-{"name": "Animal Planet","image": "https://blingtv.net/channels/images/ANP.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-animalplanet&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
+{
+"name": "Animal Planet",
+"image": "https://dl.dropbox.com/s/d55ewtydhd2sabh/animalplanet.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"
+},
 
 {
 "name": "Love Nature 4K", "image": "https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",  
@@ -516,7 +534,14 @@
 
 {"name": "Nick Jr.","image": "https://blingtv.net/channels/images/NKJ.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-nickjr&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
 
-{"name": "Dreamworks","image": "https://blingtv.net/channels/images/DMW.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-dreamworks&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
+{
+"name": "Dreamworks",
+"image": "https://dl.dropbox.com/s/4xl2fa71c1akowv/dreamwork.png?dl=0",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-dreamworks&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
 
 {
 "name": "True Premier Football HD1",
@@ -637,7 +662,17 @@ playInNatPlayer: "true"},
 "info" : "TIM",
 "playInNatPlayer": "true"},
 
-{"name": "NBA TV","image": "https://manuals.plus/wp-content/uploads/2021/03/How-do-I-get-NBA-TV.jpg","url": "https://live.vip-streaming.com:30443/cloudstreaming/true-nba/chunks.m3u8","referer": "https://ufabetcompany.com"},
+{
+"name": "NBA TV",
+"image": "https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-nba&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "TIM",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
 
 {"name"          :  "Golf Channel Thailand",
 "image"          :  "https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png&w=100&h=75",
