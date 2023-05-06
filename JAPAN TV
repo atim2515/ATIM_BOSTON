@@ -185,7 +185,11 @@ url:"https://wacthstream.com/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2Vyd
 
 {"name":"Kids Station",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykVkJwIKWix3HlsmdWKmzjNnLb3A-ypFDZ8Zn-vN9f3lGnifZHXOA9EiEa-JkkUBsUl0&usqp=CAU","url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"},
 
-{"name":"ANIPLUS",image:"https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555","url": "http://210.210.155.35/dr9445/h/h02/01.m3u8"},
+{"name": "ANIPLUS","image": "https://dl.dropbox.com/s/svf3cyzym6kq1v9/aniplus.png?dl=0","url": "http://kungtv.net:2095/play/live.php?mac=00:1A:79:00:00:00&stream=115609&extension=ts&play_token=",
+"referer": "https://ais-vidnt.com/",
+"info": "TIM",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
 
 {"name":"Anime TV",image:"https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png","url": "https://stmv1.srvif.com/animetv/animetv/chunklist_w66921402.m3u8"},
 
