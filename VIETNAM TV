@@ -379,6 +379,13 @@
 "userAgent": "Dalvik/2.1.0"},
 
 {
+"name":"Box Hits",
+"image":"https://cdn.hqth.me/logo/thumbs/190.png",
+"url":"https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8", 
+"info": "TIM", 
+"userAgent": "Dalvik/2.1.0"},
+
+{
 "name": "Hollywood Classics HD","image": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png",
 "url":"https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8",
 "referer": "http://sctvonline.vn/",
@@ -437,6 +444,55 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
 "playInNatPlayer": "true"
 },
+
+{
+"name":"AXN",
+"image":"https://cdn.hqth.me/logo/thumbs/227.png",
+"url":"https://ancom.ga/fpt/axn/bitrate_5000.m3u8", 
+"info": "TIM", 
+"userAgent": "Dalvik/2.1.0"},
+
+{
+"name":"CinemaWorld",
+"image":"https://cdn.hqth.me/logo/thumbs/231.png",
+"url":"https://ancom.ga/fpt/cinemaworld/bitrate_5000.m3u8", 
+"info": "TIM", 
+"userAgent": "Dalvik/2.1.0"},
+
+{
+"name":"Fashion TV",
+"image":"https://cdn.hqth.me/logo/thumbs/232.png",
+"url":"https://ancom.ga/fpt/fashion-tv/bitrate_5000.m3u8", 
+"info": "TIM", 
+"userAgent": "Dalvik/2.1.0"},
+
+{
+"name":"HITS",
+"image":"https://cdn.hqth.me/logo/thumbs/233.png",
+"url":"https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8", 
+"info": "TIM", 
+"userAgent": "Dalvik/2.1.0"},
+
+{
+"name":"HGTV",
+"image":"https://cdn.hqth.me/logo/thumbs/234.png",
+"url":"https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8", 
+"info": "TIM", 
+"userAgent": "Dalvik/2.1.0"},
+
+{
+"name":"TLC",
+"image":"https://cdn.hqth.me/logo/thumbs/236.png",
+"url":"https://ancom.ga/fpt/travel-living/bitrate_5000.m3u8", 
+"info": "TIM", 
+"userAgent": "Dalvik/2.1.0"},
+
+{
+"name":"Warner TV",
+"image":"https://cdn.hqth.me/logo/thumbs/237.png",
+"url":"https://ancom.ga/fpt/warner-tv/bitrate_5000.m3u8", 
+"info": "TIM", 
+"userAgent": "Dalvik/2.1.0"},
 
 {"name":"Ski TV",image:"https://pbs.twimg.com/profile_images/1385882506327695360/4H3lLevo_400x400.jpg","url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8"},
 
