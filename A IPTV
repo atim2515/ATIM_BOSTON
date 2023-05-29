@@ -39,7 +39,7 @@ https://cdn6.goprimetime.info/feed/202205171929/chgmm/index.m3u8
 http://183.89.246.119:8010/play/a00e/index.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
-#EXTVLCOPT:http-referrer=https://cdn6.goprimetime.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/index.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-60714.png",ช่อง CH8
@@ -52,7 +52,7 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/640px-Jkn18.png",ช่อง JKN18
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://dl.dropbox.com/s/byqurs38hszlfi8/jkn.png?dl=0",ช่อง JKN18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
 
@@ -60,56 +60,94 @@ https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn6.goprimetime.info/feed/202205171929/tptv/playlist.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://i.imgur.com/hD3wGq3.png",ช่อง TNN16
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable 37 HD
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+ #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/hD3wGq3.png",ช่อง TNN16
 http://183.89.246.119:8010/play/a00b/index.m3u8
 
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://images.topnews.co.th/2021/04/cropped-topnews-logo.png",ช่อง TOPNEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
+http://news1.live14.com/stream/news1_hi.m3u8
+
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/3nJtvVE",ช่อง DLTV 1
-https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv01.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/3sgHpCl",ช่อง DLTV 2
-https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv02.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/2XAQTtT",ช่อง DLTV 3
-https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv03.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/2LLaDZ4",ช่อง DLTV 4
-https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv04.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/2LMgYne",ช่อง DLTV 5
-https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv05.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/3sgHAxv",ช่อง DLTV 6
-https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv06.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/2LjuRcL",ช่อง DLTV 7
-https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv07.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/2XEB7xW",ช่อง DLTV 8
-https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/3nGzlHt",ช่อง DLTV 9
-https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv09.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/3nJHNFD",ช่อง DLTV 10
-https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv10.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/35SV74P",ช่อง DLTV 11
-https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv11.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/3qiYZDY",ช่อง DLTV 12
-https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv12.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/2XB4WQ5",ช่อง DLTV 13
-https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv13.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/39pPcFf",ช่อง DLTV 14
-https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv14.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/3seWy6W",ช่อง DLTV 15
-https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/2LK7hpg",ช่อง ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable 37 HD
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://live-radio-channels.com/media/tv-logo/th-ctb.jpg",ช่อง CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWjQ-5nl_D6X1OgtYzuA_pU9xVVCDV0ivSQ&usqp=CAU",ช่อง NK TV
+http://sv1.afdc.live:9898/stream/nktv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.imgur.com/vMWjnIm.png",ช่อง มังกร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg",ช่อง จอมยุทธ์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/MediaTV.png",ช่อง MEDIA TV
+http://183.89.246.119:8881/play/a0af/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",ช่อง Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg",ช่อง TOONEE
+http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Shopping
+http://183.89.246.119:8881/play/a0a7/index.m3u8
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0111.png",ช่อง JKN High Shopping
+http://183.89.246.119:8881/play/a0a5/index.m3u8
