@@ -174,6 +174,21 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",ช่อง PTV
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://www.gdplayer.tv/assets/img/logo/my-cinema.png",ช่อง MCN
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-asia-id.png",ช่อง MCA
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://www.gdplayer.tv/assets/img/logo/my-family-channel.png",ช่อง MFC
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1655455157",ช่อง Cinema World
+http://210.210.155.35/session/88c07ef2-a764-11ec-aeac-b82a72d63267/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851",ช่อง ACTION MOVIES
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/9999745/300x300.png?type=smartCast_channelTile",ช่อง Wu Tang Collection
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
@@ -197,6 +212,9 @@ http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png",ช่อง PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://www.gdplayer.tv/assets/img/logo/my-kidz.png",ช่อง MKIDZ
+http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Shopping
 http://183.89.246.119:8881/play/a0a7/index.m3u8
