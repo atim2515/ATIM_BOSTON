@@ -48,71 +48,8 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.appletvappdownload.com/wp-content/uploads/2020/12/TeaTV-Download-APK-1-1-1.jpg",ช่อง Tea TV 2
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/Redbox-Logo.png",ช่อง Redbox 1: Spotlight
-https://spotlight-redbox.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_original.png",ช่อง Rock Entertainment
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1629096639_thumb-rock-extreme.png",ช่อง Rock Extreme
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/RedTV-Srbija-Logo.png",ช่อง Red TV
 https://live.rednet.rs/providus/redtv_multi.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2016/01/cinemaworldhd.gif",ช่อง CINEMA WORLD
-http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png",ช่อง Rakuten Family Movies
-https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/f860efd1ad580032f075da58f121d67789ee667b862fdd30d951ed86aa63f6f1.png",ช่อง Movies Channel
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png",ช่อง Thrill
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",ช่อง HITS
-http://210.210.155.35:80/dr9445/h/h37/01.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hungary_road_sign_C-033-50.svg/1200px-Hungary_road_sign_C-033-50.svg.png",ช่อง 50
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",ช่อง Pluto TV 70s Cinema
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024",ช่อง Pluto TV 80s Rewind
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",ช่อง Pluto TV 90s Throwback
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5ixXBbl5_J6hxXXgGg_nc83AJqYMxJotCMaQKRxlakG7U4nqJW-TAUpte6bgvI_vIVA&usqp=CAU",ช่อง Pluto TV 90120
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",ช่อง REELZ
-https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/VHS_logo.svg/1200px-VHS_logo.svg.png",ช่อง VHS 90s
-https://v2.catcast.tv/content/37925/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/The_Asylum_Logo.jpg/revision/latest/scale-to-width-down/250?cb=20160827170704",ช่อง The Asylum
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIeyXtKBMiuXu_mV6AKmKwyHVkyDuFbI6n6zabgBxRgzqMXeqc1zL09cDzGHV3ULjUMGk&usqp=CAU",ช่อง Groovy TV
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",ช่อง K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg",ช่อง One
-http://210.210.155.35/uq2663/h/h143/02.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",ช่อง CCM
-http://210.210.155.35/qwr9ew/s/s31/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png",ช่อง TVN Movies
-http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://yt3.ggpht.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s900-c-k-c0x00ffffff-no-rj",ช่อง TVN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
@@ -210,15 +147,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWUnqx5l4sv-cTf5J92cGbnLgpFsEzYmZJousyIEuvs25vYrZ14D82hJTQRO65OmMfO54&usqp=CAU",ช่อง Pluto TV Hogar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/media/E6s5FTFUcAAGmfE?format=jpg&name=large",ช่อง Pluto TV Home
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9eedc89300090d2884/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024",ช่อง Pluto TV BBC Food
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/media/EsHAoO_VcAEQCMp.jpg:large",ช่อง Pluto TV BBC Home
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQQVpl3gWcBPD8nN7bq6HMdA92PfRq4DXoVR3DCHQ=s900-c-k-c0x00ffffff-no-rj",ช่อง The Young Turks
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
@@ -227,9 +155,6 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s",ช่อง Loupe
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3988457040bce0bd05af600734dd1f0.webp",ช่อง Ghost TV
-https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/378800000739935847/5e79ac7e7e80ac44a93beb48dc3950a5_400x400.png",ช่อง Latest TV
 https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
@@ -263,12 +188,6 @@ https://wildearth-roku.amagi.tv/master.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/880px-Smithsonian_logo_color.svg.png",ช่อง Smithsoniun
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://i.pinimg.com/originals/9e/16/d6/9e16d65e11c04f4ce6bae05428ff14c5.jpg",ช่อง Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-
-#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://image.roku.com/developer_channels/prod/54a90fbabc95ebb800a416b20ab3e8013b5d96eac88a476effc76ee8ecc9c1eb.png",ช่อง The Design Network
-https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AD_246x246.png?raw=true",ช่อง Architectural Digest
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
@@ -329,54 +248,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playli
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgBcu3qeybl-9jOn5ZsEFcV9Tqd18Ykp--GJukOp4Aq434Tdm0hLaL-EYfbNWeH1LBCvs&usqp=CAU",ช่อง Persiana Nostalgia
 http://51.210.199.20/hls/stream.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",ช่อง Vevo 70s
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",ช่อง Vevo 80s
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/a65cf7ba93664eb083d95152fe717270/live.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",ช่อง Vevo 90s
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/51f1a0da9da049098a8cec541bddfae5/live.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",ช่อง Vevo 00s
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",ช่อง Vevo POP
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",ช่อง Vevo Country
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088443baf9abae38ae01fef/live.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",ช่อง Vevo Latino
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38471e80cae5e7bdc3f1dc/live.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",ช่อง Vevo Regueton
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",ช่อง Vevo Hiphop
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png",ช่อง Vevo R&B
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b4556ad764a9eeeff4c4b/live.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://cdn.tvpassport.com/image/show/960x540/73224.jpg",ช่อง CMT Music
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://pbs.twimg.com/profile_images/657212217956241408/-m4CbvRz.jpg",ช่อง MTV YO!
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg",ช่อง MTV BIGGEST POP
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.pinimg.com/originals/f9/1f/c0/f91fc02f8ff9ea5eddceef8d200284ee.jpg",ช่อง MTV BLOCK PARTY
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/featuredImage.jpg?auto=format&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024",ช่อง MTV SPANKIN' NEW
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRoYGJpp2bEDGjId23FVgMaGRJQwpjGOQsqDmk4=s900-c-k-c0x00ffffff-no-rj",ช่อง MTV Vietnam
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://images.viacbs.tech/uri/mgid:arc:content:mtv.com:b917faa2-f534-4144-a4cc-10bcef252768?quality=0.7",ช่อง MTV Are you the One
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -480,71 +351,8 @@ https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publis
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqX-es-eIZN4LLxzKYBfxgxjlN2Mp-7-wPY2oBtE-Hkid54Uf1cCJDdqZzaHNGjj7Qhc&usqp=CAU",ช่อง Kerrang
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://image.xumo.com/v1/channels/channel/9999120/300x300.png?type=smartCast_channelTile",ช่อง Stingray Greatest Hits
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hit-list/thumbh_20200717_232723.jpg",ช่อง Stingray Hit List
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-classic-rock/poster_20200717_232723.jpg",ช่อง Stingray Classic Rock
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-rock-alternative/thumbh_20200717_232723.jpg",ช่อง Stingray Rock Alternative
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/poster_20200717_232723.jpg",ช่อง Stingray Pop Adult
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://mediafile.galaxie.ca/data/000/111/505/000111505539",ช่อง Stingray Urban Beat
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hot-country/poster_20200717_232723.jpg",ช่อง Stingray Hot Country
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416920",ช่อง Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416831",ช่อง Stingray Everything 80s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/thumbh_20200717_232723.jpg",ช่อง Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://image.xumo.com/v1/channels/channel/9999121/800x800.png?type=smartCast_channelTile",ช่อง Stingray Soul Storm
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ytimg.com/vi/eUm7mEOGWHQ/maxresdefault.jpg",ช่อง Stingray Naturescape
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkU6BRqWNisk0-z1qapb6zx-yGsx0L-wQfyPsa1Ht1S5Bpj6FhpMTSL_trttcAhgjXPE&usqp=CAU",ช่อง Hitradio 3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png",ช่อง CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/eNPIQ9f.png",ช่อง BBC News
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1119289014719139840/pJBjLkG7_400x400.png",ช่อง CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.pinimg.com/originals/08/14/3f/08143f803bf851ad3386e7238e3b7e0e.jpg",ช่อง Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/ABC_Newslogo.svg/revision/latest/scale-to-width-down/250?cb=20200716221007",ช่อง ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Nm4yRlzlaqU1sObXmbvOMPWCfwvzEUhJ0XwNHw2E1v0vxJhzFVLdJeR__KACVSAbWfI&usqp=CAU",ช่อง FOX NEWS
-https://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://cdn.mos.cms.futurecdn.net/SJbe5cBshqKwLWtAMX7TqF.png",ช่อง NBC NEWS
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlEy7z2ay2GwUEDGr0UwMS2hsgesKzH3XUGroJqUEQpeQnX7SIP997kipC8r_SBYP4ZUw&usqp=CAU",ช่อง SKY NEWS
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png",ช่อง Euronews
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -552,26 +360,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://play-lh.googleusercontent.com/ZStCFXgcmpcwGU7AYNyoKEKRBhDbfztvkbJ9S6b9Pp3th2ltfv1g5FdQbGdbqWSUEtc",ช่อง France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/02/rai-new24-logo.jpg",ช่อง Rai News24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://kahoot.com/files/2020/04/Bloomberg-logo-square.jpg",ช่อง Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://play-lh.googleusercontent.com/50DCCw3YkXDw31At02T9alk9x2gmhapha-MP_d8p8A3zTK9A6rrxSzA4NSkWenSUpA",ช่อง CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/GMAT4VE.jpg",ช่อง Black News Channel
-https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://holidayhelpers.org/wp-content/uploads/2019/10/Global-News-logo-e1422304278887.png",ช่อง Global News
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.iheart.com/v3/re/new_assets/5faefbc04b2d2470f40bf614",ช่อง OAN
-http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBFCDkJx5c0rHfqEUvrrwXCcBcxrbDUXJiaz9mWdcwu1VcDKXAtvOe6tMJeSKWhVJRQYw&usqp=CAU",ช่อง KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.omnitv.ca/wp-content/uploads/2013/11/628_arirangkorea.jpg",ช่อง Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch/master.m3u8
@@ -690,27 +483,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png?_olQ.B5b35w59zex4jQxtjtYNvzVJO6p&itok=JAdzPWWq",ช่อง Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://image.roku.com/developer_channels/prod/f5900787cca8b62d53daf174cd5d89b20fe2c49b8ec6f61132b216ef92d93085.png",ช่อง Lego Channel
-https://legochannel-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://1.bp.blogspot.com/-_JwCgiU5rT0/X5MDkcx4p2I/AAAAAAAAARU/5Oakc5yaCbIXQe8GQU7KNJBK-TUS9ptcwCNcBGAsYHQ/w1200-h630-p-k-no-nu/Retro-Cartoon-Logo.jpg",ช่อง Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/kamenrider/images/3/37/TokuSHOUTsu_logo.png/revision/latest?cb=20200316163643",ช่อง TokuSHOUTsu
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg",ช่อง GEM
-http://210.210.155.35/uq2663/h/h19/01.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zpi6mQ3.png",ช่อง Animax Japan
-http://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.at-x.com/favicon_android.png",ช่อง AT-X
-https://sub2.neetball.net/live/neet.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.fujitv.com/wp-content/uploads/2018/07/logo_ogp.png",ช่อง Fuji TV
-http://203.162.235.41:16904
-
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://i.imgur.com/8AM9fC8.jpg",ช่อง GSTV
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest
 
@@ -726,17 +498,11 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/SQISXoD.jpg",ช่อง NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555",ช่อง Nippon TV
-http://203.162.235.41:16905
-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",ช่อง NTV News24
 https://www.news24.jp/livestream/index.m3u8
 
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://i.imgur.com/3K36JEA.jpg",ช่อง Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://av.watch.impress.co.jp/img/avw/list/1244/682/tb01.jpg",ช่อง TBS
-http://203.162.235.41:16907
 
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://seeklogo.com/images/T/tokyo-mx-logo-EACD417B21-seeklogo.com.jpg",ช่อง Tokyo MX
 https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
@@ -753,99 +519,6 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png",ช่อง QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",ช่อง NHK-G Osaka
-http://51.79.193.108:8080/hls/j00032/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",ช่อง NHK-G Tokyo
-http://203.162.235.41:16903
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7cyWxyUUfn8XAeTVL6iYTXSqKR2mXsdNU14e33svP9FRPPGCCKG4RZtP2SstET37aQo&usqp=CAU",ช่อง BS Asahi
-http://203.162.235.41:16914
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/BSF1.jpg/revision/latest/scale-to-width-down/250?cb=20210724071228",ช่อง BS Fuji TV
-http://203.162.235.41:16911
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png",ช่อง BS Nippon TV
-http://203.162.235.41:16912
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png",ช่อง BS Nippon TV
-http://51.79.193.108:8080/hls/j00005/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/BS_TV_Tokyo_logo.png/revision/latest?cb=20190207020731",ช่อง BS TV Tokyo
-http://51.79.193.108:8080/hls/j00050/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png",ช่อง BS-TBS
-http://203.162.235.41:16913
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",ช่อง J Sports 1
-http://51.79.193.108:8080/hls/j00042/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png",ช่อง J Sports 2
-http://51.79.193.108:8080/hls/j00041/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png",ช่อง J Sports 3
-http://51.79.193.108:8080/hls/j00040/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png",ช่อง J Sports 4
-http://51.79.193.108:8080/hls/j00039/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20210123215055",ช่อง NHK BS1
-http://203.162.235.41:16909
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png",ช่อง NHK BSP
-http://203.162.235.41:16910
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK-E Osaka 
-http://51.79.193.108:8080/hls/j00034/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK-E Tokyo
-http://51.79.193.108:8080/hls/j00035/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png",ช่อง Star 1
-http://51.79.193.108:8080/hls/j00019/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png",ช่อง Star 2
-http://51.79.193.108:8080/hls/j00018/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png",ช่อง Star 3
-http://51.79.193.108:8080/hls/j00017/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/800px-TV_Asahi_Logo.svg.png",ช่อง TV Asahi
-http://203.162.235.41:16906
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png",ช่อง TV Tokyo
-http://203.162.235.41:16908
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://i.imgur.com/4yRulEZ.png",ช่อง NHK Chinese Vision
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://static.wikia.nocookie.net/drama/images/5/54/Family_gekijo.jpg/revision/latest/scale-to-width-down/400?cb=20190809211640&path-prefix=es",ช่อง Family Gekijo
-http://51.79.193.108:8080/hls/j00011/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/68/gaora_logo.jpg",ช่อง GAORA
-http://51.79.193.108:8080/hls/j00045/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png",ช่อง MBS
-http://51.79.193.108:8080/hls/j00038/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://i1.wp.com/test-bucket-dfn.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/11/25110216/Kansai-TV-Logo-358x292-ORIGINAL.png?ssl=1",ช่อง Kansai TV
-http://51.79.193.108:8080/hls/j00006/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://cdn.tv-osaka.co.jp/cdn/v20211230.062900/portal/201610/images/index/misc_tvo.png",ช่อง TV Osaka
-http://51.79.193.108:8080/hls/j00013/index.m3u8?type=jp
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://japan-programcatalog.com/japacon/open/open-sales-company!image?tsid=8&imageNumber=1&id=2",ช่อง ABC
-http://211.21.12.236:11935/live/gx06.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www-static.yakult-swallows.co.jp/hp/files/News/n-dca58d2252b3e80183bec9aa8b6f910d.jpg",ช่อง Fuji TV One
-http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png",ช่อง KBS World
-http://211.21.12.236:11935/live/cs16.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqfIcFY2cm_6xaz4zwynupobe5MvIXKV9KreZJv9IbpdIkHJgZjn3fz-EDSwuaJ2wcwIA&usqp=CAU",ช่อง NHK +
-http://iptv.tvfix.org/hls/nhke.m3u8
-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT8q9CX4OBJFSjoTzTe_t-zEAt67Sr2PxqqM3DXLg=s900-c-k-c0x00ffffff-no-rj",ช่อง All-Nippon News Network
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ/live
 
@@ -854,45 +527,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.fluentu.com/blog/japanese/wp-content/uploads/sites/6/2015/08/japanese-tv-3.jpg",ช่อง Fuji News Network
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoQBJMzcwmXrRSHBFAlTsIw/live
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest?cb=20200215065013",ช่อง Wowow Cinema
-http://203.162.235.41:16912
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://img.paravi.jp/files/5/j/q/h/52521a13-6d8c-44e4-b4ae-5b21234aed9b.png?w=800&h=800",ช่อง Wowow Prime
-http://203.162.235.41:16916
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659",ช่อง Wowow Live
-http://203.162.235.41:16915
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1280px-NHK_logo_2020.svg.png",ช่อง NHK
-http://203.162.235.41:16901
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.golfnetwork.co.jp/assets/img/og_img1.jpg",ช่อง Golf Network
-http://203.162.235.41:16924
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.wiseknow.com/wp-content/uploads/2020/08/viutv_logo1.png",ช่อง VIU TV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg",ช่อง VIU TV SIX
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429",ช่อง TVB JADE
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://vhx.imgix.net/tvbusa/assets/e4ef0d62-1a79-45e5-9a5b-adc9b5f0c491-f4dcf7be.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640",ช่อง TVB J1
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="http://chinesetelevision.weebly.com/uploads/2/0/9/5/20955862/9797413.jpg?191",ช่อง TVB J2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-news.jpg",ช่อง TVB NEWS
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png",ช่อง TVB Pearl
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg",ช่อง TVB Finance & Information
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh6epSPGckO8vlnrnaPUJGP5rgN2rv_sWCx4hR48HF5lHdMT3Zpf8xvuLmjf2f-M5WQbY&usqp=CAU",ช่อง RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
@@ -1876,18 +1510,6 @@ https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/62407
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41duBUD0OHL.png",ช่อง Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTq8mKVPpG0ImcGQteT_MQfdA5kMBFGte8iPMwz=s900-c-k-c0x00ffffff-no-rj",ช่อง Cable Hits
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://adma.tmsimg.com/assets/s92041_ll_h9_aa.png?w=360&h=270?w=100",ช่อง Sundance
-https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://reelnewsdaily.com/wp-content/uploads/Syfy-logo-880x660.png",ช่อง SYFY
-http://trn03.tulix.tv/teleup-syfy/playlist.m3u8
-
-#EXTINF:-1 group-title="FOOD" tvg-logo="https://apksos.com/storage/images/co/unreel/tasteit/co.unreel.tasteit_1.png",ช่อง Taste It TV
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
-
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf12DWr6qDElS5TxJ7m-A9MCZC76ljrYD0mO6pUEiToSAa5a7BsEoMYaKMPSIRBzbf07I&usqp=CAU",ช่อง Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
@@ -1987,45 +1609,6 @@ http://178.218.196.218:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31U1vGmUNlL._SY450_.jpg",ช่อง SSV4
 http://178.218.196.218:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://karnei4.github.io/convert/Jasmin_TV_(18).png",ช่อง Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Kaloopy_340x340.png?raw=true",ช่อง Kaloopy
-https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://pbs.twimg.com/profile_images/727414680801710080/suh81uar.jpg",ช่อง Visit-X TV
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIkynkZgob9ucOTfk1Aof8EgZZybw9poGgQnDx_sXEtVW-RZd0z64wsUmYP7vDKrFywY&usqp=CAU",ช่อง Weak
-http://live-1.otcnet.ru/shelkhdmts/index.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-miami-tv-life-3522.jpg",ช่อง Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://s3.spbtv.com/spbtv-world-production/51871e0498c3e562504b.png",ช่อง Jenny Live
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Leo_TV.png",ช่อง Leo TV/Extasy
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/4834/brand.gif?itok=VRtD7rPl",ช่อง Hustler TV
-http://78.83.191.18:8000/play/a078
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 2
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 3
-https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 4
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://i.imgur.com/KmokZz8.jpg",ช่อง AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://i.imgur.com/KmokZz8.jpg",ช่อง AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
-
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Anal
 http://live.redtraffic.xyz/anal.m3u8
 
@@ -2118,63 +1701,3 @@ http://stream.revma.ihrhls.com/zc6410/hls.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/c001b08b-93e3-48d8-9134-acf64369131a",ช่อง iHeart Radio North Pole Radio
 http://stream.revma.ihrhls.com/zc6734/hls.m3u8
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",ช่อง 3BB ASIAN
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://www.wiseknow.com/wp-content/uploads/2016/08/HBO20HD1.png",ช่อง HBO HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x821.png",ช่อง HBO HITS
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png",ช่อง HBO SIGNATURE
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",ช่อง HBO FAMILY
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",ช่อง CINEMAX
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgK9e.png",ช่อง RUSH Stories
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgZjl.png",ช่อง A'lure Channel
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZfdFy.png",ช่อง MONO29 Plus
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgu2b.png",ช่อง MONO29 Music
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZBJGQ.png",ช่อง Cartoon Network
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/301/301.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg",ช่อง BOOMERANG
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZBTvS.png",ช่อง BOOMERANG EN
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/302/302.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png",ช่อง Nickelodeon
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/303/303.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://sv1.picz.in.th/images/2022/03/01/rOmchu.png",ช่อง NICK JR
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",ช่อง BBC lifestyle
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgP8D.jpg",ช่อง LOVENATURE
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://i.imgur.com/PFuZtwD.jpg",ช่อง Global Trekker Channel
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/502/502.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rK9UqI.png",ช่อง 3BB SPORT 1
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png",ช่อง T Sport 7
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
