@@ -222,6 +222,9 @@ http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png",ช่อง Thrill
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/a8/4d/5b/a84d5b80-dfd2-764c-23b1-e85f223ea36f/source/512x512bb.jpg",ช่อง FrightFlix
+https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/VHS_logo.svg/1200px-VHS_logo.svg.png",ช่อง VHS 90s
 https://v2.catcast.tv/content/37925/index.m3u8
 
@@ -237,11 +240,47 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/Redbox-Logo.png",ช่อง Redbox 1: Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60417731dc00887af0275acb/900",ช่อง Fear This
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2/900",ช่อง Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6014757daa89d94e1960b8e0/900",ช่อง HA That s Funny
+https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L.png",ช่อง FilmRise Family
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/RedTV-Srbija-Logo.png",ช่อง Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://gust-production.s3.amazonaws.com/uploads/startup/panoramic_image/935969/logo_20_3_.png",ช่อง Netmax TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/2e25ed9d39cb1d1712f11da7415a75478b7e960598f828f4af7aa87862d955d2.png",ช่อง Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYewa3wmx-jTOeALbwlN8IMm39gc8aIw7gE89V52rg2yV8OqpaVQXROVRa7OxXLwb3_lA&usqp=CAU",ช่อง MyTime movie network Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png",ช่อง Retro Plus 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/9f06d948b513a57e6520db9d4c36771fc37d2ff16d062da7abcbb23d8fb0ac47.png",ช่อง Classic Cinema
+https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://images3.wikia.nocookie.net/__cb20120104013118/logopedia/images/e/e1/Cinema_golden_choice.png",ช่อง Golden TV
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/9999745/300x300.png?type=smartCast_channelTile",ช่อง Wu Tang Collection
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png",ช่อง TVN Movies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5mSXJozSiwv37WY9TQgUQsnYxKLInx4IFwYzMXtiJM8C0Ff9eH0-29-v8vzdeM_7fwA&usqp=CAU",ช่อง Persiana Korea
+http://51.210.199.14/hls/stream.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",ช่อง CCM
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8
@@ -255,8 +294,26 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5ixXBbl5_J6hxXXgGg_nc83AJqYMxJotCMaQKRxlakG7U4nqJW-TAUpte6bgvI_vIVA&usqp=CAU",ช่อง Pluto TV 90120
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wixstatic.com/media/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png/v1/fill/w_1280,h_720,al_c/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png",ช่อง Lone Star
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_original.png",ช่อง Rock Entertainment
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQQVpl3gWcBPD8nN7bq6HMdA92PfRq4DXoVR3DCHQ=s900-c-k-c0x00ffffff-no-rj",ช่อง The Young Turks
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png",ช่อง Ion Plus
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s",ช่อง Loupe
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-10567060028.jpg",ช่อง Highway Thru Hell
+https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/g7GtFpPuo5RelDW0nEZlE0Grk15zGhBh0TKAQoLbJXILrTDi88lbthSmDR4TSdHrDiZf",ช่อง Humor Mill
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
@@ -333,6 +390,24 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9ee
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://pbs.twimg.com/media/EsHAoO_VcAEQCMp.jpg:large",ช่อง Pluto TV BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://image.roku.com/developer_channels/prod/06a434436f35dec7fb0f0eea971d147e2495f9648a96aa6861f3203f47b35f97.png",ช่อง Beach TV CSULB
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/22/d6/43/22d64339-81d2-83e7-a770-bcb43499c4b0/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg",ช่อง Beach TV Florida Alabama
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61bK5WdNTtL.png",ช่อง Beach TV Key West Florida Keys
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/cf/fe/c8/cffec83c-1de2-c84a-3e90-044551b1ef9c/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg",ช่อง Beach TV Myrtle Beach The Grand Strand
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png",ช่อง Beach TV Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://image.roku.com/developer_channels/prod/df63e265e83b1f76727fb087fd2f95c55835cf60e5f2f23641ebd0329e1e1878.png",ช่อง Go Traveler
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024",ช่อง Pluto TV BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -345,11 +420,26 @@ http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/kamenrider/images/3/37/TokuSHOUTsu_logo.png/revision/latest?cb=20200316163643",ช่อง TokuSHOUTsu
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",ช่อง Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://play-lh.googleusercontent.com/FPvFc89mViiygR_N_0d_i-ew9paUQiZLKapiLlwSLrShy8-OSW_9JsljZIQJjNa05A0",ช่อง HappyKids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png",ช่อง PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://1.bp.blogspot.com/-_JwCgiU5rT0/X5MDkcx4p2I/AAAAAAAAARU/5Oakc5yaCbIXQe8GQU7KNJBK-TUS9ptcwCNcBGAsYHQ/w1200-h630-p-k-no-nu/Retro-Cartoon-Logo.jpg",ช่อง Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",ช่อง INWILD
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://149385349.v2.pressablecdn.com/wp-content/uploads/2017/02/logo-no-background2.jpg.png",ช่อง Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/880px-Smithsonian_logo_color.svg.png",ช่อง Smithsoniun
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Select
 http://183.89.246.119:8881/play/a0a7/index.m3u8
