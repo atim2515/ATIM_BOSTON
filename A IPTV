@@ -165,6 +165,10 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/2LK7hpg",ช่อง ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.imgur.com/QaVqmK1.png",ช่อง True Film 2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1.ballnaja.com/live/True_Film_2/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
@@ -772,9 +776,8 @@ https://code.vthanhtivi.pw/getlink/jptv/yc9YiPXQOz6wYWMISJg0qA==/playlist.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/280px-MTV_2021_%28brand_version%29.svg.png",ช่อง MTV Japan
 https://code.vthanhtivi.pw/getlink/jptv/NiX8rRFsK_OA54lDclyKdA==/playlist.m3u8
 
-#EXTINF:-1 group-title="True Visions" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-music-hd.png",ช่อง True Music
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/357_TrueMusic/playlist.m3u8
+#EXTINF:-1 group-title="MV TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_x_rUVn5fCZe3aEAoLymjbKqtJHkzi9ORXv.png",ช่อง MV TV CHANNEL
+https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 
 #EXTINF:-1 group-title="TVS" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-boxing-network.jpg",ช่อง TVS Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
