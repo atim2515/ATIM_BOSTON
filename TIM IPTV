@@ -361,45 +361,6 @@ https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/lhjj94a.png",ช่อง Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2",ช่อง Cheddar News
-https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjY2MjYwMTlf?inline=1",ช่อง Circle
-https://circle-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="360" tvg-logo="https://i.imgur.com/48iMZ7c.png",ช่อง Filmon 360 Experimental
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/oOFjyYf.png",ช่อง Absolute Reality by WE TV
-https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://blog-imgs-74.fc2.com/m/i/l/milyatagarasu/2015030519070309a.jpg",ช่อง Johnny Carson TV
-https://johnnycarson-localnow.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://image.roku.com/developer_channels/prod/3b7841e4bbba7534e129db9d0eba1a9ac173d1899590822b2122080cb405e9c7.png",ช่อง Journy
-http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/79/c0/bc/79c0bce84559aef273dba5f84be508d7.jpg",ช่อง Family Feud
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://image.roku.com/developer_channels/prod/98de6b5d6ae0e4caa4a60be5686d23f56632a857e6315cca0cb7a6387cda51e4.png",ช่อง Fox Soul
-http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgHaARutjfi1PRbVrt0tFZFSGohugviMs4LoyiRC66zcZbb5-oG8AIjW00qQp10IYKvs&usqp=CAU",ช่อง Fun Roads
-http://104.143.4.5:2080/funroads.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjM0MjczNjJf?inline=1",ช่อง AMC Presents
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://freestreamstv.live/upload/source/AMC%20IFC%20Film%20Picks%20Live%20TV%20Channel.png",ช่อง IFC Films Picks
-https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-AmIi7cu6LcYCHCBcfaTBIMMin8aoSKn-gPQtqIAyjDKINVwdBelsq8Duco6W8X-pcI&usqp=CAU",ช่อง Rush by AMC
-https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.mos.cms.futurecdn.net/SZvcCo2vXeadbcPWqXhwPU-320-80.jpg",ช่อง Slightly Off by IFC
-https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg",ช่อง MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 
@@ -427,62 +388,14 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://pbs.twimg.com/profile_images/567474044560089088/CaQ_ZKMP_400x400.png",ช่อง Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
 
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://nournews.ir/Media/Photo/20/05/20051101000291_Org.jpg",ช่อง Al Hurra
-https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://cdn.mitvstatic.com/channels/co_aliento-vision_m.png",ช่อง Aliento Vision
-http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41duBUD0OHL.png",ช่อง Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/d8092d75310746818d6369f214a4d0eae776cea4f7905afd63107ec525692326.png",ช่อง Comet
-http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://i0.wp.com/inforrm.org/wp-content/uploads/2014/07/channelsuks.jpg?ssl=1",ช่อง Channel S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://yt3.ggpht.com/ZtFUqBn9iOr2AB6IdW3E3_Jb223iC0RnSVKeJeerPwpLoMi5Up1RjZRgCVtcsNG-VB2BbyVMBnQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Craft Store TV
-https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
-
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://play-lh.googleusercontent.com/Z-xq4pfx34QaZcUUAxP6ROq_M64GBw8xbBAQ6apcHLkurAzlzCcswH8l9_I6I8wAlik",ช่อง Hala London
 https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.skitv.tv/wp-content/uploads/2020/05/ski-tv-logo-channel.png",ช่อง Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/983044910021476353/CCHRkHh4_400x400.jpg",ช่อง Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.silverstoneshootingcentre.co.uk/wp-content/uploads/2021/02/SportyStuffTV-1920x1080-HD.jpg",ช่อง Sporty Stuff TV
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.coolstreaming.us/img/ch/image41813215893.jpg",ช่อง Eurodance 90 HD
-https://eurodance90.catcast.tv/content/36987/index.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSePJK8qV4m7nJoTq6i1NOIQgLYUwC4RozAWQNCJCYe1iMEeg6LxyrAnv-pokLaqflnBg&usqp=CAU",ช่อง ТНТ Music
-http://83.222.205.65:8080/tntmusic/index.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_WVaqW637L1IU8kIPLshG7l19toWDgQsPVmPlg4wz1OYTUcKtnfEoYrtIsLULamQ8Wek&usqp=CAU",ช่อง Фантастика Sci-Fi
-https://v2.catcast.tv/content/38801/index.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://user.vsevnet.ru/cache/smotreshka/amediahit.png",ช่อง Amedia Hit
 https://sc.id-tv.kz/amedia_hit_hd.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://res.cloudinary.com/climb/image/upload/c_fill,f_auto,h_250,w_250,q_95/v1522155891/zlzaoygwdybvqjb7ywy3",ช่อง Cinema
-https://sc.id-tv.kz/Cinema.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.ytimg.com/vi/ehEJ-66d_ok/maxresdefault.jpg",ช่อง FilmTV Kinder
-https://v2.catcast.tv/content/38144/index.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.coolstreaming.us/img/ch/image75192318112.jpg",ช่อง Metal TV
-https://v2.catcast.tv/content/33816/index.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://yt3.ggpht.com/VxcgccBkQhMXpQTFkSsmn3oyIzCizaOnvMyWVp8hKNUGs-_27yacMuerRC-NHpRGyA7ylhuteQ=s900-c-k-c0x00ffffff-no-rj",ช่อง СССР ТВ
-https://v2.catcast.tv/content/38821/index.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgFuez2GQnOSuff4vZgd4FSEeWkwtPJsf43vdFYUfNzd_kHJeknWWxO8O2ZEz9pn48EA&usqp=CAU",ช่อง Ужастик
-https://v2.catcast.tv/content/38896/index.m3u8
 
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.coolstreaming.us/img/ch/image46300120698.jpg",ช่อง TV BRICS English
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
