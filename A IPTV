@@ -304,6 +304,12 @@ https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://images3.wikia.nocookie.net/__cb20120104013118/logopedia/images/e/e1/Cinema_golden_choice.png",ช่อง Golden TV
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/7c03a1e0e0067bdcab55b42f36cc235f5eee45d9bc7eef8de949508b6f1db808.png",ช่อง Dove Channel
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/92ec3323401554d5033c052f30a23a8166856617963cba869f3897eecd227e46.png",ช่อง Midnight Pulp
+https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/9999745/300x300.png?type=smartCast_channelTile",ช่อง Wu Tang Collection
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
@@ -351,6 +357,12 @@ https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/g7GtFpPuo5RelDW0nEZlE0Grk15zGhBh0TKAQoLbJXILrTDi88lbthSmDR4TSdHrDiZf",ช่อง Humor Mill
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.viacbs.tech/uri/mgid:arc:content:vh1.com:be1d4748-35d0-4dee-bb4a-c3e948b83cbc?quality=0.7",ช่อง Love and Hip Hop
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.viacbs.tech/uri/mgid:arc:content:mtv.com:b917faa2-f534-4144-a4cc-10bcef252768?quality=0.7",ช่อง MTV Are you the One
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
@@ -1184,6 +1196,21 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1",ช่อง 耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_t16nxdKUr2H2LGcNkWBVxjtpzMSdZfdIqBiH=s900-c-k-c0x00ffffff-no-rj",ช่อง 民視第一
+http://seb.sason.top/ptv/ftv.php?id=dy
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/ftv-live.jpg",ช่อง 民視
+http://seb.sason.top/ptv/ftv.php?id=ms
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/ftv-taiwan-live.jpg",ช่อง 民視台灣
+http://seb.sason.top/ptv/ftv.php?id=tw
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png",ช่อง 大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkDJW9Vn7xzK-zL5fCJVvD_QK2KK-JSqSdn6RmtQ=s900-c-k-c0x00ffffff-no-rj",ช่อง 唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
@@ -1229,8 +1256,8 @@ https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTyFnwleqiWXzPjvb1QBrM-paXGN2_1CExQdo1fkQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Youtoo America
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTu7WfYjujaxX9OEcw6xzKvb5ntdoo6BEgoyjEBQtsRJe-3U1-zwjRf4MpgExjAydiSc&usqp=CAU",ช่อง VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.imgur.com/kPo3DFF.png",ช่อง ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/originals/79/c0/bc/79c0bce84559aef273dba5f84be508d7.jpg",ช่อง Family Feud
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
@@ -1249,6 +1276,9 @@ https://circle-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41duBUD0OHL.png",ช่อง Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTu7WfYjujaxX9OEcw6xzKvb5ntdoo6BEgoyjEBQtsRJe-3U1-zwjRf4MpgExjAydiSc&usqp=CAU",ช่อง VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 group-title="MV TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_x_rUVn5fCZe3aEAoLymjbKqtJHkzi9ORXv.png",ช่อง MV TV CHANNEL
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
