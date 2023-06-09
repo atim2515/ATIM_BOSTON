@@ -13,38 +13,8 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a4
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://militaryhomelife.com/wp-content/uploads/2019/09/MILITARYHOMELIFE.png",ช่อง Military Home Life
 https://simultv.s.llnwi.net/n4s4/MilitaryHomeLife/interlink.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images.viacbs.tech/uri/mgid:arc:content:mtv.com:b917faa2-f534-4144-a4cc-10bcef252768?quality=0.7",ช่อง MTV Are you the One
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images.viacbs.tech/uri/mgid:arc:content:vh1.com:be1d4748-35d0-4dee-bb4a-c3e948b83cbc?quality=0.7",ช่อง Love and Hip Hop
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_t16nxdKUr2H2LGcNkWBVxjtpzMSdZfdIqBiH=s900-c-k-c0x00ffffff-no-rj",ช่อง 民視第一
-http://seb.sason.top/ptv/ftv.php?id=dy
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://img.isuper.tv/live-tv/ftv-live.jpg",ช่อง 民視
-http://seb.sason.top/ptv/ftv.php?id=ms
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://img.isuper.tv/live-tv/ftv-taiwan-live.jpg",ช่อง 民視台灣
-http://seb.sason.top/ptv/ftv.php?id=tw
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png",ช่อง 大立電視
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkDJW9Vn7xzK-zL5fCJVvD_QK2KK-JSqSdn6RmtQ=s900-c-k-c0x00ffffff-no-rj",ช่อง 唯心電視
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png",ช่อง STIRR MavTV
 https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-
-#EXTINF:-1 group-title="FAMILY" tvg-logo="https://image.roku.com/developer_channels/prod/7c03a1e0e0067bdcab55b42f36cc235f5eee45d9bc7eef8de949508b6f1db808.png",ช่อง Dove Channel
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/92ec3323401554d5033c052f30a23a8166856617963cba869f3897eecd227e46.png",ช่อง STIRR Midnight Pulp
-https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/kPo3DFF.png",ช่อง ET Live
-https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://i.imgur.com/W4Bx9pG.jpg",ช่อง Glewed TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
