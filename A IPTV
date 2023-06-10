@@ -177,13 +177,21 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.truevisions.info/wp-content/uploads/2016/12/logo_true-film.jpg",ช่อง True Film HD
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmfklstgerter5
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.imgur.com/QaVqmK1.png",ช่อง True Film HD 2
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m1.ballnaja.com/live/True_Film_2/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1.ballnaja.com/live/True_Film_Asia/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1.ballnaja.com/live/TRUE_ASIAN_SERIES_HD/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",ช่อง True Series
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1.ballnaja.com/live/True_Series/chunks.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
@@ -970,15 +978,6 @@ http://code.vthanhtivi.pw/getlink/jptv1/tEg54Q7WKFA66LWT0fB0gw==/playlist.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://cms.with-casa.com/files/bgeditor/img/1/13__NjlfX1luTXhNZy1ELQ-D-.jpg",ช่อง BS 12
 http://code.vthanhtivi.pw/getlink/jptv1/WEtgDOVPkrw08bZvlQM6fA==/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://prtimes.jp/i/29501/1153/resize/d29501-1153-ff0096c1cfaee2d7f6ed-0.jpg",ช่อง BS Yoshimoto
-https://code.vthanhtivi.pw/getlink/jptv/7_NqQ8YhAIHChUndlSRpYQ==/playlist.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.bsjapanext.co.jp/img/ogp.png",ช่อง BSJapanext
-https://code.vthanhtivi.pw/getlink/jptv2/Hj8HzlXSQnqBFMUva4MA4g==/playlist.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.screens-lab.jp/wp-content/uploads/20220121/01fe60c1fc682a9bd51918d6f8ddbde5.jpg",ช่อง BS Shochiku Tokyu
-https://code.vthanhtivi.pw/getlink/jptv3/l6kArOPkx3rCe-BY5PGk5Q==/playlist.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/profile_images/2398721431/cfxbfx67p84h1lsffhg2_400x400.png",ช่อง KBS KYOTO
 http://code.vthanhtivi.pw/getlink/jptv1/hFzosjtNqYtZGMMnkL0T7w==/playlist.m3u8
 
@@ -1048,9 +1047,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",ช่อง AXN Japan
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/ajfvfjzToRaRPAD0O83-MQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",ช่อง AXN Mystery
-https://code.vthanhtivi.pw/getlink/jptv1/ajfvfjzToRaRPAD0O83-MQ==/playlist.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu-HfLSP2mJWFvepfcW_kff_-EgyIUdPAlFFkBhNJA=s900-c-k-c0x00ffffff-no-rj",ช่อง Discovery
 https://code.vthanhtivi.pw/getlink/jptv3/53/playlist.m3u8
 
@@ -1059,9 +1055,6 @@ https://code.vthanhtivi.pw/getlink/jptv3/51/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/812.png",ช่อง History
 http://code.vthanhtivi.pw/getlink/jptv1/I9B-HWhc2NgCmw6X9ahDMg==/playlist.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://prtimes.jp/i/27683/51/resize/d27683-51-325482-5.jpg",ช่อง Animal Planet
-https://code.vthanhtivi.pw/getlink/jptv1/yc9YiPXQOz6wYWMISJg0qA==/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/280px-MTV_2021_%28brand_version%29.svg.png",ช่อง MTV Japan
 https://code.vthanhtivi.pw/getlink/jptv3/50/playlist.m3u8
@@ -1162,9 +1155,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/CNN_j_logo.svg/1200px-CNN_j_logo.svg.png",ช่อง CNN J
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png",ช่อง BBC World News Japan
-https://code.vthanhtivi.pw/getlink/jptv1/CD1WV8e72IOd2RjnuSPgxw==/playlist.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_n03.png",ช่อง Nippon TV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
@@ -1199,7 +1189,7 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.ggpht.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s900-c-k-c0x00ffffff-no-rj",ช่อง TVN
-http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+https://m2.ballnaja.com/live/tvn/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png",ช่อง JIBS SBS
 http://123.140.197.22/stream/1/play.m3u8
