@@ -1284,8 +1284,11 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png",ช่อง RTHK32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/20200330124415%21RTHK_TV_33.svg/revision/latest/scale-to-width-down/260?cb=20200511233636",ช่อง RTHK33
-https://live.astradamy.com/hk33/index.m3u8
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://globaleducationcoalition.unesco.org/uploads/237_Phoenix_Media_Investment_(Holdings)_Ltd._color_logo_KSmixr.jpeg?v=-7nCp7nI8KZfrSFunOVDmhhkBazJdbeLtEho8WjbdSs",ช่อง Phoenix Chinese Channel
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://globaleducationcoalition.unesco.org/uploads/237_Phoenix_Media_Investment_(Holdings)_Ltd._color_logo_KSmixr.jpeg?v=-7nCp7nI8KZfrSFunOVDmhhkBazJdbeLtEho8WjbdSs",ช่อง Phoenix InfoNews Channel
+http://210.210.155.37/qwr9ew/s/s21/index.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg",ช่อง HKSTV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
