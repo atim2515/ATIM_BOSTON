@@ -177,17 +177,26 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",ช่อง True Film HD 1
+https://m1.ballnaja.com/live/True_Film_1/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.imgur.com/QaVqmK1.png",ช่อง True Film HD 2
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m1.ballnaja.com/live/True_Film_2/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Film Asia
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://m1.ballnaja.com/live/True_Film_Asia/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
+https://m1.ballnaja.com/live/True_Movie_Hits/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",ช่อง True Thai Film
+https://m1.ballnaja.com/live/True_Thai_Film/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m1.ballnaja.com/live/TRUE_ASIAN_SERIES_HD/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1.ballnaja.com/live/True_Film_Asia/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",ช่อง True Series
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -293,7 +302,7 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/VHS_logo.svg/1200px-VHS_logo.svg.png",ช่อง VHS 90s
 https://v2.catcast.tv/content/37925/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1629096639_thumb-rock-extreme.png",ช่อง Rock Extreme
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",ช่อง Rock Action
 https://m1.ballnaja.com/live/ROCK_Extreme/chunks.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png",ช่อง Rakuten Family Movies
@@ -1379,6 +1388,110 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTu7WfYjujaxX9OEcw6xzKvb5ntdoo6BEgoyjEBQtsRJe-3U1-zwjRf4MpgExjAydiSc&usqp=CAU",ช่อง VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",ช่อง True Film HD 1
+https://m1.ballnaja.com/live/True_Film_1/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://i.imgur.com/QaVqmK1.png",ช่อง True Film HD 2
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1.ballnaja.com/live/True_Film_2/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
+https://m1.ballnaja.com/live/True_Movie_Hits/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",ช่อง True Thai Film
+https://m1.ballnaja.com/live/True_Thai_Film/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47af6f30-e599-11ed-8fc2-4960205f27d1_webp_original.png",ช่อง True Chinese More
+https://m1.ballnaja.com/live/True_Chinese_More/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/44ac1a40-e599-11ed-a5f6-73c91acfcf27_webp_original.png",ช่อง True Korean More
+https://m1.ballnaja.com/live/True_Korean_More/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Asian More
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1.ballnaja.com/live/TRUE_ASIAN_SERIES_HD/chunks.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1.ballnaja.com/live/True_Film_Asia/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="http://tvsmagazine.com/images/channels/sm_WARNR.jpg",ช่อง Warner TV
+https://m1.ballnaja.com/live/ais_Warner_TV/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://play-lh.googleusercontent.com/T5Y_UhVFJiS4hbxLBcKmx86-BZPFYNKCUFULrXtq4zMtxi9YN3EzRfX98djO-8MndA",ช่อง Paramount Network
+https://m1.ballnaja.com/live/ais_Paramount_Network/chunks.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",ช่อง True Series
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1.ballnaja.com/live/True_Series/chunks.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://yt3.ggpht.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s900-c-k-c0x00ffffff-no-rj",ช่อง TVN
+https://m2.ballnaja.com/live/tvn/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="http://tvsmagazine.com/images/channels/sm_120.jpg",ช่อง AXN
+https://m1.ballnaja.com/live/AXN/chunks.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_original.png",ช่อง Rock Entertainment
+https://m1.ballnaja.com/live/ROCK_ENTERTAINMENT/chunks.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829",ช่อง Rock Action
+https://m1.ballnaja.com/live/ROCK_Extreme/chunks.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="http://tvsmagazine.com/images/channels/sm_LIFT.jpg",ช่อง Lifetime
+https://m2.ballnaja.com/live/Lifetime/chunks.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
+https://m1.ballnaja.com/live/ais_Food_Network/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png",ช่อง Asian Food Network
+https://m1.ballnaja.com/live/ais_Asian_Food_Network/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",ช่อง BBC lifestyle
+https://m1.ballnaja.com/live/ais_BBC_Lifestyle/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png",ช่อง Discovery Channel
+https://m1.ballnaja.com/live/ais_Discovery/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",ช่อง TLC
+https://m2.ballnaja.com/live/TLC/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",ช่อง Animal Planet
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com
+https://m1.ballnaja.com/live/ais_Animal_Planet/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Explore SCI
+https://m1.ballnaja.com/live/True_Explore_Sci/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png",ช่อง True Explore LIFE
+https://m1.ballnaja.com/live/True_Explore_Life/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45fa6c30-e599-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Spark Jump
+https://m1.ballnaja.com/live/True_Spark_Jump/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46065310-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",ช่อง True Spark Play
+https://m1.ballnaja.com/live/True_Spark_Play/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://hwc-statics.ais.th/play/images/channel/ch_logo-nickeldeon.jpg",ช่อง Nickelodeon
+https://m1.ballnaja.com/live/ais_Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png",ช่อง True Premier Football HD1
+https://m1.ballnaja.com/live/True_Premier_Football_1/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png",ช่อง True Premier Football HD2
+https://m1.ballnaja.com/live/True_Premier_Football_2/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png",ช่อง True Premier Football HD3
+https://m1.ballnaja.com/live/True_Premier_Football_3/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png",ช่อง True Premier Football HD4
+https://m1.ballnaja.com/live/True_Premier_Football_4/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png",ช่อง True Premier Football HD5
+https://m1.ballnaja.com/live/True_Premier_Football_5/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Select
+http://183.89.246.119:8881/play/a0a7/index.m3u8
 
 #EXTINF:-1 group-title="MV TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_x_rUVn5fCZe3aEAoLymjbKqtJHkzi9ORXv.png",ช่อง MV TV CHANNEL
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
