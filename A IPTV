@@ -202,6 +202,12 @@ https://m1.ballnaja.com/live/True_Film_Asia/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m1.ballnaja.com/live/True_Series/chunks.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png",ช่อง 3BB Asian
+https://m1.ballnaja.com/live/ais_3BB_Asian/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_mono29plus.png?4",ช่อง MONO29 Plus
+https://m1.ballnaja.com/live/ais_MONO29_Plus/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
@@ -352,12 +358,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5mSXJozSiwv37WY9TQgUQsnYxKLInx4IFwYzMXtiJM8C0Ff9eH0-29-v8vzdeM_7fwA&usqp=CAU",ช่อง Persiana Korea
 http://51.210.199.14/hls/stream.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png",ช่อง Hits Movies
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297640
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",ช่อง HITS
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297639
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",ช่อง K+
 http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297642
@@ -1386,18 +1386,6 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTu7WfYjujaxX9OEcw6xzKvb5ntdoo6BEgoyjEBQtsRJe-3U1-zwjRf4MpgExjAydiSc&usqp=CAU",ช่อง VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.horrorxtra.co.uk/pictures/programs/small/this_is_horrorxtra.jpg",ช่อง Horrorxtra
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=175322
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://pbs.twimg.com/profile_images/1149726013800288256/vxn81YgX_400x400.jpg",ช่อง E! Entertainment HD
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=175295
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-01/HGTV-logo-255x140.png?itok=J0a5XwQr",ช่อง HGTV
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=175321
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png",ช่อง MTV Live
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=175349
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL",ช่อง Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -1477,6 +1465,15 @@ https://m1.ballnaja.com/live/ais_BBC_Lifestyle/playlist.m3u8
 #EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png",ช่อง Discovery Channel
 https://m1.ballnaja.com/live/ais_Discovery/playlist.m3u8
 
+#EXTINF:-1 group-title="True visions" tvg-logo="https://dl.dropbox.com/s/ok5j2fbe9y54b4s/history.png?dl=0",ช่อง History Channel
+https://m1.ballnaja.com/live/History_Channel/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://dl.dropbox.com/s/3xym6jy2h7h0q2j/ng.png?dl=0",ช่อง National Geographic
+https://m1.ballnaja.com/live/National_Geographic/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="http://idooxtream.streaming-fast.com/xtream/LOGO/Am4gVWPHlW2GIiMu9wbAE1YxTgdw35Bunnamed_(1).png",ช่อง NAT GEO Wild
+https://m2.ballnaja.com/live/NATGEOWILD/playlist.m3u8
+
 #EXTINF:-1 group-title="True visions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",ช่อง TLC
 https://m2.ballnaja.com/live/TLC/playlist.m3u8
 
@@ -1484,11 +1481,17 @@ https://m2.ballnaja.com/live/TLC/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
 https://m1.ballnaja.com/live/ais_Animal_Planet/playlist.m3u8
 
+#EXTINF:-1 group-title="True visions" tvg-logo="https://yt3.googleusercontent.com/OgKDGDUI2cp2ImeA99QzoTC87cb8MaBXyU2UeeHS5C0D45ZvZvpYApqfN8LJXY2WViGJqT6dqH4=s900-c-k-c0x00ffffff-no-rj",ช่อง Love Nature
+https://m1.ballnaja.com/live/Love_Nature/playlist.m3u8
+
 #EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Explore SCI
 https://m1.ballnaja.com/live/True_Explore_Sci/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png",ช่อง True Explore LIFE
 https://m1.ballnaja.com/live/True_Explore_Life/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://dl.dropbox.com/s/0amwsrf43o29ebu/cn.png?dl=0",ช่อง Cartoon Network
+https://m1.ballnaja.com/live/ais_Cartoon_Network/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45fa6c30-e599-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Spark Jump
 https://m1.ballnaja.com/live/True_Spark_Jump/playlist.m3u8
@@ -1498,6 +1501,9 @@ https://m1.ballnaja.com/live/True_Spark_Play/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://hwc-statics.ais.th/play/images/channel/ch_logo-nickeldeon.jpg",ช่อง Nickelodeon
 https://m1.ballnaja.com/live/ais_Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://dl.dropbox.com/s/4xl2fa71c1akowv/dreamwork.png?dl=0",ช่อง Dreamworks
+https://m1.ballnaja.com/live/DreamWorks/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png",ช่อง True Premier Football HD1
 https://m1.ballnaja.com/live/True_Premier_Football_1/playlist.m3u8
