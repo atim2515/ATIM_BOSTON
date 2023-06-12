@@ -359,8 +359,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5mSXJozSiwv37WY9TQgUQsnYxKLInx4IFwYzMXtiJM8C0Ff9eH0-29-v8vzdeM_7fwA&usqp=CAU",ช่อง Persiana Korea
 http://51.210.199.14/hls/stream.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",ช่อง K+
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297642
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.cignal.tv/Upload/Images/CinemaWorld-Updated-Logo-2022.jpg",ช่อง CinemaWorld
+https://m2.ballnaja.com/live/CINEMAWORLD/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5ixXBbl5_J6hxXXgGg_nc83AJqYMxJotCMaQKRxlakG7U4nqJW-TAUpte6bgvI_vIVA&usqp=CAU",ช่อง Pluto TV 90120
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -379,9 +379,6 @@ https://m1.ballnaja.com/live/ROCK_ENTERTAINMENT/chunks.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://tvsmagazine.com/images/channels/sm_LIFT.jpg",ช่อง Lifetime
 https://m2.ballnaja.com/live/Lifetime/chunks.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KIX_logo.jpg",ช่อง KIX
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297644
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/lG3OHxA.png",ช่อง AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
@@ -1453,6 +1450,9 @@ https://m1.ballnaja.com/live/ROCK_Extreme/chunks.m3u8
 #EXTINF:-1 group-title="True visions" tvg-logo="http://tvsmagazine.com/images/channels/sm_LIFT.jpg",ช่อง Lifetime
 https://m2.ballnaja.com/live/Lifetime/chunks.m3u8
 
+#EXTINF:-1 group-title="True visions" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-xzyte-hd.jpg",ช่อง True X-ZYTE
+https://m1.ballnaja.com/live/True_X-Zyte/chunks.m3u8
+
 #EXTINF:-1 group-title="True visions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
 https://m1.ballnaja.com/live/ais_Food_Network/playlist.m3u8
 
@@ -1464,6 +1464,9 @@ https://m1.ballnaja.com/live/ais_BBC_Lifestyle/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png",ช่อง Discovery Channel
 https://m1.ballnaja.com/live/ais_Discovery/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0",ช่อง Discovery Asia
+https://m1.ballnaja.com/live/Discovery_Asia/chunks.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://dl.dropbox.com/s/ok5j2fbe9y54b4s/history.png?dl=0",ช่อง History Channel
 https://m1.ballnaja.com/live/History_Channel/playlist.m3u8
