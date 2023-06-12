@@ -235,18 +235,10 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",ช่อง PTV
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2xiNZ.png",ช่อง FW MOV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://www.inwiptv.com/player_demo.php?channel=89782
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2xb9v.png",ช่อง FW SOV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://www.inwiptv.com/player_demo.php?channel=89781
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png",ช่อง HBO HD
 http://live.vthanhtivi.pw/hbo
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.hdpri.me/images/tv/png/th-hbosignature.png",ช่อง HBO SIGNATURE HD
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.pickcinema.com/images/tv/logos/hbosgw.png",ช่อง HBO SIGNATURE HD
 https://m2.ballnaja.com/live/HBOSIG/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/hbo-family-919-523.png",ช่อง HBO Family HD
@@ -304,15 +296,6 @@ https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/71ab9ad5191ecb197dddaf62c5aca47db20cf006bed09c46e17c347e7ba63349.png",ช่อง Spydar TV
 https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1655455157",ช่อง Cinema World
-http://210.210.155.35/session/88c07ef2-a764-11ec-aeac-b82a72d63267/dr9445/h/h04/01.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851",ช่อง ACTION MOVIES
-http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png",ช่อง Thrill
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/VHS_logo.svg/1200px-VHS_logo.svg.png",ช่อง VHS 90s
 https://v2.catcast.tv/content/37925/index.m3u8
 
@@ -367,20 +350,17 @@ https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/9999745/300x300.png?type=smartCast_channelTile",ช่อง Wu Tang Collection
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png",ช่อง TVN Movies
-http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5mSXJozSiwv37WY9TQgUQsnYxKLInx4IFwYzMXtiJM8C0Ff9eH0-29-v8vzdeM_7fwA&usqp=CAU",ช่อง Persiana Korea
 http://51.210.199.14/hls/stream.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",ช่อง CCM
-http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png",ช่อง Hits Movies
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297640
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",ช่อง HITS
-http://210.210.155.35:80/dr9445/h/h37/01.m3u8
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297639
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",ช่อง K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297642
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5ixXBbl5_J6hxXXgGg_nc83AJqYMxJotCMaQKRxlakG7U4nqJW-TAUpte6bgvI_vIVA&usqp=CAU",ช่อง Pluto TV 90120
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -399,6 +379,9 @@ https://m1.ballnaja.com/live/ROCK_ENTERTAINMENT/chunks.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://tvsmagazine.com/images/channels/sm_LIFT.jpg",ช่อง Lifetime
 https://m2.ballnaja.com/live/Lifetime/chunks.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KIX_logo.jpg",ช่อง KIX
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297644
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/lG3OHxA.png",ช่อง AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
@@ -1546,13 +1529,13 @@ https://m1.ballnaja.com/live/True_Tennis/playlist.m3u8
 #EXTINF:-1 group-title="True visions" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/06/NBA-Tv-Logo.png",ช่อง NBA TV
 https://m2.ballnaja.com/live/sling_nba/playlist.m3u8
 
-#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/01d1bd60-a5c0-11ed-8203-8128eb6ee6c9_webp_320.webp",ช่อง Golf Channel Thailand
+#EXTINF:-1 group-title="True visions" tvg-logo="https://i.imgur.com/wVenKVZ.png",ช่อง Golf Channel Thailand HD Plus
 https://m1.ballnaja.com/live/ais_GOLF_CHANNEL/playlist.m3u8
 
-#EXTINF:-1 group-title="True visions" tvg-logo="https://i.imgur.com/p1q77RO.png",ช่อง SPOTV 1
+#EXTINF:-1 group-title="True visions" tvg-logo="https://yt3.googleusercontent.com/W9hb266HaZ5dAiqeZe71KogajsDGwdZyAqN1bEgYrGbugT5RhVgFP0ntpgn5Ye53Lc9UHaLV5Dg=s900-c-k-c0x00ffffff-no-rj",ช่อง SPOTV 1
 https://m1.ballnaja.com/live/SPOTV_1/playlist.m3u8
 
-#EXTINF:-1 group-title="True visions" tvg-logo="https://i.imgur.com/5D0YW20.png",ช่อง SPOTV 2
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.png",ช่อง SPOTV 2
 https://m1.ballnaja.com/live/SPOTV_2/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Select
