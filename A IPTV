@@ -235,8 +235,22 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",ช่อง PTV
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2xiNZ.png",ช่อง FW MOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=89782
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2xb9v.png",ช่อง FW SOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=89781
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png",ช่อง HBO HD
 http://live.vthanhtivi.pw/hbo
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.hdpri.me/images/tv/png/th-hbosignature.png",ช่อง HBO SIGNATURE HD
+https://m2.ballnaja.com/live/HBOSIG/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/hbo-family-919-523.png",ช่อง HBO Family HD
+https://m2.ballnaja.com/live/HBOFAMILY/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png",ช่อง Cinemax HD
 http://live.vthanhtivi.pw/cinemax
@@ -713,6 +727,9 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6333694838.jpg",ช่อง Dallas Cowboy Cheerleaders
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1 group-title="GAMES" tvg-logo="https://yt3.googleusercontent.com/Zeq94Y1JwUcuy07VmE6q3ex9syyXXFPnr4xiq6Fzr0rw34DOfDBv8rfv-Fl_x3Fd1gn9llt3ziM=s900-c-k-c0x00ffffff-no-rj",ช่อง TechStorm
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297677
 
 #EXTINF:-1 group-title="GAMES" tvg-logo="https://play-lh.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=w512",ช่อง Minecraftv
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
@@ -1419,12 +1436,18 @@ https://m1.ballnaja.com/live/True_Film_Asia/playlist.m3u8
 #EXTINF:-1 group-title="True visions" tvg-logo="http://tvsmagazine.com/images/channels/sm_WARNR.jpg",ช่อง Warner TV
 https://m1.ballnaja.com/live/ais_Warner_TV/playlist.m3u8
 
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/2ca1aaa5-c5df-4e67-9c59-d047afabab6f.png",ช่อง KBS World
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="True visions" tvg-logo="https://play-lh.googleusercontent.com/T5Y_UhVFJiS4hbxLBcKmx86-BZPFYNKCUFULrXtq4zMtxi9YN3EzRfX98djO-8MndA",ช่อง Paramount Network
 https://m1.ballnaja.com/live/ais_Paramount_Network/chunks.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",ช่อง True Series
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m1.ballnaja.com/live/True_Series/chunks.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/032a96a0-a5c0-11ed-8dc1-ab0c3700c1c8_webp_original.png",ช่อง CCM
+https://m1.ballnaja.com/live/Celestial_Classic_Movies/chunks.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://yt3.ggpht.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s900-c-k-c0x00ffffff-no-rj",ช่อง TVN
 https://m2.ballnaja.com/live/tvn/playlist.m3u8
@@ -1489,6 +1512,48 @@ https://m1.ballnaja.com/live/True_Premier_Football_4/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-5-1822.png",ช่อง True Premier Football HD5
 https://m1.ballnaja.com/live/True_Premier_Football_5/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/06/01/fe27a580-0032-11ee-a673-39b4d2c4a0b2_webp_320.webp",ช่อง Bein Sports 1
+https://m1.ballnaja.com/live/ais_beIN_SPORTS_1/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/06/01/ff208470-0032-11ee-87ee-bf4bd5ef0bda_webp_320.webp",ช่อง Bein Sports 2
+https://m1.ballnaja.com/live/ais_beIN_SPORTS_2/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/06/01/ff4c0140-0032-11ee-9d8e-fd5a2514fe92_webp_320.webp",ช่อง Bein Sports 3
+https://m1.ballnaja.com/live/ais_beIN_SPORTS_3/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",ช่อง True Sports HD 1
+https://m1.ballnaja.com/live/True_Sports_1/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",ช่อง True Sports HD 2
+https://m1.ballnaja.com/live/True_Sports_2/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",ช่อง True Sports HD 3
+https://m1.ballnaja.com/live/True_Sports_3/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_320.png",ช่อง True Sports HD 4
+https://m1.ballnaja.com/live/True_Sports_4/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",ช่อง True Sports HD 5
+https://m1.ballnaja.com/live/True_Sports_5/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",ช่อง True Sports HD 7
+https://m1.ballnaja.com/live/True_Sports_7/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",ช่อง True TENNIS
+https://m1.ballnaja.com/live/True_Tennis/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/06/NBA-Tv-Logo.png",ช่อง NBA TV
+https://m2.ballnaja.com/live/sling_nba/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/01d1bd60-a5c0-11ed-8203-8128eb6ee6c9_webp_320.webp",ช่อง Golf Channel Thailand
+https://m1.ballnaja.com/live/ais_GOLF_CHANNEL/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://i.imgur.com/p1q77RO.png",ช่อง SPOTV 1
+https://m1.ballnaja.com/live/SPOTV_1/playlist.m3u8
+
+#EXTINF:-1 group-title="True visions" tvg-logo="https://i.imgur.com/5D0YW20.png",ช่อง SPOTV 2
+https://m1.ballnaja.com/live/SPOTV_2/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Select
 http://183.89.246.119:8881/play/a0a7/index.m3u8
