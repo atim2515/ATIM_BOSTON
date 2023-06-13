@@ -208,6 +208,26 @@ https://m1.ballnaja.com/live/ais_3BB_Asian/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_mono29plus.png?4",ช่อง MONO29 Plus
 https://m1.ballnaja.com/live/ais_MONO29_Plus/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC11/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2zbTvlruhZwt9jSGWgCInf_oCdw7W0uAhqdge06Rvb0kCM7LSGj2radVHK1qPb1hCZSg59thvI6icWET99Q9SIyA1MedELjhekn8MU9PL1X-32wIphAnjRvAQSJ08tclzV6TN5uDgDpcipxBU85B7QnzxD_Y5KBzZypwL-HIASinCSzaBkeRasVRquA/s1600/000002.png",ช่อง MOVIES WORLD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC53/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC2/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png",ช่อง 7Flix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC5/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-s.png",ช่อง BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
@@ -368,8 +388,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wixstatic.com/media/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png/v1/fill/w_1280,h_720,al_c/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png",ช่อง Lone Star
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113190222khongdee.png",ช่อง ของดีประเทศไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC31/index.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnwnk3YeyNG1Fs2dM40DJdMuauXorSZuWzT-O9f3Lm3sHR4WNtNZZxV_HGVvIvlu2KZk&usqp=CAU",ช่อง MAYA TV
 http://183.89.246.119:8881/play/a0ad/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/Xing_Kong_2D.png/revision/latest/scale-to-width-down/1902?cb=20220207040228&path-prefix=vi",ช่อง XING KONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC13/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",ช่อง TLC
 https://m2.ballnaja.com/live/TLC/playlist.m3u8
@@ -404,6 +432,10 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf036
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.viacbs.tech/uri/mgid:arc:content:mtv.com:b917faa2-f534-4144-a4cc-10bcef252768?quality=0.7",ช่อง MTV Are you the One
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185932sweet.png",ช่อง Sweet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC58/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
 
@@ -421,6 +453,10 @@ http://183.89.246.119:8881/play/a0a0/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ytimg.com/vi/0Cs_o3daYR8/maxresdefault.jpg",ช่อง K-pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6348447.546c15d0864b1.jpg",ช่อง Channel V Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC14/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_UCCQ06AvEPZ0ogcL8oSw3lNLhFiGqXFh8PwqURaWokdb2bsxAfFBYmtJGUJdrlJYHI&usqp=CAU",ช่อง Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -642,6 +678,10 @@ https://m1.ballnaja.com/live/True_Explore_Life/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Explore SCI
 https://m1.ballnaja.com/live/True_Explore_Sci/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.butterfire.com/wp-content/uploads/MySci.jpg",ช่อง MySci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",ช่อง INWILD
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
@@ -1000,7 +1040,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.wowowplus.co.jp/en/img/wpch_logo_broadcast.jpg",ช่อง WOWOW Plus
-http://code.vthanhtivi.pw/getlink/jptv1/TfcJ9kWH1CIOv9xAI6BrBA==/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptv3/36/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659",ช่อง WOWOW Live
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1027,7 +1067,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTWtgi3q9gvKvamzONVCLyAiDHGFMC9UO2Rhvzk=s900-c-k-c0x00ffffff-no-rj",ช่อง Eisei Gekijo
-http://code.vthanhtivi.pw/getlink/jptv1/FcJRBrNCLHjS9wKtD2rz7g==/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptv3/57/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://ih1.redbubble.net/image.2928837324.5878/st,small,507x507-pad,600x600,f8f8f8.jpg",ช่อง Gaki no Tsukai
 https://hamada.gaki-no-tsukai.eu/hls/test.m3u8
@@ -1099,7 +1139,7 @@ http://code.vthanhtivi.pw/getlink/jptv1/X4_3qVMPUBpZMqO_hX4vBw==/playlist.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png",ช่อง Disney Channel Japan
-http://code.vthanhtivi.pw/getlink/jptv1/iEpvKTL_zcrh2cTR1D8EUA==/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptv3/39/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.ytimg.com/vi/XRxfAW9VsCQ/maxresdefault.jpg",ช่อง Disney Junior Japan
 https://code.vthanhtivi.pw/getlink/jptv3/71/playlist.m3u8
