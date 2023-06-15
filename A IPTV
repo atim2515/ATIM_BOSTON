@@ -689,7 +689,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSR5MAO5_qmfR0KjAEXSYUIPi4Oj_i6R5syg&usqp=CAU",ช่อง สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",ช่อง Animal Planet
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
@@ -703,7 +703,7 @@ https://m1.ballnaja.com/live/True_Explore_Sci/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.butterfire.com/wp-content/uploads/MySci.jpg",ช่อง MySci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/LC37/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",ช่อง INWILD
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
@@ -1433,11 +1433,20 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1",ช่อง 耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_t16nxdKUr2H2LGcNkWBVxjtpzMSdZfdIqBiH=s900-c-k-c0x00ffffff-no-rj",ช่อง 民視第一
-http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg",ช่อง TVBS
+http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",ช่อง TVBS新闻台
+http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png",ช่อง TVBS欢乐台
+http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/ftv-live.jpg",ช่อง 民視
 http://seb.sason.top/ptv/ftv.php?id=ms
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_t16nxdKUr2H2LGcNkWBVxjtpzMSdZfdIqBiH=s900-c-k-c0x00ffffff-no-rj",ช่อง 民視第一
+http://seb.sason.top/ptv/ftv.php?id=dy
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/ftv-taiwan-live.jpg",ช่อง 民視台灣
 http://seb.sason.top/ptv/ftv.php?id=tw
@@ -1486,6 +1495,9 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",ช่อง Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png",ช่อง Animax
+http://iptvmedia.live:8080/F19591/d7d02309/157486
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.ggpht.com/FXLtXovi3kRM30XtAfAMcNNDcoWsFtXrm3h6vzXvaWLPE0jCbj9q2CbHljnKUoJzJdzGGrFtXZs=s900-c-k-c0x00ffffff-no-rj",ช่อง Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
