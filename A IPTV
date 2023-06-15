@@ -1463,8 +1463,26 @@ http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c5/CTV_Classic.png",ช่อง 中视经典
 http://50.7.238.114:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",ช่อง 华视
-http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/TTV_World_3rd_logo.jpg",ช่อง 台视
+http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/fb/PTS_Taiwan.svg/1200px-PTS_Taiwan.svg.png",ช่อง 公視
+http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",ช่อง 中天新闻
+http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/cti-tv-live.jpg",ช่อง 中天综合
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg",ช่อง 中天娱乐
+http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXoyYXZ9AqnKQo8Qe8l4_dAjX0yCxNDZrTHXoIU=s900-c-k-c0x00ffffff-no-rj",ช่อง 中天亚洲台
+http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://i0.wp.com/www.asiadigital.com.tw/wp-content/uploads/20201209100154_52.png?ssl=1",ช่อง 亚洲旅游台
+http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png",ช่อง 大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -1523,11 +1541,14 @@ http://iptvmedia.live:8080/F19591/d7d02309/158347
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png",ช่อง Astro Awani
 http://iptvmedia.live:8080/F19591/d7d02309/157478
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3308bb950dc48a11355c53f0fa70d852.jpg",ช่อง Astro BollyOne
-http://iptvmedia.live:8080/F19591/d7d02309/264513
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fa7dae21ca0a660204573e4d010232ab.png",ช่อง Astro Xiao Tai Yang
+http://iptvmedia.live:8080/F19591/d7d02309/201164
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png",ช่อง Animax
 http://iptvmedia.live:8080/F19591/d7d02309/157486
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/2d7d739d57aa860159c36df8c746c779.png",ช่อง AXN
+http://iptvmedia.live:8080/F19591/d7d02309/157542
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",ช่อง Astro SuperSport
 http://iptvmedia.live:8080/F19591/d7d02309/146068
@@ -1540,9 +1561,6 @@ http://iptvmedia.live:8080/F19591/d7d02309/157557
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",ช่อง Astro SuperSport 4
 http://iptvmedia.live:8080/F19591/d7d02309/157558
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png",ช่อง Astro SuperSport 5
-http://iptvmedia.live:8080/F19591/d7d02309/287792
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png",ช่อง Astro Cricket
 http://iptvmedia.live:8080/F19591/d7d02309/157565
