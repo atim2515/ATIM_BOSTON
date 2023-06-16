@@ -300,6 +300,21 @@ https://m1.ballnaja.com/live/ais_Paramount_Network/chunks.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://tvsmagazine.com/images/channels/sm_120.jpg",ช่อง AXN
 https://m1.ballnaja.com/live/AXN/chunks.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png",ช่อง Hits Movies
+https://m2.ballnaja.com/live/HITS_MOVIES/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810",ช่อง Hits
+https://m2.ballnaja.com/live/HITS/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://quake.com.my/images/2021/PRIMEtime_logo.png",ช่อง PRIMEtime
+https://m2.ballnaja.com/live/PRIMEtime/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg?zxcjM6T35aDLRFv87QxNes6zkM0_Zq5U&itok=6uO5-jRS",ช่อง FX
+https://m2.ballnaja.com/live/sling_fx/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAt9a3FX0u_BIAL6K3hFLQJl2JxzNc7EolF_uvf5Yv5jaG0B_ssgayBPi42B0Msj6XORM&usqp=CAU",ช่อง iQIYI
+https://m2.ballnaja.com/live/iQIYI/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",ช่อง Pluto TV 70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -429,6 +444,9 @@ https://m1.ballnaja.com/live/ROCK_ENTERTAINMENT/chunks.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://tvsmagazine.com/images/channels/sm_LIFT.jpg",ช่อง Lifetime
 https://m2.ballnaja.com/live/Lifetime/chunks.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMVSbH7i6mLqrtvr03CK7ZQ884MiaHedNVVh6syGQ=s900-c-k-c0x00ffffff-no-rj",ช่อง ABC AUSTRALIA
+https://m1.ballnaja.com/live/ABC_Australia/chunks.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/lG3OHxA.png",ช่อง AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
@@ -1337,7 +1355,7 @@ http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F216B893F52240FE01C",ช่อง Gugbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.kctv.co.kr/img/index/top_logo.png",ช่อง KCTV 광주 CH05
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Chosun.svg/revision/latest/scale-to-width-down/1200?cb=20230204021351",ช่อง KCTV 광주 CH05
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.rapidtvnews.com/images/2017/11/mbc_logo_-_14_nov_2017.jpg",ช่อง MBC
@@ -1408,6 +1426,15 @@ http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332",ช่อง TVB J2
 http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716056_497_small.jpg",ช่อง TVB Xing He
+https://m2.ballnaja.com/live/TVB_XING_HE/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/tvb-classic-656x388.jpg",ช่อง TVB Classic
+https://m2.ballnaja.com/live/TVB-CLASSIC/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvbyule.jpg",ช่อง TVB Entertainment News
+https://m2.ballnaja.com/live/TVB_E-NEWS/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-news.jpg",ช่อง TVB NEWS
 https://tvp22.sky4k.top/index1.php
