@@ -346,13 +346,13 @@ https://cdn6.goprimetime.info/feed/202306140918/LC26/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://gvupload.zype.com/53c0457a69702d4d66040000/zobject_image/54c923da69702d070c177700/1422468057/original.png?1422468057",ช่อง Shout! Factory TV
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg",ช่อง American Horrors
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1MmNkNDktOTIwMS00YjkwLWIzNzktN2RiZTE1N2NjNjBiXkEyXkFqcGdeQXVyMTQ1MDgxMjc@._V1_FMjpg_UX1000_.jpg",ช่อง American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.matchpoint.tv/tii2smadyw8kjyjl1sp5stdze3fuoazy32lv7bdwj6ah7z7znje2xboal3ebil28jbqronl3fmi2gd2ufqg03d17hgg28sx10d1y/Screambox_logo_310x150.png",ช่อง Screambox TV
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_HorrifiedTV-1.jpg",ช่อง Horrify
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.ytimg.com/vi/pScjrfFgJ-I/maxresdefault.jpg",ช่อง Horrify
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3/200",ช่อง Horror Machine
@@ -399,6 +399,12 @@ https://live.rednet.rs/providus/redtv_multi.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://gust-production.s3.amazonaws.com/uploads/startup/panoramic_image/935969/logo_20_3_.png",ช่อง Netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBlnDocu2BPslua0x5CRDFR0pASwvlZs2KAZS5hIswyRGZdfcl3aN9vIjHlIkcTJjB6Y&usqp=CAU",ช่อง MovieSphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/0a/Paramount_Movie_Channel.png/revision/latest?cb=20140701231252",ช่อง Paramount Movie Channel
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/2e25ed9d39cb1d1712f11da7415a75478b7e960598f828f4af7aa87862d955d2.png",ช่อง Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
@@ -1685,7 +1691,7 @@ http://104.143.4.5:2080/funroads.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/e1abd2e3ea0aa5fc1d5dcccc160706e65849465b0be9de655551bdf2d2333fdc.png",ช่อง Outdoor America
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png",ช่อง So...Real
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/5bedc1c6710699b5359621db/444ecdb0-7417-46c2-836b-eb50b619c6af/ChannelLogos_SoReal_500x300.jpg",ช่อง So...Real
 https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="http://blog-imgs-74.fc2.com/m/i/l/milyatagarasu/2015030519070309a.jpg",ช่อง Johnny Carson TV
