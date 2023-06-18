@@ -1474,9 +1474,6 @@ https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.ggpht.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s900-c-k-c0x00ffffff-no-rj",ช่อง tvN
 https://m2.ballnaja.com/live/tvn/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1429067373_arirang-logo.jpg",ช่อง Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNDP_Erqb_8llHt18HBgS9wrYcM-diTKpoww1rbCA=s900-c-k-c0x00ffffff-no-rj",ช่อง All The K-POP
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
@@ -1563,6 +1560,9 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.rapidtvnews.com/images/2017/11/mbc_logo_-_14_nov_2017.jpg",ช่อง MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOrGBj2rYp2TWc4E69Fy41wiYq0xCe1P01l5L_Sfg=s900-c-k-c0x00ffffff-no-rj",ช่อง MBC Drama
+http://mytv.dothome.co.kr/ch/catv/26.php
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/QMDDHd1.gif",ช่อง MTN
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
