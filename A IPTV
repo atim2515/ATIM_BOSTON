@@ -9,6 +9,9 @@ http://183.89.246.119:8010/play/a00u/index.m3u8
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",ช่อง 7
 http://183.89.246.119:8010/play/a00f/index.m3u8
 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://static.bugaboo.tv/images/banner/share-bugaboo.jpg",BUGABOO.TV
+https://edge164.bugaboo.tv/liveedgech7_partner/smil:auto.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://f.ptcdn.info/428/057/000/p88xfxv2eU2OHPlO7dF-o.png",ช่อง 9
 http://183.89.246.119:8010/play/a00h/index.m3u8
 
@@ -45,7 +48,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chtrue4u/index.m3u8
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-60714.png",ช่อง CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="http://www.myband.co.th/uploads/20181012/ca61e306ebcd1fa2c4160350d9642e17.jpeg",ช่อง Workpoint TV
@@ -66,8 +69,12 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-SUVAN.png",ช่อง สุวรรณภูมิ
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
- #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/hD3wGq3.png",ช่อง TNN16
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/hD3wGq3.png",ช่อง TNN16
 http://183.89.246.119:8010/play/a00b/index.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.thaicom.io/chbig/big_14_20211217071952.png",ช่อง Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://images.topnews.co.th/2021/04/cropped-topnews-logo.png",ช่อง TOPNEWS
 https://live.topnews.co.th/hls/topnews.m3u8
@@ -1309,6 +1316,9 @@ http://sg.tinchuanchuaanh.com/jptv/get.php?id=Ep1PQsectdEoqb5giVMrdw==
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/1200px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ช่อง YTV
 http://sg.tinchuanchuaanh.com/jptv/get.php?id=hYnuGNMX-sWlu6qDdQe5bg==
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",ช่อง SUN TV
+https://code.vthanhtivi.pw/getlink/jptv3/22/playlist.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png",ช่อง MONDO TV
 http://sg.tinchuanchuaanh.com/jptv/get.php?id=9g6-swdY3TjA9l_YNNpyVw==
 
@@ -1882,8 +1892,29 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.dropbox.com/s/m6h3q73d0lpygph/tvri-id.png?dl=1",ช่อง TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png",ช่อง TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",ช่อง SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",ช่อง ANTV
 http://210.210.155.35:80/session/d88850e6-5484-11ec-9c1c-c81f66f89318/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png",ช่อง Indosiar
+http://210.210.155.37/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png",ช่อง TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://seeklogo.com/images/T/trans-7-logo-E431AA9800-seeklogo.com.png",ช่อง TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/GdCgs7TSfDxuvoqhqCWKFrafCPs=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",ช่อง NET TV
+http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_BBS_TV_2018.png",ช่อง BBS TV HD
 http://103.119.54.246:8080/hls/bbstv.m3u8
@@ -1914,6 +1945,21 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",ช่อง Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg",ช่อง DENS Showbiz
+http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg",ช่อง Dens Life Style
+http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/117.jpg",ช่อง Dens Food Channel
+http://210.210.155.35/x6bnqe/s/s38/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg",ช่อง Dens Play
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg",ช่อง DENS Learning Knowlegde
+http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png",ช่อง Astro Oasis
 http://iptvmedia.live:8080/F19591/d7d02309/157489
