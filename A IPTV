@@ -243,8 +243,8 @@ https://m1.ballnaja.com/live/TRUE_ASIAN_SERIES_HD/chunks.m3u8
 https://m1.ballnaja.com/live/True_Film_Asia/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",ช่อง True Series
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://m1.ballnaja.com/live/True_Series/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/3BBAsian.png",ช่อง 3BB Asian
 https://m1.ballnaja.com/live/ais_3BB_Asian/playlist.m3u8
@@ -1757,6 +1757,10 @@ https://tvp22.sky4k.top/index1.php
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvbanywhere.com/img/logo_tvb_financial_news.png",ช่อง TVB Finance & Information
 https://tvp22.sky4k.top/index2.php
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",ช่อง Lotus TV Macau
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://61.19.242.134/feed/202306140918/LC41/index.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://resource-tfidm-com.tfisys.com/content/img/resource/project_l/Resize_logo1598326216.jpg",ช่อง i-Cable 24-hour News Channel
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
