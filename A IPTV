@@ -121,6 +121,9 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/SAZF1cq.jpg",ช่อง WeatherSpy
 https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNXXAHVqiVmA7Fx_FPASvK_ysJQLVRLIUrJkXhIwA=s900-c-k-c0x00ffffff-no-rj",ช่อง 54 Unity TV
+http://183.89.246.119:8881/play/a0a8/index.m3u8
+
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png",ช่อง ZOOM072.Net
 https://live.zoom072.com/ch5/ch5.m3u8
 
@@ -156,6 +159,12 @@ https://vdo.plathong.net/wowza/flash7253/flash7253/chunklist_w167764757.m3u8
 
 #EXTINF:-1 group-title="AMULET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0MZLi649n-VeTFyT-czq_vJPOq0b5_KlxkMxNEh675TiNHZMvgFEesv0GQ1so54bH0Y&usqp=CAU",ช่อง Brian TV
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="FARM" tvg-logo="https://i.ytimg.com/vi/iTDLwZfiPw4/maxresdefault.jpg",ช่อง Kaset Channel
+http://183.89.246.119:8881/play/a0ae/index.m3u8
+
+#EXTINF:-1 group-title="POLICE" tvg-logo="https://i.scdn.co/image/09f811f9e56cf43d4ffd209ba9917f677b43d038",ช่อง Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
 #EXTINF:-1 group-title="LEARNING" tvg-logo="https://bit.ly/3nJtvVE",ช่อง DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
@@ -885,6 +894,9 @@ http://183.89.246.119:8881/play/a0a7/index.m3u8
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://yt3.googleusercontent.com/Z7Vhm1zSsXjyVHVqiG-3y4jD951d_vYEmVOvwiIodiuUhFvW7b36FiECSqa1yACvkAXGABdikGM=s900-c-k-c0x00ffffff-no-rj",ช่อง GMM O Shopping
 http://183.89.246.119:8881/play/a0a5/index.m3u8
 
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://res.9appsinstall.com/group1/M02/E5/28/qoYBAFiUe6uAIBS-AAApWoiekjk825.png?x-oss-process=style/mq200",ช่อง TVD Momo 5
+http://183.89.246.119:8881/play/a0a9/index.m3u8
+
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobqdb6IPI0TKlLSCqu_G6tP-T3jmFUKzP64TXJRlWYSsueVATffgiruKIznxi_lIUYEI&usqp=CAU",ช่อง ISTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 
@@ -1575,7 +1587,7 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.ggpht.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s900-c-k-c0x00ffffff-no-rj",ช่อง tvN
-https://m2.ballnaja.com/live/tvn/playlist.m3u8
+http://210.210.155.37/dr9445/h/h20/index.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",ช่อง Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -1710,7 +1722,7 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18032752/HOY-TV_OG.png",ช่อง HOY TV
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
+https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
@@ -1739,20 +1751,14 @@ http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332",ช่อง TVB J2
 http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e46bebd0-fb8a-11ed-82d8-75b5e95c0f8a_webp_original.png",ช่อง TVB Xing He
-https://m2.ballnaja.com/live/TVB_XING_HE/playlist.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/tvb-classic-656x388.jpg",ช่อง TVB Classic
-https://m2.ballnaja.com/live/TVB-CLASSIC/playlist.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvbyule.jpg",ช่อง TVB Entertainment News
-https://m2.ballnaja.com/live/TVB_E-NEWS/playlist.m3u8
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-news.jpg",ช่อง TVB NEWS
 https://tvp22.sky4k.top/index1.php
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvbanywhere.com/img/logo_tvb_financial_news.png",ช่อง TVB Finance & Information
 https://tvp22.sky4k.top/index2.php
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://resource-tfidm-com.tfisys.com/content/img/resource/project_l/Resize_logo1598326216.jpg",ช่อง i-Cable 24-hour News Channel
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh6epSPGckO8vlnrnaPUJGP5rgN2rv_sWCx4hR48HF5lHdMT3Zpf8xvuLmjf2f-M5WQbY&usqp=CAU",ช่อง RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
