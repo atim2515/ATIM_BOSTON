@@ -9,7 +9,7 @@ http://183.89.246.119:8010/play/a00u/index.m3u8
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",ช่อง 7
 http://183.89.246.119:8010/play/a00f/index.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://static.bugaboo.tv/images/banner/share-bugaboo.jpg",BUGABOO.TV
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://static.bugaboo.tv/images/banner/share-bugaboo.jpg",ช่อง BUGABOO.TV
 https://live-cdn-hwc.bugaboo.tv/live_line1/alive_1080p.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://f.ptcdn.info/428/057/000/p88xfxv2eU2OHPlO7dF-o.png",ช่อง 9
@@ -2088,8 +2088,7 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",ช่อง True Film HD 1
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
+https://m1.ballnaja.com/live/True_Film_1/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://i.imgur.com/QaVqmK1.png",ช่อง True Film HD 2
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -2560,6 +2559,21 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21354
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.i-pic.info/i/HaDV318782.png",ช่อง แก้วสาริกา radio
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21364
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.i-pic.info/i/04mW318780.png",ช่อง FM 101.25 อสมท. เชียงราย
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21374
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.i-pic.info/i/qIhE318784.png",ช่อง FM 96.5 คลื่นความคิด
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21384
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.i-pic.info/i/3WqM318785.png",ช่อง FM 97.5 Mellow
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21394
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.i-pic.info/i/BRoW318787.png",ช่อง FM 99 Active Radio
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v213a4
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.i-pic.info/i/T5cB318798.png",ช่อง FM 100.5 News Network
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v213b4
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8",ช่อง iHeart Radio Christmas
 http://stream.revma.ihrhls.com/zc4596/hls.m3u8
