@@ -220,11 +220,6 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",ช่อง True Film HD 1
-#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmfklstgerter5
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
@@ -2027,6 +2022,21 @@ http://iptvmedia.live:8080/F19591/d7d02309/157565
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png",ช่อง Astro Arena
 http://iptvmedia.live:8080/F19591/d7d02309/157485
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1200px-CNN_Philippines_Logo.svg.png",ช่อง CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://pbs.twimg.com/profile_images/378800000578623391/e61e485505645b07f16d1dbd317a96a4_400x400.jpeg",ช่อง TBN Asia
+http://210.210.155.35/qwr9ew/s/s39/index2.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://i.imgur.com/l2JSQme.png",ช่อง SMNI
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFqqE1l0xKBgfXi41mNuWdohqKVdErVjQUaf2GpqIRYgUQz-yPNhxFA97WUJxnYUgpNvc&usqp=CAU",ช่อง GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png",ช่อง CCTN
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://pbs.twimg.com/profile_images/567474044560089088/CaQ_ZKMP_400x400.png",ช่อง Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
