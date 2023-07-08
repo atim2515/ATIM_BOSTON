@@ -1226,6 +1226,9 @@ http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png",ช่อง Discovery Asia
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png",ช่อง DMAX
+http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png",ช่อง History HD
 http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
 
@@ -1237,9 +1240,6 @@ http://live.vthanhtivi.pw/ngw
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png",ช่อง AXN HD
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png",ช่อง DMAX
-http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png",ช่อง CinemaWorld
 http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
