@@ -2335,6 +2335,10 @@ https://m1.ballnaja.com/live/SPOTV_2/playlist.m3u8
 #EXTINF:-1 group-title="True visions" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Select
 http://183.89.246.119:8881/play/a0a7/index.m3u8
 
+#EXTINF:-1 group-title="Good TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRemzYuJ06PSCSz9-_DANd1vEH7JSfaHvrQ&usqp=CAU",ช่อง บุษบาคาเฟ่
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDM6Mzc6NTIgUE0maGFzaF92YWx1ZT0vMlFkRXZKTjd2a1hVTSs3VXorVWFRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTc3ODg=
+
 #EXTINF:-1 group-title="MV TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_x_rUVn5fCZe3aEAoLymjbKqtJHkzi9ORXv.png",ช่อง MV TV CHANNEL
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 
