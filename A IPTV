@@ -237,6 +237,15 @@ https://dl.dropboxusercontent.com/s/p8mj3isru15sai4/hbof.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png",ช่อง Cinemax HD
 http://live.vthanhtivi.pw/cinemax/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_original.png",ช่อง Rock Entertainment
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png",ช่อง Rock Action
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://movies.hitstv.com/assets/hits-tv-logo.png",ช่อง HITS
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
@@ -677,6 +686,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2290-540x304-FFFFFF.jpg",ช่อง Cut Up N Cook
 https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8
 
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://www.chefchampion.com/resources/Ace%20Champion.png",ช่อง Chef Champion
+https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://www.glewed.tv/wp-content/uploads/2021/03/TheChefRocShowPoster-300x450.jpg",ช่อง Chef Roc Show
+https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3SiRr8fU5uDfNu-rGR8uC4NH81cw6fBrZlg&usqp=CAU",ช่อง HUNGRY
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
+
 #EXTINF:-1 group-title="FOOD" tvg-logo="http://www.glewed.tv/wp-content/uploads/2020/03/MadDogMerrillMidwestGrillnHero.jpg",ช่อง Mad Dog and Merrill
 https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8
 
@@ -726,6 +744,9 @@ https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",ช่อง Discovery Turbo
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://dl.dropbox.com/s/d55ewtydhd2sabh/animalplanet.png?dl=0",ช่อง Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",ช่อง INWILD
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
