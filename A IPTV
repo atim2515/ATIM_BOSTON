@@ -221,14 +221,10 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png",ช่อง HBO
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://2nud.short.gy/hboth.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png",ช่อง HBO Signature
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://2nud.short.gy/hbosignatureth.m3u8
+https://dl.dropboxusercontent.com/s/a4i3fybo1u05aiw/hbosignaturg.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png",ช่อง HBO Hits
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -239,8 +235,6 @@ https://2nud.short.gy/hbohits.m3u8
 https://dl.dropboxusercontent.com/s/p8mj3isru15sai4/hbof.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/sDdp34sc/cinemax.png",ช่อง Cinemax
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 https://2nud.short.gy/cinemaxaisplay.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
@@ -732,6 +726,9 @@ https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.butterfire.com/wp-content/uploads/MySci.jpg",ช่อง MySci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC37/index.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/uEL1TDm.png",ช่อง Discovery Channels
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",ช่อง INWILD
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
