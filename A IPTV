@@ -221,7 +221,14 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png",ช่อง HBO
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://2nud.short.gy/hboth.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png",ช่อง HBO
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
+https://2nud.short.gy/cinemaxaisplay.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png",ช่อง HBO Signature
 https://dl.dropboxusercontent.com/s/a4i3fybo1u05aiw/hbosignaturg.m3u8
@@ -235,7 +242,7 @@ https://2nud.short.gy/hbohits.m3u8
 https://dl.dropboxusercontent.com/s/p8mj3isru15sai4/hbof.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/sDdp34sc/cinemax.png",ช่อง Cinemax
-https://2nud.short.gy/cinemaxaisplay.m3u8
+https://res.host.iptvfreemium.com/gdp/ffstream/cinemax.txt?|origin=https://gdplayer.tv/
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
