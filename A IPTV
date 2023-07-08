@@ -220,6 +220,29 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png",ช่อง HBO
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://2nud.short.gy/hboth.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png",ช่อง HBO Signature
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://2nud.short.gy/hbosignatureth.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png",ช่อง HBO Hits
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://2nud.short.gy/hbohits.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",HBO Family
+https://dl.dropboxusercontent.com/s/p8mj3isru15sai4/hbof.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.postimg.cc/sDdp34sc/cinemax.png",ช่อง Cinemax
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
+https://2nud.short.gy/cinemaxaisplay.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
@@ -247,7 +270,7 @@ https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWjQ-5nl_D6X1OgtYzuA_pU9xVVCDV0ivSQ&usqp=CAU",ช่อง NK TV
-http://sv1.afdc.live:9898/stream/nktv.stream/playlist.m3u8
+http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png",ช่อง @แอททีวี
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
