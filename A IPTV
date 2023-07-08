@@ -2335,10 +2335,17 @@ https://m1.ballnaja.com/live/SPOTV_2/playlist.m3u8
 #EXTINF:-1 group-title="True visions" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Select
 http://183.89.246.119:8881/play/a0a7/index.m3u8
 
-#EXTINF:-1 group-title="Good TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRemzYuJ06PSCSz9-_DANd1vEH7JSfaHvrQ&usqp=CAU",ช่อง l
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/367_Super_bunteung/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIzIDU6MjU6NDEgQU0maGFzaF92YWx1ZT1VQ29nMEZGaWgzdUszcklGOUhkT21BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ1MDc=
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png",ช่อง MONO29 Music Station
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0193/HLS/V0193.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/AlureChannel.png",ช่อง A'lure Channel
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0194/HLS/V0194.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//RushStories_new.png",ช่อง RUSH Stories
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds//HLS/V0195.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
 
 #EXTINF:-1 group-title="MV TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_x_rUVn5fCZe3aEAoLymjbKqtJHkzi9ORXv.png",ช่อง MV TV CHANNEL
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
