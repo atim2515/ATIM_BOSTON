@@ -90,11 +90,8 @@ https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://s.isanook.com/ns/0/ud/331/1656429/fah.jpg?ip/crop/w670h402/q80/jpg",ช่อง ฟ้าวันใหม่
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://yt3.googleusercontent.com/oB-wyEZX0pXoCYN3UrNmbI9LA6BFjgHj3AJkzrVQpXF2Jf8KPV8q4TXy3FXz8sEjHV2KzNKoF9w=s900-c-k-c0x00ffffff-no-rj",ช่อง ไทยไท แชนเนล
 https://live.x2.co.th/live/thai_sdgni0kx2v7zcr3f.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",ช่อง SIAM NEWS
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/VTVNews.png",ช่อง VTVNews
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -321,6 +318,9 @@ http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/MediaTV.png",ช่อง MEDIA TV
 http://183.89.246.119:8881/play/a0af/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",ช่อง SIAM NEWS
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png",ช่อง มวลชน ทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
@@ -2589,6 +2589,9 @@ https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 group-title="30A.TV" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/0d79413ec69399572cbe",ช่อง 30A The Beach Show
 https://30a-tv.com/beachy.m3u8
 
+#EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png",ช่อง Discovery Channel
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
 #EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg",ช่อง Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
@@ -2624,6 +2627,33 @@ https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
 #EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://images.slivcdn.com/videoasset_images/sethd_23oct_portrait_thumb_rev.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_sabhd_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_marathi_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY Marathi HD
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+
+#EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_bbchd_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://pbs.twimg.com/profile_images/497440939388858368/73qSmbwD_400x400.png",ช่อง SONY PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
+#EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_aath_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY Aath
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+
+#EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_maxhd_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_wah_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY WAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_max2_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+#EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_pixhd_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 group-title="360" tvg-logo="https://i.imgur.com/48iMZ7c.png",ช่อง Filmon 360 Experimental
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
