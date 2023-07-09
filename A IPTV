@@ -90,6 +90,12 @@ https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
 
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://s.isanook.com/ns/0/ud/331/1656429/fah.jpg?ip/crop/w670h402/q80/jpg",ช่อง ฟ้าวันใหม่
+https://live.x2.co.th/live/thai_sdgni0kx2v7zcr3f.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",ช่อง SIAM NEWS
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/VTVNews.png",ช่อง VTVNews
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -242,9 +248,6 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",ช่อง True Film HD 1
-https://www.inwiptv.com/player_demo.php?channel=89781
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png",ช่อง HBO HD
 http://live.vthanhtivi.pw/hbo/index.m3u8
@@ -694,6 +697,9 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://i.imgur.com/SAfy1us.png",ช่อง STIRR City
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024",ช่อง Pluto TV BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -737,9 +743,6 @@ https://webudit.cdnhks.lol/lb/premium314/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images.useetv.com/logo_boomerang_small.png",ช่อง Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/Dreamworks-919-523-new.png",ช่อง DreamWorks
-http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115439&extension=m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",ช่อง Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
@@ -787,6 +790,9 @@ https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://dl.dropbox.com/s/d55ewtydhd2sabh/animalplanet.png?dl=0",ช่อง Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",ช่อง LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",ช่อง INWILD
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
@@ -2239,7 +2245,7 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",ช่อง True Film HD 1
-http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115414&extension=ts&play_token
+https://m1.ballnaja.com/live/True_Film_2/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://i.imgur.com/QaVqmK1.png",ช่อง True Film HD 2
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -2352,7 +2358,7 @@ https://m1.ballnaja.com/live/True_Spark_Play/playlist.m3u8
 https://m1.ballnaja.com/live/ais_Nickelodeon/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://dl.dropbox.com/s/4xl2fa71c1akowv/dreamwork.png?dl=0",ช่อง Dreamworks
-http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115439&extension=m3u8
+https://m1.ballnaja.com/live/ais_Nickelodeon/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png",ช่อง True Premier Football HD1
 https://m1.ballnaja.com/live/True_Premier_Football_1/playlist.m3u8
