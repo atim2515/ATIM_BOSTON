@@ -240,6 +240,9 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",ช่อง True Film HD 1
+http://kungtv.net/play/live.php?mac=10:27:BE:0d:96:28&stream=115414&extension=ts&play_token
+
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png",ช่อง HBO HD
 http://live.vthanhtivi.pw/hbo/index.m3u8
 
@@ -2346,7 +2349,7 @@ https://m1.ballnaja.com/live/True_Spark_Play/playlist.m3u8
 https://m1.ballnaja.com/live/ais_Nickelodeon/playlist.m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://dl.dropbox.com/s/4xl2fa71c1akowv/dreamwork.png?dl=0",ช่อง Dreamworks
-https://m1.ballnaja.com/live/DreamWorks/playlist.m3u8
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115439&extension=m3u8
 
 #EXTINF:-1 group-title="True visions" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png",ช่อง True Premier Football HD1
 https://m1.ballnaja.com/live/True_Premier_Football_1/playlist.m3u8
