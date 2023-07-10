@@ -1872,6 +1872,9 @@ http://107.167.12.58:27347/livehttpplay?channel_id=30026
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332",ช่อง TVB J2
 http://107.167.12.58:27347/livehttpplay?channel_id=30030
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716056_497_small.jpg",ช่อง TVB Xing He
+http://103.112.191.9:880/LAOSAT1092.m3u8
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-news.jpg",ช่อง TVB NEWS
 http://107.167.12.58:27347/livehttpplay?channel_id=30024
 
@@ -2004,6 +2007,12 @@ http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&c
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png",ช่อง 星卫HD电影
 http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png",ช่อง 卫视电影台
+http://103.112.191.9:880/LAOSAT1085.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo@2x.png",ช่อง 龙翔电影台
+http://103.112.191.9:880/LAOSAT1084.m3u8
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.asiadigital.com.tw/wp-content/uploads/20200529162202_99.jpg",ช่อง 美食星球
 http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
@@ -2330,6 +2339,42 @@ http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/6486/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png",ช่อง NBC
 http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/1081/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://ww1.freelogovectors.net/wp-content/uploads/2020/03/nesn-logo.png",ช่อง NESN
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/11109/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg",ช่อง NHK World TV
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/729/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",ช่อง NatGeo
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/6485/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://logowik.com/content/uploads/images/nat-geo-wild7342.logowik.com.webp",ช่อง NatGeo Wild
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/133/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Nickelodeon_1992_%28Splat%29.svg/revision/latest/scale-to-width-down/250?cb=20210722200219",ช่อง Nickelodeon
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/6504/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://ugandamarathon.com/wp-content/uploads/2017/12/Red-Bull-TV-logo.png",ช่อง Red Bull TV
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/16040/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Showcase_Logo_2015.png",ช่อง Showcase
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/6449/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Slice_logo_%282017%29.svg/1200px-Slice_logo_%282017%29.svg.png",ช่อง Slice
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/6451/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQrkXrRabH0ToYzBpltxMPL1tFaI8GKUPpftilqwA=s900-c-k-c0x00ffffff-no-rj",ช่อง TCTV2
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/6437/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png",ช่อง TLC
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/6446/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/teletoon-logo-png-transparent.png",ช่อง Teletoon
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/6455/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Treehousetv.svg/1280px-Treehousetv.svg.png",ช่อง Treehouse
+http://oe3lnmge.rostelekom.xyz/iptv/PZH354CCHCPXA9/6471/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.ggpht.com/FXLtXovi3kRM30XtAfAMcNNDcoWsFtXrm3h6vzXvaWLPE0jCbj9q2CbHljnKUoJzJdzGGrFtXZs=s900-c-k-c0x00ffffff-no-rj",ช่อง Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
