@@ -1828,7 +1828,7 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18032752/HOY-TV_OG.png",ช่อง HOY TV
-https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+http://51.89.21.73:27347/livehttpplay?channel_id=20152
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
@@ -1849,44 +1849,44 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.viu.tv/viutv_logo.png",ช่อง VIU TV
-http://50.7.238.114:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+http://107.167.12.58:27347/livehttpplay?channel_id=30032
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg",ช่อง VIU TV SIX
-http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+http://107.167.12.58:27347/livehttpplay?channel_id=30033
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/jade.jpg",ช่อง TVB Jade
 http://107.167.12.58:27347/livehttpplay?channel_id=20127
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.chillglobal.com/images/channels/tvb-pearl-1432635567.jpg",ช่อง TVB Pearl
+http://107.167.12.58:27347/livehttpplay?channel_id=30026
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332",ช่อง TVB J2
-http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+http://107.167.12.58:27347/livehttpplay?channel_id=30030
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-news.jpg",ช่อง TVB NEWS
-https://tvp22.sky4k.top/index1.php
+http://107.167.12.58:27347/livehttpplay?channel_id=30024
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvbanywhere.com/img/logo_tvb_financial_news.png",ช่อง TVB Finance & Information
-https://tvp22.sky4k.top/index2.php
+http://107.167.12.58:27347/livehttpplay?channel_id=30019
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",ช่อง Lotus TV Macau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://61.19.242.134/feed/202306140918/LC41/index.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://resource-tfidm-com.tfisys.com/content/img/resource/project_l/Resize_logo1598326216.jpg",ช่อง i-Cable 24-hour News Channel
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://breadradioonline.com/images/tv-01.jpg",ช่อง 面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh6epSPGckO8vlnrnaPUJGP5rgN2rv_sWCx4hR48HF5lHdMT3Zpf8xvuLmjf2f-M5WQbY&usqp=CAU",ช่อง RTHK31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+http://107.167.12.58:27347/livehttpplay?channel_id=30066
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png",ช่อง RTHK32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+http://107.167.12.58:27347/livehttpplay?channel_id=30067
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://globaleducationcoalition.unesco.org/uploads/237_Phoenix_Media_Investment_(Holdings)_Ltd._color_logo_KSmixr.jpeg?v=-7nCp7nI8KZfrSFunOVDmhhkBazJdbeLtEho8WjbdSs",ช่อง Phoenix Chinese Channel
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
+http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://globaleducationcoalition.unesco.org/uploads/237_Phoenix_Media_Investment_(Holdings)_Ltd._color_logo_KSmixr.jpeg?v=-7nCp7nI8KZfrSFunOVDmhhkBazJdbeLtEho8WjbdSs",ช่อง Phoenix InfoNews Channel
-http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+http://210.210.155.37/qwr9ew/s/s21/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg",ช่อง HKSTV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
