@@ -2695,18 +2695,6 @@ http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=17304&extension=ts
 #EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง Cooking Channel
 http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=11639&extension=ts
 
-#EXTINF:-1 group-title="vdo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง ALL TIME BEST 4K
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705121
-
-#EXTINF:-1 group-title="vdo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง ALL TIME BEST 1
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705120
-
-#EXTINF:-1 group-title="vdo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง ALL TIME BEST 2
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705119
-
-#EXTINF:-1 group-title="vdo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง BOX OFFICE 2022 4K
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705117
-
 #EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 状王宋世杰-第二部-张达明大战黄子华
 http://159.75.85.63:35455/huya/23734183
 
@@ -3084,6 +3072,18 @@ http://live.redtraffic.xyz/livecams.m3u8
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Woman
 http://live.redtraffic.net/woman.m3u8
+
+#EXTINF:-1 group-title="vdo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง ALL TIME BEST 4K
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705121
+
+#EXTINF:-1 group-title="vdo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง ALL TIME BEST 1
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705120
+
+#EXTINF:-1 group-title="vdo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง ALL TIME BEST 2
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705119
+
+#EXTINF:-1 group-title="vdo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง BOX OFFICE 2022 4K
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705117
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.i-pic.info/i/vaiY318717.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
