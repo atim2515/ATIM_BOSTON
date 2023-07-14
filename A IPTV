@@ -2050,9 +2050,56 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkDJW9Vn7xzK-zL5fCJVvD_QK2KK-JSqSdn6RmtQ=s900-c-k-c0x00ffffff-no-rj",ช่อง 唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",ช่อง CCTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC33/index.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",ช่อง CCTV-1
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",ช่อง CCTV-2
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/3/34/CCTV-3_Logo.png",ช่อง CCTV-3
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",ช่อง CCTV-4
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CCTV5.png/revision/latest/scale-to-width-down/1547?cb=20230104110327&path-prefix=vi",ช่อง CCTV-5
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://cdn.startimestv.com/static/files/console/127f663c-3a8d-4644-8b73-03bc2a55a9a6.png?l=320",ช่อง CCTV-5+
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",ช่อง CCTV-6
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2b/CCTV7.png/revision/latest/scale-to-width-down/1200?cb=20230104111955&path-prefix=vi",ช่อง CCTV-7
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",ช่อง CCTV-8
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg",ช่อง CCTV-9
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg",ช่อง CCTV-10
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",ช่อง CCTV-11
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv12.jpg",ช่อง CCTV-12
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg",ช่อง CCTV-13
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",ช่อง CCTV-14
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg",ช่อง CCTV-16
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg",ช่อง CCTV-17
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.coolstreaming.us/img/ch/image46300120698.jpg",ช่อง TV BRICS English
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
@@ -2745,6 +2792,63 @@ http://159.75.85.63:35455/huya/23903183
 
 #EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 扫黄先锋·欧阳震华
 http://159.75.85.63:35455/huya/23903196
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 虎牙八点档
+http://159.75.85.63:35455/huya/880261
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 五福星系列
+http://159.75.85.63:35455/huya/11282233
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง [女神系列]邱淑贞 王祖贤 张曼玉
+http://159.75.85.63:35455/huya/11336571
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 周星星粤语经典版
+http://159.75.85.63:35455/huya/11336587
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 成龙
+http://159.75.85.63:35455/huya/11342386
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 周润发
+http://159.75.85.63:35455/huya/11342387
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 李连杰
+http://159.75.85.63:35455/huya/11342390
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 太极的传承
+http://159.75.85.63:35455/huya/11342397
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 周星驰
+http://159.75.85.63:35455/huya/11342412
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 林正英
+http://159.75.85.63:35455/huya/11342421
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 刘德华
+http://159.75.85.63:35455/huya/11342424
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 黄渤-经典回顾
+http://159.75.85.63:35455/huya/11342429
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 甄子丹
+http://159.75.85.63:35455/huya/11352935
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 港产搞笑恐怖
+http://159.75.85.63:35455/huya/11601960
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 沈腾合集
+http://159.75.85.63:35455/huya/11601968
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 历年贺岁档
+http://159.75.85.63:35455/huya/11601986
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 电吉他少女在线翻弹
+http://159.75.85.63:35455/huya/21241765
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 街访Show-西哥来了
+http://159.75.85.63:35455/huya/10849208
+
+#EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 徐良除暴安良替天行道
+http://159.75.85.63:35455/huya/10871113
 
 #EXTINF:-1 group-title="Varun-Iptv" tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png",ช่อง Discovery Channel
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
