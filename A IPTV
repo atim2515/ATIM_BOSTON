@@ -1863,6 +1863,9 @@ http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18032752/HOY-TV_OG.png",ช่อง HOY TV
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/HOY_info_ident_2022.png",ช่อง HOY TV資訊台
+https://ktpremium.com:443/K3939/6757/492403
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 
@@ -1908,9 +1911,60 @@ http://107.167.12.58:27347/livehttpplay?channel_id=30019
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://quake.com.my/images/2021/channels/tvb-magic.jpg",ช่อง TVB Magic
 https://ktpremium.com:443/K3939/6757/924367
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/myTVsuper_app_E.jpg",ช่อง TVB 粤语片台
+https://ktpremium.com:443/K3939/6757/910948
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/myTVsuper_app_E.jpg",ช่อง TVB 华语剧台
+https://ktpremium.com:443/K3939/6757/910935
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/myTVsuper_app_E.jpg",ช่อง TVB 黃金翡翠台
+https://ktpremium.com:443/K3939/6757/910952
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://yt3.googleusercontent.com/lzngmo_oYZkZuezKMVzVFXVtgKBsyKOTd7fLVYpX3dpi5OCAkomI2xaxRFckq12wzdyEGfa2qg=s900-c-k-c0x00ffffff-no-rj",ช่อง HandsUp
+https://ktpremium.com:443/K3939/6757/910938
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",ช่อง Lotus TV Macau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://61.19.242.134/feed/202306140918/LC41/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/55/Now_tv_logo.png",ช่อง Now 剧集台
+https://ktpremium.com:443/K3939/6757/910944
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/55/Now_tv_logo.png",ช่อง Now 新闻
+https://ktpremium.com:443/K3939/6757/910940
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/55/Now_tv_logo.png",ช่อง Now 星影台
+https://ktpremium.com:443/K3939/6757/910943
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/55/Now_tv_logo.png",ช่อง Now 爆谷台
+https://ktpremium.com:443/K3939/6757/921824
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/55/Now_tv_logo.png",ช่อง Now 英超
+https://ktpremium.com:443/K3939/6757/910962
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch630_300_216",ช่อง Now Sports Prime 630
+https://ktpremium.com:443/K3939/6757/375440
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch630_300_216",ช่อง Now Sports 1
+https://ktpremium.com:443/K3939/6757/910953
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch630_300_216",ช่อง Now Sports 2
+https://ktpremium.com:443/K3939/6757/910954
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch630_300_216",ช่อง Now Sports 3
+https://ktpremium.com:443/K3939/6757/910955
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch630_300_216",ช่อง Now Sports 4
+https://ktpremium.com:443/K3939/6757/910956
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch630_300_216",ช่อง Now Sports 5
+https://ktpremium.com:443/K3939/6757/910957
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch630_300_216",ช่อง Now Sports 6
+https://ktpremium.com:443/K3939/6757/910958
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch630_300_216",ช่อง Now Sports 7
+https://ktpremium.com:443/K3939/6757/910959
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://breadradioonline.com/images/tv-01.jpg",ช่อง 面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
