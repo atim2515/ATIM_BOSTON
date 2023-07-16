@@ -134,9 +134,6 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2",ช่อง Cheddar News
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/The_First_TV_logo.png",ช่อง STIRR The First
-https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf12DWr6qDElS5TxJ7m-A9MCZC76ljrYD0mO6pUEiToSAa5a7BsEoMYaKMPSIRBzbf07I&usqp=CAU",ช่อง Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
@@ -1908,6 +1905,9 @@ http://107.167.12.58:27347/livehttpplay?channel_id=30024
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvbanywhere.com/img/logo_tvb_financial_news.png",ช่อง TVB Finance & Information
 http://107.167.12.58:27347/livehttpplay?channel_id=30019
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://quake.com.my/images/2021/channels/tvb-magic.jpg",ช่อง TVB Magic
+https://ktpremium.com:443/K3939/6757/924367
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",ช่อง Lotus TV Macau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://61.19.242.134/feed/202306140918/LC41/index.m3u8
@@ -2706,41 +2706,53 @@ http://173.225.246.25:8889/udp/239.203.20.168:4001
 #EXTINF:-1 group-title="udp" tvg-logo="https://play-lh.googleusercontent.com/Qy4gltzfjSttxidRYt-cJe6-DlGGrpdMj5tQq8NYnDLkQa58yLTdalngL1yY0gGGs6A",ช่อง Universal TV
 http://173.225.246.25:8889/udp/239.203.20.170:4001
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง A&E
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=8264&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง A&E
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6419/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง AMC
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=10056&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง ABC Buffalo
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6507/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง Amazing Discoveries
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=24676&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง ABC
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/1087/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง BBC America
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=15156&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง ABC News
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6120/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง CBS News
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=331327&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง ABC Spark
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6466/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง Cartoon Network
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=10878&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง AMC
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/1083/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง Cinemax 5Starmax
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=11904&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง BBC 1
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19176/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง Cinemax ActionMax
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=11916&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง BBC 2
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19177/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง Cinemax East
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=11903&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง BBC Alba
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19179/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง Cinemax Moremax
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=11902&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง BBC America
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/1092/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง Comedy Central
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=17304&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง BBC Entertainment
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19180/index.m3u8
 
-#EXTINF:-1 group-title="ptv" tvg-logo="https://logowik.com/content/uploads/images/ptv-phu-tho-radio-and-television-station2951.logowik.com.webp",ช่อง Cooking Channel
-http://ptv.is/play/live.php?mac=00:1a:79:50:24:53&stream=11639&extension=ts
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง BBC First
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19181/index.m3u8
+
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง BBC Parliament
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19182/index.m3u8
+
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง BBC Scotland
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19183/index.m3u8
+
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง BBC World News
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/545/index.m3u8
+
+#EXTINF:-1 group-title="megatv" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWm_T-P3gleI1PzwL4FY0rqClgTIarhOJpchKDy=s900-c-k-c0x00ffffff-no-rj",ช่อง CBC News Network
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6442/index.m3u8
 
 #EXTINF:-1 group-title="huya" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 状王宋世杰-第二部-张达明大战黄子华
 http://159.75.85.63:35455/huya/23734183
@@ -3177,32 +3189,59 @@ http://live.redtraffic.xyz/livecams.m3u8
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Woman
 http://live.redtraffic.net/woman.m3u8
 
-#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง ALL TIME BEST
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705121
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Animation
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159933
 
-#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง ALL TIME BEST 1
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705120
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Blockbusters
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27977
 
-#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง ALL TIME BEST 2
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705119
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Classic
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159923
 
-#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง BOX OFFICE 2022
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705117
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Comedy
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159937
 
-#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง BOX OFFICE 2022 1
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705116
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Cult
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/159934
 
-#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง BOX OFFICE 2022 2
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705115
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Family
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/30718
 
-#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง BOX OFFICE 2022 3
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705114
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Greats
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/15517
 
-#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง BOX OFFICE 2022 4
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705113
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Greats Two
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/16071
 
-#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง BOX OFFICE 2022 5
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=705112
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Historical
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/16239
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Hits
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27591
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Horror
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/16240
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Musical
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/17593
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Mystery
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/17657
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Premiere
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/18116
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Romance
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/20979
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Sci-Fi
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/20981
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Thriller
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27599
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/218px-VHS-Video-Tape-Top-Flat.jpg",ช่อง Cinebox 4K Western
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27584
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.i-pic.info/i/vaiY318717.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
