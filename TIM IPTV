@@ -260,6 +260,9 @@ https://symc-cdn.violin.co.th/madoit/timetv/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMdKrTixIh-V0L4plc64TaDu2-eqqOjihRceKLu=s900-c-k-c0x00ffffff-no-rj",ช่อง TOP LINE
 https://cdn-th-vip.login.in.th/ToplineChannel/ToplineChannel/chunklist_w610371745.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.ytimg.com/vi/kXpqaPiMAcc/maxresdefault_live.jpg",ช่อง ลูกทุ่ง TVHD
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist_Fuso_121120.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://dl.dropbox.com/s/53njjabp453iua4/thaichiyo.png?dl=0",ช่อง ไทไชโย
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
@@ -695,6 +698,48 @@ http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27599
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/originals/31/43/e7/3143e759a3d973c9256be15b9fdc2b2e.jpg",ช่อง Cinebox 4K Western
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/27584
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/WGRZlogo.png",ช่อง NBC Buffalo
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6535/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/1200px-NBC_Peacock_1986.svg.png",ช่อง NBC
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/1081/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://nesn.com/wp-content/uploads/sites/5/2019/10/webp.net-resizeimage.jpg",ช่อง NESN
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/11109/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",ช่อง Red Bull TV
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/16040/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Showcase_Logo_2015.png",ช่อง Showcase
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6449/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Slice_logo_%282017%29.svg/1200px-Slice_logo_%282017%29.svg.png",ช่อง Slice
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6451/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",ช่อง TLC
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6446/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/teletoon-logo-png-transparent.png",ช่อง Teletoon
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6455/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/1200px-Treehouse_TV_logo.svg.png",ช่อง Treehouse
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6471/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/2560px-Logo_for_AT%26T_SportsNet.svg.png",ช่อง AT&T SPORTSNET
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/11107/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/1200px-Bally_sports_logo.svg.png",ช่อง BALLY SPORTS MIDWEST
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19153/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/1200px-Bally_sports_logo.svg.png",ช่อง BALLY SPORTS NORTH
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19152/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/1200px-Bally_sports_logo.svg.png",ช่อง BALLY SPORTS SOUTHEAST CAROLINAS
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19151/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/1200px-Bally_sports_logo.svg.png",ช่อง BALLY SPORTS SUN
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19150/index.m3u8
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",ช่อง BBC 1
 http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19176/index.m3u8
 
@@ -730,6 +775,15 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6367.1672197098.png",ช่อง Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Sky-News-Logo.png",ช่อง Sky News
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/2475/index.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://pbs.twimg.com/media/DggjiesV4AEPnxU.jpg",ช่อง Sky News Extra 2
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6114/index.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://pbs.twimg.com/media/Dh5eif0VMAATrYv.jpg",ช่อง Sky News Extra 3
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6115/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png",ช่อง NHK WORLD JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
