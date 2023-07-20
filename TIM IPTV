@@ -288,13 +288,9 @@ https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Select
 http://183.89.246.119:8881/play/a0a7/index.m3u8
 
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง T
-https://2nud.short.gy/truefilmhd2.m3u8
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="http://tvsmagazine.com/images/channels/sm_120.jpg",ช่อง AXN
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://www.livedoomovies.com:4432/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://i.imgur.com/evyLHta.png",ช่อง t
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/236_TrueThaiFilmHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDEyOjQyOjUxIFBNJmhhc2hfdmFsdWU9QmhWSWlsdkNueFdkSGZnOS82eHEwZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzI2NTkw
 
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://i.imgur.com/hnfiUbK.png",ช่อง T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
