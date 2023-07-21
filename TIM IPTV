@@ -1175,11 +1175,134 @@ http://107.167.12.58:27347/livehttpplay?channel_id=30066
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png",ช่อง RTHK32
 http://107.167.12.58:27347/livehttpplay?channel_id=30067
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://breadradioonline.com/images/tv-01.jpg",ช่อง 面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://pic.nximg.cn/pic/20100410/2113771_171017028378_4.jpg",ช่อง Phoenix TV
+http://103.112.191.9:880/LAOSAT1015.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",ช่อง Phoenix Infonews Channel
+http://103.112.191.9:880/LAOSAT1068.m3u8
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg",ช่อง HKSTV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1",ช่อง 耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg",ช่อง TVBS
+http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",ช่อง TVBS新闻台
+http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png",ช่อง TVBS欢乐台
+http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/ftv-live.jpg",ช่อง 民視
+http://seb.sason.top/ptv/ftv.php?id=ms
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",ช่อง 民视新闻台
+http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_t16nxdKUr2H2LGcNkWBVxjtpzMSdZfdIqBiH=s900-c-k-c0x00ffffff-no-rj",ช่อง 民視第一
+http://seb.sason.top/ptv/ftv.php?id=dy
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/ftv-taiwan-live.jpg",ช่อง 民視台灣
+http://seb.sason.top/ptv/ftv.php?id=tw
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png",ช่อง 中视
+http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/67/CTV_News_logo.png/440px-CTV_News_logo.png",ช่อง 中视新闻
+http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c5/CTV_Classic.png",ช่อง 中视经典
+http://50.7.238.114:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4b/TTV_World_3rd_logo.jpg",ช่อง 台视
+http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/fb/PTS_Taiwan.svg/1200px-PTS_Taiwan.svg.png",ช่อง 公視
+http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",ช่อง 中天新闻
+http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/cti-tv-live.jpg",ช่อง 中天综合
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg",ช่อง 中天娱乐
+http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://i0.wp.com/www.asiadigital.com.tw/wp-content/uploads/20201209100154_52.png?ssl=1",ช่อง 亚洲旅游台
+http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/EBC_News_logo_20150706.jpg",ช่อง 东森新闻
+http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/25/Ebc-super-live.png",ช่อง 东森超视
+http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png",ช่อง 东森财经新闻
+http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://emovie.ebc.net.tw/Images/footer-logo.png",ช่อง 东森羊片
+http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV4IzYzImVbgssxS_s6fNcMZAfkRNVCnZsFdQ6iqw=s900-c-k-c0x00ffffff-no-rj",ช่อง 东森綜合
+http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png",ช่อง 东森电影
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7c/EBC_Drama_Logo.png",ช่อง 东森戏剧
+http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png",ช่อง 民视台湾台
+http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png",ช่อง 三立綜合台
+http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/1284/20221109164645-360518426_jpeg_665_444_65538.jpg/1284",ช่อง 三立戏剧台
+http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/gtv-no1-live.jpg",ช่อง 八大第一台
+http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/gtv-drama-live.jpg",ช่อง 八大戏剧台
+http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/gtv-live.jpg",ช่อง 八大综合台
+http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4_lNGwtygqk_yNXx2KQgZEtQit-A1epTGZfln-nxNwZuNe30xxqyXTHQC8S4Zun6zA&usqp=CAU",ช่อง 好莱坞电影
+http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Star_Chinese_Channel_20161218.png",ช่อง 卫视中文台
+http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/440px-Mei_Ah_Movies_Channel_logo.png",ช่อง 美亚电影台
+http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png",ช่อง 星卫HD电影
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png",ช่อง 卫视电影台
+http://103.112.191.9:880/LAOSAT1085.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo@2x.png",ช่อง 龙翔电影台
+http://103.112.191.9:880/LAOSAT1084.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.asiadigital.com.tw/wp-content/uploads/20200529162202_99.jpg",ช่อง 美食星球
+http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png",ช่อง 大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkDJW9Vn7xzK-zL5fCJVvD_QK2KK-JSqSdn6RmtQ=s900-c-k-c0x00ffffff-no-rj",ช่อง 唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",ช่อง CCTV-1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
