@@ -863,9 +863,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_plus_jp.png",ช่อง Movie Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://live.ikaeritv.com:9083/query/s/gnFwEiPGB-QioCyMBfvEMA==.jpg?type=live&thumbnail=thumbnail_small.jpg",ช่อง The Cinema
-https://code.vthanhtivi.pw/getlink/jptvvn/141/playlist.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",ช่อง Channel Neco
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -1365,6 +1362,57 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg",ช่อง DENS Learning Knowlegde
 http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
 
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJuioA8VXYFnDkFNG5VaVeJyNAuLFclQAL9928Vz3Zu6hRyEyCtAn1-4Klq_LWm0HLiQ&usqp=CAU",ช่อง Lao Champa TV 1
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_DP32L93_UPk4qWBdXUVbr-Fjlqqh05v1Fll7keHzcc7eC1iH3N7BHP6JWOXFB-irJgw&usqp=CAU",ช่อง Lao Champa TV 2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://aetlive.s3-us-west-2.amazonaws.com/assets/img/2018/03/03231638/newLaoChampa3.jpg",ช่อง Lao Champa TV 3
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://i.pinimg.com/280x280_RS/97/75/f4/9775f4606f5697b03ed13f9abf1334d3.jpg",ช่อง Khomsanh TV
+https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao Heritage Foundation TV
+https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao Net TV
+https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao SV TV
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao-Thai US TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Laos Planet TV
+https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Houng Fa
+https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Ning TV
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Oh Muang Lao TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://pbs.twimg.com/profile_images/1108046831072788480/hLlDym00_400x400.png",ช่อง Air TV
+https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQU2JLaK2JDU29bhSz9zeHdn4SMW2IJznyk1JPW=s900-c-k-c0x00ffffff-no-rj",ช่อง PNTV
+https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://image.winudf.com/v2/image/c3VwcmVtZW1hc3RlcnR2LmNvbS5zdXByZW1lbWFzdGVydHZfaWNvbl8xNTM0NDQ3MzY0XzAyNA/icon.png?w=&fakeurl=1",ช่อง Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://www.appletvappdownload.com/wp-content/uploads/2020/12/TeaTV-Download-APK-1-1-1.jpg",ช่อง Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://www.appletvappdownload.com/wp-content/uploads/2020/12/TeaTV-Download-APK-1-1-1.jpg",ช่อง Tea TV 2
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 凤凰资讯
 http://103.112.191.9:880/LAOSAT1068.m3u8
 
@@ -1538,6 +1586,27 @@ http://103.112.191.9:880/LAOSAT1027.m3u8
 
 #EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง WWE
 http://103.112.191.9:880/LAOSAT1030.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://yt3.googleusercontent.com/4uDBAzccC1GjYMqTrZMq_vQu9grWr3S4Gv8Sz_hzvRAdJaBu2a_TJxFMJ7hTFlgjRKIy3Yh1IM4=s900-c-k-c0x00ffffff-no-rj",ช่อง Bayon TV
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://play-lh.googleusercontent.com/9JJX36RQuRwcH5ky1CUTk0Fy-VTwjSMxb3xxD4utKlPJE5JoeZ_AHrIgxAxhFIEEfw=w412-h220-rw",ช่อง KhmerTV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg.png",ช่อง KienGiangTV
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://mytv.com.vn/upload/channel/683.png",ช่อง KienGiangTV1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 group-title="HMONG TV" tvg-logo="https://hmongstartv.com/web/images/poster.png",ช่อง Hmong Star TV
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="HMONG TV" tvg-logo="https://pbs.twimg.com/profile_images/1199585034572746753/JYJ9ml3d.jpg",ช่อง Hmong TV Network
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="HMONG TV" tvg-logo="https://www.hmongusatv.com/wp-content/uploads/2020/11/logoUSA-1.png",ช่อง HmongUSA TV
+https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/727414680801710080/suh81uar.jpg",ช่อง Visit-X TV
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
