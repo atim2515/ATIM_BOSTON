@@ -1076,9 +1076,6 @@ https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/in
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/QUxuHA1.png",ช่อง GCN
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.j-startup.go.jp/startups/assets_c/2019/07/C_CHANNEL_Vertical_Logo_forWEB_YG-thumb-500xauto-848.jpg",ช่อง C Channel
-https://ythls.onrender.com/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8
-
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F216B893F52240FE01C",ช่อง Gugbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
@@ -1087,9 +1084,6 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.rapidtvnews.com/images/2017/11/mbc_logo_-_14_nov_2017.jpg",ช่อง MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kr-tomato-tv-7870.jpg",ช่อง Tomato TV
-https://ythls.onrender.com/channel/UCgJ5pT6S2NuTVP-6-AlLZew.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/QMDDHd1.gif",ช่อง MTN
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
@@ -1490,6 +1484,100 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg",ช่อง DENS Learning Knowlegde
 http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg",ช่อง RTM TV 1
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png",ช่อง RTM TV 2
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158355.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png",ช่อง TV 3
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158360.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png",ช่อง NTV 7
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174695.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png",ช่อง TV 9
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171953.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png",ช่อง Astro Oasis
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157489.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png",ช่อง Astro Prima
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157467.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png",ช่อง Astro Ria
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158347.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png",ช่อง Astro Awani
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157478.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",ช่อง Astro SuperSport
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/146068.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",ช่อง Astro SuperSport 2
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157556.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",ช่อง Astro SuperSport 3
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157557.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",ช่อง Astro SuperSport 4
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157558.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png",ช่อง Astro Cricket
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157565.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png",ช่อง Astro Arena
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157485.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg",ช่อง beIN Sports
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157561.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/602e805f1abfd464565db600ffd3f028.png",ช่อง Bloomberg TV
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157533.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",ช่อง Celestial Movies
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174687.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png",ช่อง Local Now Family Flix
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/296889.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c6d817ea4450f1c8bd16fcea4bcf4002.png",ช่อง Cinema World
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171956.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png",ช่อง BBC Earth
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171979.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png",ช่อง Discovery World
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157528.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",ช่อง Discovery Science
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157530.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1200px-CNN_Philippines_Logo.svg.png",ช่อง CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://pbs.twimg.com/profile_images/378800000578623391/e61e485505645b07f16d1dbd317a96a4_400x400.jpeg",ช่อง TBN Asia
+http://210.210.155.35/qwr9ew/s/s39/index2.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://i.imgur.com/l2JSQme.png",ช่อง SMNI
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFqqE1l0xKBgfXi41mNuWdohqKVdErVjQUaf2GpqIRYgUQz-yPNhxFA97WUJxnYUgpNvc&usqp=CAU",ช่อง GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png",ช่อง CCTN
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://pbs.twimg.com/profile_images/567474044560089088/CaQ_ZKMP_400x400.png",ช่อง Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://play-lh.googleusercontent.com/Z-xq4pfx34QaZcUUAxP6ROq_M64GBw8xbBAQ6apcHLkurAzlzCcswH8l9_I6I8wAlik",ช่อง Hala London
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJuioA8VXYFnDkFNG5VaVeJyNAuLFclQAL9928Vz3Zu6hRyEyCtAn1-4Klq_LWm0HLiQ&usqp=CAU",ช่อง Lao Champa TV 1
 https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8
