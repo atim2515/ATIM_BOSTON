@@ -2167,9 +2167,6 @@ https://symc-cdn.violin.co.th/madoit/timetv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC13/index.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",ช่อง Kix
-http://210.210.155.35/dr9445/h/h07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
-
 #EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://i.imgur.com/lG3OHxA.png",ช่อง AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
@@ -2255,6 +2252,30 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png",ช่อง Retro Plus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPzzP-WCIgynecxGqnU4vVv3PWqY147rODVTszsF8Cyz55R0PC5BZ_ROqB-NmMBLHwqs&usqp=CAU",ช่อง Box Hits
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqX-es-eIZN4LLxzKYBfxgxjlN2Mp-7-wPY2oBtE-Hkid54Uf1cCJDdqZzaHNGjj7Qhc&usqp=CAU",ช่อง Kerrang
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png",ช่อง CMC USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",ช่อง The Country Network
+https://d39uqn16w2n0w1.cloudfront.net/scte35/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://storage.googleapis.com/ares-profile-pictures/hd/musictop.ok-07762b8811113a7aa18bf13e9e5217e7_hd.jpg",ช่อง MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://www.logolynx.com/images/logolynx/f8/f81fd3438c28a44e896433cef9f8b350.png",ช่อง FOX MUSIC
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://nzhistory.govt.nz/files/images/juice-tv-thumbnail.jpg",ช่อง Juice TV
+https://juicex.nz/hls/mystream.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPR9e8-pxURlzo5QXOHN_U6MaMFSbbxc_ZeviRexpfSd8KRSvYpoS9-n0ZZT-bB1swXw&usqp=CAU",ช่อง Hits 360 TV
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/727414680801710080/suh81uar.jpg",ช่อง Visit-X TV
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
