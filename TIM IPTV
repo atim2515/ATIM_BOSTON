@@ -1976,11 +1976,13 @@ https://cdn6.goprimetime.info/feed/202306140918/LC21/index.m3u8
 #EXTINF:-1 group-title="LEARNING CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/110b229663a135a0abf87413c41f22f1f12c8cef7c1fc752e4fb572d71476693.png",ช่อง STIRR The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png",ช่อง HBO
-http://live.vthanhtivi.pw/hbo
+#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png",ช่อง HBO Signature
+https://dl.dropboxusercontent.com/s/a4i3fybo1u05aiw/hbosignaturg.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png",ช่อง Cinemax
-http://live.vthanhtivi.pw/cinemax
+#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png",ช่อง HBO Hits
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://2nud.short.gy/hbohits.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -2479,6 +2481,132 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://1.bp.blogspot.com/-_JwCgiU5rT0/X5MDkcx4p2I/AAAAAAAAARU/5Oakc5yaCbIXQe8GQU7KNJBK-TUS9ptcwCNcBGAsYHQ/w1200-h630-p-k-no-nu/Retro-Cartoon-Logo.jpg",ช่อง Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSR5MAO5_qmfR0KjAEXSYUIPi4Oj_i6R5syg&usqp=CAU",ช่อง สำรวจโลก
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://www.butterfire.com/wp-content/uploads/MySci.jpg",ช่อง MySci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC37/index.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png",ช่อง Discovery Channels
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",ช่อง Discovery Turbo
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://dl.dropbox.com/s/d55ewtydhd2sabh/animalplanet.png?dl=0",ช่อง Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",ช่อง LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://149385349.v2.pressablecdn.com/wp-content/uploads/2017/02/logo-no-background2.jpg.png",ช่อง Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/880px-Smithsonian_logo_color.svg.png",ช่อง Smithsoniun
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://image.roku.com/channels/images/b04d9db4528d410d92a83917d3f05330-hd.jpg",ช่อง STIRR Docurama
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://i.imgur.com/TVfuBfJ.jpg",ช่อง Real Stories
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://i.imgur.com/oIy673i.png",ช่อง Magellan TV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/hnfiUbK.png",ช่อง T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://2.bp.blogspot.com/-0wlOLgIzZWU/W2vkaoVLICI/AAAAAAAAqyA/7kqKVQMbsFQ8SOg--yrVdrmeMr4uVEW2ACLcBGAs/s1600/plugin-addon-redbulltv.png",ช่อง Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/ftf-logo-sml-v2.png",ช่อง FTF
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png",ช่อง Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg",ช่อง FIGHT SPORTS
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/88a8e6c988226d01f2a5bac420f0a329ce7235a14d8770894c4622af00419eeb.png",ช่อง Hard Knocks
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/0a031c9b9a3652db94685dcf2730e3bdb7f75558c444cc6b2b48797d2504c1ac.png",ช่อง Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://fighting.fr/wp-content/uploads/2019/09/FS-logo2.png",ช่อง Fighting Spirit
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/pFhIuoKWdp-0CRt_vNtYI6PT-V0YJ3eWsSARY3Z0h8H8eMGrdO246GCwYYobZ-Zn6Zs",ช่อง Fite
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://images.tapology.com/logos/2605/profile/Glory_Kickboxing-logo.jpg?1574366345",ช่อง Glory Kickboxing
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://www.postwrestling.com/wp-content/uploads/2019/01/impact-wrestling-social-2018.jpg",ช่อง Impact Wrestling
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png",ช่อง ACC Network
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://getlogo.net/wp-content/uploads/2020/09/mavtv-logo-vector.png",ช่อง STIRR MavTV
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg",ช่อง STIRR Stadium
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/44e5aee167dc4b57d7c8a83b97c240a4b46ef1358781e42508f366f6aa122689.png",ช่อง STIRR Choppertown
+https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://media.glassdoor.com/sqll/1374572/lax-sports-network-squarelogo-1513143171554.png",ช่อง Lax Sports Network TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://www.skitv.tv/wp-content/uploads/2020/05/ski-tv-logo-channel.png",ช่อง Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",ช่อง Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6333694838.jpg",ช่อง Dallas Cowboy Cheerleaders
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1 group-title="GAMES CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=w512",ช่อง Minecraftv
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
+
+#EXTINF:-1 group-title="GAMES CHANNEL" tvg-logo="https://i.imgur.com/vfIsClb.jpg",ช่อง World Poker Tour
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+
+#EXTINF:-1 group-title="FASHION CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",ช่อง FTV
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
+
+#EXTINF:-1 group-title="PET CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/x6e8G5-X3CxKrOszUaZ_lzPwonSYMA3T0wctAvlGopMhPVNF8izOl-4FaEfbyELrcA",ช่อง AKC TV
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+
+#EXTINF:-1 group-title="SHOPPING CHANNEL" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Select
+http://183.89.246.119:8881/play/a0a7/index.m3u8
+
+#EXTINF:-1 group-title="SHOPPING CHANNEL" tvg-logo="https://yt3.googleusercontent.com/Z7Vhm1zSsXjyVHVqiG-3y4jD951d_vYEmVOvwiIodiuUhFvW7b36FiECSqa1yACvkAXGABdikGM=s900-c-k-c0x00ffffff-no-rj",ช่อง GMM O Shopping
+http://183.89.246.119:8881/play/a0a5/index.m3u8
+
+#EXTINF:-1 group-title="SHOPPING CHANNEL" tvg-logo="https://res.9appsinstall.com/group1/M02/E5/28/qoYBAFiUe6uAIBS-AAApWoiekjk825.png?x-oss-process=style/mq200",ช่อง TVD Momo 5
+http://183.89.246.119:8881/play/a0a9/index.m3u8
+
+#EXTINF:-1 group-title="SHOPPING CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobqdb6IPI0TKlLSCqu_G6tP-T3jmFUKzP64TXJRlWYSsueVATffgiruKIznxi_lIUYEI&usqp=CAU",ช่อง ISTV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="SHOPPING CHANNEL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ3CXdit8ZwlwvrAm7lyPiYSRNwZikjIkCH-up11Q=s900-c-k-c0x00ffffff-no-rj",ช่อง Good Idea TV
+https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="SHOPPING CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png",ช่อง STIRR HSN
+https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
+
+#EXTINF:-1 group-title="SHOPPING CHANNEL" tvg-logo="https://yt3.ggpht.com/ZtFUqBn9iOr2AB6IdW3E3_Jb223iC0RnSVKeJeerPwpLoMi5Up1RjZRgCVtcsNG-VB2BbyVMBnQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Craft Store TV
+https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
 
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/727414680801710080/suh81uar.jpg",ช่อง Visit-X TV
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
