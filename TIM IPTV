@@ -1244,6 +1244,9 @@ http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/ddUs0ax6wh6iTUDUBOlpJQ_P1kWmahXIGxJdIaPpxQv5Y-unVGZvp5-LCPpL_wJj70Q",ช่อง Pororo & Tayo TV
 http://code.vthanhtivi.pw/getlink/jptvvn/116/playlist.m3u8
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/C8Mwos8xlpDDxJndY8KdpuHFLVSgxb23hN3UYR0hHURf9aPqa2xJndA2eCR54lXq5bEqKUV1wkg=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง Kids TV
+http://code.vthanhtivi.pw/getlink/jptvvn/115/playlist.m3u8
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Cartoon_Network_Korea_Logo.png",ช่อง Cartoon Network KOREA
 http://code.vthanhtivi.pw/getlink/jptvvn/119/playlist.m3u8
 
@@ -1291,9 +1294,6 @@ https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i0.wp.com/ciptv.org/img/CJONSTYLE-1.png?fit=750%2C422",ช่อง CJ OnStyle Plus
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://blog.kakaocdn.net/dn/bATAYv/btqBD2OfDwv/jI6jmfOkbiaQB1VUMArMZk/img.jpg",ช่อง 현대Hmall
-http://code.vthanhtivi.pw/getlink/jptvvn/106/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1442941113/acvmeuerp80abdkzmwfa.png",ช่อง GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
