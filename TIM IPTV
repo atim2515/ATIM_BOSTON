@@ -292,6 +292,14 @@ https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",ช่อง True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",ช่อง True Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8|Referer=https://freetvdd.com/
@@ -316,14 +324,74 @@ https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8|Referer=https://freetvdd.com/
 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",ช่อง Asian Food Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png",ช่อง National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",ช่อง BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png",ช่อง Animal Planet
 http://103.112.191.9:880/LAOSAT1034.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png",ช่อง Cartoon Network
 http://103.112.191.9:880/LAOSAT1090.m3u8
 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",ช่อง True Premier Football HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",ช่อง True Premier Football HD 2
 http://103.112.191.9:880/LAOSAT1027.m3u8
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",ช่อง True Premier Football HD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",ช่อง True Premier Football HD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png",ช่อง True Premier Football HD 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",ช่อง True Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",ช่อง True Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.png",ช่อง True Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",ช่อง Golf Channel Thailand HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png",ช่อง beIN Sports HD 1
 http://103.112.191.9:880/LAOSAT1052.m3u8
@@ -460,25 +528,25 @@ http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/1083/index.m3u8
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6442/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia903105.us.archive.org/14/items/CinemaxMoviemax/cinemax%20moviemax.png",ช่อง CINEMAX MOVIE MAX
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6155/index.m3u8
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6155/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia803107.us.archive.org/34/items/ActionMax/action%20max.png",ช่อง CINEMAX ACTION MAX
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6156/index.m3u8
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6156/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://tvbix.com/images/channels/outer-max.png",ช่อง CINEMAX OUTER MAX
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6154/index.m3u8
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6154/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png",ช่อง CINEMAX THRILLER MAX
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6153/index.m3u8
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6153/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia800802.us.archive.org/5/items/CinemaxMoremax/cinemax%20moremax.png",ช่อง CINEMAX MORE MAX
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6152/index.m3u8
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6152/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://logowik.com/content/uploads/images/cmt8119.jpg",ช่อง CMT
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6448/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",ช่อง CNBC
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/962/index.m3u8
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/962/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png",ช่อง CNN
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/842/index.m3u8
@@ -937,13 +1005,16 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/2475/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://pbs.twimg.com/media/DggjiesV4AEPnxU.jpg",ช่อง Sky News Extra 2
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6114/index.m3u8
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6114/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://pbs.twimg.com/media/Dh5eif0VMAATrYv.jpg",ช่อง Sky News Extra 3
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6115/index.m3u8
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6115/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/cwsassets/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg",ช่อง TNT Sports 1
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6566/index.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2561.png",ช่อง TNT Sports 2
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6492/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png",ช่อง TNT Sports 3
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6564/index.m3u8
@@ -956,6 +1027,10 @@ http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6556/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",ช่อง MUTV
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/10078/index.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lfc-tv.png",ช่อง LFCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",ช่อง PREMIER SPORTS
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6555/index.m3u8
@@ -988,7 +1063,7 @@ http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7339/index.m3u8
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7335/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png",ช่อง Sky Racing
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6122/index.m3u8
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6122/index.m3u8
 
 #EXTINF:-1 group-title="AFRICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg",ช่อง MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
@@ -1249,10 +1324,12 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",ช่อง Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-arirang.stream/chunks.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",ช่อง tvN
-http://code.vthanhtivi.pw/getlink/jptvvn/92/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_tvN_SHOW.svg/1200px-Logo_tvN_SHOW.svg.png",ช่อง tvN SHOW
 http://code.vthanhtivi.pw/getlink/jptvvn/98/playlist.m3u8
