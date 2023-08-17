@@ -339,6 +339,10 @@ https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8|Refer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",ช่อง History Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png",ช่อง BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://freetvdd.com/
@@ -418,6 +422,10 @@ http://183.89.246.119:8881/play/a0a7/index.m3u8
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="http://tvsmagazine.com/images/channels/sm_177.jpg",ช่อง Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-rtlcbs.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_1.png",ช่อง BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://cpc.ais.co.th/CPC-FE-WEB/api/contents/upload//b/a/l/l/t/ballthai.png?rand=0.46332318793487326",ช่อง Ball Thai 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
