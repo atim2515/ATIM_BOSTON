@@ -2918,6 +2918,11 @@ https://cdn6.goprimetime.info/feed/202306140918/LC21/index.m3u8
 #EXTINF:-1 group-title="LEARNING CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/110b229663a135a0abf87413c41f22f1f12c8cef7c1fc752e4fb572d71476693.png",ช่อง STIRR The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png",ช่อง HBO
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://2nud.short.gy/hboth.m3u8
+
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png",ช่อง HBO Signature
 https://dl.dropboxusercontent.com/s/a4i3fybo1u05aiw/hbosignaturg.m3u8
 
