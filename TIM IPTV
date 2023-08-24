@@ -347,9 +347,6 @@ https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|Referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png",ช่อง Animal Planet
-http://103.112.191.9:880/LAOSAT1034.m3u8
-
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png",ช่อง Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|Referer=https://freetvdd.com/
@@ -405,12 +402,6 @@ https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8|Referer=
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",ช่อง Golf Channel Thailand HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8|Referer=https://freetvdd.com/
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png",ช่อง beIN Sports HD 1
-http://103.112.191.9:880/LAOSAT1052.m3u8
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/06/01/ff208470-0032-11ee-87ee-bf4bd5ef0bda_webp_original.png",ช่อง beIN Sports HD 2
-http://103.112.191.9:880/LAOSAT1078.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",ช่อง Spotv 1 HD
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
@@ -1116,11 +1107,11 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png",ช่อง NHK WORLD JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.crwflags.com/fotw/images/j/jp$nhk2.gif",ช่อง NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",ช่อง NHK-G
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",ช่อง NHK-G Nagano
-http://for-testonly.ra1n.lol:5678/NHKG-Nagano/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",ช่อง NHK-G OSAKA
 http://code.vthanhtivi.pw/getlink/jptvvn/206/playlist.m3u8
@@ -1133,12 +1124,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png",ช่อง NHK BSP
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nbs_logo.svg/1920px-Nbs_logo.svg.png",ช่อง NBS
-http://for-testonly.ra1n.lol:5678/NBS/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Chubu-Nippon_Broadcasting_logo_20150825.svg/1920px-Chubu-Nippon_Broadcasting_logo_20150825.svg.png",ช่อง CBC
-http://for-testonly.ra1n.lol:5678/CBC/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555",ช่อง Nippon TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1218,9 +1203,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_plus_jp.png",ช่อง Movie Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png",ช่อง The Cinema
-https://code.vthanhtivi.pw/getlink/jptvvn/141/playlist.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",ช่อง Channel Neco
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -1299,6 +1281,9 @@ http://code.vthanhtivi.pw/getlink/jptvvn/55/playlist.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykVkJwIKWix3HlsmdWKmzjNnLb3A-ypFDZ8Zn-vN9f3lGnifZHXOA9EiEa-JkkUBsUl0&usqp=CAU",ช่อง Kids Station
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTHmmYOdduJ2lbsxHw1zKXVzxw0bqh-je7uLnkH=s900-c-k-c0x00ffffff-no-rj",ช่อง Pokémon Kids TV
+https://ythls.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",ช่อง J Sports 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -1319,9 +1304,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg/revision/latest?cb=20160629182330",ช่อง Gaora Sports
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sukachan-1-jp.png",ช่อง Sukachan 1
-http://for-testonly.ra1n.lol:5678/Sukachan1/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.golfnetwork.co.jp/assets/img/og_img1.jpg",ช่อง Golf Network
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1347,6 +1329,36 @@ http://code.vthanhtivi.pw/getlink/jptvvn/66/playlist.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_n03.png",ช่อง Nippon TV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0=s176-c-k-c0x00ffffff-no-rj",ช่อง ABC TV News
+https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/BpY8Ub7K4qvUQjc-KmXuluH6vQzJssZDXWse0zesaSQeUDdPz4NqbltOws3zz5rUGOlyo1U6ew=s900-c-k-c0x00ffffff-no-rj",ช่อง MBS News
+https://ythls.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://ficus.tv/uploads/posts/2022-04/ann-news.webp",ช่อง ANN JapaNews24
+https://ythls.onrender.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://livecam.asia/wp-content/uploads/2020/08/htb-hokkaido-news24-800x449.png",ช่อง HTB Hokkaido News 24
+https://ythls.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/card_img/1693061549353754624/ERYH75Jh?format=jpg&name=small",ช่อง HBC Hokkaido News 24
+https://ythls.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://external-preview.redd.it/an-8-year-old-girl-died-of-heat-stroke-in-hokkaido-where-v0-fhrVcg0PZDpimJPW30ebTwZsFGEqToo98X52IGXmEmU.jpg?width=640&crop=smart&auto=webp&s=94e6c34b272e4289dd57f28c5f977b5254d06f0c",ช่อง Hokkaido News UHB
+https://ythls.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stv_logo.svg/1200px-Stv_logo.svg.png",ช่อง STV News Hokkaido
+https://ythls.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/F0Kp2u2IJBTmsqltRjB4PuEaRF0ARlB3FyFcnuW8Fg7rDXYSfI1e2MF2lZIJkM6RAGuUYIgmtw=s900-c-k-c0x00ffffff-no-rj",ช่อง RKB NEWS 24
+https://ythls.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/profile_images/875557427487297536/EuU_BICz_400x400.jpg",ช่อง Chukyo TV News
+https://ythls.onrender.com/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.ana.co.jp/shoppingandlife/book/tameru_asahishimbun/images/asahishimbun_logo.png",ช่อง Asahi Shimbun Digital
+https://ythls.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://press.jal.co.jp/ja/items/uploads/a89741436e550f5d12646481975ad63fd075c490.png",ช่อง Weathernews
 https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8
 
@@ -1362,8 +1374,38 @@ https://movie.mcas.jp/mcas/mx_live_2/chunklist.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/LOGO_%28GUNMA_TV%29.jpg/revision/latest?cb=20150508100755",ช่อง Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://img.delicious.com.au/Z60pNZAr/w759-h506-cfill/del/2019/06/tokyo-110027-1.jpg",ช่อง Tokyo Camera
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง Tokyo CCTV
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง Tulip TV
+https://ythls.onrender.com/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง BSN
+https://ythls.onrender.com/channel/UCoAQNKxgfE32ai4mOXNXvug.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง TV-U Yamagata
+https://ythls.onrender.com/channel/UCTWatTAOnFVB0vwIetZCTHw.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง IBC
+https://ythls.onrender.com/channel/UCMbq0m2vILQTbc0VhOcVWaQ.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง Aomori TV
+https://ythls.onrender.com/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง HOME Hiroshima News
+https://ythls.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง SATV News 24H
+https://ythls.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง Niigata News NST
+https://ythls.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง KBC News
+https://ythls.onrender.com/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง Mētele News Live 24
+https://ythls.onrender.com/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://seeklogo.com/images/S/shop-channel-logo-B05C72F34A-seeklogo.com.png",ช่อง Jupiter Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
@@ -1655,9 +1697,6 @@ http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153395&extension=ts
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332",ช่อง TVB J2
 http://107.167.12.58:27347/livehttpplay?channel_id=30030
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716056_497_small.jpg",ช่อง TVB Xing He
-http://103.112.191.9:880/LAOSAT1092.m3u8
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
 http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 
@@ -1793,12 +1832,6 @@ http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&c
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png",ช่อง 星卫HD电影
 http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png",ช่อง 卫视电影台
-http://103.112.191.9:880/LAOSAT1085.m3u8
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo@2x.png",ช่อง 龙翔电影台
-http://103.112.191.9:880/LAOSAT1084.m3u8
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.asiadigital.com.tw/wp-content/uploads/20200529162202_99.jpg",ช่อง 美食星球
 http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
@@ -2692,180 +2725,6 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://www.appletvappdownload.com/wp-content/uploads/2020/12/TeaTV-Download-APK-1-1-1.jpg",ช่อง Tea TV 2
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 凤凰资讯
-http://103.112.191.9:880/LAOSAT1068.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 凤凰中文
-http://103.112.191.9:880/LAOSAT1015.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง TVB星河
-http://103.112.191.9:880/LAOSAT1092.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 星空卫视
-http://103.112.191.9:880/LAOSAT1016.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 澳门莲花
-http://103.112.191.9:880/LAOSAT1069.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 天映頻道
-http://103.112.191.9:880/LAOSAT1029.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 东森电影
-http://103.112.191.9:880/LAOSAT1017.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 东森洋片
-http://103.112.191.9:880/LAOSAT1018.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 探索亚洲
-http://103.112.191.9:880/LAOSAT1095.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 星卫电影台
-http://103.112.191.9:880/LAOSAT1082.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 龙翔电影台
-http://103.112.191.9:880/LAOSAT1084.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 卫视电影台
-http://103.112.191.9:880/LAOSAT1085.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 博斯高球 I
-http://103.112.191.9:880/LAOSAT1081.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV1
-http://103.112.191.9:880/LAOSAT1057.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV2
-http://103.112.191.9:880/LAOSAT1058.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV3
-http://103.112.191.9:880/LAOSAT1059.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV4
-http://103.112.191.9:880/LAOSAT1060.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV5
-http://103.112.191.9:880/LAOSAT1001.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV5+
-http://103.112.191.9:880/LAOSAT1006.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV6
-http://103.112.191.9:880/LAOSAT1007.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV7
-http://103.112.191.9:880/LAOSAT1008.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV8
-http://103.112.191.9:880/LAOSAT1061.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV9
-http://103.112.191.9:880/LAOSAT1062.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV13
-http://103.112.191.9:880/LAOSAT1063.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CCTV高网
-http://103.112.191.9:880/LAOSAT1080.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 北京卫视
-http://103.112.191.9:880/LAOSAT1065.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 东方卫视
-http://103.112.191.9:880/LAOSAT1011.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 湖南卫视
-http://103.112.191.9:880/LAOSAT1064.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 江苏卫视
-http://103.112.191.9:880/LAOSAT1009.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 浙江卫视
-http://103.112.191.9:880/LAOSAT1010.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 深圳卫视
-http://103.112.191.9:880/LAOSAT1012.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 广东卫视
-http://103.112.191.9:880/LAOSAT1013.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 天津卫视
-http://103.112.191.9:880/LAOSAT1066.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 云南卫视
-http://103.112.191.9:880/LAOSAT1067.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 辽宁卫视
-http://103.112.191.9:880/LAOSAT1014.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง 卡酷少儿
-http://103.112.191.9:880/LAOSAT1075.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง ABC Australia
-http://103.112.191.9:880/LAOSAT1093.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง Aljazeera
-http://103.112.191.9:880/LAOSAT1021.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง Arirang
-http://103.112.191.9:880/LAOSAT1033.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CGTN
-http://103.112.191.9:880/LAOSAT1074.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CINEMAX
-http://103.112.191.9:880/LAOSAT1031.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CNBC
-http://103.112.191.9:880/LAOSAT1086.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง CNN
-http://103.112.191.9:880/LAOSAT1087.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง Channel[V]
-http://103.112.191.9:880/LAOSAT1070.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง DW
-http://103.112.191.9:880/LAOSAT1072.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง Discovery Channel
-http://103.112.191.9:880/LAOSAT1094.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง Euronews
-http://103.112.191.9:880/LAOSAT1073.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง Fashion TV
-http://103.112.191.9:880/LAOSAT1088.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง HBO
-http://103.112.191.9:880/LAOSAT1089.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง MTV Live
-http://103.112.191.9:880/LAOSAT1091.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง NHK World
-http://103.112.191.9:880/LAOSAT1071.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง TV5 MONDE ASIE
-http://103.112.191.9:880/LAOSAT1032.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง True Animal Planet
-http://103.112.191.9:880/LAOSAT1034.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง True BeIN Sports 1
-http://103.112.191.9:880/LAOSAT1052.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง True BeIN Sports 3
-http://103.112.191.9:880/LAOSAT1078.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง True Cartoon Network
-http://103.112.191.9:880/LAOSAT1090.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง True Premier Football 2
-http://103.112.191.9:880/LAOSAT1027.m3u8
-
-#EXTINF:-1 group-title="LAOSAT" tvg-logo="https://www.laosat.la/en/images/logo.jpg",ช่อง WWE
-http://103.112.191.9:880/LAOSAT1030.m3u8
-
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png",ช่อง Box Movie 1
 https://code.vthanhtivi.pw/getlink/cliptv/icHRxqCZhKGonNDd25FiZnFkaaKfmWphj21qYZ6ak2NmZ2ZnbA==/1692656480/box-movie-1-hd/chunklist_b5128000.m3u8
 
@@ -2969,7 +2828,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://119.59.125.18:8081/live/bbc/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/UFseqpgRgK38lavCq46JkCidIMkdaXsKi6II4nBwyIggaeiAiWWT8QgEEzxZDVuWMZM",ช่อง CNBC
-http://103.112.191.9:880/LAOSAT1086.m3u8
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6482/index.m3u8
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://kahoot.com/files/2020/04/Bloomberg-logo-square.jpg",ช่อง Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
@@ -3131,12 +2990,6 @@ http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&c
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png",ช่อง 星卫HD电影
 http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-
-#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png",ช่อง 卫视电影台
-http://103.112.191.9:880/LAOSAT1085.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo@2x.png",ช่อง 龙翔电影台
-http://103.112.191.9:880/LAOSAT1084.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",ช่อง Pluto TV 70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
