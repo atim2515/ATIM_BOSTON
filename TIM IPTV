@@ -1206,9 +1206,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",ช่อง BS11
 http://for-testonly.ra1n.lol/bs11/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nagoya_Nbn_logo.svg/2560px-Nagoya_Nbn_logo.svg.png",ช่อง Nagoya TV HD
-http://for-testonly.ra1n.lol/nagoyatv/index.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png",ช่อง Star 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -1379,6 +1376,9 @@ https://ythls.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stv_logo.svg/1200px-Stv_logo.svg.png",ช่อง STV News Hokkaido
 https://ythls.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/768px-Rcc_logo_2022.svg.png",ช่อง RCC HD
+http://for-testonly.ra1n.lol/rcc/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/F0Kp2u2IJBTmsqltRjB4PuEaRF0ARlB3FyFcnuW8Fg7rDXYSfI1e2MF2lZIJkM6RAGuUYIgmtw=s900-c-k-c0x00ffffff-no-rj",ช่อง RKB NEWS 24
 https://ythls.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
@@ -3317,10 +3317,10 @@ https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/g7GtFpPuo5RelDW0nEZlE0Grk15zGhBh0TKAQoLbJXILrTDi88lbthSmDR4TSdHrDiZf",ช่อง Humor Mill
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://images.viacbs.tech/uri/mgid:arc:content:vh1.com:be1d4748-35d0-4dee-bb4a-c3e948b83cbc?quality=0.7",ช่อง Love and Hip Hop
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://images.paramount.tech/uri/mgid:arc:imageassetref:mtv.com:8bb03534-59c6-4fad-ba02-10e0933c9089?quality=0.7&gen=ntrn&legacyStatusCode=true",ช่อง Love and Hip Hop
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://images.viacbs.tech/uri/mgid:arc:content:mtv.com:b917faa2-f534-4144-a4cc-10bcef252768?quality=0.7",ช่อง MTV Are you the One
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://images.paramount.tech/uri/mgid:arc:imageassetref:mtv.com:b917faa2-f534-4144-a4cc-10bcef252768?quality=0.7&gen=ntrn&legacyStatusCode=true",ช่อง MTV Are you the One
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185932sweet.png",ช่อง Sweet
