@@ -2860,6 +2860,27 @@ https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png",ช่อง VTV1
 https://code.vthanhtivi.pw/getlink/tv360/2/playlist.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png",ช่อง VTV2
+https://code.vthanhtivi.pw/getlink/tv360/3/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png",ช่อง VTV3
+https://code.vthanhtivi.pw/getlink/tv360/4/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png",ช่อง VTV4
+https://code.vthanhtivi.pw/getlink/tv360/108/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png",ช่อง VTV5
+https://code.vthanhtivi.pw/getlink/tv360/110/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png",ช่อง VTV5 Tây Nam Bộ
+https://code.vthanhtivi.pw/getlink/tv360/157/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png",ช่อง VTV5 Tây Nguyên
+https://code.vthanhtivi.pw/getlink/tv360/207/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png",ช่อง VTV Cần Thơ
+https://code.vthanhtivi.pw/getlink/tv360/98/playlist.m3u8
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png",ช่อง HCATV - Phim Dở
 https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b228915playlist.m3u8
 
@@ -2959,7 +2980,7 @@ http://vthanhtivi.pw:5000/history/index.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png",ช่อง National Geographic HD
 http://vthanhtivi.pw:5000/natgeo/index.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png",ช่อง Nat Geo Wild HD
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",ช่อง Nat Geo Wild HD
 http://vthanhtivi.pw:5000/natgeowild/index.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png",ช่อง Outdoor Channel HD
