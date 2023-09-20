@@ -430,6 +430,12 @@ https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8|Referer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg",ช่อง Bein Sports 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg",ช่อง Bein Sports 2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",ช่อง Spotv 1 HD
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
 
@@ -1485,7 +1491,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kbs2.png",ช่อง KBS2
-http://code.vthanhtivi.pw/getlink/jptvvn/73/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://padmin.static.kbs.co.kr/live/2020/3/23/1584964694173_178117.jpg",ช่อง KBS Drama
 http://mytv.dothome.co.kr/ch/catv/2.php
@@ -1503,7 +1509,7 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 http://mytv.dothome.co.kr/ch/catv/5.php
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/1xypomqZ_42WBLqjQ9Phyg9bIwMekkKhzxAtsiu3JXWa1djG26uPTGnHYHUPnpq6obbMbPVG-A=s900-c-k-c0x00ffffff-no-rj",ช่อง KBSNsports
-http://code.vthanhtivi.pw/getlink/jptvvn/83/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/193/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Kbs-news-d-kr.svg/revision/latest/scale-to-width-down/250?cb=20220916131000",ช่อง KBS News D
 http://ye23.vip/z7z8/2021/kbs2020.php?id=4
@@ -1512,28 +1518,33 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://images.jtbc.co.kr/og_2023/jtbc.png",ช่อง JTBC
-http://code.vthanhtivi.pw/getlink/jptvvn/76/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/186/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image.jtbcgolf.joins.com/mypage/img//m_jtbcgolf_logo.png",ช่อง JTBC golf
-http://code.vthanhtivi.pw/getlink/jptvvn/88/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/198/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/JTBCGolf%26Sportslogo.png",ช่อง JTBC golf & sports
-http://code.vthanhtivi.pw/getlink/jptvvn/112/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/201/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i0.wp.com/www.korseries.com/wp-content/uploads/2018/07/tv-chosun.jpg",ช่อง TV CHOSUN
-http://code.vthanhtivi.pw/getlink/jptvvn/77/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i0.wp.com/www.korseries.com/wp-content/uploads/2018/07/tv-chosun.jpg",ช่อง TV CHOSUN 2
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Channel_A_Logo_transparent.png",ช่อง CHANNEL A
-http://code.vthanhtivi.pw/getlink/jptvvn/78/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/188/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/MBN_Logo.jpg",ช่อง MBN
-http://code.vthanhtivi.pw/getlink/jptvvn/79/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/189/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6742f8b5bf7a981b1c5050f18d2c4ba.webp",ช่อง YTN
-http://code.vthanhtivi.pw/getlink/jptvvn/80/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/190/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",ช่อง SBS
-http://code.vthanhtivi.pw/getlink/jptvvn/75/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/185/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png",ช่อง JIBS SBS
 http://123.140.197.22/stream/1/play.m3u8
@@ -1551,10 +1562,10 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 http://1.245.74.5:1935/live/tv/.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://blog.kakaocdn.net/dn/ctkSdK/btqDWr6nsCE/6OCIsMnprjRYR86Lcp9Msk/img.jpg",ช่อง SBS Sports
-http://code.vthanhtivi.pw/getlink/jptvvn/86/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/196/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wixstatic.com/media/3cf0f2_9c96d5e1658f47de8435355d886b8ac3~mv2.png/v1/fit/w_1138,h_640,q_90/3cf0f2_9c96d5e1658f47de8435355d886b8ac3~mv2.png",ช่อง SBS Golf
-http://code.vthanhtivi.pw/getlink/jptvvn/87/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/197/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_logo_1.png?cVo3i7POaat75krAiNCBi5bwdeOmFvBN&itok=qD5RawKs",ช่อง EBS 1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
@@ -1605,7 +1616,7 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 http://code.vthanhtivi.pw/getlink/jptvvn/85/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTdgKqn9mWGDMEn_uUMLrSITeZSwf7CZkk4vbKY=s900-c-k-c0x00ffffff-no-rj",ช่อง MBC sports+
-http://code.vthanhtivi.pw/getlink/jptvvn/84/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/194/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/QMDDHd1.gif",ช่อง MTN
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
@@ -1632,13 +1643,13 @@ http://code.vthanhtivi.pw/getlink/jptvvn/119/playlist.m3u8
 http://code.vthanhtivi.pw/getlink/jptvvn/118/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/chkp4c1617709660.png",ช่อง SKY Sports
-http://code.vthanhtivi.pw/getlink/jptvvn/95/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/195/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/W9hb266HaZ5dAiqeZe71KogajsDGwdZyAqN1bEgYrGbugT5RhVgFP0ntpgn5Ye53Lc9UHaLV5Dg=s900-c-k-c0x00ffffff-no-rj",ช่อง SPOTV
-http://code.vthanhtivi.pw/getlink/jptvvn/89/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/199/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_320.webp",ช่อง SPOTV 2
-http://code.vthanhtivi.pw/getlink/jptvvn/90/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/200/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSbU6zLXcGv8CJimExRrYhuYKqdMXDhK4UOnZO1qg=s900-c-k-c0x00ffffff-no-rj",ช่อง Billiards TV
 http://code.vthanhtivi.pw/getlink/jptvvn/105/playlist.m3u8
