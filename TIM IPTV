@@ -19,7 +19,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://s.isanook.com/ns/0/ud/192/963123/nbt.jpg",ช่อง NBT
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001-avc1_5000000=3-mp4a_96000_tha=7.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://logo-th.com/wp-content/uploads/2019/05/PBS.jpg",ช่อง Thai PBS
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png",ช่อง Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png",ช่อง ALTV
@@ -593,7 +593,7 @@ http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6448/index.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",ช่อง CNBC
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/6482/index.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png",ช่อง CNN
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",ช่อง CNN
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/842/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CP24_Channel.png/1024px-CP24_Channel.png",ช่อง CP 24
@@ -1179,7 +1179,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png",ช่อง TV Tokyo
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://japan-programcatalog.com/japacon/open/open-sales-company!image?tsid=8&imageNumber=1&id=2",ช่อง ABC
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png",ช่อง ABC
 https://code.vthanhtivi.pw/getlink/jptvvn/209/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png",ช่อง MBS
@@ -2746,6 +2746,12 @@ https://ktpremium.com:443/cc1219/54897855/900904
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png",ช่อง TV ALHIJRAH
 https://ktpremium.com:443/cc1219/54897855/25906
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png",ช่อง RTB sukmaindera
+https://ktpremium.com:443/cc1219/54897855/897360
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png",ช่อง RTB GO
+https://ktpremium.com:443/cc1219/54897855/897365
+
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png",ช่อง Astro Citra
 https://ktpremium.com:443/cc1219/54897855/25852
 
@@ -2764,8 +2770,14 @@ https://ktpremium.com:443/cc1219/54897855/908356
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aura-my.png",ช่อง Astro Aura
 https://ktpremium.com:443/cc1219/54897855/908357
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png",ช่อง Astro Ceria
+https://ktpremium.com:443/cc1219/54897855/912821
+
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png",ช่อง Astro PREMIER
 https://ktpremium.com:443/cc1219/54897855/25964
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Astro_Tutor_TV_%282D%29.png/revision/latest?cb=20200922172622",ช่อง Astro Tutor TV
+https://ktpremium.com:443/cc1219/54897855/912561
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boo_my.png",ช่อง BOO
 https://ktpremium.com:443/cc1219/54897855/26011
@@ -2817,6 +2829,9 @@ https://ktpremium.com:443/cc1219/54897855/25986
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cti_tv_asia.png",ช่อง 中天亚洲
 https://ktpremium.com:443/cc1219/54897855/25987
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-world-japan-jp.png",ช่อง NHK World Japan
+https://ktpremium.com:443/cc1219/54897855/834387
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kbs_world.png",ช่อง KBS World HD
 https://ktpremium.com:443/cc1219/54897855/26006
@@ -2911,11 +2926,8 @@ https://ktpremium.com:443/cc1219/54897855/916398
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",ช่อง Paramount Network
 https://ktpremium.com:443/cc1219/54897855/901190
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png",ช่อง WARNER TV
-https://ktpremium.com:443/cc1219/54897855/26097
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits-movies-sg.png",ช่อง Hits Movies
-https://ktpremium.com:443/cc1219/54897855/26102
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png",ช่อง LIFETIME
+https://ktpremium.com:443/cc1219/54897855/656641
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",ช่อง Celestial Movies
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174687.m3u8
@@ -2929,14 +2941,26 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/296889.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c6d817ea4450f1c8bd16fcea4bcf4002.png",ช่อง Cinema World
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171956.m3u8
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1578301669_logo-asian-food-network-lg.png",ช่อง Asian Food Network
+https://ktpremium.com:443/cc1219/54897855/916125
+
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png",ช่อง BBC Earth
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171979.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",ช่อง Love Nature
+https://ktpremium.com:443/cc1219/54897855/916402
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png",ช่อง Global Trekker
+https://ktpremium.com:443/cc1219/54897855/916403
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png",ช่อง Discovery World
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157528.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",ช่อง Discovery Science
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157530.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png",ช่อง DreamWorks
+https://ktpremium.com:443/cc1219/54897855/912562
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1200px-CNN_Philippines_Logo.svg.png",ช่อง CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
