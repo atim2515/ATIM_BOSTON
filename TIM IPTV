@@ -1878,6 +1878,12 @@ http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&c
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png",ช่อง 星卫HD电影
 http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1840.png",ช่อง 龙华洋片
+https://ktpremium.com:443/N197NGF/8199/515085
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/ls_time_movie.png",ช่อง 龙祥电影
+https://ktpremium.com:443/N197NGF/8199/694086
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.asiadigital.com.tw/wp-content/uploads/20200529162202_99.jpg",ช่อง 美食星球
 http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 
@@ -2634,6 +2640,24 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226891/1.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.coolstreaming.us/img/ch/image46300120698.jpg",ช่อง TV BRICS English
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png",ช่อง Channel 5
+https://ktpremium.com:443/N197NGF/8199/25833
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Channel8_2012_logo.png",ช่อง Channel 8
+https://ktpremium.com:443/N197NGF/8199/25834
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Channel_u_singapore.png",ช่อง Channel U
+https://ktpremium.com:443/N197NGF/8199/25835
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/1200px-Mediacorp_Suria_2023.svg.png",ช่อง Suria
+https://ktpremium.com:443/N197NGF/8199/25844
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://artefakts.sg/wp/wp-content/uploads/2018/03/Vasantham-logo.png",ช่อง Vasantham
+https://ktpremium.com:443/N197NGF/8199/25848
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png",ช่อง CNA
+https://ktpremium.com:443/N197NGF/8199/25837
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
@@ -2709,6 +2733,12 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg",ช่อง DENS Learning Knowlegde
 http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/galaxy_tv_id.png",ช่อง Galaxy
+https://ktpremium.com:443/N197NGF/8199/812074
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png",ช่อง Galaxy Premium
+https://ktpremium.com:443/N197NGF/8199/73863
+
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg",ช่อง RTM TV 1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
@@ -2750,7 +2780,7 @@ https://ktpremium.com:443/N197NGF/8199/900904
 https://ktpremium.com:443/N197NGF/8199/26169
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png",ช่อง TV ALHIJRAH
-https://ktpremium.com:443/N197NGF/8199/25875
+https://ktpremium.com:443/N197NGF/8199/25906
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png",ช่อง RTB sukmaindera
 https://ktpremium.com:443/N197NGF/8199/897360
@@ -2977,6 +3007,12 @@ https://ktpremium.com:443/N197NGF/8199/26097
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png",ช่อง AXN
 https://ktpremium.com:443/N197NGF/8199/26282
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ช่อง Rock Entertainment
+https://ktpremium.com:443/N197NGF/8199/656633
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png",ช่อง Rock Action
+https://ktpremium.com:443/N197NGF/8199/656639
+
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png",ช่อง LIFETIME
 https://ktpremium.com:443/N197NGF/8199/656641
 
@@ -3001,8 +3037,14 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171956.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png",ช่อง Thrill
 https://ktpremium.com:443/N197NGF/8199/26094
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png",ช่อง MTV live
+https://ktpremium.com:443/N197NGF/8199/26298
+
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",ช่อง TLC
 https://ktpremium.com:443/N197NGF/8199/26285
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hgtv_us.png",ช่อง HGTV
+https://ktpremium.com:443/N197NGF/8199/26294
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/food-network-uk.png",ช่อง Food Network
 https://ktpremium.com:443/N197NGF/8199/26286
@@ -3012,6 +3054,9 @@ https://ktpremium.com:443/N197NGF/8199/916125
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png",ช่อง BBC Earth
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171979.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_lifestyle_uk.png",ช่อง BBC Lifestyle
+https://ktpremium.com:443/N197NGF/8199/26291
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",ช่อง Love Nature
 https://ktpremium.com:443/N197NGF/8199/916402
@@ -3028,14 +3073,20 @@ https://ktpremium.com:443/N197NGF/8199/26211
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png",ช่อง History
 https://ktpremium.com:443/N197NGF/8199/26213
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png",ช่อง Discovery World
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157528.m3u8
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png",ช่อง Discovery
+https://ktpremium.com:443/N197NGF/8199/26207
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png",ช่อง Discovery Asia
 https://ktpremium.com:443/N197NGF/8199/26209
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",ช่อง Discovery Science
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157530.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dmax-us.png",ช่อง DMAX
+https://ktpremium.com:443/N197NGF/8199/26296
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png",ช่อง C&I
+https://ktpremium.com:443/N197NGF/8199/26288
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png",ช่อง ANIMAX
 https://ktpremium.com:443/N197NGF/8199/26240
