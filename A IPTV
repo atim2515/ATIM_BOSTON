@@ -921,3 +921,18 @@ https://streaming.livescorethai.net/iptv/sd-arirang.stream/chunks.m3u8|Referer=h
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://bpando.org/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg",ช่อง tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://pbs.twimg.com/profile_images/1347443419019239425/3GrnHjge_400x400.jpg",ช่อง KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://padmin.static.kbs.co.kr/live/2020/3/23/1584964694173_178117.jpg",ช่อง KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_0b9gbd79dclkkh7g2f7dide77746a_240x149.jpg",ช่อง KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://admin.worldlivetv.stream/upload/files/thumbnail/vuth_1682262399_46472_58350.jpg",ช่อง KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://padmin.static.kbs.co.kr/live/2021/5/28/1622175270507_252276.jpg",ช่อง KBS Life
+http://mytv.dothome.co.kr/ch/catv/5.php
