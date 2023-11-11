@@ -1757,7 +1757,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png",ช่อง CGTN
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226666/1.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712172826668.jpg",ช่อง 中国教育1
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg",ช่อง 中国教育1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p2.itc.cn/images01/20211102/bcf58d0f87f84654b0ac17ac7aabb06c.jpeg",ช่อง 湖南卫视
@@ -1781,7 +1781,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",ช่อง 安徽卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226655/1.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15706056331627.png",ช่อง 辽宁卫视
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg",ช่อง 辽宁卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226689/1.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://i0.hdslb.com/bfs/archive/1a90fb92d51976b3e4a398df32d38f26443557d1.jpg",ช่อง 山东卫视
@@ -1880,4 +1880,168 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg",ช่อง DENS Learning Knowlegde
 http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",ช่อง RTM TV 1
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",ช่อง RTM TV 2
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158355.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://4.bp.blogspot.com/-tTRMBRiEZQk/UbCo2bqjx9I/AAAAAAAAFiI/Xxn4fTsuHzk/s1600/tv3.jpg",ช่อง TV 3
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158360.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://i.imgur.com/l2JSQme.png",ช่อง SMNI
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFqqE1l0xKBgfXi41mNuWdohqKVdErVjQUaf2GpqIRYgUQz-yPNhxFA97WUJxnYUgpNvc&usqp=CAU",ช่อง GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png",ช่อง CCTN
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://pbs.twimg.com/profile_images/567474044560089088/CaQ_ZKMP_400x400.png",ช่อง Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://play-lh.googleusercontent.com/Z-xq4pfx34QaZcUUAxP6ROq_M64GBw8xbBAQ6apcHLkurAzlzCcswH8l9_I6I8wAlik",ช่อง Hala London
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sethd_23oct_portrait_thumb_rev.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_sabhd_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_marathi_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY Marathi HD
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_bbchd_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://pbs.twimg.com/profile_images/497440939388858368/73qSmbwD_400x400.png",ช่อง SONY PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_aath_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY Aath
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_maxhd_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_wah_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY WAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_max2_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_pixhd_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",ช่อง Discovery Kids Hindi
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png",ช่อง Discovery Channel
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2012/12/19/Science-logo-horizontal.jpg",ช่อง Discovery Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",ช่อง Discovery Turbo
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png",ช่อง Investigation Discovery
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png",ช่อง DMAX
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png",ช่อง Travel Channel
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072015/hgtv.png?itok=9mkH6jTn",ช่อง HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",ช่อง Food Network
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png",ช่อง TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg",ช่อง Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/2560px-Eurosport_logo_%282001-2011%29.svg.png",ช่อง Eurosport
+https://varun-iptv.netlify.app/m3u/Eurosport.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/4f032dfc-bfd4-4c69-982b-361b9a4795a4.png",ช่อง LaoStar
+https://ctrl.laotv.la/live/LaoStar/index.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/57c9c7ba-bcc7-4c30-8ad4-d4fab611a2b7.png",ช่อง LNTV1
+https://ctrl.laotv.la/live/LNTV1/index.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/47acb94e-a2a5-4fde-bd9f-a0ec148cdf86.png",ช่อง LNTV3
+https://ctrl.laotv.la/live/LNTV3/index.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/42c67d3b-86e3-4e71-8f05-6677d1d31d3f.png",ช่อง VTE9
+https://ctrl.laotv.la/live/VTE9/index.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230804/video/d632d48f-2850-44ff-9fd6-e859e6edbed3.png",ช่อง LATV
+https://ctrl.laotv.la/live/LATV/index.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/fc251bad-66db-4d92-bbb4-d1aab661f56e.png",ช่อง PSTV
+https://ctrl.laotv.la/live/PSTV/index.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/23dd1aba-312f-41fe-ab8d-6b928455af0a.png",ช่อง Lao ESTV
+https://ctrl.laotv.la/live/LaoESTV/index.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJuioA8VXYFnDkFNG5VaVeJyNAuLFclQAL9928Vz3Zu6hRyEyCtAn1-4Klq_LWm0HLiQ&usqp=CAU",ช่อง Lao Champa TV 1
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_DP32L93_UPk4qWBdXUVbr-Fjlqqh05v1Fll7keHzcc7eC1iH3N7BHP6JWOXFB-irJgw&usqp=CAU",ช่อง Lao Champa TV 2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://aetlive.s3-us-west-2.amazonaws.com/assets/img/2018/03/03231638/newLaoChampa3.jpg",ช่อง Lao Champa TV 3
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://i.pinimg.com/280x280_RS/97/75/f4/9775f4606f5697b03ed13f9abf1334d3.jpg",ช่อง Khomsanh TV
+https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao Heritage Foundation TV
+https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao Net TV
+https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao SV TV
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao-Thai US TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Laos Planet TV
+https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Houng Fa
+https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Ning TV
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Oh Muang Lao TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://pbs.twimg.com/profile_images/1108046831072788480/hLlDym00_400x400.png",ช่อง Air TV
+https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQU2JLaK2JDU29bhSz9zeHdn4SMW2IJznyk1JPW=s900-c-k-c0x00ffffff-no-rj",ช่อง PNTV
+https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://image.winudf.com/v2/image/c3VwcmVtZW1hc3RlcnR2LmNvbS5zdXByZW1lbWFzdGVydHZfaWNvbl8xNTM0NDQ3MzY0XzAyNA/icon.png?w=&fakeurl=1",ช่อง Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://www.appletvappdownload.com/wp-content/uploads/2020/12/TeaTV-Download-APK-1-1-1.jpg",ช่อง Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://www.appletvappdownload.com/wp-content/uploads/2020/12/TeaTV-Download-APK-1-1-1.jpg",ช่อง Tea TV 2
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
