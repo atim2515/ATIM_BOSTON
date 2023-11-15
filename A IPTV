@@ -1929,17 +1929,20 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158360.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",ช่อง AEC
-http://mytv-extra.com/D85A79B4/55A7743D/191841
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ช่อง Astro AOD 352
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571229
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ช่อง AOD 351
-http://mytv-extra.com/D85A79B4/55A7743D/191847
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ช่อง Astro AOD 353
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571226
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ช่อง AOD 352
-http://mytv-extra.com/D85A79B4/55A7743D/191848
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",ช่อง Astro TVB Jade
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://img2.chinadaily.com.cn/images/201911/07/5dc38309a310cf3e97a500e8.jpeg",ช่อง iQIYI
-http://mytv-extra.com/D85A79B4/55A7743D/191950
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png?Astro%E5%B0%8F%E5%A4%AA%E9%99%BD79490550",ช่อง Astro Xiao Tai Yang
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571230
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://img2.chinadaily.com.cn/images/201911/07/5dc38309a310cf3e97a500e8.jpeg",ช่อง Astro iQIYI
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571198
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://i.imgur.com/l2JSQme.png",ช่อง SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
