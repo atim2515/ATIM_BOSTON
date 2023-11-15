@@ -689,6 +689,12 @@ https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 group-title="FILMON" tvg-logo="https://i.imgur.com/48iMZ7c.png",ช่อง Filmon 360 Experimental
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg",ช่อง BBC Earth
+http://aanax.com:8080/F14995/a84c0963/174446
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ช่อง ANIMAL PLANET
+http://aanax.com:8080/F14995/a84c0963/1130
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://logowik.com/content/uploads/images/rakuten-tv2152.logowik.com.webp",ช่อง Rakuten Action Movies
 http://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -720,9 +726,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/800px-MTV_80s_2022.png",ช่อง MTV 80s
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45267
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1044px-MTV_Classic_2017_logo.svg.png",ช่อง MTV CLASSIC
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45266
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPzzP-WCIgynecxGqnU4vVv3PWqY147rODVTszsF8Cyz55R0PC5BZ_ROqB-NmMBLHwqs&usqp=CAU",ช่อง Box Hits
