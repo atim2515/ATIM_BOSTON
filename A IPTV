@@ -1093,6 +1093,18 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVBD-logo.png",ช่อง TVB Drama
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153400
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVBE-logo.png",ช่อง TVBe
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153398
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png",ช่อง Now sports 2
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=1032478
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png",ช่อง Now sports 3
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=1032477
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png",ช่อง Now sports premier 1
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=1032487
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",ช่อง Lotus TV Macau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://61.19.242.134/feed/202306140918/LC41/index.m3u8
