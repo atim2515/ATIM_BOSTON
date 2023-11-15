@@ -689,12 +689,6 @@ https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 group-title="FILMON" tvg-logo="https://i.imgur.com/48iMZ7c.png",ช่อง Filmon 360 Experimental
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg",ช่อง BBC Earth
-http://aanax.com:8080/F14995/a84c0963/174446
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ช่อง ANIMAL PLANET
-http://aanax.com:8080/F14995/a84c0963/1130
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://logowik.com/content/uploads/images/rakuten-tv2152.logowik.com.webp",ช่อง Rakuten Action Movies
 http://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -1935,8 +1929,17 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158360.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",ช่อง AEC
+http://mytv-extra.com/D85A79B4/55A7743D/191841
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://img2.chinadaily.com.cn/images/201911/07/5dc38309a310cf3e97a500e8.jpeg",ช่อง AOD 351
+http://mytv-extra.com/D85A79B4/55A7743D/191847
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://img2.chinadaily.com.cn/images/201911/07/5dc38309a310cf3e97a500e8.jpeg",ช่อง AOD 352
+http://mytv-extra.com/D85A79B4/55A7743D/191848
+
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://img2.chinadaily.com.cn/images/201911/07/5dc38309a310cf3e97a500e8.jpeg",ช่อง iQIYI
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571198
+http://mytv-extra.com/D85A79B4/55A7743D/191950
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://i.imgur.com/l2JSQme.png",ช่อง SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
