@@ -1066,8 +1066,11 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳視高清
 http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/jade.jpg",ช่อง TVB Jade
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153398
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png",ช่อง Fairchild 1
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90351
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png",ช่อง Fairchild 2
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90352
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/jade.jpg",ช่อง TVB Jade Astro
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
