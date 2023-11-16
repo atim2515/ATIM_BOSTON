@@ -42,12 +42,6 @@ http://210.210.155.35:80/session/d88850e6-5484-11ec-9c1c-c81f66f89318/qwr9ew/s/s
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png",ช่อง Indosiar
 http://210.210.155.37/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png",ช่อง TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://seeklogo.com/images/T/trans-7-logo-E431AA9800-seeklogo.com.png",ช่อง TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
-
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/GdCgs7TSfDxuvoqhqCWKFrafCPs=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",ช่อง NET TV
 http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
 
@@ -66,47 +60,17 @@ http://210.210.155.35:80/dr9445/h/h10/01.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png",ช่อง TVONE
 http://210.210.155.35:80/session/e7f1ca8e-5b38-11ec-b4d0-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png",ช่อง NTV 7
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174695.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png",ช่อง TV 9
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171953.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png",ช่อง Astro Prima
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157467.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",ช่อง Astro SuperSport
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/146068.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",ช่อง Astro SuperSport 2
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157556.m3u8
-
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",ช่อง Astro SuperSport 3
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157557.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",ช่อง Astro SuperSport 4
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157558.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png",ช่อง Astro Cricket
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157565.m3u8
-
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png",ช่อง Astro Arena
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157485.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg",ช่อง beIN Sports
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157561.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",ช่อง Celestial Movies
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174687.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png",ช่อง Local Now Family Flix
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/296889.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c6d817ea4450f1c8bd16fcea4bcf4002.png",ช่อง Cinema World
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171956.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png",ช่อง BBC Earth
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171979.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",ช่อง Discovery Science
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157530.m3u8
