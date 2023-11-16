@@ -9,56 +9,8 @@ https://cdn-th-vip.login.in.th/ToplineChannel/ToplineChannel/chunklist_w61037174
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJkhWMTZO4fa9i4tiGzRcHvFFtqMKxAmr1g&usqp=CAU",ช่อง อีสานTV
 http://183.89.246.119:8881/play/a0a0/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg",ช่อง TOKYO MX 1
-https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAHhB3ldEkCyYlHcbXez55MT0SmZ5kL9W-w&usqp=CAU",ช่อง TOKYO MX 2
-https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/profile_images/591439979982684160/R6UMmVwf_400x400.png",ช่อง エムキャス
-https://movie.mcas.jp/mcas/mx_live_2/chunklist.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/LOGO_%28GUNMA_TV%29.jpg/revision/latest?cb=20150508100755",ช่อง Gunma TV
-https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง Tokyo CCTV
-http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
-
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4_lNGwtygqk_yNXx2KQgZEtQit-A1epTGZfln-nxNwZuNe30xxqyXTHQC8S4Zun6zA&usqp=CAU",ช่อง 好莱坞电影
 http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.dropbox.com/s/m6h3q73d0lpygph/tvri-id.png?dl=1",ช่อง TVRI NASIONAL
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png",ช่อง TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",ช่อง SCTV
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",ช่อง ANTV
-http://210.210.155.35:80/session/d88850e6-5484-11ec-9c1c-c81f66f89318/qwr9ew/s/s07/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png",ช่อง Indosiar
-http://210.210.155.37/qwr9ew/s/s04/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/GdCgs7TSfDxuvoqhqCWKFrafCPs=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",ช่อง NET TV
-http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_BBS_TV_2018.png",ช่อง BBS TV HD
-http://103.119.54.246:8080/hls/bbstv.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://3.bp.blogspot.com/-ZuShkWCVbvY/Tr8qBuFepqI/AAAAAAAAH-k/_MTxWVzgdho/s1600/Screen+shot+2011-11-13+at+9.20.00+AM.png",ช่อง KOMPAS TV
-http://210.210.155.35:80/session/7082f498-5b36-11ec-8760-c81f66f89318/qwr9ew/s/s104/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUiZ9LQSkt4BrHz9tRO-7w23ZU84IS8Ze6DZoY6bRuDco6TO7dv12rjHSVig96usWdPtw&usqp=CAU",ช่อง METRO TV HD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1617210888_b1492000_sleng.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdZNGNoOURahilIDfRN73v8VBhrLQFhwV-Og&usqp=CAU",ช่อง RTV HD
-http://210.210.155.35:80/dr9445/h/h10/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png",ช่อง TVONE
-http://210.210.155.35:80/session/e7f1ca8e-5b38-11ec-b4d0-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",ช่อง Astro SuperSport 3
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157557.m3u8
@@ -75,23 +27,11 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171956.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",ช่อง Discovery Science
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157530.m3u8
 
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1200px-CNN_Philippines_Logo.svg.png",ช่อง CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://pbs.twimg.com/profile_images/378800000578623391/e61e485505645b07f16d1dbd317a96a4_400x400.jpeg",ช่อง TBN Asia
-http://210.210.155.35/qwr9ew/s/s39/index2.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1MmNkNDktOTIwMS00YjkwLWIzNzktN2RiZTE1N2NjNjBiXkEyXkFqcGdeQXVyMTQ1MDgxMjc@._V1_FMjpg_UX1000_.jpg",ช่อง American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/VHS_logo.svg/1200px-VHS_logo.svg.png",ช่อง VHS 90s
-https://v2.catcast.tv/content/37925/index.m3u8
-
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://www.logolynx.com/images/logolynx/f8/f81fd3438c28a44e896433cef9f8b350.png",ช่อง FOX MUSIC
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://yt3.googleusercontent.com/Zgfw2OQDlS9T94wwPYaNsJCv53YOWEPrMAdxzT7e_RAUnJ5yD6XdVFBt-PwnYWuXITR1SmfCgA=s900-c-k-c0x00ffffff-no-rj",ช่อง Qwest TV Mix
-https://qwest-mix-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/06a434436f35dec7fb0f0eea971d147e2495f9648a96aa6861f3203f47b35f97.png",ช่อง Beach TV CSULB
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
