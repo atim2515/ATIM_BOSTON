@@ -1903,6 +1903,12 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png",ช่อง TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://seeklogo.com/images/T/trans-7-logo-E431AA9800-seeklogo.com.png",ช่อง TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest/scale-to-width-down/200?cb=20200805135934",ช่อง MAGNA CHANNEL HD
 https://edge.medcom.id:443/live-edge/smil:magna.smil/chunklist_w1281071333_b2692000_sleng.m3u8
 
@@ -1946,6 +1952,15 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158360.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2018/06/ntv7.png",ช่อง NTV 7
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174695.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",ช่อง TV 9
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171953.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png",ช่อง Astro Prima
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157467.m3u8
+
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ช่อง Astro AOD 352
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571229
 
@@ -1963,6 +1978,27 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://img2.chinadaily.com.cn/images/201911/07/5dc38309a310cf3e97a500e8.jpeg",ช่อง Astro iQIYI
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571198
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",ช่อง Astro Celestial Movies
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174687.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1200px-BBC_Earth_2023.svg.png",ช่อง Astro BBC Earth
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171979.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ช่อง Astro SuperSport
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/146068.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",ช่อง Astro SuperSport 2
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157556.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ช่อง Astro SuperSport 4
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157558.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",ช่อง Astro Cricket
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157565.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://static02.astro.com.my/astro/media/astromain/mediaroom/articleimages/ucl_main.png",ช่อง Astro beIN Sports
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157561.m3u8
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://i.imgur.com/l2JSQme.png",ช่อง SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
