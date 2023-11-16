@@ -1,9 +1,5 @@
 #EXTM3U
  
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CNBC.png",ช่อง JKN-CNBC
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0178/HLS/V0178.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
 
@@ -12,13 +8,6 @@ https://cdn-th-vip.login.in.th/ToplineChannel/ToplineChannel/chunklist_w61037174
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJkhWMTZO4fa9i4tiGzRcHvFFtqMKxAmr1g&usqp=CAU",ช่อง อีสานTV
 http://183.89.246.119:8881/play/a0a0/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://kbis.com/wp-content/uploads/2020/04/Design-Network-logo.jpg",ช่อง The Design Network
-https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lfc-tv.png",ช่อง LFCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg",ช่อง TOKYO MX 1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
@@ -35,26 +24,8 @@ https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://planet.co.th/wp-content/uploads/2022/07/Thermal-CCTV-Camera.png",ช่อง Tokyo CCTV
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNDP_Erqb_8llHt18HBgS9wrYcM-diTKpoww1rbCA=s900-c-k-c0x00ffffff-no-rj",ช่อง All The K-POP
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Kbs1.png",ช่อง KBS1
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Screenshot_2020-07-26_at_3.49.37_PM.png/revision/latest?cb=20200726075020",ช่อง KBS Kids
-http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Kbs-news-d-kr.svg/revision/latest/scale-to-width-down/250?cb=20220916131000",ช่อง KBS News D
-http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/QMDDHd1.gif",ช่อง MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4_lNGwtygqk_yNXx2KQgZEtQit-A1epTGZfln-nxNwZuNe30xxqyXTHQC8S4Zun6zA&usqp=CAU",ช่อง 好莱坞电影
 http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png",ช่อง CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.dropbox.com/s/m6h3q73d0lpygph/tvri-id.png?dl=1",ช่อง TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
@@ -94,9 +65,6 @@ http://210.210.155.35:80/dr9445/h/h10/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png",ช่อง TVONE
 http://210.210.155.35:80/session/e7f1ca8e-5b38-11ec-b4d0-b82a72d63267/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg",ช่อง Dens Life Style
-http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png",ช่อง NTV 7
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174695.m3u8
@@ -148,15 +116,6 @@ https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://pbs.twimg.com/profile_images/378800000578623391/e61e485505645b07f16d1dbd317a96a4_400x400.jpeg",ช่อง TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/index2.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png",ช่อง HBO HD
-http://vthanhtivi.pw:5000/hbo/index.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png",ช่อง Cinemax HD
-http://vthanhtivi.pw:5000/cinemax/index.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png",ช่อง Cartoon Network HD
-http://vthanhtivi.pw:5000/cartoon/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE1MmNkNDktOTIwMS00YjkwLWIzNzktN2RiZTE1N2NjNjBiXkEyXkFqcGdeQXVyMTQ1MDgxMjc@._V1_FMjpg_UX1000_.jpg",ช่อง American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
