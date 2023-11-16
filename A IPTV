@@ -1897,6 +1897,18 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226891/1.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.coolstreaming.us/img/ch/image46300120698.jpg",ช่อง TV BRICS English
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",ช่อง CHANNEL NEWS ASIA
+http://mytv-extra.com/D85A79B4/55A7743D/187008
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg/revision/latest?cb=20120613095225",ช่อง CH 5
+http://mytv-extra.com/D85A79B4/55A7743D/6681
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://mydrumschool.com/wp-content/uploads/2023/01/Mediacorp-Channel.jpg",ช่อง CH 8
+http://mytv-extra.com/D85A79B4/55A7743D/6679
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/MediaCorp_Channel_U_logo.jpg/revision/latest/scale-to-width-down/250?cb=20101105110017",ช่อง CH U
+http://mytv-extra.com/D85A79B4/55A7743D/6677
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
@@ -1982,6 +1994,12 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",ช่อง Astro Celestial Movies
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174687.m3u8
 
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://www.hedex.tv/uploads/images/clip_5180_1640441945_poster.png",ช่อง Astro Local Now Family Flix
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/296889.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",ช่อง Astro Cinema World
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171956.m3u8
+
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1200px-BBC_Earth_2023.svg.png",ช่อง Astro BBC Earth
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171979.m3u8
 
@@ -1990,6 +2008,9 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/146068.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",ช่อง Astro SuperSport 2
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157556.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ช่อง Astro SuperSport 3
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157557.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ช่อง Astro SuperSport 4
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157558.m3u8
@@ -2647,6 +2668,9 @@ http://51.210.199.20/hls/stream.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",ช่อง Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://www.logolynx.com/images/logolynx/f8/f81fd3438c28a44e896433cef9f8b350.png",ช่อง FOX MUSIC
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkU6BRqWNisk0-z1qapb6zx-yGsx0L-wQfyPsa1Ht1S5Bpj6FhpMTSL_trttcAhgjXPE&usqp=CAU",ช่อง Hitradio 3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
