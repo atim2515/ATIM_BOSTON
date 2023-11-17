@@ -537,8 +537,17 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",ช่อง SONY MOVIE CHANNEL
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=91789
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/1280px-Movieplex_logo.svg.png",ช่อง MOVIEPLEX
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45536
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i0.wp.com/cordcuttersnews.com/wp-content/uploads/2019/11/Screen_Shot_2015-09-02_at_2.20.55_pm.0.0-1.jpg?resize=617%2C411&quality=89&ssl=1",ช่อง MOVIES ON VERIZON
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=866246
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/432x292/b0/13/b1/b013b13124440f6a80173b863a9dab5a.jpg",ช่อง CRIME MOVIES
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=866307
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png",ช่อง MOVIETIME
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176921
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.ggpht.com/FXLtXovi3kRM30XtAfAMcNNDcoWsFtXrm3h6vzXvaWLPE0jCbj9q2CbHljnKUoJzJdzGGrFtXZs=s900-c-k-c0x00ffffff-no-rj",ช่อง Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
@@ -582,6 +591,12 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",ช่อง DISCOVERY
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45442
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png",ช่อง NAT GEO
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45453
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",ช่อง NAT GEO WILD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45452
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://i.imgur.com/bKVNdeh.jpg",ช่อง NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
@@ -615,6 +630,9 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://lawandcrime.com/wp-content/uploads/2020/12/lawandcrime-defult-social.jpg",ช่อง Law & Crime
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/736x/83/a0/4f/83a04fe63adf111f0ee7d41083a264cb.jpg",ช่อง MILITARY
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=866250
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Symbol.png",ช่อง FOOD NETWORK
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45577
 
@@ -627,11 +645,11 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://kbis.com/wp-content/uploads/2020/04/Design-Network-logo.jpg",ช่อง The Design Network
 https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",ช่อง CARTOON NETWORK
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=754475
-
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/640px-Boomerang_2014_logo.svg.png",ช่อง BOOMERANG
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45608
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.refinery29.com/images/10510352.jpg",ช่อง Adult Swim
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=754475
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5e9853180c904f07d802",ช่อง VEVO '80s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -642,7 +660,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTu7WfYjujaxX9OEcw6xzKvb5ntdoo6BEgoyjEBQtsRJe-3U1-zwjRf4MpgExjAydiSc&usqp=CAU",ช่อง VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/WFN_logo.png",ช่อง WORLD FISHING NETWORK
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://download.logo.wine/logo/Motor_Trend/Motor_Trend-Logo.wine.png",ช่อง MOTORTREND
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90962
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png",ช่อง WORLD FISHING NETWORK
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=91906
 
 #EXTINF:-1 group-title="TVS" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-boxing-network.jpg",ช่อง TVS Boxing
