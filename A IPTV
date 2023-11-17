@@ -409,10 +409,10 @@ https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8|Referer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg",ช่อง Bein Sports 1
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",ช่อง Bein Sports 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg",ช่อง Bein Sports 2
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png",ช่อง Bein Sports 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",ช่อง Spotv 1 HD
@@ -519,122 +519,47 @@ https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/34_x_Fk9Q2nuGNSaPJeiH6BAULjDWhX1bmMzE.png",ช่อง MVM
 https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/AE-logo.jpg",ช่อง A&E
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6419/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/2044px-American_Broadcasting_Company_Logo.svg.png",ช่อง ABC
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/1087/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/10404090_10152332589931892_5932730366256450069_n.jpg/revision/latest?cb=20140927212923",ช่อง ABC Buffalo
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6507/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.growfree.org.au/wp-content/uploads/2017/05/abc-news-logo-01.png",ช่อง ABC News
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6120/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png",ช่อง ABC Spark
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6466/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1200px-Amc_logo.svg.png",ช่อง AMC
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/1083/index.m3u8
-
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png",ช่อง BBC AMERICA
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45612
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Current_Logo_for_CBC_News_Network.png",ช่อง CBC News Network
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6442/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",ช่อง CINEMAX
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45597
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia803107.us.archive.org/34/items/ActionMax/action%20max.png",ช่อง CINEMAX ACTION MAX
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6156/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://ia903105.us.archive.org/14/items/CinemaxMoviemax/cinemax%20moviemax.png",ช่อง CINEMAX MOVIE MAX
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6155/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://tvbix.com/images/channels/outer-max.png",ช่อง CINEMAX OUTER MAX
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6154/index.m3u8
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45599
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia800800.us.archive.org/18/items/thrillermax//thrillermax_thumb.jpg",ช่อง CINEMAX THRILLER MAX
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6153/index.m3u8
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45595
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0006/6506/brand.gif?itok=b3xVkx7k",ช่อง CINEMAX MORE MAX
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6152/index.m3u8
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45596
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png",ช่อง CMT
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6448/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",ช่อง SONY MOVIE CHANNEL
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=91789
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",ช่อง CNBC
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/962/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png",ช่อง CNN
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6538/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/CNNinternational-logo.png",ช่อง CNN International Europe
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/842/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CP24_Channel.png/1024px-CP24_Channel.png",ช่อง CP 24
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6501/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/1280px-2016_CPAC_logo.svg.png",ช่อง CPAC English
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6494/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CTV_Comedy_Channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20190912200854",ช่อง CTV Comedy
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6454/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/CTV_News_Channel.png",ช่อง CTV News Channel
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6468/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CTV_Sci-Fi_Channel_2019.svg/1200px-CTV_Sci-Fi_Channel_2019.svg.png",ช่อง CTV SCI-FI
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6459/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/CTV_Two.svg/220px-CTV_Two.svg.png",ช่อง CTV Two Atlantic
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6423/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime + Investigation
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6506/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/01/AP21137627161185.jpg?strip=1&w=640",ช่อง Magnolia Network
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6488/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dtour_Logo.svg/2560px-Dtour_Logo.svg.png",ช่อง DTour
-http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6463/index.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ช่อง ANIMAL PLANET
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45447
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png/revision/latest?cb=20220213235652",ช่อง BBC FOOD
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=866345
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5e9853180c904f07d802",ช่อง VEVO '80s
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5eaf0606eb634d038662/200?webp=1",ช่อง VEVO '90s
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/432x292/b0/13/b1/b013b13124440f6a80173b863a9dab5a.jpg",ช่อง CRIME MOVIES
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=866307
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.ggpht.com/FXLtXovi3kRM30XtAfAMcNNDcoWsFtXrm3h6vzXvaWLPE0jCbj9q2CbHljnKUoJzJdzGGrFtXZs=s900-c-k-c0x00ffffff-no-rj",ช่อง Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTyFnwleqiWXzPjvb1QBrM-paXGN2_1CExQdo1fkQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Youtoo America
-https://thegateway.app/YouToo/YTamerica/playlist.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",ช่อง TLC
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45471
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.imgur.com/kPo3DFF.png",ช่อง ET Live
-https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png",ช่อง E! ENTERTAINMENT
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45584
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/originals/79/c0/bc/79c0bce84559aef273dba5f84be508d7.jpg",ช่อง Family Feud
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/98de6b5d6ae0e4caa4a60be5686d23f56632a857e6315cca0cb7a6387cda51e4.png",ช่อง Fox Soul
-http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgHaARutjfi1PRbVrt0tFZFSGohugviMs4LoyiRC66zcZbb5-oG8AIjW00qQp10IYKvs&usqp=CAU",ช่อง Fun Roads
-http://104.143.4.5:2080/funroads.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/e1abd2e3ea0aa5fc1d5dcccc160706e65849465b0be9de655551bdf2d2333fdc.png",ช่อง Outdoor America
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-logo="http://blog-imgs-74.fc2.com/m/i/l/milyatagarasu/2015030519070309a.jpg",ช่อง Johnny Carson TV
+https://johnnycarson-localnow.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/5bedc1c6710699b5359621db/444ecdb0-7417-46c2-836b-eb50b619c6af/ChannelLogos_SoReal_500x300.jpg",ช่อง So...Real
 https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="http://blog-imgs-74.fc2.com/m/i/l/milyatagarasu/2015030519070309a.jpg",ช่อง Johnny Carson TV
-https://johnnycarson-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.imgur.com/kPo3DFF.png",ช่อง ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://musicrow.com/wp-content/uploads/2021/01/Circle-logo.png",ช่อง Circle
 https://circle-samsung.amagi.tv/playlist.m3u8
@@ -642,17 +567,83 @@ https://circle-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41duBUD0OHL.png",ช่อง Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://lawandcrime.com/wp-content/uploads/2020/12/lawandcrime-defult-social.jpg",ช่อง Law & Crime
-https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png",ช่อง CNN
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=442785
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/2048px-BBC_World_News_2019.svg.png",ช่อง BBC WORLD NEWS
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=91766
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",ช่อง CNBC
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45593
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png",ช่อง CNBC WORLD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=91782
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",ช่อง DISCOVERY
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45442
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://i.imgur.com/bKVNdeh.jpg",ช่อง NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ช่อง ANIMAL PLANET
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45447
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1200px-Destination_America_logo.svg.png",ช่อง DESTINATION AMERICA
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90954
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png",ช่อง TRAVEL CHANNEL
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45437
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/1200px-Travel_Channel_HD_Logo.png",ช่อง TRAVEL
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=866178
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTyFnwleqiWXzPjvb1QBrM-paXGN2_1CExQdo1fkQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Youtoo America
+https://thegateway.app/YouToo/YTamerica/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgHaARutjfi1PRbVrt0tFZFSGohugviMs4LoyiRC66zcZbb5-oG8AIjW00qQp10IYKvs&usqp=CAU",ช่อง Fun Roads
+http://104.143.4.5:2080/funroads.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/e1abd2e3ea0aa5fc1d5dcccc160706e65849465b0be9de655551bdf2d2333fdc.png",ช่อง Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/98de6b5d6ae0e4caa4a60be5686d23f56632a857e6315cca0cb7a6387cda51e4.png",ช่อง Fox Soul
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime + Investigation
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90938
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://lawandcrime.com/wp-content/uploads/2020/12/lawandcrime-defult-social.jpg",ช่อง Law & Crime
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Symbol.png",ช่อง FOOD NETWORK
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45577
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://img.freepik.com/premium-vector/culinary-channel-food-tv-logo_18099-1622.jpg",ช่อง FOOD TV
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=866286
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png/revision/latest?cb=20220213235652",ช่อง BBC FOOD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=866345
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://kbis.com/wp-content/uploads/2020/04/Design-Network-logo.jpg",ช่อง The Design Network
 https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",ช่อง CARTOON NETWORK
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=754475
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/640px-Boomerang_2014_logo.svg.png",ช่อง BOOMERANG
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45608
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5e9853180c904f07d802",ช่อง VEVO '80s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5eaf0606eb634d038662/200?webp=1",ช่อง VEVO '90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTu7WfYjujaxX9OEcw6xzKvb5ntdoo6BEgoyjEBQtsRJe-3U1-zwjRf4MpgExjAydiSc&usqp=CAU",ช่อง VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/WFN_logo.png",ช่อง WORLD FISHING NETWORK
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=91906
 
 #EXTINF:-1 group-title="TVS" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-boxing-network.jpg",ช่อง TVS Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
@@ -2228,25 +2219,25 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/2560px-Eurosport_logo_%282001-2011%29.svg.png",ช่อง Eurosport
 https://varun-iptv.netlify.app/m3u/Eurosport.m3u8
 
-#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/4f032dfc-bfd4-4c69-982b-361b9a4795a4.png",ช่อง LaoStar
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lao_Star_Tv.png/320px-Lao_Star_Tv.png",ช่อง LaoStar
 https://ctrl.laotv.la/live/LaoStar/index.m3u8
 
-#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/57c9c7ba-bcc7-4c30-8ad4-d4fab611a2b7.png",ช่อง LNTV1
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Lntv1bugwithweb.png/revision/latest?cb=20170730160233",ช่อง LNTV1
 https://ctrl.laotv.la/live/LNTV1/index.m3u8
 
-#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/47acb94e-a2a5-4fde-bd9f-a0ec148cdf86.png",ช่อง LNTV3
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Lntv3.png/revision/latest?cb=20170730164812",ช่อง LNTV3
 https://ctrl.laotv.la/live/LNTV3/index.m3u8
 
-#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/42c67d3b-86e3-4e71-8f05-6677d1d31d3f.png",ช่อง VTE9
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://yt3.googleusercontent.com/nD_C86twEbzIXbvth3QNqngR0FCBOsL9qDJLcR3KwKWof0gpntKGtzuioT8nWLWL31JVnr3B0A=s900-c-k-c0x00ffffff-no-rj",ช่อง VTE9
 https://ctrl.laotv.la/live/VTE9/index.m3u8
 
-#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230804/video/d632d48f-2850-44ff-9fd6-e859e6edbed3.png",ช่อง LATV
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://yt3.googleusercontent.com/edfIqfc9q8r0l-uSCcVy4jAd-Q3JQtisTYuptSecjacAfYzI9whH5S4qsaszbP6HD_bZBKGx=s900-c-k-c0x00ffffff-no-rj",ช่อง LATV
 https://ctrl.laotv.la/live/LATV/index.m3u8
 
-#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/fc251bad-66db-4d92-bbb4-d1aab661f56e.png",ช่อง PSTV
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://static.wikia.nocookie.net/youtube/images/b/bc/LaoPSTVOfficial.jpg/revision/latest?cb=20220605202042",ช่อง PSTV
 https://ctrl.laotv.la/live/PSTV/index.m3u8
 
-#EXTINF:-1 group-title="LAO TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/23dd1aba-312f-41fe-ab8d-6b928455af0a.png",ช่อง Lao ESTV
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://yt3.googleusercontent.com/YWjbdbq3zWX6ba7JihzQa7hsFQVQJxaJzOe9wXGhXAO9XvfE_H_rZUUDwwj3ihZYsmGDc0ir=s900-c-k-c0x00ffffff-no-rj",ช่อง Lao ESTV
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJuioA8VXYFnDkFNG5VaVeJyNAuLFclQAL9928Vz3Zu6hRyEyCtAn1-4Klq_LWm0HLiQ&usqp=CAU",ช่อง Lao Champa TV 1
