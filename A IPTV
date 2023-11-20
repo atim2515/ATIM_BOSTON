@@ -258,7 +258,7 @@ https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist_Fuso_121120.m
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://dl.dropbox.com/s/53njjabp453iua4/thaichiyo.png?dl=0",ช่อง ไทไชโย
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://images.useetv.com/logo_boomerang_small.png",ช่อง Boomerang
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",ช่อง Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
 
@@ -519,8 +519,26 @@ https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/34_x_Fk9Q2nuGNSaPJeiH6BAULjDWhX1bmMzE.png",ช่อง MVM
 https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png",ช่อง BBC AMERICA
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45612
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png",ช่อง HBO
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45549
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",ช่อง HBO SIGNATURE
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45547
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",ช่อง HBO FAMILY
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45550
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png",ช่อง HBO COMEDY
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45551
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_logo.png/640px-HBO_Zone_logo.png",ช่อง HBO ZONE
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45546
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg",ช่อง HBO 1
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176913
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",ช่อง HBO 2
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45552
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",ช่อง CINEMAX
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45597
@@ -533,6 +551,9 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0006/6506/brand.gif?itok=b3xVkx7k",ช่อง CINEMAX MORE MAX
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45596
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",ช่อง SHOWTIME
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45503
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",ช่อง SONY MOVIE CHANNEL
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=91789
@@ -557,6 +578,9 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png",ช่อง MOVIETIME
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176921
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png",ช่อง BBC AMERICA
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45612
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.ggpht.com/FXLtXovi3kRM30XtAfAMcNNDcoWsFtXrm3h6vzXvaWLPE0jCbj9q2CbHljnKUoJzJdzGGrFtXZs=s900-c-k-c0x00ffffff-no-rj",ช่อง Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
@@ -587,6 +611,9 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png",ช่อง CNN
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=442785
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.rosica.com/rosica-media/uploads/2020/08/Logo-msnbc-png-1920.png",ช่อง MSNBC
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176827
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/2048px-BBC_World_News_2019.svg.png",ช่อง BBC WORLD NEWS
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=91766
@@ -621,8 +648,14 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ช่อง ANIMAL PLANET
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45447
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/06/Love-Nature-1.png",ช่อง LOVE NATURE
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176896
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1200px-Destination_America_logo.svg.png",ช่อง DESTINATION AMERICA
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90954
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png",ช่อง OUTDOOR CHANNEL
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90964
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png",ช่อง TRAVEL CHANNEL
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45437
@@ -663,8 +696,20 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://kbis.com/wp-content/uploads/2020/04/Design-Network-logo.jpg",ช่อง The Design Network
 https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png",ช่อง DISNEY CHANNEL
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45588
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/santiago/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20201102000636",ช่อง DISNEY JR
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45587
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",ช่อง DISNEY XD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45586
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/640px-Boomerang_2014_logo.svg.png",ช่อง BOOMERANG
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45608
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://logowik.com/content/uploads/images/nickelodeon7748.jpg",ช่อง NICKELODEON
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45521
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://www.refinery29.com/images/10510352.jpg",ช่อง Adult Swim
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=754475
@@ -716,6 +761,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTu7WfYjujaxX9OEcw6xzKvb5ntdoo6BEgoyjEBQtsRJe-3U1-zwjRf4MpgExjAydiSc&usqp=CAU",ช่อง VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",ช่อง FIGHT NETWORK
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=91897
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://download.logo.wine/logo/Motor_Trend/Motor_Trend-Logo.wine.png",ช่อง MOTORTREND
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90962
@@ -843,7 +891,7 @@ https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/800px-Film4_logo_2018.svg.png",ช่อง FILM4
 http://mytv-extra.com/D85A79B4/55A7743D/191265
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.horrorchannel.co.uk/content/wp-content/uploads/2022/03/April-Banner.jpg",ช่อง HORROR CHANNEL
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://ia600806.us.archive.org/18/items/HorrorChannel/horror%20channel.png",ช่อง HORROR CHANNEL
 http://mytv-extra.com/D85A79B4/55A7743D/153773
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xZHORROP.png",ช่อง HORROR CHANNEL +1
@@ -3008,7 +3056,7 @@ https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8
 #EXTINF:-1 group-title="FOOD CHANNEL" tvg-logo="https://static.wikia.nocookie.net/masterchef/images/6/6b/474128E8-5CAC-4A4C-AE40-1A40E82CEB27.jpeg/revision/latest?cb=20200912015952",ช่อง MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://images.useetv.com/logo_boomerang_small.png",ช่อง Boomerang
+#EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",ช่อง Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
 
