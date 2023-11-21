@@ -1009,7 +1009,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png",ช่อง NHK BSP
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555",ช่อง Nippon TV
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://gazetausa.com/wp-content/uploads/2016/08/TBS-TOKYO-BROADCASTING-SYSTEM.jpg",ช่อง TBS
@@ -2161,7 +2161,7 @@ https://edge.medcom.id:443/live-edge/smil:magna.smil/chunklist_w1281071333_b2692
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS9gu1kN_SETA96FjlqZwi0aVWiagXvZ6syqZKx=s900-c-k-c0x00ffffff-no-rj",ช่อง UGTV HD
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13",ช่อง BERITA SATU
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.beritasatu.com/img/beritasatu-logo.jpg",ช่อง BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",ช่อง Bisnet Adventure 4K
@@ -2184,6 +2184,66 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg",ช่อง DENS Learning Knowlegde
 http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png",ช่อง HBO family
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683150
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",ช่อง AXN
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683144
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",ช่อง HITS Movies
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683163
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810",ช่อง HITS
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683145
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png",ช่อง Lifetime
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683129
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",ช่อง CinemaWorld
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683146
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ช่อง One
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683130
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",ช่อง Thrill
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683154
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaqjIh36Onq-QqV4KOvRNDXJtDWrEHht8gUu9amyQ=s900-c-k-c0x00ffffff-no-rj",ช่อง tvN Movies
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683149
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png?20140410005014",ช่อง tvN
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683148
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_logo_466x146.png",ช่อง NHK
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683183
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",ช่อง CNA
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683185
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",ช่อง CNBC
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683186
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png?20120320155128",ช่อง DW
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683192
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png",ช่อง France24
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683191
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png",ช่อง Nat Geo
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683086
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",ช่อง Nat Geo Wild
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683089
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",ช่อง HISTORY
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683091
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime+Investigation
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683088
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",ช่อง Fight Network
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683135
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",ช่อง RTM TV 1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
@@ -2228,7 +2288,7 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",ช่อง Astro Celestial Movies
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174687.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://www.hedex.tv/uploads/images/clip_5180_1640441945_poster.png",ช่อง Astro Local Now Family Flix
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/67C50642-086D-4EC9-BF2F-0DF19FF704F0/3-1x1.png/900",ช่อง Astro Local Now Family Flix
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/296889.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",ช่อง Astro Cinema World
