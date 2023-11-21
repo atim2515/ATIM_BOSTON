@@ -2132,16 +2132,16 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226891/1.m3u8
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",ช่อง CHANNEL NEWS ASIA
-http://mytv-extra.com/D85A79B4/55A7743D/187008
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=941688
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg/revision/latest?cb=20120613095225",ช่อง CH 5
-http://mytv-extra.com/D85A79B4/55A7743D/6681
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=941615
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://mydrumschool.com/wp-content/uploads/2023/01/Mediacorp-Channel.jpg",ช่อง CH 8
-http://mytv-extra.com/D85A79B4/55A7743D/6679
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=941616
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/MediaCorp_Channel_U_logo.jpg/revision/latest/scale-to-width-down/250?cb=20101105110017",ช่อง CH U
-http://mytv-extra.com/D85A79B4/55A7743D/33002
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=941617
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
@@ -2218,6 +2218,9 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_logo_466x146.png",ช่อง NHK
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683183
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png",ช่อง KBS World
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=941604
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",ช่อง CNA
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683185
 
@@ -2242,8 +2245,23 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime+Investigation
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683088
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/MNCSports1_tegak.png/revision/latest?cb=20200909231435",ช่อง Mnc Sports 1
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683133
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/2560px-SPOTV_logo.svg.png",ช่อง SPOTV
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683117
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",ช่อง Fight Network
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683135
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",ช่อง Disney XD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683171
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://cdn.mos.cms.futurecdn.net/u3xQKM9WfmqKc8FPXbcqyY.jpg",ช่อง Nickelodeon
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683175
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/640px-Boomerang_2014_logo.svg.png",ช่อง Boomerang
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683172
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",ช่อง RTM TV 1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
