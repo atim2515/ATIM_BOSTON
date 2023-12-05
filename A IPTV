@@ -1255,6 +1255,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20210123215055",ช่อง NHK BS1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/NHK_BS4K.svg/revision/latest/scale-to-width-down/250?cb=20231124144931",ช่อง NHK BSP 4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png",ช่อง NHK BSP
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -1353,6 +1356,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://ih1.redbubble.net/image.2928837324.5878/st,small,507x507-pad,600x600,f8f8f8.jpg",ช่อง Gaki no Tsukai
 https://hamada.gaki-no-tsukai.eu/hls/test.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",ช่อง Eisei Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",ช่อง Channel Ginga
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
