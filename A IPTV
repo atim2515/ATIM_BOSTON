@@ -2407,7 +2407,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p2.itc.cn/images01/20211102/bcf58d0f87f84654b0ac17ac7aabb06c.jpeg",ช่อง 湖南卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225103512Y4.png",ช่อง 浙江卫视
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://file.psd.cn/20211216A/2lgbx4o5ehq_PSD_cn.png",ช่อง 浙江卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",ช่อง 江苏卫视
@@ -2419,7 +2419,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://bpic.51yuansu.com/pic3/cover/02/90/46/5aba18558dec2_610.jpg",ช่อง 东方卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-14022514114J51.png",ช่อง 深圳卫视
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://images.sj33.cn/uploads/allimg/201402/7-14022514114J51.png",ช่อง 深圳卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",ช่อง 安徽卫视
@@ -2509,7 +2509,7 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png",ช่อง CNBC INDONESIA
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://play-lh.googleusercontent.com/OKHS6EcJx8XhrQZ1leZxAH9fbGX6ug_fRyHI4bT5v0W1eo6Or2FudDaDruI_-cCsaFE",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png",ช่อง TRANS TV
@@ -2762,7 +2762,7 @@ http://mytv-extra.com/D85A79B4/55A7743D/380118
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1816px-MTV_90s_2022.svg.png",ช่อง MTV 90s
 http://mytv-extra.com/D85A79B4/55A7743D/380115
 
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/1200px-Tlc_logo_discovery.svg.png",ช่อง TLC
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",ช่อง TLC
 http://mytv-extra.com/D85A79B4/55A7743D/380109
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",ช่อง tvN
@@ -3161,12 +3161,11 @@ https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://i.imgur.com/hD3wGq3.png",ช่อง TNN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
+https://ctrl.laotv.la/live/TNN24/index.m3u8
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://static.thaicom.io/chbig/big_14_20211217071952.png",ช่อง Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0021/DASH/V0021.mpd?
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -3652,7 +3651,7 @@ https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 #EXTINF:-1 group-title="FOOD CHANNEL" tvg-logo="https://www.glewed.tv/wp-content/uploads/2021/03/TheChefRocShowPoster-300x450.jpg",ช่อง Chef Roc Show
 https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
 
-#EXTINF:-1 group-title="FOOD CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3SiRr8fU5uDfNu-rGR8uC4NH81cw6fBrZlg&usqp=CAU",ช่อง HUNGRY
+#EXTINF:-1 group-title="FOOD CHANNEL" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ef15be0ddbf393489faa41b/1592957362496-TLELSLDWHHSV9RHHTS3O/Hungry-logo-PS-01.png",ช่อง HUNGRY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="FOOD CHANNEL" tvg-logo="http://www.glewed.tv/wp-content/uploads/2020/03/MadDogMerrillMidwestGrillnHero.jpg",ช่อง Mad Dog and Merrill
