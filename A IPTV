@@ -1212,7 +1212,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqX-es-eIZN4LLxzKYBfxgxjlN2Mp-7-wPY2oBtE-Hkid54Uf1cCJDdqZzaHNGjj7Qhc&usqp=CAU",ช่อง Kerrang
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lfc-tv.png",ช่อง LFCTV
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSgafhGSV7WYWfiZ89toaD0z2JvNLxsPCGLi1-2=s900-c-k-c0x00ffffff-no-rj",ช่อง LFCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
@@ -1256,10 +1256,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/NHK_BS4K.svg/revision/latest/scale-to-width-down/250?cb=20231124144931",ช่อง NHK BSP4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png",ช่อง NHK BSP
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://cdn.goope.jp/60623/210701170021-60dd7615554cf.png",ช่อง NHK Kishou Saigai
+https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1310,7 +1310,7 @@ http://for-testonly.ra1n.lol/teletama/index.m3u8
 http://for-testonly.ra1n.lol/home/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX1
-http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
+http://jp.vthanhnetwork.com/Tokyo_MX1/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=aJouEnzh",ช่อง GEM
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298533
@@ -1415,7 +1415,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",ช่อง MTV
-http://asia.vthanhtivi.pw/MTV/index.m3u8
+http://jp.vthanhnetwork.com/MTV/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT11URHTnat0Zr16guKVxxVCq7kSDHVmd2LsJyqLfgDbG5gWRy_y8C4mTQGlo3bNm5_tk&usqp=CAU",ช่อง Music On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1429,14 +1429,14 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",ช่อง Kayo Pops
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/MCountdown2021Logo.png",ช่อง M Countdown
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/M_Countdown_2024_Logo.png/250px-M_Countdown_2024_Logo.png",ช่อง M Countdown
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i3.gamebiz.jp/media/14956665-536d-457c-ad23-900d816d9c86.jpg",ช่อง BS Animax
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",ช่อง AT-X
-http://asia.vthanhtivi.pw/AT-X/index.m3u8
+http://jp.vthanhnetwork.com/AT-X/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykVkJwIKWix3HlsmdWKmzjNnLb3A-ypFDZ8Zn-vN9f3lGnifZHXOA9EiEa-JkkUBsUl0&usqp=CAU",ช่อง Kids Station
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1481,7 +1481,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.njpw1972.com/wp-content/uploads/2017/03/world.png",ช่อง NJPW World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.igoshogi.net/common/images/og_image.png",ช่อง Igo Shogi Channel
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1500,6 +1500,12 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg",ช่อง TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ",ช่อง 朝日新聞 NEWS
+https://ythls-v2.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/vcGsZVD.png",ช่อง HBC 北海道NEWS
+https://ythls-v2.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/aiB1WALywZi2Lx5MxF2pQRQm_HUHTj19Of-2HARuzCNmlMHi-2ejmyucJEwL9EmBFWjQMUdIZQ=s900-c-k-c0x00ffffff-no-rj",ช่อง TOS News
 https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
@@ -1706,7 +1712,7 @@ https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",ช่อง Lotus TV Macau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202306140918/LC41/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://breadradioonline.com/images/tv-01.jpg",ช่อง 面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -1813,385 +1819,385 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkDJW9Vn7xzK-zL5fCJVvD_QK2KK-JSqSdn6RmtQ=s900-c-k-c0x00ffffff-no-rj",ช่อง 唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 状王宋世杰-第二部-张达明大战黄子华
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 状王宋世杰-第二部-张达明大战黄子华
 http://159.75.85.63:35455/huya/23734183
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 美猴王粤语版
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 美猴王粤语版
 http://159.75.85.63:35455/huya/23734246
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 孙悟空唐三藏取西经
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 孙悟空唐三藏取西经
 http://159.75.85.63:35455/huya/23735126
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 楚汉骄雄
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 楚汉骄雄
 http://159.75.85.63:35455/huya/23740156
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 普通司机小马的直播间
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 普通司机小马的直播间
 http://159.75.85.63:35455/huya/23749096
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 射雕之九阴真经-姜大卫 张智霖
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 射雕之九阴真经-姜大卫 张智霖
 http://159.75.85.63:35455/huya/23824164
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 法证先锋
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 法证先锋
 http://159.75.85.63:35455/huya/23829543
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 野蛮亲家血腥对线
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 野蛮亲家血腥对线
 http://159.75.85.63:35455/huya/23863796
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 寻秦记 古天乐宣萱CP
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 寻秦记 古天乐宣萱CP
 http://159.75.85.63:35455/huya/23864973
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 食为奴·王祖蓝万绮雯
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 食为奴·王祖蓝万绮雯
 http://159.75.85.63:35455/huya/23865058
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 鹿鼎记 小春版韦小宝
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 鹿鼎记 小春版韦小宝
 http://159.75.85.63:35455/huya/23865080
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 大头绿衣斗僵尸 钱小豪这能打
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 大头绿衣斗僵尸 钱小豪这能打
 http://159.75.85.63:35455/huya/23865152
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 大时代
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 大时代
 http://159.75.85.63:35455/huya/23865161
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 天龙八部 97版黄日华
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 天龙八部 97版黄日华
 http://159.75.85.63:35455/huya/23903123
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 洗冤录 经典TVB·欧阳震华
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 洗冤录 经典TVB·欧阳震华
 http://159.75.85.63:35455/huya/23903130
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 宠物情缘-古天乐与郑秀文
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 宠物情缘-古天乐与郑秀文
 http://159.75.85.63:35455/huya/23903183
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 扫黄先锋·欧阳震华
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 扫黄先锋·欧阳震华
 http://159.75.85.63:35455/huya/23903196
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 虎牙八点档
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 虎牙八点档
 http://159.75.85.63:35455/huya/880261
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 五福星系列
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 五福星系列
 http://159.75.85.63:35455/huya/11282233
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง [女神系列]邱淑贞 王祖贤 张曼玉
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง [女神系列]邱淑贞 王祖贤 张曼玉
 http://159.75.85.63:35455/huya/11336571
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 周星星粤语经典版
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 周星星粤语经典版
 http://159.75.85.63:35455/huya/11336587
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 成龙
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 成龙
 http://159.75.85.63:35455/huya/11342386
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 周润发
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 周润发
 http://159.75.85.63:35455/huya/11342387
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 李连杰
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 李连杰
 http://159.75.85.63:35455/huya/11342390
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 太极的传承
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 太极的传承
 http://159.75.85.63:35455/huya/11342397
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 周星驰
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 周星驰
 http://159.75.85.63:35455/huya/11342412
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 林正英
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 林正英
 http://159.75.85.63:35455/huya/11342421
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 刘德华
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 刘德华
 http://159.75.85.63:35455/huya/11342424
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 黄渤-经典回顾
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黄渤-经典回顾
 http://159.75.85.63:35455/huya/11342429
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 甄子丹
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 甄子丹
 http://159.75.85.63:35455/huya/11352935
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 港产搞笑恐怖
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 港产搞笑恐怖
 http://159.75.85.63:35455/huya/11601960
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 沈腾合集
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 沈腾合集
 http://159.75.85.63:35455/huya/11601968
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 历年贺岁档
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 历年贺岁档
 http://159.75.85.63:35455/huya/11601986
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 电吉他少女在线翻弹
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 电吉他少女在线翻弹
 http://159.75.85.63:35455/huya/21241765
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 街访Show-西哥来了
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 街访Show-西哥来了
 http://159.75.85.63:35455/huya/10849208
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 徐良除暴安良替天行道
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 徐良除暴安良替天行道
 http://159.75.85.63:35455/huya/10871113
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 陈翔六点半
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 陈翔六点半
 http://159.75.85.63:35455/huya/11274154
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 飞车电影
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 飞车电影
 http://159.75.85.63:35455/huya/11279247
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 卧底&警察的故事
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 卧底&警察的故事
 http://159.75.85.63:35455/huya/11279251
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 圣斗士李世民
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 圣斗士李世民
 http://159.75.85.63:35455/huya/11336572
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 盗墓笔记少年篇
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 盗墓笔记少年篇
 http://159.75.85.63:35455/huya/11336578
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 上古神器轩辕剑
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 上古神器轩辕剑
 http://159.75.85.63:35455/huya/11336579
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 愚人节一起笑破肚皮
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 愚人节一起笑破肚皮
 http://159.75.85.63:35455/huya/11336590
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 黄金配角 | 达叔
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黄金配角 | 达叔
 http://159.75.85.63:35455/huya/11336592
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 美ren制造!好片好剧
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 美ren制造!好片好剧
 http://159.75.85.63:35455/huya/11336593
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 黑帮大片
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黑帮大片
 http://159.75.85.63:35455/huya/11336719
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง RM 刘在石李光洙跑男
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง RM 刘在石李光洙跑男
 http://159.75.85.63:35455/huya/11336725
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 武林萌主唐小姐
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 武林萌主唐小姐
 http://159.75.85.63:35455/huya/11336726
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 新水浒传-‪在‪下正‪是‪西公子
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 新水浒传-‪在‪下正‪是‪西公子
 http://159.75.85.63:35455/huya/11342384
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 草莽英雄变成抗日英雄
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 草莽英雄变成抗日英雄
 http://159.75.85.63:35455/huya/11342388
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 冲冲冲!给老子上
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 冲冲冲!给老子上
 http://159.75.85.63:35455/huya/11342392
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 国产悬疑精选
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 国产悬疑精选
 http://159.75.85.63:35455/huya/11342395
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 纪晓岚-岚宝珅宝的爱恨情仇
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 纪晓岚-岚宝珅宝的爱恨情仇
 http://159.75.85.63:35455/huya/11342396
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 一代枭雄为报父仇励精图治
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 一代枭雄为报父仇励精图治
 http://159.75.85.63:35455/huya/11342398
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 简小熙的直播间
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 简小熙的直播间
 http://159.75.85.63:35455/huya/11342399
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 活佛济公
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 活佛济公
 http://159.75.85.63:35455/huya/11342400
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 搞笑的一家人
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 搞笑的一家人
 http://159.75.85.63:35455/huya/11342402
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 倚天屠龙记·六大门派围攻光明顶
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 倚天屠龙记·六大门派围攻光明顶
 http://159.75.85.63:35455/huya/11342403
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 陆贞传奇
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 陆贞传奇
 http://159.75.85.63:35455/huya/11342404
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 中华小当家
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 中华小当家
 http://159.75.85.63:35455/huya/11342413
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 玄幻剧场·体验另一种生活
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 玄幻剧场·体验另一种生活
 http://159.75.85.63:35455/huya/11342414
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 群雄逐鹿.窃符救赵
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 群雄逐鹿.窃符救赵
 http://159.75.85.63:35455/huya/11342415
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 姐妹搞笑都市生活
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 姐妹搞笑都市生活
 http://159.75.85.63:35455/huya/11342417
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 康熙·民间私访
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 康熙·民间私访
 http://159.75.85.63:35455/huya/11342418
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 黑帮斗争
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黑帮斗争
 http://159.75.85.63:35455/huya/11342419
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 王艳的孙蝶真的好美
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 王艳的孙蝶真的好美
 http://159.75.85.63:35455/huya/11342420
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 吐槽·明星大咖自黑现场
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 吐槽·明星大咖自黑现场
 http://159.75.85.63:35455/huya/11342422
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 开心鬼系列
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 开心鬼系列
 http://159.75.85.63:35455/huya/11342423
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 神探狄仁杰
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 神探狄仁杰
 http://159.75.85.63:35455/huya/11342425
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 邻li一家亲 满院白眼狼
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 邻li一家亲 满院白眼狼
 http://159.75.85.63:35455/huya/11342426
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง DC外国电影
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง DC外国电影
 http://159.75.85.63:35455/huya/11342428
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 许三多军营成长史
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 许三多军营成长史
 http://159.75.85.63:35455/huya/11342430
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 布衣结交天子古今一人
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 布衣结交天子古今一人
 http://159.75.85.63:35455/huya/11342432
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 热血学生保家卫国
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 热血学生保家卫国
 http://159.75.85.63:35455/huya/11342434
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 金庸的武侠世界
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 金庸的武侠世界
 http://159.75.85.63:35455/huya/11342435
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 没想到你是这样的猪
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 没想到你是这样的猪
 http://159.75.85.63:35455/huya/11342436
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 雍正皇帝的风云一生
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 雍正皇帝的风云一生
 http://159.75.85.63:35455/huya/11342439
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 胡八一胖子沙漠古城找鬼洞
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 胡八一胖子沙漠古城找鬼洞
 http://159.75.85.63:35455/huya/11352871
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 家有儿女 我叫夏冰雹
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 家有儿女 我叫夏冰雹
 http://159.75.85.63:35455/huya/11352872
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 龙门镖局
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 龙门镖局
 http://159.75.85.63:35455/huya/11352874
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 宁浩导演-yoo守护TA
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 宁浩导演-yoo守护TA
 http://159.75.85.63:35455/huya/11352876
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 合家欢喜剧
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 合家欢喜剧
 http://159.75.85.63:35455/huya/11352877
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 经典港片-邻家少女
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 经典港片-邻家少女
 http://159.75.85.63:35455/huya/11352878
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง [猫和老鼠]汤姆和杰瑞的故事
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง [猫和老鼠]汤姆和杰瑞的故事
 http://159.75.85.63:35455/huya/11352879
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 我的宝贝baby
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 我的宝贝baby
 http://159.75.85.63:35455/huya/11352880
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 萌新司机
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 萌新司机
 http://159.75.85.63:35455/huya/11352881
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 我们都爱笑卡通
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 我们都爱笑卡通
 http://159.75.85.63:35455/huya/11352882
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 第十门
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 第十门
 http://159.75.85.63:35455/huya/11352883
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 韩国高分动作片
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 韩国高分动作片
 http://159.75.85.63:35455/huya/11352884
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 卧底警匪片
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 卧底警匪片
 http://159.75.85.63:35455/huya/11352886
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 灾难大片-吞针主播
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 灾难大片-吞针主播
 http://159.75.85.63:35455/huya/11352887
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 头文字D·秋名山车神
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 头文字D·秋名山车神
 http://159.75.85.63:35455/huya/11352889
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 医馆笑传
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 医馆笑传
 http://159.75.85.63:35455/huya/11352891
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 灵剑山·试炼开启
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 灵剑山·试炼开启
 http://159.75.85.63:35455/huya/11352896
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 抗日大片
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 抗日大片
 http://159.75.85.63:35455/huya/11352897
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 汉武大帝.七国之乱
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 汉武大帝.七国之乱
 http://159.75.85.63:35455/huya/11352899
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 燃青春!热血男儿中国心
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 燃青春!热血男儿中国心
 http://159.75.85.63:35455/huya/11352905
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 荒漠中的枪神
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 荒漠中的枪神
 http://159.75.85.63:35455/huya/11352906
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 岳云鹏贾玲宋小宝!
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 岳云鹏贾玲宋小宝!
 http://159.75.85.63:35455/huya/11352907
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 笑傲帮 顶尖笑匠再登舞台
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 笑傲帮 顶尖笑匠再登舞台
 http://159.75.85.63:35455/huya/11352908
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 古墓系列
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 古墓系列
 http://159.75.85.63:35455/huya/11352913
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 极限挑战-双黄联手拆弹绝地求生
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 极限挑战-双黄联手拆弹绝地求生
 http://159.75.85.63:35455/huya/11352914
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 孙红雷·硬汉电影
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 孙红雷·硬汉电影
 http://159.75.85.63:35455/huya/11352917
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 海绵宝宝
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 海绵宝宝
 http://159.75.85.63:35455/huya/11352919
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 花开正元 孙俪民国上位记
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 花开正元 孙俪民国上位记
 http://159.75.85.63:35455/huya/11352920
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 瞬间炸裂!超燃开场
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 瞬间炸裂!超燃开场
 http://159.75.85.63:35455/huya/11352934
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 笑傲江湖 喜剧脱口秀
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 笑傲江湖 喜剧脱口秀
 http://159.75.85.63:35455/huya/11352937
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 刘小光·捧腹大笑
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 刘小光·捧腹大笑
 http://159.75.85.63:35455/huya/11352938
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 康熙大帝的传奇一生
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 康熙大帝的传奇一生
 http://159.75.85.63:35455/huya/11352940
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 中国功夫-经典大片
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 中国功夫-经典大片
 http://159.75.85.63:35455/huya/11352941
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 新三国滚滚长江东逝水
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 新三国滚滚长江东逝水
 http://159.75.85.63:35455/huya/11352944
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 看完你也学不会系列
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 看完你也学不会系列
 http://159.75.85.63:35455/huya/11352945
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 成龍历险记·社会我阿福乌鸦坐飞机
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 成龍历险记·社会我阿福乌鸦坐飞机
 http://159.75.85.63:35455/huya/11352946
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 中‪国‪新‪相‪亲‪·大‪型‪男‪女‪口‪嗨‪现‪场
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 中‪国‪新‪相‪亲‪·大‪型‪男‪女‪口‪嗨‪现‪场
 http://159.75.85.63:35455/huya/11352947
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 邱淑贞太好看了吧
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 邱淑贞太好看了吧
 http://159.75.85.63:35455/huya/11352949
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง VIP11
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง VIP11
 http://159.75.85.63:35455/huya/11352950
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 龙门 贵妃拒绝跟皇上亲热
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 龙门 贵妃拒绝跟皇上亲热
 http://159.75.85.63:35455/huya/11352953
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 大宅门
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 大宅门
 http://159.75.85.63:35455/huya/11352956
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 神探狄仁杰
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 神探狄仁杰
 http://159.75.85.63:35455/huya/11352958
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 庆余年
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 庆余年
 http://159.75.85.63:35455/huya/11352960
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 80后脱口秀
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 80后脱口秀
 http://159.75.85.63:35455/huya/11352961
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 经典高智商犯罪片
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 经典高智商犯罪片
 http://159.75.85.63:35455/huya/11352962
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 谍战系列
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 谍战系列
 http://159.75.85.63:35455/huya/11352963
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง [神貂侠侣]陈妍希小笼包版姑姑
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง [神貂侠侣]陈妍希小笼包版姑姑
 http://159.75.85.63:35455/huya/11352964
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 经典港剧笑嘻嘻
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 经典港剧笑嘻嘻
 http://159.75.85.63:35455/huya/11352965
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 如意菜头
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 如意菜头
 http://159.75.85.63:35455/huya/11352966
 
-#EXTINF:-1 group-title="HUYA" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mnvljo0hcf6mqc9flo4s",ช่อง 镖行天下 镖在人在
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 镖行天下 镖在人在
 http://159.75.85.63:35455/huya/11352969
 
 #EXTINF:-1 group-title="YY" tvg-logo="https://steamboatvc.com/wp-content/uploads/YY-v2-670x335.png",ช่อง YY音乐991
