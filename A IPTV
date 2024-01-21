@@ -1310,7 +1310,7 @@ http://for-testonly.ra1n.lol/teletama/index.m3u8
 http://for-testonly.ra1n.lol/home/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX1
-http://jp.vthanhnetwork.com/Tokyo_MX1/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=aJouEnzh",ช่อง GEM
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298533
@@ -1506,6 +1506,36 @@ https://ythls-v2.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/vcGsZVD.png",ช่อง HBC 北海道NEWS
 https://ythls-v2.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/yqUItvM.png",ช่อง HTB北海道テレビ NEWS
+https://ythls-v2.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg",ช่อง STV札幌テレビ放送 NEWS
+https://ythls-v2.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/G8lAJYc.png",ช่อง UHB北海道文化放送 NEWS
+https://ythls-v2.onrender.com/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/HxBu6ce.png",ช่อง テレビ静岡 NEWS
+https://ythls-v2.onrender.com/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/PxFcRh9.jpg",ช่อง SATV静岡朝日テレビ NEWS
+https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="tvg-logo="https://yt3.ggpht.com/uxFYyO107Bv7FK7fq9IXh9Marf_tqrXaTin1D8gGT1Z0ladRssiXm497wQh5Nr6K",ช่อง NST新潟総合テレビ NEWS
+https://ythls-v2.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc",ช่อง メ〜テレ名古屋テレビ NEWS
+https://ythls-v2.onrender.com/video/-C6FE2m7kX8.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/140px-Mainichi_Broadcasting_System_logo.svg.png?20110904042013",ช่อง MBS毎日放送 NEWS
+https://ythls-v2.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0",ช่อง ABC朝日放送テレビ NEWS
+https://ythls-v2.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/SHmYLML.jpg",ช่อง RKB毎日放送 NEWS
+https://ythls-v2.onrender.com/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/aiB1WALywZi2Lx5MxF2pQRQm_HUHTj19Of-2HARuzCNmlMHi-2ejmyucJEwL9EmBFWjQMUdIZQ=s900-c-k-c0x00ffffff-no-rj",ช่อง TOS News
 https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
