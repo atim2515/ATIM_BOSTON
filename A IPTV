@@ -187,7 +187,7 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://bit.ly/2LK7hpg",ช่อง ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://dl.dropbox.com/s/14iy6rp33oqdjp3/movieworld1.png?dl=0",ช่อง MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
 
@@ -288,6 +288,11 @@ https://ctrl.laotv.la/live/TNN24/index.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn2.jpg",ช่อง TNN 2
 https://ctrl.laotv.la/live/TNN2/index.m3u8
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/AsianGames_IconMovies.png",ช่อง Super บันเทิง
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://wacthstream.com/stream_live/367_Super_bunteung/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToyMjo0MSBBTSZoYXNoX3ZhbHVlPVlyNmZrVUVJc2EyaWR1aklTNUJVZmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF81NjA1Ng==
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",ช่อง True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1522,7 +1527,7 @@ https://ythls-v2.onrender.com/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/PxFcRh9.jpg",ช่อง SATV静岡朝日テレビ NEWS
 https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="tvg-logo="https://yt3.ggpht.com/uxFYyO107Bv7FK7fq9IXh9Marf_tqrXaTin1D8gGT1Z0ladRssiXm497wQh5Nr6K",ช่อง NST新潟総合テレビ NEWS
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="tvg-logo="https://www.fnn.jp/mwimgs/1/7/-/img_17d0ecae5fe4f9cbeb68e07d6598a3647384.png",ช่อง NST新潟総合テレビ NEWS
 https://ythls-v2.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc",ช่อง メ〜テレ名古屋テレビ NEWS
@@ -1625,7 +1630,7 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Chosun.svg/revision/latest/scale-to-width-down/1200?cb=20230204021351",ช่อง KCTV 광주 CH05
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.rapidtvnews.com/images/2017/11/mbc_logo_-_14_nov_2017.jpg",ช่อง MBC
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",ช่อง MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/loWf3B5.jpg",ช่อง NBS Korea Agricultural Broadcasting
@@ -1646,19 +1651,19 @@ https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png",ช่อง CJ OnStyle
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i0.wp.com/ciptv.org/img/CJONSTYLE-1.png?fit=750%2C422",ช่อง CJ OnStyle Plus
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png",ช่อง CJ OnStyle Plus
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1442941113/acvmeuerp80abdkzmwfa.png",ช่อง GS Shop
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://needl.co/app/sites/all/custom/resources/company/300/39511/gs-shop.jpg",ช่อง GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1442941113/acvmeuerp80abdkzmwfa.png",ช่อง GS My Shop
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://needl.co/app/sites/all/custom/resources/company/300/39511/gs-shop.jpg",ช่อง GS My Shop
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/fe963abd925af95f5f6e",ช่อง Hyundai Home Shopping
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_309241_16820536225440644.jpg",ช่อง Hyundai Home Shopping
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/fe963abd925af95f5f6e",ช่อง Hyundai Home Shopping Plus
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_309241_16820536225440644.jpg",ช่อง Hyundai Home Shopping Plus
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/b7uMB9T.png",ช่อง KBS LiveCam DokDo
@@ -3310,7 +3315,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
 #EXTINF:-1 group-title="LEARNING CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/110b229663a135a0abf87413c41f22f1f12c8cef7c1fc752e4fb572d71476693.png",ช่อง STIRR The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
+#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://dl.dropbox.com/s/14iy6rp33oqdjp3/movieworld1.png?dl=0",ช่อง MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
 
