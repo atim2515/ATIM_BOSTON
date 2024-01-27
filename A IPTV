@@ -10,9 +10,6 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/DASH/
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",ช่อง 7
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018-avc1_5000000=7-mp4a_64000_tha=2.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://static.bugaboo.tv/images/banner/share-bugaboo.jpg",ช่อง BUGABOO.TV
-https://live-cdn-hwc.bugaboo.tv/live_line1/alive_1080p.m3u8
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/428/057/000/p88xfxv2eU2OHPlO7dF-o.png",ช่อง 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/DASH/V0008.mpd?
@@ -275,10 +272,6 @@ https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ3CXdit8ZwlwvrAm7lyPiYSRNwZikjIkCH-up11Q=s900-c-k-c0x00ffffff-no-rj",ช่อง Good Idea TV
 https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Philips_PM5544.svg/200px-Philips_PM5544.svg.png",ช่อง Test Card
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0178/HLS/V0178.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
-
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/DASH/B0054.mpd?
@@ -289,7 +282,7 @@ https://ctrl.laotv.la/live/TNN24/index.m3u8
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn2.jpg",ช่อง TNN 2
 https://ctrl.laotv.la/live/TNN2/index.m3u8
 
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/AsianGames_IconMovies.png",ช่อง Super บันเทิง
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/99bc7f60-b550-11ea-8fac-236a281cd6c5_320.png",ช่อง Super บันเทิง
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://wacthstream.com/stream_live/367_Super_bunteung/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMToyMjo0MSBBTSZoYXNoX3ZhbHVlPVlyNmZrVUVJc2EyaWR1aklTNUJVZmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF81NjA1Ng==
@@ -806,7 +799,7 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TeenNick_2023_%28Outline%29.png/1200px-TeenNick_2023_%28Outline%29.png",ช่อง TEEN NICK
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=91877
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nicktoons_2023_%28outline%29.png/640px-Nicktoons_2023_%28outline%29.png",ช่อง NICK TOONS
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png",ช่อง NICK TOONS
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45520
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/santiago/images/6/68/Universal_Kids_Primetime_logo.png/revision/latest?cb=20210412004410",ช่อง UNIVERSAL KIDS
@@ -1311,14 +1304,13 @@ https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png",ช่อง TVS
 http://for-testonly.ra1n.lol/teletama/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.postimg.cc/wTdtbHtx/logo-1.png",ช่อง HOME
-http://for-testonly.ra1n.lol/home/index.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=aJouEnzh",ช่อง GEM
-https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://wacthstream.com/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMyAxMTozNjozMCBBTSZoYXNoX3ZhbHVlPXFxaHF0U0tjYUdFUWdRQUJ5V2hpRGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF83Njk5MQ==
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7cyWxyUUfn8XAeTVL6iYTXSqKR2mXsdNU14e33svP9FRPPGCCKG4RZtP2SstET37aQo&usqp=CAU",ช่อง BS Asahi
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -1485,9 +1477,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/iwumbyvpeslmassnufui",ช่อง Green Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.njpw1972.com/wp-content/uploads/2017/03/world.png",ช่อง NJPW World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.igoshogi.net/common/images/og_image.png",ช่อง Igo Shogi Channel
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -1527,7 +1516,7 @@ https://ythls-v2.onrender.com/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/PxFcRh9.jpg",ช่อง SATV静岡朝日テレビ NEWS
 https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="tvg-logo="https://www.fnn.jp/mwimgs/1/7/-/img_17d0ecae5fe4f9cbeb68e07d6598a3647384.png",ช่อง NST新潟総合テレビ NEWS
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="tvg-logo="https://www.nsttv.com/img/ogp.png",ช่อง NST新潟総合テレビ NEWS
 https://ythls-v2.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc",ช่อง メ〜テレ名古屋テレビ NEWS
@@ -3121,18 +3110,6 @@ http://fpt.vthanhtivi.pw/cinemax/index.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png",ช่อง AXN HD
 http://fpt.vthanhtivi.pw/axn/index.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://thumbor.prod.vidiocdn.com/--Y__FYsuwKLJ6nNO22iqu3Upwo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8120/rock-entertainment-756300.jpg",ช่อง Rock Entertainment
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64ef4338bc214f77a5db6ce9_Rock-Action_web_image.jpg",ช่อง Rock Action
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU1NzUxOGEtMmIzZC00ODJiLTlhNTMtYTdmY2RjMzFlZjgyXkEyXkFqcGdeQXVyMTM2MzAwOA@@._V1_.jpg",ช่อง MTV 90s
-https://code.vthanhtivi.pw/getlink/eazie/243116/playlist.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://www.omediach.info/wp-content/uploads/2021/09/MTV-Live-Id-loyalkaspar.jpg",ช่อง MTV Live
-https://code.vthanhtivi.pw/getlink/eazie/243115/playlist.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png",ช่อง Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
