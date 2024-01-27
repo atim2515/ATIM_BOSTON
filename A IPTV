@@ -296,6 +296,10 @@ https://wacthstream.com/stream_live/367_Super_bunteung/playlist.m3u8?wmsAuthSign
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",ช่อง True Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1
+http://playtv.my.id/play/truefilm2.m3u8
+
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8|Referer=https://freetvdd.com/
@@ -527,8 +531,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
 
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",ช่อง 3BB Asian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/3bbasian
-https://dookeela.live/live-tv/3bbasian
+https://dookeela.live/live-tv/3bbasian|Referer=https://dookeela.live/live-tv/3bbasian
 
 #EXTINF:-1 group-title="GOOD TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",ช่อง สำรวจโลก
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
@@ -2602,7 +2605,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190819_226283a7e732gdbbid05453ae4ff9_240x150.jpg",ช่อง 海南卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.baishu10.com/upload/baike/2023/0421/6b7e9e3d.jpg",ช่อง 北京纪实科教
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202209/22/141635nxpr2pelhvdrp1vr.png",ช่อง 北京纪实科教
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226656/1.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png",ช่อง 北京卡酷少儿
