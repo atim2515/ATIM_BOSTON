@@ -83,6 +83,9 @@ http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/oB-wyEZX0pXoCYN3UrNmbI9LA6BFjgHj3AJkzrVQpXF2Jf8KPV8q4TXy3FXz8sEjHV2KzNKoF9w=s900-c-k-c0x00ffffff-no-rj",ช่อง ไทยไท แชนเนล
 https://live.x2.co.th/live/thai_sdgni0kx2v7zcr3f.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//VoiceTV.png",ช่อง VOICE TV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0032/DASH/V0032.mpd
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/VTVNews.png",ช่อง VTVNews
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -387,6 +390,9 @@ https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://wacthstream.com/stream_live/235_TVB/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgODozNTozMiBQTSZoYXNoX3ZhbHVlPXNPRy90NWppT0creldIcXpqTTF1UXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8yMDQzMQ==
 
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-food.png",ช่อง Food Network
+https://wacthstream.com/stream_live/342_Food_Network/playlist.m3u8
+
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",ช่อง Asian Food Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8|Referer=https://freetvdd.com/
@@ -435,9 +441,6 @@ https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2Vydm
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",ช่อง True Explore Life
 http://playtv.my.id/play/life.m3u8
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",ช่อง True Explore Life
-http://playtv.my.id/play/Sci.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",ช่อง True Explore Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -519,6 +522,9 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?|Refe
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0111.png",ช่อง True Shopping
 https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0111/HLS/V0111.m3u8
 
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//VoiceTV.png",ช่อง VOICE TV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0032/DASH/V0032.mpd
+
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0030.png",ช่อง 4050
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0030/DASH/V0030.mpd
 
@@ -526,11 +532,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0030/DASH/V0030.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|Referer=https://freetvdd.com/
 
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://cpc.ais.co.th/CPC-FE-WEB/api/contents/upload//b/a/l/l/t/ballthai.png?rand=0.46332318793487326",ช่อง Ball Thai 1-1
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
-
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://cpc.ais.co.th/CPC-FE-WEB/api/contents/upload//b/a/l/l/t/ballthai.png?rand=0.46332318793487326",ช่อง Ball Thai 1-2
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://cpc.ais.co.th/CPC-FE-WEB/api/contents/upload//b/a/l/l/t/ballthai.png?rand=0.46332318793487326",ช่อง Ball Thai 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
 
