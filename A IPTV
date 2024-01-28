@@ -187,6 +187,26 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://bit.ly/2LK7hpg",ช่อง ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",ช่อง HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",ช่อง HBO family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo-family
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",ช่อง HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo-hits
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",ช่อง HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo-signature
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",ช่อง Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/cinemax
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://dl.dropbox.com/s/14iy6rp33oqdjp3/movieworld1.png?dl=0",ช่อง MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
@@ -537,12 +557,80 @@ https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0112/HLS/
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSaEUfrK54lXXntE0ush1gNpYwABBiCELuOZ5KztYQ=s900-c-k-c0x00ffffff-no-rj",ช่อง VOICE TV
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0032/DASH/V0032.mpd
 
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://www.24andlife.com/wp-content/uploads/2019/08/1161739-img.tsia3g.13tfs.jpg",ช่อง คูล ชาแนล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://i.imgur.com/vMWjnIm.png",ช่อง มังกร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0090.png",ช่อง MVTV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0090/DASH/V0090.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",ช่อง TVB Thai
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0095/DASH/V0095.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RamaChannel.png",ช่อง Rama Channel
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0096/DASH/V0096.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0091.png",ช่อง Mix Major
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0091/DASH/V0091.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0094.png",ช่อง MV Lao
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0094/DASH/V0094.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0039.png",ช่อง ATTV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0039/DASH/V0039.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/MediaTV.png",ช่อง Media TV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0062/DASH/V0062.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TV5MONDEasie.png",ช่อง TV5MONDE
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0141/DASH/V0141.mpd
+
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0030.png",ช่อง 4050
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0030/DASH/V0030.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LunthungTV.PNG",ช่อง LunthungTV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0092/DASH/V0092.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0089.png",ช่อง Topline
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0089/DASH/V0089.mpd
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_1.png",ช่อง BOOMERANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",ช่อง Cartoon Club
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png",ช่อง NHK
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/DASH/V0102.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png",ช่อง Channel News Asia
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/DASH/V0122.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png",ช่อง Euro News
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/DASH/V0119.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121",ช่อง DW
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/DASH/V0121.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",ช่อง France 24
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/DASH/V0123.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png",ช่อง Arirang
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/DASH/V0177.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",ช่อง News 1
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0036/DASH/V0036.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://i.scdn.co/image/09f811f9e56cf43d4ffd209ba9917f677b43d038",ช่อง Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png",ช่อง Al Jazeera
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/DASH/V0140.mpd
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://cpc.ais.co.th/CPC-FE-WEB/api/contents/upload//b/a/l/l/t/ballthai.png?rand=0.46332318793487326",ช่อง Ball Thai 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -564,6 +652,21 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V1002/HLS/V1002.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
 
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0052.png",ช่อง O Shopping
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0052/DASH/V0052.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVD1.png",ช่อง TVD1
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0067/DASH/V0067.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0064.png",ช่อง TVD7
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0064/DASH/V0064.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0111.png",ช่อง True Shopping
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0111/DASH/V0111.mpd
+
+#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",ช่อง True Select
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0112/DASH/V0112.mpd
+
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://i.imgur.com/hnfiUbK.png",ช่อง T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
@@ -576,6 +679,26 @@ https://dookeela.live/live-tv/3bbasian
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",ช่อง MONO29 PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela.live/live-tv/mono29plus
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",ช่อง HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",ช่อง HBO family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo-family
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",ช่อง HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo-hits
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",ช่อง HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo-signature
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",ช่อง Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/cinemax
 
 #EXTINF:-1 group-title="GOOD TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",ช่อง สำรวจโลก
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
