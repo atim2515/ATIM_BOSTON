@@ -3888,9 +3888,6 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://i.imgur.com/OaSFTnV.png",ช่อง LIVExLIVE
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 
-#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://i.imgur.com/X63rCqD.png",ช่อง Qello Concerts
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://yt3.googleusercontent.com/Zgfw2OQDlS9T94wwPYaNsJCv53YOWEPrMAdxzT7e_RAUnJ5yD6XdVFBt-PwnYWuXITR1SmfCgA=s900-c-k-c0x00ffffff-no-rj",ช่อง Qwest TV Jazz
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 
@@ -3933,35 +3930,62 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkU6BRqWNisk0-z1qapb6zx-yGsx0L-wQfyPsa1Ht1S5Bpj6FhpMTSL_trttcAhgjXPE&usqp=CAU",ช่อง Hitradio 3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 
-#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://image.xumo.com/v1/channels/channel/9999120/300x300.png?type=smartCast_channelTile",ช่อง Stingray Greatest Hits
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://qello.com/static/images/metadata/SiteImage.png",ช่อง Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/plextv/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-classica-vector-logo.png",ช่อง Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://karaoke.stingray.com/static/site/MetaImage.jpg",ช่อง Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://d1epjnee0y8w64.cloudfront.net/blog/s3fs-public/2022-01/Stingray%20Naturescape%20-%20Self%20care%20Sundays.jpg",ช่อง Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/plextv/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://corporate.stingray.com/wp-content/uploads/2023/03/pr_sm_holidays-2021_1000x300_en.jpg",ช่อง Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/live/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hit-list/thumbh_20200717_232723.jpg",ช่อง Stingray Hit List
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+https://lotus.stingray.com/manifest/ose-107ads-montreal/live/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-classic-rock/poster_20200717_232723.jpg",ช่อง Stingray Classic Rock
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+https://lotus.stingray.com/manifest/ose-101ads-montreal/live/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-rock-alternative/thumbh_20200717_232723.jpg",ช่อง Stingray Rock Alternative
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+https://lotus.stingray.com/manifest/ose-102ads-montreal/live/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/poster_20200717_232723.jpg",ช่อง Stingray Pop Adult
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+https://lotus.stingray.com/manifest/ose-104ads-montreal/live/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://mediafile.galaxie.ca/data/000/111/505/000111505539",ช่อง Stingray Urban Beat
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+https://lotus.stingray.com/manifest/ose-133ads-montreal/live/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hot-country/poster_20200717_232723.jpg",ช่อง Stingray Hot Country
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+https://lotus.stingray.com/manifest/ose-108ads-montreal/live/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416920",ช่อง Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+https://lotus.stingray.com/manifest/ose-115ads-montreal/live/master.m3u8
 
-#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416831",ช่อง Stingray Everything 80s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416831",ช่อง Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://mediafile.galaxie.ca/data/000/155/867/000155867535",ช่อง Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://mediafile.galaxie.ca/data/000/155/863/000155863632",ช่อง Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://s3.klowdtv.net/herring/images/channels/stingrayMusicEasyListening/logo_big.png",ช่อง Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://image.xumo.com/v1/channels/channel/99991121/600x337.webp?type=channelTile",ช่อง Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://mediafile.galaxie.ca/data/000/110/456/000110456009",ช่อง Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/live/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/thumbh_20200717_232723.jpg",ช่อง Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+https://lotus.stingray.com/manifest/ose-190ads-montreal/live/master.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING CHANNEL" tvg-logo="https://i.pinimg.com/originals/9e/16/d6/9e16d65e11c04f4ce6bae05428ff14c5.jpg",ช่อง Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
@@ -4233,132 +4257,6 @@ http://live.redtraffic.xyz/livecams.m3u8
 
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Woman
 http://live.redtraffic.net/woman.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง MetArt
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12160/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง 21 Sextury
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12205/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Alba XXX HD 1-1
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12204/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Alba XXX HD 1-2
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12105/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Alba XXX HD 2
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12194/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Alex Legend
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12193/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง All Anal
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12192/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Amateur Boxxx
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12191/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Anal 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12190/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Anal Mom
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12189/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Anal Only
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12184/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Anal Teen Angels
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12183/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Anal Time
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12181/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Ass Parade
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12178/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Asshole Fever
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12169/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง BBC Pie
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12164/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง BCU Charm
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/18053/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง BRAZZERS TV
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12113/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Balkan Erotic
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6270/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Banana Fever
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12168/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Bang Bus
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12167/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Bang POV
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12166/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Barely Legal TV
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12165/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Brand New Amateurs
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12162/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Bratty Sis
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12161/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Cento X Cento
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12129/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง CineMan ExExEx
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20089/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง CineMan ExExEx TWO
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20090/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Cum Perfection
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12158/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Cum4k
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12157/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Blue Hustler
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20023/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Lust pur
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20024/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Penthouse Passion
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20025/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Playboy Europe
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20026/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง DORCEL TV
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12131/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง DORCEL XXX
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12132/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง DP Fanatics
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12111/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Dad Crush
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12154/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Dancing Bear
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12144/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Dane Jones
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12143/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Dark X
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12140/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/adult-channel-a012615654.jpg",ช่อง Deep Lush
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12139/index.m3u8
 
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZreZhht7HPoQnY-o0kGCjvY2Xj5JsUWkkr4OBW=s900-c-k-c0x00ffffff-no-rj",ช่อง 21 Sextury
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12205/index.m3u8
