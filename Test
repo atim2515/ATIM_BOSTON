@@ -1,7 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
-http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=10162&extension=ts
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://wacthstream.com/stream_live/224_True_Movies_Hits/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2zbTvlruhZwt9jSGWgCInf_oCdw7W0uAhqdge06Rvb0kCM7LSGj2radVHK1qPb1hCZSg59thvI6icWET99Q9SIyA1MedELjhekn8MU9PL1X-32wIphAnjRvAQSJ08tclzV6TN5uDgDpcipxBU85B7QnzxD_Y5KBzZypwL-HIASinCSzaBkeRasVRquA/s1600/000002.png",ช่อง MOVIES WORLD 2
 http://4k.best-tv.me:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=162388&extension=ts
