@@ -374,12 +374,18 @@ https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2Vy
 https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png",ช่อง True X-Zyte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://wacthstream.com/stream_live/340_Xzyte/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/01/30/3ba220b0-a067-11ed-b6c3-55fdace413e0_webp_original.png",ช่อง Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2ffd8b0-fb8a-11ed-85ca-7d9b373a85e7_webp_original.png",ช่อง Paramount Network
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",ช่อง AXN
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -387,8 +393,9 @@ https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8|Refere
 https://sv2.wacthstream.com/wacth_tv/336_AXN/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",ช่อง Lifetime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://wacthstream.com/stream_live/339_Lifetime/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png",ช่อง TLC
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -437,10 +444,6 @@ https://wacthstream.com/stream_live/342_Food_Network/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://wacthstream.com/stream_live/356_AFN/playlist.m3u8
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png",ช่อง National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/hd-natgeo.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.jpg",ช่อง Discovery Channel
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -582,6 +585,11 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Refe
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.png",ช่อง Spotv 2 HD
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?|Referer=https://dooball2you.com/
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",ช่อง CNN
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://wacthstream.com/stream_live/778_CNN/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0111.png",ช่อง True Shopping
 https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0111/HLS/V0111.m3u8
