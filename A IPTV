@@ -17,6 +17,9 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/DASH/
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://s.isanook.com/ns/0/ud/192/963123/nbt.jpg",ช่อง NBT
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001-avc1_5000000=3-mp4a_96000_tha=7.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSC0laqXr6pN877QvMNE-aBKUd_dq1_YxQWr6ilEg=s900-c-k-c0x00ffffff-no-rj",ช่อง NBT 11 Central
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png",ช่อง Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
@@ -129,12 +132,6 @@ https://vdo.plathong.net/wowza/flash7253/flash7253/chunklist_w167764757.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0MZLi649n-VeTFyT-czq_vJPOq0b5_KlxkMxNEh675TiNHZMvgFEesv0GQ1so54bH0Y&usqp=CAU",ช่อง Brian TV
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNXXAHVqiVmA7Fx_FPASvK_ysJQLVRLIUrJkXhIwA=s900-c-k-c0x00ffffff-no-rj",ช่อง 54 Unity TV
-http://183.89.246.119:8881/play/a0a8/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.ytimg.com/vi/iTDLwZfiPw4/maxresdefault.jpg",ช่อง Kaset Channel
-http://183.89.246.119:8881/play/a0ae/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/zabbtv/zabbtv.png",ช่อง zabbtv
 https://live1.thaitvstream.com/play/zabbtv/index.m3u8
@@ -287,9 +284,6 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnwnk3YeyNG1Fs2dM40DJdMuauXorSZuWzT-O9f3Lm3sHR4WNtNZZxV_HGVvIvlu2KZk&usqp=CAU",ช่อง MAYA TV
-http://183.89.246.119:8881/play/a0ad/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/th-umm-tv-4419-300x225.jpg",ช่อง UMMTV
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -645,9 +639,6 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/DASH/
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",ช่อง CCTV4
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0173/DASH/V0173.mpd
-
-#EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0030.png",ช่อง 4050
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0030/DASH/V0030.mpd
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LunthungTV.PNG",ช่อง LunthungTV
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0092/DASH/V0092.mpd
@@ -1736,6 +1727,9 @@ http://for-testonly.ra1n.lol/teletama/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pff.jp/jp/uploads/20210524-0.jpg",ช่อง TOKYO MX2
+https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=aJouEnzh",ช่อง GEM
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -2919,6 +2913,36 @@ http://diyp.112114.xyz/douyu/263824
 
 #EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง [速看]爆笑解说 欢乐百分百!
 http://diyp.112114.xyz/douyu/2660125
+
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง 刘华强你这呱保熟吗
+http://diyp.112114.xyz/douyu/2726977
+
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง [牛叔]N分钟带你看完大片
+http://diyp.112114.xyz/douyu/2758565
+
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง [蓝翔]弹幕天团 下饭神剧
+http://diyp.112114.xyz/douyu/276200
+
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง [经典巨制]欧美大片
+http://diyp.112114.xyz/douyu/2793084
+
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง ✨曾小贤✨胡一菲✨第三季✨第一季✨
+http://diyp.112114.xyz/douyu/2838296
+
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง 李子柒-田园仙境有佳人
+http://diyp.112114.xyz/douyu/2901080
+
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง [瑶瑶]童年阴影 鬼片 恐怖 惊悚
+http://diyp.112114.xyz/douyu/2935323
+
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง 史剧解说
+http://diyp.112114.xyz/douyu/297689
+
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง 鼎香楼的故事
+http://diyp.112114.xyz/douyu/299854
+
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง 朱棣
+http://diyp.112114.xyz/douyu/308752
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",ช่อง CCTV-1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
