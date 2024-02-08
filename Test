@@ -1,124 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง tim
-#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://cdn1.aws-live-streaming.com/ais/tsp1/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2zbTvlruhZwt9jSGWgCInf_oCdw7W0uAhqdge06Rvb0kCM7LSGj2radVHK1qPb1hCZSg59thvI6icWET99Q9SIyA1MedELjhekn8MU9PL1X-32wIphAnjRvAQSJ08tclzV6TN5uDgDpcipxBU85B7QnzxD_Y5KBzZypwL-HIASinCSzaBkeRasVRquA/s1600/000002.png",ช่อง MOVIES WORLD 2
-#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://cdn1.aws-live-streaming.com/ais/tsp2/playlist.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", Xone Radio
+https://vnno-zn-7-tf-multi-playlist-zmp3.zmdcdn.me/rVRxDgLqxHo/zhls/playback-realtime/very-low/f9a40e7c3239db678228/very-low.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
+https://code.vthanhtivi.pw/getlink/fptplay/YyqGMW2HvZ6BZ5gfvkb3XA/1707382303/pladio/playlist.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://assets-on.akamaized.net/images/v2/event/20230603/2023060301/THUMBJOYFM1.webp", JoyFM
+https://code.vthanhtivi.pw/getlink/onlive/joyfmmhz/20231229.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/1/5/c/2/15c2abf5f4554b416384d4f675b2151e.jpg", Zing MP3 - CPop
+https://vnno-pt-3-tf-multi-playlist-zmp3.zmdcdn.me/BNxcJ9nHSnI/zhls/playback-realtime/very-low/ac19a6de9a9b73c52a8a/very-low.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/a/6/f/4/a6f4712ca91e9cc15530960ab44611da.jpg", Zing MP3 - EDM
+https://vnno-zn-6-tf-multi-playlist-zmp3.zmdcdn.me/J7cEnl_KGwA/zhls/playback-realtime/very-low/7ad38814b4515d0f0440/very-low.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg", Zing MP3 - Vpop
+https://multi-playlist-zmp3.zmdcdn.me/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg", Zing MP3 - Acoustic
+https://multi-playlist-zmp3.zmdcdn.me/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg", Zing MP3 - Bolero
+https://multi-playlist-zmp3.zmdcdn.me/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg", Zing MP3 - Rap Việt
+https://multi-playlist-zmp3.zmdcdn.me/Itsn5VCb5Uo/zhls/playback-realtime/4f2980eebcab55f50cba/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg", Zing MP3 - Kpop
+https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", Zing MP3 - USUK
+https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://cdn1.aws-live-streaming.com/ais/tsp3/playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://cdn1.aws-live-streaming.com/ais/tsp4/playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://cdn1.aws-live-streaming.com/ais/tsp5/playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://cdn1.aws-live-streaming.com/ais/tsp7/playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง thai
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/137_TrueThaiFilmHD/playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง film
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/116_TrueFilmAsia/playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง sex
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/goodtv38_Busaba./playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0165/HLS/V0165.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0166/HLS/V0166.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0167/HLS/V0167.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0168/HLS/V0168.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0169/HLS/V0169.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0170/HLS/V0170.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V01/HLS/V01.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC19/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC20/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC22/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC24/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC25/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC26/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC27/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC28/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC29/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC30/index.m3u8
 
