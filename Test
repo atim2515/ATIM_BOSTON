@@ -6483,4 +6483,9 @@ http://playtv.my.id/play/life.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/epl1.html
 https://2nud.short.gy/trueepl1.mpd
 
+#EXTINF:-1 group-title="f" tvg-id="True Sport 5" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5-freetvdd
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-explife.stream/playlist.m3u8
+
 
