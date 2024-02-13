@@ -871,7 +871,7 @@ https://psiiptv-b.sky-cdn.com/ttd04-Playlist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/100_x_PMGq7QhpEJ3ezODoBI2suaF8gRj6UH5t.jpg",ช่อง TTD5
 https://psiiptv-b.sky-cdn.com/ttd05-playlist/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/99_x_J35rB9f8c7szijgaqTVYpkmUREFwhAC6.jpg",ช่อง TTD6
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/101_x_J35rB9f8c7szijgaqTVYpkmUREFwhAC6.jpg",ช่อง TTD6
 https://psiiptv-b.sky-cdn.com/ttd06-playlist/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/102_x_qu4jxbmKrvO57SEyHiNlgIszawDAd3ec.jpg",ช่อง TTD7
@@ -1799,9 +1799,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/NHK_BS4K.svg/revision/latest/scale-to-width-down/250?cb=20231124144931",ช่อง NHK BSP4K
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://cdn.goope.jp/60623/210701170021-60dd7615554cf.png",ช่อง NHK Kishou Saigai
-https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -2240,9 +2237,6 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://1721826975.rsc.cdn77.org/wp-content/uploads/2021/12/15101445/Logo_TVBJ1_3D_Black.png",ช่อง TVB J1
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153395
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/13/TVB_J2.jpg",ช่อง TVB J2
-http://r.jdshipin.com/Nr5jq
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png",ช่อง TVB Entertainment News
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153504
 
@@ -2257,12 +2251,6 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVBE-logo.png",ช่อง TVBe
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153398
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest?cb=20210722080518",ช่อง TVB News Channel
-https://tvp22.sky4k.top/index1.php
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TVB_Finance%2C_Sports_%26_Information_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20221205065531",ช่อง TVB Finance Sports & Information Channel
-https://tvp22.sky4k.top/index2.php
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/rthk-31-live-vipo-tv-china.png",ช่อง RTHK 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -4307,7 +4295,7 @@ http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",ช่อง Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
-#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://www.logolynx.com/images/logolynx/f8/f81fd3438c28a44e896433cef9f8b350.png",ช่อง FOX MUSIC
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/0b/FOXMUSIC.png/revision/latest?cb=20201119214637",ช่อง FOX MUSIC
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkU6BRqWNisk0-z1qapb6zx-yGsx0L-wQfyPsa1Ht1S5Bpj6FhpMTSL_trttcAhgjXPE&usqp=CAU",ช่อง Hitradio 3
@@ -4826,6 +4814,45 @@ http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6188/index.m3u8
 
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Cum Louder
 http://4e87b8a2.rossteleccom.net/iptv/MEV98DR6KE4G5Y/6189/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง EVILANGEL CUM4K
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296695
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Adult Channel 1
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290567
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Adult Channel 4
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296948
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Alba XXX HD1
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8311
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Alba XXX HD1 +1
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296945
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Alba XXX HD2
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8310
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Alba XXX HD2 +1
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296946
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Alba XXX HD3
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8315
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Alba XXX HD4
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8314
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Alba XXX HD5
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/8313
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Alba XXX HD6
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3307
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Alba XXX HD7
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/295183
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/premium-channels/4up/1692852-4up-7-BangU.jpg",ช่อง Alba XXX HD8
+http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/295184
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
