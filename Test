@@ -1,60 +1,503 @@
 #EXTM3U
 
-#EXTINF:-0 group-title="TRUE VISIONS" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", TRUE EXPLIFE
-#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
-http://playtv.my.id/play/life.m3u8
+###### NASIONAL ################
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI NASIONAL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
-#EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="TRUE VISIONS",True Film 2
-http://playtv.my.id/play/truefilm2.m3u8
 
-#EXTINF:-0 group-title="TRUE VISIONS" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", TRUE EXPLIFE
-http://50.7.234.10:8278/Tvbs/playlist.m3u8
 
-#EXTINF:-1 ,耀才财经台
-http://50.7.234.10:8278/Phoenix/playlist.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="lokal",ANTV (720p) [Geo-blocked]
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1 ,智林体育台
-http://50.7.234.10:8278/Cctv4/playlist.m3u8
+#EXTINF:-1 group-title="lokal",BACKUP ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 ,中视
-http://50.7.234.10:8278/Aod/playlist.m3u8
 
-#EXTINF:-1 ,壹新闻
-http://50.7.234.10:8278/Aod352/playlist.m3u8
 
-#EXTINF:-1 ,原住民電視
-http://50.7.234.10:8278/Kbs/playlist.m3u8
 
-#EXTINF:-1 ,星空卫视
-http://50.7.234.10:8278/Kbsworld/playlist.m3u8
+#EXTINF:-1 group-title="lokal" tvg-logo="https://www.transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg", INDOSIAR 
+http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 ,天映频道
-http://50.7.234.10:8278/Nhk/playlist.m3u8
+#EXTINF:-1 group-title="lokal",BACKUP INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 ,天映频道
-http://50.7.234.10:8278/Hitsmovies/playlist.m3u8
+#EXTINF:-1 group-title="lokal",BACKUP INDOSIAR 2
+http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
 
-#EXTINF:-1 ,天映频道Celestial Classic Movies
-http://50.7.234.10:8278/Hbofamily/playlist.m3u8 
 
-#EXTINF:-1 ,唯心电视台
-http://50.7.234.10:8278/Hbohits/playlist.m3u8
+#EXTINF:-1 group-title="lokal", SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
-#EXTINF:-1 ,卫视中文
-http://50.7.234.10:8278/Tvnmovies/playlist.m3u8
+#EXTINF:-1 group-title="lokal",BACKUP SCTV
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
-#EXTINF:-1 ,衛視電影
-http://50.7.234.10:8278/Aljazeera/playlist.m3u8
 
-#EXTINF:-1 ,台视
-http://50.7.234.10:8278/Bloomberg/playlist.m3u8
 
-#EXTINF:-1 ,JET综合
-http://50.7.234.10:8278/Discovery/playlist.m3u8
+#EXTINF:-1 group-title="news;lokal" tvg-logo="",TVOne
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1 ,壹新闻2
-http://50.7.234.10:8278/History/playlist.m3u8 
 
-#EXTINF:-1 ,三立都会
-http://50.7.234.10:8278/Globaltrekker/playlist.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg",BACKUP NET TV SD
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg",BACKUP NET TV LOW
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg", METRO TV HD 
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="lokal;news" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg",KompasTV
+http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
+
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="news" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="news",BACKUP CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+
+#EXTINF:-1 group-title="news;lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:0 tvg-country="ID" group-title="lokal" tvg-logo="https://cc.dinus.ac.id/assets/uploads/penyedia/08095-tvkusmg.png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="",DENS Play
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="life",Dens Life Style
+http://210.210.155.35/x6bnqe/s/s65/index2.m3u8
+
+
+############ INTER ONLINE #############
+
+#EXTINF:-1 group-title="inter",Showbiz
+http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="lokal",BACKUP SLOW Showbiz 2
+http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/index.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://www.infotelevisi.com/asset/images/tv/k_plus.jpg" group-title="film", KPlus
+http://210.210.155.35:80/session/adf55d96-6614-11ec-bc1c-c81f66f89318/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 group-title="film",thrill SD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:-1 group-title="film",thrill HD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="life",KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+
+#EXTINF:-1 group-title="inter",Knowledge
+http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
+
+
+
+#EXTINF:0 tvg-country="ID" tvg-logo="Logo N/A" group-title="life",Radio 51 TV
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+
+
+###########  FILM   ##########
+
+#EXTINF:-1 group-title="film" tvg-id="MyCinema.id", My Cinema (1080p)
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 group-title="film" tvg-id="MyCinemaAsia.id" status="online",My Cinema Asia (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="film" tvg-id="MyFamily.id" status="online",My Family Channel (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="film" tvg-id="MyKidz.id" status="online",My Kidz (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+
+
+#EXTINF:-1 group-title="film,Rock Entertainment
+http://210.210.155.35/dr9445/h/h16/01.m3u8
+
+
+#EXTINF:-1 group-title="film",DUBAI International
+http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="film",FOX MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+
+####### INTER ONLINE ##############
+
+
+#EXTINF:-1 group-title="inter",Al Jazeera
+http://210.210.155.35/qwr9ew/s/s16/index.m3u8
+
+#EXTINF:-1 group-title="inter",TRT WORLD
+http://210.210.155.35/uq2663/h/h156/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="inter", Freedom UKRAINE
+http://210.210.155.35/uq2663/h/h101/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="inter",CCTV 4 CHINA
+http://210.210.155.35/qwr9ew/s/s19/index.m3u8
+
+#EXTINF:-1 group-title="inter",CGTN CHINA
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+
+#EXTINF:-1 group-title="inter",Phoenix CHINA
+http://210.210.155.35/uq2663/h/h157/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="inter",Rai Italia
+http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
+
+######## ISLAM  ###########
+
+
+#EXTINF:-1 group-title="islam",MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+
+
+#EXTINF:-1 group-title="islam",MADINAH 2
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 group-title="islam",Rodja TV
+http://210.210.155.35/qwr9ew/s/s14/index.m3u8
+
+########## TVRI ###########
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI
+http://210.210.155.35/qwr9ew/s/s11/index.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI Sport HD
+http://210.210.155.35/qwr9ew/s/s107/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI OLAHRAGA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI ACEH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SUMATERA UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SUMATERA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SUMATERA SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI RIAU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI JAMBI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI BANGKA BELITUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI BENGKULU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI LAMPUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI DKI JAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
+
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI JAWA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI JAWA TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI JAWA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) YOGYAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI BALI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI NUSA TENGGARA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI NUSA TENGGARA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
+
+#EXTINF:-1 group-title="daerah"  tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI KALIMANTAN BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI KALIMANTAN TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI KALIMANTAN TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI KALIMANTAN SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SULAWESI SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SULAWESI BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SULAWESI TENGGARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SULAWESI TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SULAWESI UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI GORONTALO
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI MALUKU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI PAPUA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", MOJI HD OFFLINE
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+
+
+
+
+
+####### BACKUP ##############
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="film",BACKUP AniPlus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="inter",BACKUP Al Jazeera
+http://210.210.155.35/qwr9ew/s/s17/index.m3u8
+
+#EXTINF:-1 group-title="lokal",BACKUP JTV 2
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1946012755.m3u8
+
+#EXTINF:-1 group-title="lokal",BACKUP JTV 3
+http://210.210.155.35/x6bnqe/s/s91/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBioskop.id" status="online",BACKUP SLOW Zee Bioskop
+http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="film",BACKUP K+
+http://45.126.83.51/uq2663/h/h08/index2.m3u8
+
+
+#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Makkah2.jpg" group-title="islam",MADINAH
+http://45.126.83.51/qwr9ew/s/s27/02.m3u8
+
+
+
+
+
+
+
+
+##############   LIFE   ############
+
+
+
+
+
+
+###########   KOREA  #######
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="film",Thrill BACKUP
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill MAIN
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+
+
+
+
+
+
+############    INTER  OFFLINE ######
+
+
+
+
+#EXTINF:-1 group-title="inter",Channel News Asia
+http://45.126.83.51/uq2663/h/h29/index2.m3u8
+
+
+#EXTINF:-1 group-title="inter",NHK WORLD
+http://45.126.83.51/uq2663/h/h23/index2.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="inter",FRANCE 24
+http://45.126.83.51/qwr9ew/s/s22/index.m3u8
+
+#EXTINF:-1 group-title="inter",TBN
+http://45.126.83.51/qwr9ew/s/s39/index.m3u8
+
+
+
+#EXTINF:-1 group-title="inter",Phoenix News CHINA
+http://45.126.83.51/qwr9ew/s/s21/index.m3u8
+
+#EXTINF:-1 group-title="inter",Toon Max CHINA
+http://45.126.83.51/qwr9ew/s/s50/index.m3u8
+
+#EXTINF:-1 group-title="inter",RTP
+http://45.126.83.51/qwr9ew/s/s38/index.m3u8
+
+
+#EXTINF:-1 group-title="inter",ONE
+http://rtmp.one.by:1300
+
+#EXTINF:-1 group-title="film",Zee Bioskop
+http://45.126.83.51/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 group-title="film",Rock Action
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+
+
+
+
+
+
+############ NASIONAL BUKAN UTAMA #############
+
+
+#EXTINF:-1 group-title="lokal" tvg-id="JPMTV.id", JPM TV
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="daerah", Javvapos
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+
+
+
+
+######### OTHER ############
+
+
+
+#EXTINF:-1 group-title="lokal",Live Streaming 1
+http://210.210.155.35/x6bnqe/s/s100/live.m3u8
+
+#EXTINF:-1 group-title="lokal",Live Streaming 2
+http://210.210.155.35/uq2663/h/h998/live.m3u8
+
+#EXTINF:-1 tvg-id="BatuTV.id",Batu TV [Not 24/7]
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#EXTINF:-1 tvg-id="FajarTV.id",Fajar TV (240p) [Not 24/7]
+http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JambiTV.id" status="online",Jambi TV (576p) [Not 24/7]
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="SemarangTV.id" status="online",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1 tvg-id="TVRParlemen.id" status="error",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+############ DAERAH NON   TVRI ############
+
+#EXTINF:-1 group-title="daerah",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="daerah", Jawapos TV 1
+http://122.248.43.138:1935/ch6/myStream/chunklist_w1818250765.m3u8
+
+
+
+#EXTINF:-1 group-title="daerah",Simpang 5 TV
+http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="daerah",Batam TV
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="daerah",Bali TV
+http://45.126.83.51/uq2663/h/h159/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="daerah",PAL TV
+http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="daerah",Pon TV
+http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="daerah",Padang TV
+http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="daerah",Radar TV
+http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="daerah",Balikapan TV
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="daerah",Riau TV
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="daerah",RCTV
+http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="daerah",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="daerah",Citra TV
+http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="daerah",SMTV
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-id="TegarTVLampung.id" status="online",Tegar TV Lampung (480p)
+https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-id="RajawaliTV.id" status="online",RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+
+#EXTINF:-1 tvg-id="UChannel.id" status="online",U Channel (576p) [Not 24/7] [Geo-blocked]
+http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Logoelshinta.png",Elshinta TV
+http://210.210.155.35/qwr9ew/s/s10/index.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",DAAI TV 
+http://210.210.155.35/qwr9ew/s/s13/01.m3u8
