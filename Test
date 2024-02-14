@@ -1,15 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 ,g
-http://aflaxtv.xyz:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296695
+#EXTINF:-0 group-title="TRUE VISIONS" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", TRUE EXPLIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
+#https://2nud.short.gy/truelife.mpd
+http://playtv.my.id/play/life.m3u8
 
-#EXTINF:-1 ,亚洲旅游台
+#EXTINF:-0 group-title="TRUE VISIONS" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", TRUE EXPLIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
+#https://2nud.short.gy/truelife.mpd
 
-http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-
-#EXTINF:-1 ,亚洲新闻
-
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-0 group-title="TRUE VISIONS" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png", TRUE EXPLIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
+https://2nud.short.gy/truelife.mpd
 
 #EXTINF:-1 ,耀才财经台
 
