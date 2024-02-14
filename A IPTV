@@ -483,9 +483,6 @@ https://sv2.wacthstream.com/wacth_tv/563_Love_Nature/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/673_OUTDOOR/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",ช่อง True Explore Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
-#https://2nud.short.gy/truelife.mpd
 http://playtv.my.id/play/life.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Explore Sci
@@ -3380,22 +3377,26 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",ช่อง RTM TV 2
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158355.m3u8
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://4.bp.blogspot.com/-tTRMBRiEZQk/UbCo2bqjx9I/AAAAAAAAFiI/Xxn4fTsuHzk/s1600/tv3.jpg",ช่อง TV 3
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158360.m3u8
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv3/playlist.m3u8?id=1
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2018/06/ntv7.png",ช่อง NTV 7
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174695.m3u8
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv7/playlist.m3u8?id=1
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",ช่อง TV 9
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171953.m3u8
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv9/playlist.m3u8?id=1
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png",ช่อง Astro Prima
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157467.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",ช่อง Astro Oasis
+http://50.7.234.10:8278/Oasis/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ช่อง Astro AOD 352
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571229
