@@ -483,6 +483,9 @@ https://sv2.wacthstream.com/wacth_tv/563_Love_Nature/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/673_OUTDOOR/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",ช่อง True Explore Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
+#https://2nud.short.gy/truelife.mpd
 http://playtv.my.id/play/life.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Explore Sci
