@@ -3380,101 +3380,86 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://4.bp.blogspot.com/-tTRMBRiEZQk/UbCo2bqjx9I/AAAAAAAAFiI/Xxn4fTsuHzk/s1600/tv3.jpg",ช่อง TV 3
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv3/playlist.m3u8?id=1
-
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2018/06/ntv7.png",ช่อง NTV 7
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv7/playlist.m3u8?id=1
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",ช่อง 8TV
+http://50.7.234.10:8278/TV8/playlist.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",ช่อง TV 9
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv9/playlist.m3u8?id=1
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/TV-Okey-200x112.png",ช่อง Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",ช่อง TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",ช่อง Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Sukan-RTM-200x112.png",ช่อง Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",ช่อง Astro Oasis
 http://50.7.234.10:8278/Oasis/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ช่อง Astro AOD 352
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571229
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png?20230806103453",ช่อง Astro Warna
+http://50.7.234.10:8278/Warna/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ช่อง Astro AOD 353
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571226
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",ช่อง Astro Citra
+http://50.7.234.10:8278/Citra/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://reshapesummit.com/wp-content/uploads/2021/09/Astro-Awani-logo-color.png",ช่อง Astro Awani
+http://50.7.234.10:8278/Awani/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/584px-Logo_of_the_TV_Alhijrah.svg.png",ช่อง Al-Hijrah
+http://50.7.234.10:8278/Alhijrah/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",ช่อง Awesome TV
+http://50.7.234.10:8278/Goshop/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png",ช่อง BERNAMA
+http://50.7.234.10:8278/Bernama/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://selebritionline.com/wp-content/uploads/2016/10/Boo-logo-BLACK-1.jpg",ช่อง BOO HD
+http://50.7.234.10:8278/Boo/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Astro_HHD_HD.png",ช่อง Astro Hua Hee Dai
+http://50.7.234.10:8278/Huahee/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",ช่อง Astro TVB Jade
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+http://50.7.234.10:8278/Wlt/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://quake.com.my/images/2020/channels/tvb-classic.png",ช่อง Astro TVB Classic
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571197
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716056_497_small.jpg",ช่อง TVB Xing He HD
+http://50.7.234.10:8278/Xinhe/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png",ช่อง Astro TVB Entertainment News
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571188
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",ช่อง Celestial Movies HD
+http://50.7.234.10:8278/Celestial/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://img2.chinadaily.com.cn/images/201911/07/5dc38309a310cf3e97a500e8.jpeg",ช่อง Astro iQIYI
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571198
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/525_144.png",ช่อง LONG LONG Fun
+http://50.7.234.10:8278/Prima/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",ช่อง Astro BOO
-http://mytv-extra.com/D85A79B4/55A7743D/400200333
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png",ช่อง tvN HD
+http://50.7.234.10:8278/TVN/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",ช่อง Astro AXN
-http://mytv-extra.com/D85A79B4/55A7743D/191876
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png",ช่อง HBO HD
+http://50.7.234.10:8278/Hbo/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",ช่อง Astro Celestial Movies
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/174687.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png",ช่อง Animal Planet
+http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/67C50642-086D-4EC9-BF2F-0DF19FF704F0/3-1x1.png/900",ช่อง Astro Local Now Family Flix
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/296889.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg",ช่อง Love Nature
+http://50.7.234.10:8278/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",ช่อง Astro Cinema World
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171956.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ช่อง Astro SuperSport HD
+http://50.7.234.10:8278/Assp1/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png",ช่อง Astro BBC NEWS
-http://mytv-extra.com/D85A79B4/55A7743D/191880
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",ช่อง Astro SuperSport 2 HD
+http://50.7.234.10:8278/Assp2/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/1280px-Bloomberg_Television_logo.svg.png",ช่อง Astro BLOOMBERG TV
-http://mytv-extra.com/D85A79B4/55A7743D/191886
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ช่อง Astro SuperSport 3 HD
+http://50.7.234.10:8278/Assp3/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/800px-ABC_Australia_logo.svg.png",ช่อง Astro ABC AUSTRALIA
-http://mytv-extra.com/D85A79B4/55A7743D/191837
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png",ช่อง Astro ALJAZEERA
-http://mytv-extra.com/D85A79B4/55A7743D/33019
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1200px-BBC_Earth_2023.svg.png",ช่อง Astro BBC Earth
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/171979.m3u8
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",ช่อง Astro BBC Lifestyle
-http://mytv-extra.com/D85A79B4/55A7743D/400200779
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png",ช่อง Astro ANIMAL PLANET
-http://mytv-extra.com/D85A79B4/55A7743D/191844
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Asian_Food_Network_Gradient.jpg/revision/latest?cb=20221126135802",ช่อง Astro AFN
-http://mytv-extra.com/D85A79B4/55A7743D/191842
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png",ช่อง Astro ANIMAX
-http://mytv-extra.com/D85A79B4/55A7743D/191845
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ช่อง Astro SuperSport
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/146068.m3u8
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",ช่อง Astro SuperSport 2
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157556.m3u8
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ช่อง Astro SuperSport 3
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157557.m3u8
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ช่อง Astro SuperSport 4
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157558.m3u8
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",ช่อง Astro Cricket
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157565.m3u8
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://prod-media.beinsports.com/image/1682873048044_27f650a5-199f-49bb-9d4c-cf027565df1c.jpg",ช่อง Astro beIN Sports
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157561.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ช่อง Astro SuperSport 4 HD
+http://50.7.234.10:8278/Assp4/playlist.m3u8
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://i.imgur.com/l2JSQme.png",ช่อง SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
