@@ -483,8 +483,8 @@ https://sv2.wacthstream.com/wacth_tv/563_Love_Nature/playlist.m3u8
 https://sv2.wacthstream.com/wacth_tv/673_OUTDOOR/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",ช่อง True Explore Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
+#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=https://861f18c2-59b1-45ee-96c4-e06cfd79affa-00-1miebftvohrty.pike.replit.dev/Ch/license/life.html
 http://playtv.my.id/play/life.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Explore Sci
@@ -3415,6 +3415,9 @@ http://50.7.234.10:8278/Rania/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png?20240207105003",ช่อง Astro Aura HD
 http://50.7.234.10:8278/Aura/playlist.m3u8
 
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",ช่อง Astro Sensasi HD
+http://50.7.234.10:8278/Ria/playlist.m3u8
+
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png",ช่อง Astro Ceria HD
 http://50.7.234.10:8278/Ceria/playlist.m3u8
 
@@ -3451,9 +3454,6 @@ http://50.7.234.10:8278/Prima/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",ช่อง Astro Vaanavil HD
 http://50.7.234.10:8278/Vaanavil/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",ช่อง Astro Sensasi HD
-http://50.7.234.10:8278/Ria/playlist.m3u8
-
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/1200?cb=20180318045832",ช่อง Adithya
 http://50.7.234.10:8278/Adithya/playlist.m3u8
 
@@ -3469,8 +3469,14 @@ http://50.7.234.10:8278/Kplus/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png",ช่อง HBO HD
 http://50.7.234.10:8278/Hbo/playlist.m3u8
 
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png",ช่อง HBO Family
+http://50.7.234.10:8278/Hbofamily/playlist.m3u8
+
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png",ช่อง CINEMAX HD
 http://50.7.234.10:8278/Cinemax/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/240px-History_Logo.svg.png",ช่อง History HD
+http://50.7.234.10:8278/History/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png",ช่อง Animal Planet HD
 http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8
