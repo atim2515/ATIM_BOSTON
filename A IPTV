@@ -3354,19 +3354,28 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",ช่อง ZooMoo
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683172
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",ช่อง RTM TV 1
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",ช่อง TV1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",ช่อง RTM TV 2
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",ช่อง TV2
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV 6
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",ช่อง TV3
+http://50.7.234.10:8278/TV3/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://revmedia.my/wp-content/uploads/2020/10/ntv7-1.jpg",ช่อง NTV7
+http://50.7.234.10:8278/NTV7/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",ช่อง 8TV
 http://50.7.234.10:8278/TV8/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://baseimages.tonton.com.my/1514366372608_channel-logo-tv9.png",ช่อง TV9
+http://50.7.234.10:8278/TV9/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/TV-Okey-200x112.png",ช่อง Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
