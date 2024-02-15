@@ -2238,19 +2238,22 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153395
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png",ช่อง TVB Entertainment News
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153504
+http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He
 http://50.7.234.10:8278/Xinhe/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571197
+http://50.7.234.10:8278/Tvbclassic/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVBD-logo.png",ช่อง TVB Drama
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153400
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVBE-logo.png",ช่อง TVBe
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153398
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://quake.com.my/images/2021/channels/tvb-magic.jpg",ช่อง TVB Magic
+http://50.7.234.10:8278/Tvbmagic/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/rthk-31-live-vipo-tv-china.png",ช่อง RTHK 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -3419,8 +3422,17 @@ http://50.7.234.10:8278/Huahee/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",ช่อง TVB Jade
 http://50.7.234.10:8278/Wlt/playlist.m3u8
 
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/TVB_Classic_International.png/revision/latest/scale-to-width-down/646?cb=20230714155414&path-prefix=vi",ช่อง TVB Classic HD
+http://50.7.234.10:8278/Tvbclassic/playlist.m3u8
+
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716056_497_small.jpg",ช่อง TVB Xing He HD
 http://50.7.234.10:8278/Xinhe/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/tvb-entertainment-news-656x388.jpg",ช่อง TVB Entertainment News HD
+http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://quake.com.my/images/2021/channels/tvb-magic.jpg",ช่อง TVB Magic
+http://50.7.234.10:8278/Tvbmagic/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",ช่อง Celestial Movies HD
 http://50.7.234.10:8278/Celestial/playlist.m3u8
@@ -3433,6 +3445,21 @@ http://50.7.234.10:8278/Vaanavil/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Adithya_TV.jpg/revision/latest/scale-to-width-down/1200?cb=20180318045832",ช่อง Adithya
 http://50.7.234.10:8278/Adithya/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/220px-Sun_TV_logo.svg.png",ช่อง SUN TV HD
+http://50.7.234.10:8278/Suntv/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Sun_Music_%28No_Background%29.png",ช่อง Sun Music HD
+http://50.7.234.10:8278/Sunmusic/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/Sun_Life_2013.png/revision/latest?cb=20220908155341&path-prefix=vi",ช่อง Sun Life
+http://50.7.234.10:8278/Sunlife/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",ช่อง Star Vijay HD
+http://50.7.234.10:8278/Starvijay/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg",ช่อง Zee Tamil HD
+http://50.7.234.10:8278/Zeetamil/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png",ช่อง tvN HD
 http://50.7.234.10:8278/TVN/playlist.m3u8
@@ -3452,6 +3479,24 @@ http://50.7.234.10:8278/Hbofamily/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png",ช่อง CINEMAX HD
 http://50.7.234.10:8278/Cinemax/playlist.m3u8
 
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Paramount_Network_logo.png",ช่อง Paramount Network
+http://50.7.234.10:8278/Paramountnetwork/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",ช่อง AXN HD
+http://50.7.234.10:8278/Axn/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png?20200130234533",ช่อง Lifetime HD
+http://50.7.234.10:8278/Lifetime/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png",ช่อง TLC HD
+http://50.7.234.10:8278/Tlc/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",ช่อง Food Network HD
+http://50.7.234.10:8278/Foodnetwork/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png",ช่อง BBC Earth
+http://50.7.234.10:8278/Bbcearth/playlist.m3u8
+
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/240px-History_Logo.svg.png",ช่อง History HD
 http://50.7.234.10:8278/History/playlist.m3u8
 
@@ -3463,6 +3508,24 @@ http://50.7.234.10:8278/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png",ช่อง CNN HD
 http://50.7.234.10:8278/Cnn/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png",ช่อง BBC News HD
+http://50.7.234.10:8278/Bbcnews/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/800px-ABC_Australia_logo.svg.png",ช่อง ABC Australia HD
+http://50.7.234.10:8278/Abcaustralia/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png",ช่อง DreamWorks
+http://50.7.234.10:8278/Dreamworks/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://media.zenfs.com/en/creative_bloq_161/51c44ac8546c60a42e64541ef150f0e3",ช่อง Nickelodeon HD
+http://50.7.234.10:8278/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png",ช่อง Nick Jr.
+http://50.7.234.10:8278/Nickjr/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/CBeebies_II.png",ช่อง CBeebies
+http://50.7.234.10:8278/Cbeebies/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ช่อง Astro SuperSport HD
 http://50.7.234.10:8278/Assp1/playlist.m3u8
@@ -3481,6 +3544,15 @@ http://50.7.234.10:8278/Arena/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",ช่อง Astro Arena 2 HD
 http://50.7.234.10:8278/Arena2/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://yt3.googleusercontent.com/W9hb266HaZ5dAiqeZe71KogajsDGwdZyAqN1bEgYrGbugT5RhVgFP0ntpgn5Ye53Lc9UHaLV5Dg=s900-c-k-c0x00ffffff-no-rj",ช่อง SPOTV
+http://50.7.234.10:8278/Spotv1/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.webp",ช่อง SPOTV2
+http://50.7.234.10:8278/Spotv2/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE Network HD
+http://50.7.234.10:8278/Wwe/playlist.m3u8
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://i.imgur.com/l2JSQme.png",ช่อง SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
