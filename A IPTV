@@ -3776,14 +3776,29 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",ช่อง Discovery Kids Hindi
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://pbs.twimg.com/profile_images/567474044560089088/CaQ_ZKMP_400x400.png",ช่อง Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT0usN8hogGRBpISJ7xQJsDxHY0nI98ToLfQoD-DA=s900-c-k-c0x00ffffff-no-rj",ช่อง ZEE CINEMA
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58199
 
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://play-lh.googleusercontent.com/Z-xq4pfx34QaZcUUAxP6ROq_M64GBw8xbBAQ6apcHLkurAzlzCcswH8l9_I6I8wAlik",ช่อง Hala London
-https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://etimg.etb2bimg.com/photo/98326612.cms",ช่อง Zee News
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58341
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://www.exchange4media.com/news-photo/109657-abplogo.jpg",ช่อง ABP NEWS
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58352
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://logowik.com/content/uploads/images/ndtv9182.logowik.com.webp",ช่อง NDTV
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58379
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://logowik.com/content/uploads/images/4104-zing-tv-new.webp",ช่อง ZING
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58196
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png/revision/latest?cb=20190307145616",ช่อง FOOD FOOD
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58375
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/DVag2TSu.jpg/revision/latest/scale-to-width-down/200?cb=20160805130619",ช่อง DD Sports
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58185
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://pbs.twimg.com/profile_images/567474044560089088/CaQ_ZKMP_400x400.png",ช่อง Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png",ช่อง TLC
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
