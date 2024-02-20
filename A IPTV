@@ -1759,9 +1759,6 @@ http://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://logowik.com/content/uploads/images/rakuten-tv2152.logowik.com.webp",ช่อง Rakuten TV Shows
 http://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png",ช่อง SyFy
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59914
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png",ช่อง BBC NEWS
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53840
 
@@ -1788,6 +1785,9 @@ http://4e87b8a2.rossteleccom.net/iptv/4AHGMMPHZHR6D3/19181/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png",ช่อง BBC EARTH
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53607
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/03/14/17/cbbc-logo.jpg?width=1200",ช่อง CBBC
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59953
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png",ช่อง ITV1
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/66020
@@ -1879,11 +1879,26 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53671
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",ช่อง DMAX
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53882
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/disney/images/2/22/Mickey_Mouse_Clubhouse.png/revision/latest/scale-to-width-down/1200?cb=20171003210025",ช่อง Disney Junior
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59956
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",ช่อง NICK
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53930
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/sites/4/2016/01/channel-logo-nick-jnr-too.png",ช่อง Nick Jr Too
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59962
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp",ช่อง CARTOONITO
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53861
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png",ช่อง Boomerang
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59951
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",ช่อง Baby TV
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59950
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Pop-max-logo.png",ช่อง Pop Max
+http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59959
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL",ช่อง Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
