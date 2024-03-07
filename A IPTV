@@ -4067,6 +4067,33 @@ https://1117141481.vnns.net/VTC16/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png",ช่อง ANTV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png",ช่อง VNews
+https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png",ช่อง Nhân Dân TV
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png",ช่อง Quốc Hội
+http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png",ช่อง VOVTV
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png",ช่อง BRT HD | TH Bà Rịa Vũng Tàu
+https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png",ช่อง BGTV HD | TH Bắc Giang
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png",ช่อง BLTV HD | TH Bạc Liêu
+https://tv.thbl.vn/live/tv/tv.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/123.png",ช่อง BPTV2 HD | TH Bình Phước
+https://live.mediatech.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png",ช่อง BTV HD | TH Bình Thuận
+https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png",ช่อง Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
@@ -4113,6 +4140,9 @@ http://vcis.nekocdn.xyz/ksport2/index.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",ช่อง K+ KIDS
 http://vcis.nekocdn.xyz/kkids/index.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png",ช่อง KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png",ช่อง KIX
 http://210.210.155.37/dr9445/h/h07/01.m3u8
 
@@ -4139,6 +4169,9 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png",ช่อง VThanh Audio
+https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png",ช่อง MRTV
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w31827482.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDU6NTM6NDAgQU0maGFzaF92YWx1ZT1pV3FzL1c1eSs2SmFZVFRlckE2SmFRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEx
