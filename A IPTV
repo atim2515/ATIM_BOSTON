@@ -1096,9 +1096,6 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/118563
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Retroplex_logo.png",ช่อง RETRO PLEX
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=824742
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Indieplex_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20160512191618",ช่อง IndiePlex
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=824738
-
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/HDNET_Movies_Logo.png",ช่อง HDNET MOVIES
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=824737
 
@@ -1510,14 +1507,20 @@ http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/57419
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://logowik.com/content/uploads/images/eurosport-20018632.logowik.com.webp",ช่อง Eurosport
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=1002742
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://media.licdn.com/dms/image/D560BAQE34S_rQVjBog/company-logo_200_200/0/1666649977127?e=2147483647&v=beta&t=D4I32IuRElkc41JxZMQ_x-avzFasLxr72ZDTfzHkU-A",ช่อง Women's Sport
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=1002749
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://tv.assets.pressassociation.io/efd15b54-5dc8-5bd1-b3cb-d120d1bbb7b5.png",ช่อง Premier Sport 1
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=1071686
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://tv.assets.pressassociation.io/f63b9244-174e-58ac-8f9b-ac2f18ae8e4f.png",ช่อง Premier Sport 2
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=1071687
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ช่อง ESPN
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53403
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg",ช่อง ESPN 2
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53402
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://4.bp.blogspot.com/-DEtOenIRyWc/UTVa4EauCXI/AAAAAAAAQBc/5Klyn9rW_78/s1600/logo+espn+2013.png",ช่อง ESPN VIVO
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=824738
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",ช่อง ESPN U
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53401
