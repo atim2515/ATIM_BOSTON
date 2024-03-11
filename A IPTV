@@ -2549,6 +2549,12 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://quake.com.my/images/2021/channels/tvb-magic.jpg",ช่อง TVB Magic
 http://50.7.234.10:8278/Tvbmagic/playlist.m3u8
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://fltaradio.com/upload/2018/12/TVB-News-Channel.jpg",ช่อง TVB News Channel
+http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2022/9/4/1662306726998.png",ช่อง TVB Finance, Sports & Information Channel
+http://lttv.ddqq.fun:8085/tvb.php?id=2&hq
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/rthk-31-live-vipo-tv-china.png",ช่อง RTHK 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
