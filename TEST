@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="vthanhchannel" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
-http://viettel.nekocdn.xyz/vthanhchannel/mpegts
+http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="vthanhaudio" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio
-http://viettel.nekocdn.xyz/vthanhaudio/mpegts
+http://lttv.ddqq.fun:8085/tvb.php?id=1&hq
 #EXTINF:-1 tvg-id="vthanhaudio" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio (ON Live)
-https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
+http://lttv.ddqq.fun:8085/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="vthanhsp1" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
-http://viettel.nekocdn.xyz/vthanhsports1/mpegts
+http://lttv.ddqq.fun:8085/tvb.php?id=3&hq
 #EXTINF:-1 tvg-id="vthanhsp1" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1 (4K)
-http://viettel.nekocdn.xyz/vthanhsports1-4k/mpegts
+http://lttv.ddqq.fun:8085/tvb.php?id=4&hq
 #EXTINF:-1 tvg-id="vthanhsp2" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh Sports 2
-http://viettel.nekocdn.xyz/vthanhsports2/mpegts
+http://lttv.ddqq.fun:8085/tvb.php?id=5&hq
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 | Dự phòng
 https://code.vthanhtivi.pw/channel/RHJjRnlZcWRuRG5VRXZhNjNJSnZSWk05RHNOamVaS01wMGRUTGRJL2NxQlZJekhDTnVubW1tMEFUYmVVTmZpRw==/master.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 | Dự phòng
