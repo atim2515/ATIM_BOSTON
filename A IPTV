@@ -2579,7 +2579,7 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVBE-logo.png",ช่อง TVBe
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153398
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://quake.com.my/images/2021/channels/tvb-magic.jpg",ช่อง TVB Magic
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/501_144.png",ช่อง TVB Magic
 http://50.7.234.10:8278/Tvbmagic/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://fltaradio.com/upload/2018/12/TVB-News-Channel.jpg",ช่อง TVB News Channel
@@ -2588,7 +2588,7 @@ http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liakRj99iv7_vHfhuLEh9xYYJqB7-FO-znjYtq4A=s900-c-k-c0x00ffffff-no-rj",ช่อง TVB News Channel
 http://lttv.ddqq.fun:8085/tvb.php?id=4&hq
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/hXC9moRycbFCUY0IZeu0bSbj-uytr-UofKusLgO9rAvoftoKiz7R-fEtkh--0UlHMN8EdVfX1mQ-3_Ham4_YzJP_zAgALdhN",ช่อง TVB Finance-Sports & Information Channel
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TVB_Finance%2C_Sports_%26_Information_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20221205065531",ช่อง TVB Finance-Sports & Information Channel
 http://lttv.ddqq.fun:8085/tvb.php?id=2&hq
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/rthk-31-live-vipo-tv-china.png",ช่อง RTHK 31
@@ -3812,6 +3812,11 @@ http://50.7.234.10:8278/Boo/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Astro_HHD_HD.png",ช่อง Astro Hua Hee Dai HD
 http://50.7.234.10:8278/Huahee/playlist.m3u8
 
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://dookeela.live/uploads/1706405008.png",ช่อง IQIYI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/iqiyi
+https://dookeela.live/live-tv/iqiyi
+
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",ช่อง TVB Jade
 http://50.7.234.10:8278/Wlt/playlist.m3u8
 
@@ -3824,7 +3829,7 @@ http://50.7.234.10:8278/Xinhe/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/tvb-entertainment-news-656x388.jpg",ช่อง TVB Entertainment News HD
 http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://quake.com.my/images/2021/channels/tvb-magic.jpg",ช่อง TVB Magic
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/501_144.png",ช่อง TVB Magic
 http://50.7.234.10:8278/Tvbmagic/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png",ช่อง Celestial Movies HD
