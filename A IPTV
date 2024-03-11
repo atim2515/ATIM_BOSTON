@@ -2522,6 +2522,12 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png",ช่อง Fairchild 2
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90352
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.viu.tv/viutv_logo.png",ช่อง VIU TV
+http://50.7.238.114:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg",ช่อง VIU TV SIX
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/jade.jpg",ช่อง TVB Jade Astro
 http://50.7.234.10:8278/Wlt/playlist.m3u8
 
@@ -2675,6 +2681,54 @@ http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.asiadigital.com.tw/wp-content/uploads/20200529162202_99.jpg",ช่อง 美食星球
 http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png",ช่อง 靖天国际台
+http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png",ช่อง 靖天卡通台
+http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/ustv-news-live.jpg",ช่อง 非凡新闻
+http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWiywJ7Z8Wfvy5UqfWGeqoMJfm7oQSjHeugkRcw_w=s900-c-k-c0x00ffffff-no-rj",ช่อง 年代新闻
+http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/MOD_CH279_EYE_TV%E6%97%85%E9%81%8A%E5%8F%B0.png",ช่อง EYE TV旅游
+http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/MOD_CH358_EYE_TV%E6%88%B2%E5%8A%87%E5%8F%B0.png",ช่อง EYE TV戏剧
+http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png",ช่อง 爱尔达体育2台
+http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/102.png",ช่อง 爱尔达影剧台
+http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://images.sports8.net/cimg/1456.jpg",ช่อง 纬来体育
+http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/640px-DAZN_1_Logo.svg.png",ช่อง DAZN 1
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/cast-tennis-live.jpg",ช่อง 博斯网球
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages%40Live%40149%401846.png",ช่อง 博斯高球一台
+http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn06_pc.png",ช่อง 博斯高球二台
+http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1972_20211223113519.png",ช่อง 博斯魅力
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn08_pc.png",ช่อง 博斯运动二台
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://www.leezon.net/uploads/news/20200102110445146500.jpg",ช่อง 动物星球
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png",ช่อง 大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
