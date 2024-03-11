@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="vthanhchannel" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
-http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
+http://lttv.ddqq.fun:8085/tvb.php?id=6&hq
 #EXTINF:-1 tvg-id="vthanhaudio" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio
-http://lttv.ddqq.fun:8085/tvb.php?id=1&hq
+http://lttv.ddqq.fun:8085/tvb.php?id=7&hq
 #EXTINF:-1 tvg-id="vthanhaudio" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio (ON Live)
-http://lttv.ddqq.fun:8085/tvb.php?id=2&hq
+http://lttv.ddqq.fun:8085/tvb.php?id=8&hq
 #EXTINF:-1 tvg-id="vthanhsp1" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
-http://lttv.ddqq.fun:8085/tvb.php?id=3&hq
+http://lttv.ddqq.fun:8085/tvb.php?id=9&hq
 #EXTINF:-1 tvg-id="vthanhsp1" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1 (4K)
 http://lttv.ddqq.fun:8085/tvb.php?id=4&hq
 #EXTINF:-1 tvg-id="vthanhsp2" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh Sports 2
