@@ -2552,7 +2552,10 @@ http://50.7.234.10:8278/Tvbmagic/playlist.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://fltaradio.com/upload/2018/12/TVB-News-Channel.jpg",ช่อง TVB News Channel
 http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/hXC9moRycbFCUY0IZeu0bSbj-uytr-UofKusLgO9rAvoftoKiz7R-fEtkh--0UlHMN8EdVfX1mQ-3_Ham4_YzJP_zAgALdhN",ช่อง TVB Finance, Sports & Information Channel
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liakRj99iv7_vHfhuLEh9xYYJqB7-FO-znjYtq4A=s900-c-k-c0x00ffffff-no-rj",ช่อง TVB News Channel
+http://lttv.ddqq.fun:8085/tvb.php?id=4&hq
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/hXC9moRycbFCUY0IZeu0bSbj-uytr-UofKusLgO9rAvoftoKiz7R-fEtkh--0UlHMN8EdVfX1mQ-3_Ham4_YzJP_zAgALdhN",ช่อง TVB Finance-Sports & Information Channel
 http://lttv.ddqq.fun:8085/tvb.php?id=2&hq
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/rthk-31-live-vipo-tv-china.png",ช่อง RTHK 31
