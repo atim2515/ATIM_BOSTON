@@ -2162,6 +2162,9 @@ https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png",ช่อง TVS
 http://for-testonly.ra1n.lol/teletama/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png",ช่อง TUF
+http://for-testonly.ra1n.lol/tuf/index.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
 
@@ -2190,6 +2193,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",ช่อง BS11
 http://for-testonly.ra1n.lol/bs11/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",ช่อง BS12
+http://for-testonly.ra1n.lol/bs12/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.screens-lab.jp/wp-content/uploads/20220121/01fe60c1fc682a9bd51918d6f8ddbde5.jpg",ช่อง BS Shochiku Tokyu
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
@@ -5578,3 +5584,21 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22374
 
 #EXTINF:-1 group-title="JAPAN RADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995d.png",ช่อง Powerplay J-Pop
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22384
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第一台
+http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第二台
+http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第三台
+http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第四台
+http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第五台
+http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 普通話台
+http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
