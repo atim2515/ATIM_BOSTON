@@ -2426,6 +2426,15 @@ https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8|Referer=htt
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://pbs.twimg.com/profile_images/1347443419019239425/3GrnHjge_400x400.jpg",ช่อง KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cdn.hqth.me/logo/category/kr.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",ช่อง KBS1
+https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png",ช่อง KBS2
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png",ช่อง KBS News D
+https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://padmin.static.kbs.co.kr/live/2020/3/23/1584964694173_178117.jpg",ช่อง KBS Drama
 http://mytv.dothome.co.kr/ch/catv/2.php
 
@@ -2438,23 +2447,40 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://padmin.static.kbs.co.kr/live/2021/5/28/1622175270507_252276.jpg",ช่อง KBS Life
 http://mytv.dothome.co.kr/ch/catv/5.php
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png",ช่อง KBS Kids
+https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/Tf0vweF.png",ช่อง KpopTV Play
 http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/1280px-TV_Chosun_Logo_%28English%29.svg.png",ช่อง TV Chosun
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.bntnews.co.kr/data/bnt/image/201811/ab30063c0cd3b45d2fec9cd829c428e5.jpg",ช่อง TV Chosun 2
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png",ช่อง JIBS SBS
 http://123.140.197.22/stream/1/play.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif",ช่อง CJB청주방송 (SBS 淸州)
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif",ช่อง CJB SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://blog.kakaocdn.net/dn/bpKQvB/btqD1q0BJj0/w3Vv2BKKJr8KAx031PuvOk/img.jpg",ช่อง KBC 광주방송 (SBS 光州)
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://blog.kakaocdn.net/dn/bpKQvB/btqD1q0BJj0/w3Vv2BKKJr8KAx031PuvOk/img.jpg",ช่อง KBC SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/120px-KNN_logo.svg.png",ช่อง SBS KNN
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/120px-KNN_logo.svg.png",ช่อง KNN SBS
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/8/8b/TJB_Logo.jpg",ช่อง TJB 대전방송 (SBS 大田)
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/8/8b/TJB_Logo.jpg",ช่อง TJB SBS
 http://1.245.74.5:1935/live/tv/.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://blog.kakaocdn.net/dn/dgAKcE/btqD2vhp2j9/M1I8IENWa6vJk6zGjOWgv1/img.jpg",ช่อง JTV SBS
+http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png",ช่อง G1 SBS
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_logo_1.png?cVo3i7POaat75krAiNCBi5bwdeOmFvBN&itok=qD5RawKs",ช่อง EBS 1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
@@ -2618,14 +2644,14 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png",ช่อง RTHK 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/RTHK_33.png/revision/latest/scale-to-width-down/1000?cb=20230403055906&path-prefix=vi",ช่อง RTHK 33
+http://bziyunshao.synology.me:8892/bysid/33
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/RTHK_34.png/revision/latest/scale-to-width-down/1000?cb=20230403055909&path-prefix=vi",ช่อง RTHK 34
+http://bziyunshao.synology.me:8892/bysid/34
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://seeklogo.com/images/P/Phoenix_Satellite_TV-logo-DFF7DCF20F-seeklogo.com.png",ช่อง Phoenix Chinese Channel
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://content-technology.com/wp-content/uploads/2023/02/i-Cable-Hong-Kong-logo.jpg",ช่อง i-Cable 24-hour News Channel
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/hkibc.jpg",ช่อง HKIBC
-https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+http://php.17186.eu.org/phtv/fhzx.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",ช่อง Lotus TV Macau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -3794,6 +3820,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Sukan-RTM-200x112.png",ช่อง Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png",ช่อง RTB SUKMAINDERA
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png",ช่อง RTB ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png",ช่อง RTB GO
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",ช่อง Astro Oasis HD
 http://50.7.234.10:8278/Oasis/playlist.m3u8
 
@@ -4319,8 +4354,23 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png",ช่อง KIX
 http://210.210.155.37/dr9445/h/h07/01.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png",ช่อง TLC
+http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://i.ytimg.com/vi/5o77N4sNCLI/maxresdefault.jpg",ช่อง Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png",ช่อง Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",ช่อง BBC Lifestyle
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png",ช่อง Discovery Asia
+http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png",ช่อง Outdoor Channel
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg",ช่อง Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -4375,6 +4425,15 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3lZYNo_oMyK_uYPv6OIb3OenTqkRbImwc5-vFrI8TrZd0P1wYN2FfsOMseLp4qiozw&usqp=CAU",ช่อง ChannelK
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601",ช่อง TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://i.ibb.co/nCPKFtV/tvk2-BEARTV.jpg",ช่อง TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="http://gg.gg/13vwaz",ช่อง SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://yt3.googleusercontent.com/4uDBAzccC1GjYMqTrZMq_vQu9grWr3S4Gv8Sz_hzvRAdJaBu2a_TJxFMJ7hTFlgjRKIy3Yh1IM4=s900-c-k-c0x00ffffff-no-rj",ช่อง Bayon TV
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
