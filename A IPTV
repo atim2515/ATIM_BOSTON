@@ -2454,12 +2454,10 @@ https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
 http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/1280px-TV_Chosun_Logo_%28English%29.svg.png",ช่อง TV Chosun
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8|Referer=http://broadcast.tvchosun.com/onair/on.cstv
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.bntnews.co.kr/data/bnt/image/201811/ab30063c0cd3b45d2fec9cd829c428e5.jpg",ช่อง TV Chosun 2
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8|Referer=http://broadcast.tvchosun.com/onair/on.cstv
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png",ช่อง JIBS SBS
 http://123.140.197.22/stream/1/play.m3u8
@@ -4432,7 +4430,7 @@ https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://i.ibb.co/nCPKFtV/tvk2-BEARTV.jpg",ช่อง TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="http://gg.gg/13vwaz",ช่อง SEATV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1109284139964862464/3M-Jw_ME_400x400.png",ช่อง SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://yt3.googleusercontent.com/4uDBAzccC1GjYMqTrZMq_vQu9grWr3S4Gv8Sz_hzvRAdJaBu2a_TJxFMJ7hTFlgjRKIy3Yh1IM4=s900-c-k-c0x00ffffff-no-rj",ช่อง Bayon TV
