@@ -2528,8 +2528,14 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/b7uMB9T.png",ช่อง KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18032752/HOY-TV_OG.png",ช่อง HOY TV
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/2b/HoYIBC_logo.png/220px-HoYIBC_logo.png",ช่อง HOY TV 76
+http://str1.cvtv.xyz/ibc?token=live
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18032752/HOY-TV_OG.png",ช่อง HOY TV 77
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HOY_Infotainment_Channel.png/revision/latest/scale-to-width-down/220?cb=20231221130037&path-prefix=vi",ช่อง HOY TV 78
+http://bziyunshao.synology.me:8891/bysid/78
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
@@ -2561,14 +2567,23 @@ http://50.7.238.114:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=1925
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg",ช่อง VIU TV SIX
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716018_490_small.jpg",ช่อง TVB Jade
+http://str1.cvtv.xyz/Jade?token=live
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/jade.jpg",ช่อง TVB Jade Astro
 http://50.7.234.10:8278/Wlt/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.en-trak.com/wp-content/uploads/2022/10/TVB-peal-logo.jpg",ช่อง TVB Pearl
+http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/tvb1.png",ช่อง TVB1
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153396
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://1721826975.rsc.cdn77.org/wp-content/uploads/2021/12/15101445/Logo_TVBJ1_3D_Black.png",ช่อง TVB J1
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153395
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/j2.png",ช่อง TVB J2
+http://1.65.195.85:9981/stream/channelid/2082072924?ticket=14f092750fbe3328b33e21bd9bfea045d3c01786&profile=pass
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png",ช่อง TVB Entertainment News
 http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8
@@ -2589,13 +2604,13 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 http://50.7.234.10:8278/Tvbmagic/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://fltaradio.com/upload/2018/12/TVB-News-Channel.jpg",ช่อง TVB News Channel
-http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
+http://1.65.195.85:9981/stream/channelid/2051586642?ticket=f89ba725768ba5b5006d60fa1a0f280e22e1a483&profile=pass
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liakRj99iv7_vHfhuLEh9xYYJqB7-FO-znjYtq4A=s900-c-k-c0x00ffffff-no-rj",ช่อง TVB News Channel
 http://lttv.ddqq.fun:8085/tvb.php?id=4&hq
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TVB_Finance%2C_Sports_%26_Information_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20221205065531",ช่อง TVB Finance-Sports & Information Channel
-http://lttv.ddqq.fun:8085/tvb.php?id=2&hq
+http://1.65.195.85:9981/stream/channelid/1781676223?ticket=5ceccf7a8d3group-title="PHÁP"7461740c1eb46447e5efd1400a2&profile=pass
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/rthk-31-live-vipo-tv-china.png",ช่อง RTHK 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
