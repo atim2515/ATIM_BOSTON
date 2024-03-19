@@ -2649,6 +2649,9 @@ http://bziyunshao.synology.me:8892/bysid/33
 http://bziyunshao.synology.me:8892/bysid/34
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://seeklogo.com/images/P/Phoenix_Satellite_TV-logo-DFF7DCF20F-seeklogo.com.png",ช่อง Phoenix Chinese Channel
+https://ctrl.laotv.la/live/PhxChinese/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",ช่อง Phoenix InfoNews Channel
 http://php.17186.eu.org/phtv/fhzx.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",ช่อง Lotus TV Macau
@@ -4373,8 +4376,32 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg",ช่อง Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",ช่อง CNN
+http://str1.cvtv.xyz/CNN?token=live
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",ช่อง BBC News
+http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png",ช่อง CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",ช่อง Bloomberg TV Europe
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/d19434bf92d6af5a443ccf8af3c5a080.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png",ช่อง CNBC
+http://str1.cvtv.xyz/CNBC?token=live
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/140px-WION_news_Logo.svg.png",ช่อง WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png",ช่อง Euronews
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png",ช่อง France 24
+http://str1.cvtv.xyz/F24?token=live
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/200?cb=20180603181710",ช่อง Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png",ช่อง Al Jazeera English
 https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
@@ -4385,11 +4412,23 @@ http://103.130.141.67:81/live/3/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://news.cgtn.com/public/editor/2022-06-20/547/img/16ca798ce864481bae5c4ee8a0a0c6bf/16ca798ce864481bae5c4ee8a0a0c6bf.jpeg",ช่อง CGTN Documentary
 http://103.130.141.67:81/live/4/playlist.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/cctv4-656x388.jpg",ช่อง CCTV4
+https://github.com/ChiSheng9/iptv/raw/master/TV20.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png",ช่อง NTD
+https://github.com/ChiSheng9/iptv/raw/master/TV23.m3u8
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png",ช่อง TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/524px-VOA_logo.svg.png",ช่อง VOA
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/master.m3u8
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png",ช่อง TV5Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png",ช่อง VThanh Audio
 https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
