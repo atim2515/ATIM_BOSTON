@@ -2514,7 +2514,7 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",ช่อง MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/loWf3B5.jpg",ช่อง NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
@@ -4227,6 +4227,12 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://www.appletvappdownload.com/wp-content/uploads/2020/12/TeaTV-Download-APK-1-1-1.jpg",ช่อง Tea TV 2
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://i.imgur.com/nfkmvAY.png",ช่อง VTV1
+http://str1.cvtv.xyz/VTV1HD?token=live
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://i.imgur.com/7GSKm46.png",ช่อง ON Vie Giải Trí
+http://str1.cvtv.xyz/vie?token=live
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png",ช่อง VTC1
 https://1117141481.vnns.net/VTC1/playlist.m3u8
