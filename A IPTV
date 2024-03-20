@@ -2513,8 +2513,20 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Chosun.svg/revision/latest/scale-to-width-down/1200?cb=20230204021351",ช่อง KCTV 광주 CH05
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",ช่อง MBC
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",ช่อง MBC Chuncheon
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",ช่อง MBC Chungbuk
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",ช่อง MBC Jeju
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",ช่อง MBC Mokpo
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",ช่อง MBC Yeosu
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/loWf3B5.jpg",ช่อง NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
