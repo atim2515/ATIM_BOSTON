@@ -2534,14 +2534,32 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.futurekorea.co.kr/news/photo/202001/127326_129561_5346.jpg",ช่อง 국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://nnew.cc/wp-content/uploads/2018/01/389-1.jpg",ช่อง Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_WBC_logo.jpg",ช่อง WBC TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/GUpUMSk51VT2TBsc0GKpH8g_fa9Htn37v2HRxsxyIfy-upsrdlpC2zKaaoEPlj1SSA",ช่อง GoodTV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kr-tv-work-net-8165.jpg",ช่อง TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/i7uUG2m.png",ช่อง BBS Buddhist Broadcasting
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg",ช่อง BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://images.creativemarket.com/0.1.0/ps/4987211/1820/1214/m1/fpnw/wm0/home-shopping-1-01-.jpg?1535884131&s=1322338b83c7bde997b8bfedc1b8e513",ช่อง Home & Shopping
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image.ajunews.com/content/image/2020/05/07/20200507105021909945.jpg",ช่อง NS홈쇼핑
+http://livestream.nsmall.com:1935/IPHONE/nsmallMobile.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/XobzLSZ.png",ช่อง NS Shop+
+http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png",ช่อง CJ OnStyle
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
@@ -2561,8 +2579,17 @@ https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_309241_16820536225440644.jpg",ช่อง Hyundai Home Shopping Plus
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/dhuDviW.png",ช่อง SK stoa
+http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://m.w-shopping.co.kr/wshoppingImg.png",ช่อง W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/b7uMB9T.png",ช่อง KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 1-Samsung TV Plus 1
+https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/2b/HoYIBC_logo.png/220px-HoYIBC_logo.png",ช่อง HOY TV 76
 http://str1.cvtv.xyz/ibc?token=live
