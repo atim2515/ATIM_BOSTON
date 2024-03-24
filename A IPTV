@@ -4963,7 +4963,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC14/index.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/gsxoqM9rpJ_AIRNkF5ij09BALQu1lpkt_O94gbFy87bVqSrENchVf5BE9HxFQDL2ReAc",ช่อง VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/2560px-MTV-Logo.svg.png",ช่อง MTV
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Live_HD_2013_logo.svg/2098px-MTV_Live_HD_2013_logo.svg.png",ช่อง MTV Live
 http://mykingtv.net:2082/01125676380AA/3252353/12214
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5e9853180c904f07d802",ช่อง VEVO '80s
@@ -5674,6 +5674,15 @@ http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/6272/index.m3u8
 
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Eromania 4K
 http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/10049/index.m3u8
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMzMTliZDYtNzNiZC00MWQ1LTgyYTMtMGQ2ZDIzOThjMTRmL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",ช่อง An Eye for an Eye
+http://mykingtv.net:2082/movie/01125676380AA/3252353/20849.mp4
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/First_blood_poster.jpg",ช่อง First Blood
+http://mykingtv.net:2082/movie/01125676380AA/3252353/21677.mp4
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",ช่อง Jaws
+http://mykingtv.net:2082/movie/01125676380AA/3252353/20977.mp4
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
