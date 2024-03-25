@@ -2423,6 +2423,15 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaqjIh36Onq-QqV4KOvRNDXJtDWrEHht8gUu9amyQ=s900-c-k-c0x00ffffff-no-rj",ช่อง tvN Movies
+http://mykingtv.net:2082/01125676380AA/3252353/6950
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ช่อง One
+http://mykingtv.net:2082/01125676380AA/3252353/8468
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",ช่อง K PLUS
+http://mykingtv.net:2082/01125676380AA/3252353/6951
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://pbs.twimg.com/profile_images/1347443419019239425/3GrnHjge_400x400.jpg",ช่อง KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
@@ -2483,6 +2492,9 @@ http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png",ช่อง G1 SBS
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.radioclean.com/media/station/25366/thumb/radio-ubc-sbs-tv-icon.jpg",ช่อง UBC SBS
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_logo_1.png?cVo3i7POaat75krAiNCBi5bwdeOmFvBN&itok=qD5RawKs",ช่อง EBS 1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 
@@ -2540,6 +2552,15 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://nnew.cc/wp-content/uploads/2018/01/389-1.jpg",ช่อง Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/H4o1bpS.png",ช่อง Korean Song Channel
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_WBC_logo.jpg",ช่อง WBC TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nMOKlCMNluGHKj8xkLTo5a972Bmae6wMkKLATVPA=s900-c-k-c0x00ffffff-no-rj",ช่อง YTN 사이언스
+http://mytv.dothome.co.kr/ch/catv/261.php
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_WBC_logo.jpg",ช่อง WBC TV
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 
@@ -2593,6 +2614,33 @@ http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 1-Samsung TV Plus 1
 https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 2-Samsung TV Plus 2
+https://d13bfaug2ipt96.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ujgh90ynpdw-prod/Channel_MBC_2.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 3-Samsung TV Plus 3
+https://d33jr5ezct2aqw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-doq9g5envaarv-prod/Channel_MBC_3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 4-Samsung TV Plus 4
+https://d1acfb5b13qsdr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-he05vyj1kinia-prod/Channel_MBC_4.m3u8?ads.device_did=%7BPSID
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 5-Samsung TV Plus 5
+https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 6-Samsung TV Plus 6
+https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 7-Samsung TV Plus 7
+https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kg9gdipudll7l-prod/Channel_MBC_7.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 8-Samsung TV Plus 8
+https://d386gkzosr3i38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fm713l3q6ryzr-prod/Channel_MBC_8.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 9-Samsung TV Plus 9
+https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n4zydfj68vgn1-prod/Channel_MBC_9.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 10-Samsung TV Plus 10
+https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jsnzm21r7lwrj-prod/Channel_MBC_10.m3u8?ads.device_did=%7BPSID
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
@@ -5824,6 +5872,45 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=9247
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",ช่อง SHOWTIME 8
 http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924748
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924748
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924693
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924694
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924695
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924696
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924697
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924705
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924706
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924707
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924708
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924709
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924710
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924711
 
 #EXTINF:-1 group-title="VDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMzMTliZDYtNzNiZC00MWQ1LTgyYTMtMGQ2ZDIzOThjMTRmL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",ช่อง An Eye for an Eye
 http://mykingtv.net:2082/movie/01125676380AA/3252353/20849.mp4
