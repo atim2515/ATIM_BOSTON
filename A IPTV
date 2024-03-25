@@ -3741,6 +3741,9 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg",ช่อง My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg",ช่อง My Cinema Europe
+http://210.210.155.35:80/uq2663/h/h208/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg",ช่อง My Family Channel
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
@@ -3852,6 +3855,9 @@ http://mykingtv.net:2082/01125676380AA/3252353/5305
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",ช่อง CGTN Documentary
 http://mykingtv.net:2082/01125676380AA/3252353/5306
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TRT_World_Radio_logo.svg/2560px-TRT_World_Radio_logo.svg.png",ช่อง TRT World
+http://210.210.155.35/uq2663/h/h156/index2.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png",ช่อง National Geographic
 http://mykingtv.net:2082/01125676380AA/3252353/6992
 
@@ -3903,8 +3909,17 @@ http://mykingtv.net:2082/01125676380AA/3252353/8285
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/640px-Usee_Sports.png",ช่อง UseeSport2
 http://mykingtv.net:2082/01125676380AA/3252353/8286
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwybRxeJTccX6caQLRP8DogYz_7Y_JPH6tAFp6cLYgew&s",ช่อง Motorvision TV
-http://210.210.155.35:80/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png",ช่อง W Sport
+http://210.210.155.35:80/uq2663/h/h26/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest/scale-to-width-down/600?cb=20191026180443",ช่อง FIGHT SPORTS
+http://210.210.155.35:80/dr9445/h/h05/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://radioink.com/wp-content/uploads/2023/10/Motor-Racing-Network.jpeg",ช่อง MotoRRacing TV
+http://210.210.155.35:80/uq2663/h/h123/live.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nifg16Trl8NlfxHof3hbBThOF9K6XhAGAMkMUcGA=s900-c-k-c0x00ffffff-no-rj",ช่อง HorizonSprots
+http://210.210.155.35:80/uq2663/h/h127/live.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",ช่อง TV1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
