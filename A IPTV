@@ -3826,7 +3826,7 @@ http://mykingtv.net:2082/01125676380AA/3252353/6950
 http://mykingtv.net:2082/01125676380AA/3252353/6949
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2560px-KIX_logo.svg.png",ช่อง KIX
-http://mykingtv.net:2082/01125676380AA/3252353/6952
+http://210.210.155.37/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png",ช่อง KBS World
 http://mykingtv.net:2082/01125676380AA/3252353/6955
@@ -3843,7 +3843,7 @@ http://mykingtv.net:2082/01125676380AA/3252353/5305
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",ช่อง CGTN Documentary
 http://mykingtv.net:2082/01125676380AA/3252353/5306
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",ช่อง National Geographic
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png",ช่อง National Geographic
 http://mykingtv.net:2082/01125676380AA/3252353/6992
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",ช่อง Discovery Channel
@@ -4509,7 +4509,7 @@ http://vcis.nekocdn.xyz/kkids/index.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png",ช่อง KIX
-http://mykingtv.net:2082/01125676380AA/3252353/6952
+http://210.210.155.37/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png",ช่อง TLC
 http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
@@ -5674,6 +5674,45 @@ http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/6272/index.m3u8
 
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Eromania 4K
 http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/10049/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Marvel_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694102537",ช่อง MARVEL 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924731
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Marvel_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694102537",ช่อง MARVEL 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924732
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Marvel_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694102537",ช่อง MARVEL 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924733
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Marvel_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694102537",ช่อง MARVEL 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924734
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/The-best-movie-logos-Your-guide-to-the-most-iconic-film-logos-of-all-time.png",ช่อง ALL TIME BEST 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924698
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/The-best-movie-logos-Your-guide-to-the-most-iconic-film-logos-of-all-time.png",ช่อง ALL TIME BEST 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924699
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/The-best-movie-logos-Your-guide-to-the-most-iconic-film-logos-of-all-time.png",ช่อง ALL TIME BEST 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924700
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924735
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924736
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924737
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924738
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924739
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924740
 
 #EXTINF:-1 group-title="VDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMzMTliZDYtNzNiZC00MWQ1LTgyYTMtMGQ2ZDIzOThjMTRmL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",ช่อง An Eye for an Eye
 http://mykingtv.net:2082/movie/01125676380AA/3252353/20849.mp4
