@@ -3736,13 +3736,13 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg",ช่อง My Cinema
-http://mykingtv.net:2082/01125676380AA/3252353/8658
+http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg",ช่อง My Cinema Asia
-http://mykingtv.net:2082/01125676380AA/3252353/8660
+http://210.210.155.35/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg",ช่อง My Family Channel
-http://mykingtv.net:2082/01125676380AA/3252353/8662
+http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",ช่อง My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
@@ -3819,6 +3819,12 @@ http://mykingtv.net:2082/01125676380AA/3252353/6951
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",ช่อง Thrill
 http://mykingtv.net:2082/01125676380AA/3252353/7132
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/51228a21277171.562fe7a2cca71.jpg",ช่อง CELESTIAL MOVIES
+http://210.210.155.35:80/dr9445/h/h14/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/CCM_Celestial_Classic_Movies.jpg/revision/latest?cb=20120620033034",ช่อง CELESTIAL CLASIC MOVIES
+http://210.210.155.35:80/uq2663/h/h239/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKaqjIh36Onq-QqV4KOvRNDXJtDWrEHht8gUu9amyQ=s900-c-k-c0x00ffffff-no-rj",ช่อง tvN Movies
 http://mykingtv.net:2082/01125676380AA/3252353/6950
 
@@ -3830,6 +3836,9 @@ http://210.210.155.37/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png",ช่อง KBS World
 http://mykingtv.net:2082/01125676380AA/3252353/6955
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2048px-NHK_World.svg.png",ช่อง NHK WORLD
+http://210.210.155.35/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png",ช่อง GEM
 http://mykingtv.net:2082/01125676380AA/3252353/6954
@@ -3870,6 +3879,9 @@ http://mykingtv.net:2082/01125676380AA/3252353/6989
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/250?cb=20191129100706",ช่อง AFN
 http://mykingtv.net:2082/01125676380AA/3252353/6996
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://crema.tv/wp-content/uploads/2022/04/cremaTV-Logo-square-768x768.jpg",ช่อง Crema.tv
+http://210.210.155.35:80/uq2663/h/h228/S4/mnf.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/HGTV_Logo.jpg",ช่อง HGTV
 http://mykingtv.net:2082/01125676380AA/3252353/6995
 
@@ -3890,6 +3902,9 @@ http://mykingtv.net:2082/01125676380AA/3252353/8285
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/640px-Usee_Sports.png",ช่อง UseeSport2
 http://mykingtv.net:2082/01125676380AA/3252353/8286
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwybRxeJTccX6caQLRP8DogYz_7Y_JPH6tAFp6cLYgew&s",ช่อง Motorvision TV
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",ช่อง TV1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
@@ -3914,7 +3929,7 @@ http://50.7.234.10:8278/TV8/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://baseimages.tonton.com.my/1514366372608_channel-logo-tv9.png",ช่อง TV9
 http://50.7.234.10:8278/TV9/playlist.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/TV-Okey-200x112.png",ช่อง Okey
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",ช่อง Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",ช่อง TVIKIM
@@ -3923,7 +3938,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",ช่อง Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Sukan-RTM-200x112.png",ช่อง Sukan RTM
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1200px-Sukan_RTM_1_April.png",ช่อง Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png",ช่อง RTB SUKMAINDERA
@@ -4807,6 +4822,12 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",ช่อง PTV
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRublQPDYxd0qlxVgVwaYErj1IN_Jcm1_WRGodxio0qMQ&s",ช่อง HITS MOVIES
+http://210.210.155.35:80/uq2663/h/h206/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQo0bi7c33IL_s3AkCs0lM6cLtdrDNeMq-5JhLVXiUQ&s",ช่อง HITS
+http://210.210.155.35:80/uq2663/h/h205/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/10/MBC-daejeon.jpg",ช่อง MBC
 http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
