@@ -2594,15 +2594,6 @@ http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 1-Samsung TV Plus 1
 https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/2b/HoYIBC_logo.png/220px-HoYIBC_logo.png",ช่อง HOY TV 76
-http://str1.cvtv.xyz/ibc?token=live
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18032752/HOY-TV_OG.png",ช่อง HOY TV 77
-http://51.89.21.73:27347/livehttpplay?channel_id=20152
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HOY_Infotainment_Channel.png/revision/latest/scale-to-width-down/220?cb=20231221130037&path-prefix=vi",ช่อง HOY TV 78
-http://bziyunshao.synology.me:8891/bysid/78
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 
@@ -2621,11 +2612,8 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳視高清
 http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png",ช่อง Fairchild 1
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90351
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png",ช่อง Fairchild 2
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90352
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18032752/HOY-TV_OG.png",ช่อง HOY TV 77
+http://51.89.21.73:27347/livehttpplay?channel_id=20152
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.viu.tv/viutv_logo.png",ช่อง VIU TV
 http://50.7.238.114:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
@@ -2634,22 +2622,13 @@ http://50.7.238.114:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=1925
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716018_490_small.jpg",ช่อง TVB Jade
-http://str1.cvtv.xyz/Jade?token=live
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/jade.jpg",ช่อง TVB Jade Astro
 http://50.7.234.10:8278/Wlt/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.en-trak.com/wp-content/uploads/2022/10/TVB-peal-logo.jpg",ช่อง TVB Pearl
-http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/tvb1.png",ช่อง TVB1
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153396
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://1721826975.rsc.cdn77.org/wp-content/uploads/2021/12/15101445/Logo_TVBJ1_3D_Black.png",ช่อง TVB J1
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153395
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/j2.png",ช่อง TVB J2
-http://1.65.195.85:9981/stream/channelid/2082072924?ticket=14f092750fbe3328b33e21bd9bfea045d3c01786&profile=pass
+http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png",ช่อง TVB Entertainment News
 http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8
@@ -2660,23 +2639,11 @@ http://50.7.234.10:8278/Xinhe/playlist.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
 http://50.7.234.10:8278/Tvbclassic/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVBD-logo.png",ช่อง TVB Drama
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153400
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVBE-logo.png",ช่อง TVBe
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153398
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/501_144.png",ช่อง TVB Magic
 http://50.7.234.10:8278/Tvbmagic/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://fltaradio.com/upload/2018/12/TVB-News-Channel.jpg",ช่อง TVB News Channel
-http://1.65.195.85:9981/stream/channelid/2051586642?ticket=f89ba725768ba5b5006d60fa1a0f280e22e1a483&profile=pass
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liakRj99iv7_vHfhuLEh9xYYJqB7-FO-znjYtq4A=s900-c-k-c0x00ffffff-no-rj",ช่อง TVB News Channel
-http://lttv.ddqq.fun:8085/tvb.php?id=4&hq
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TVB_Finance%2C_Sports_%26_Information_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20221205065531",ช่อง TVB Finance-Sports & Information Channel
-http://1.65.195.85:9981/stream/channelid/1781676223?ticket=5ceccf7a8d3group-title="PHÁP"7461740c1eb46447e5efd1400a2&profile=pass
+http://50.7.238.114:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/rthk-31-live-vipo-tv-china.png",ช่อง RTHK 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
