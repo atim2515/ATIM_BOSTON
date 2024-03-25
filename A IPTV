@@ -4420,6 +4420,96 @@ https://1117141481.vnns.net/VTC14/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png",ช่อง VTC16
 https://1117141481.vnns.net/VTC16/playlist.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-1.png",ช่อง SCTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-2.png",ช่อง SCTV2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-3.png",ช่อง SCTV3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-4.png",ช่อง SCTV4
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-5.png",ช่อง SCTV5
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-6.png",ช่อง SCTV6
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-7.png",ช่อง SCTV7
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-8.png",ช่อง SCTV8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-9.png",ช่อง SCTV9
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-10.png",ช่อง SCTV10
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-11.png",ช่อง SCTV11
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-12.png",ช่อง SCTV12
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-13.png",ช่อง SCTV13
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-14.png",ช่อง SCTV14
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-15.png",ช่อง SCTV15
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-16.png",ช่อง SCTV16
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-17.png",ช่อง SCTV17
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-18.png",ช่อง SCTV18
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-19.png",ช่อง SCTV19
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-20.png",ช่อง SCTV20
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-21.png",ช่อง SCTV21
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-22.png",ช่อง SCTV22
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-pth.png",ช่อง SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png",ช่อง ANTV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 
