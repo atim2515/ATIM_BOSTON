@@ -2760,6 +2760,9 @@ http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/Featured-IMG/2016/01/cti-drama-live_1.jpg",ช่อง 中天娱乐
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",ช่อง 华视
+http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://i0.wp.com/www.asiadigital.com.tw/wp-content/uploads/20201209100154_52.png?ssl=1",ช่อง 亚洲旅游台
 http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 
@@ -2859,7 +2862,7 @@ http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&c
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn08_pc.png",ช่อง 博斯运动二台
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://www.leezon.net/uploads/news/20200102110445146500.jpg",ช่อง 动物星球
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://www.leezon.net/uploads/news/20200102110445146500.jpg",ช่อง Animal Planet
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png",ช่อง 大立電視
@@ -3633,7 +3636,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p2.itc.cn/images01/20211102/bcf58d0f87f84654b0ac17ac7aabb06c.jpeg",ช่อง 湖南卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://file.psd.cn/20211216A/2lgbx4o5ehq_PSD_cn.png",ช่อง 浙江卫视
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://images.sj33.cn/uploads/allimg/201402/7-140225103512Y4.png",ช่อง 浙江卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",ช่อง 江苏卫视
@@ -5911,6 +5914,27 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=9247
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 7
 http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924711
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924712
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924713
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924714
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924715
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924716
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924717
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924718
 
 #EXTINF:-1 group-title="VDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMzMTliZDYtNzNiZC00MWQ1LTgyYTMtMGQ2ZDIzOThjMTRmL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",ช่อง An Eye for an Eye
 http://mykingtv.net:2082/movie/01125676380AA/3252353/20849.mp4
