@@ -8,7 +8,7 @@
 		"stations":[
     
     
-{"name":"HOY TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmahnSoF-sWm_Q-8054488wamNNKP3v1PSJ2IgQrOPJYAYDcZCllmsal65FROXZXeyX0&usqp=CAU","url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"},
+{"name":"HOY TV 77",image:"https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18032752/HOY-TV_OG.png","url": "http://51.89.21.73:27347/livehttpplay?channel_id=20152"},
 
 {"name":"澳视澳门",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU","url": "http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8"},
 
@@ -22,110 +22,50 @@
 
 {"name":"澳視高清",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU","url": "http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8"},
 
-{"name":"耀才財經台",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbq_5sbRBagR5pNzKGN1dH4YyZQSFMtyte_-vAWLbBEIBE07jcTZphIBsNTEEyWssn2TE&usqp=CAU","url": "https://www.nettvpro.live/en/play.php?aid=807"},
-
-{"name":"香港創世電視",image:"https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png","url": "https://www.nettvpro.live/en/play.php?aid=1651"},
-
-{"name":"香港衛視HKS",image:"https://upload.wikimedia.org/wikipedia/zh/4/42/香港卫视HKS.jpg","url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"},
-
-{"name":"凤凰卫视中文台",image:"http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png","url": "rtmp://playtv-live.ifeng.com:1935/live/06OLEGEGM4G"},
-
-{"name":"凤凰卫视资讯台",image:"http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png","url": "rtmp://playtv-live.ifeng.com:1935/live/06OLEEWQKN4"},
-
-{"name":"熱血時報",image:"https://www.passiontimes.hk/images/logo.jpg","url": "https://www.nettvpro.live/en/play.php?aid=9495"},
-
 {"name":"VIU TV","image": "https://static.viu.tv/viutv_logo.png","url": "http://50.7.238.114:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f"},
 
 {"name":"VIU TV SIX","image": "http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg","url": "http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e"},
 
-{"name":"ASTRO TVB华丽台",image:"https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png","url": "http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497733"},
+{"name":"TVB JADE","image": "https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429","url": "http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09"},
 
-{"name":"TVB JADE","image": "https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429","url": "http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts"},
+{"name":"TVB Jade Astro","image": "https://www.tvchinese.net/uploads/tv/jade.jpg","url": "http://50.7.234.10:8278/Wlt/playlist.m3u8"},
 
-{"name":"TVB Pearl","image": "http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png","url": "https://pull-l3-cny.douyincdn.com/live/stream-19882782022122523487.m3u8"},
+{"name":"TVB J2","image": "https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/j2.png","url": "http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032"},
 
-{"name":"TVB1","image": "https://godish.com/wp-content/uploads/channel-logos/tvb1.png","url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153396"},
+{"name":"TVB Entertainment News","image": "https://www.tvchinese.net/uploads/tv/tvbyule.jpg","url": "http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8"},
 
-{"name":"TVB J1","image": "https://1721826975.rsc.cdn77.org/wp-content/uploads/2021/12/15101445/Logo_TVBJ1_3D_Black.png","url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153395"},
+{"name":"TVB Classic HD",image:"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png","url": "http://50.7.234.10:8278/Tvbclassic/playlist.m3u8"},
 
-{"name":"TVB J2","image": "https://static.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332","url": "http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032"},
+{"name":"TVB Xing He","image": "https://adeasy.co/storage/images/media_profile/picture/1613716056_497_small.jpg","url": "http://50.7.234.10:8278/Xinhe/playlist.m3u8"},
 
-{"name":"TVB Entertainment News","image": "https://www.tvchinese.net/uploads/tv/tvbyule.jpg","url": "http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts"},
+{"name":"TVB Magic","image": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/501_144.png","url": "http://50.7.234.10:8278/Tvbmagic/playlist.m3u8"},
 
-{"name":"TVB Drama","image": "https://www.dishpromotions.com/wp-content/uploads/TVBD-logo.png","url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153400"},
+{"name":"TVB Finance-Sports & Information Channel","image": "https://www.tvbanywhere.com/img/logo_tvb_financial_news.png","url": "http://50.7.238.114:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d"},
 
-{"name":"TVB Classic HD",image:"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png","url": "http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts"},
+{
+name:"Lotus TV Macau",
+"author": "By_TIM",
+image:"https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
 
-{"name":"TVB Xing He","image": "https://adeasy.co/storage/images/media_profile/picture/1613716056_497_small.jpg","url": "http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts"},
+{"name":"RTHK 31",image:"https://vipotv.com/wp-content/uploads/2022/09/rthk-31-live-vipo-tv-china.png","url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"},
 
-{"name":"TVB NEWS","image": "https://www.tvchinese.net/uploads/tv/tvb-news.jpg","url": "http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497730"},
+{"name":"RTHK 32","image": "https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png","url": "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8"},
 
-{"name":"TVB Finance & Information","image": "https://www.tvbanywhere.com/img/logo_tvb_financial_news.png","url": "http://50.7.238.114:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d"},
+{"name":"RTHK 33",image:"https://static.wikia.nocookie.net/logos/images/4/4d/RTHK_33.png/revision/latest/scale-to-width-down/1000?cb=20230403055906&path-prefix=vi","url": "http://bziyunshao.synology.me:8892/bysid/33"},
 
-{"name":"HUB娱家",image:"https://www.right.com.cn/forum/data/attachment/forum/202001/14/131351sp4jteuve04j4m00.png","url": "http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941634&extension=ts"},
+{"name":"RTHK 34",image:"https://static.wikia.nocookie.net/logos/images/c/cf/RTHK_34.png/revision/latest/scale-to-width-down/1000?cb=20230403055909&path-prefix=vi","url": "http://bziyunshao.synology.me:8892/bysid/34"},
 
-{"name":"HUB都会",image:"https://www.right.com.cn/forum/data/attachment/forum/202001/14/131355ifek112wwef5ghtw.png","url": "http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941632&extension=ts"},
+{"name":"Phoenix Chinese Channel",image:"https://seeklogo.com/images/P/Phoenix_Satellite_TV-logo-DFF7DCF20F-seeklogo.com.png","url": "https://ctrl.laotv.la/live/PhxChinese/index.m3u8"},
 
-{"name":"LOTUS MACAU",image:"https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg","url": "https://www.nettvpro.live/en/play.php?aid=612"},
+{"name":"Phoenix InfoNews Channel",image:"https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png","url": "http://php.17186.eu.org/phtv/fhzx.m3u8"},
 
-{"name":"面包台","image": "https://image.redstop.info/redstop/images/red-company/breadtv/breadtv.jpg","url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"},
+{"name":"面包台",image:"https://breadradioonline.com/images/tv-01.jpg","url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"},
 
-{"name":"香港電台",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png","url": "https://www.nettvpro.live/en/play.php?aid=9217"},
+{"name":"HKSTV",image:"https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg","url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"},
 
-{"name":"RTHK31",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png","url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8"},
+{"name":"耀才財經台",image:"https://i.imgur.com/xliVoIt.jpg?1","url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"},
 
-{"name":"RTHK32",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png","url": "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8"},
-
-{"name":"有線財經資訊台",image:"https://rb.gy/gxr0zk","url": "https://api.leonardpark.dev/live/icable/108"},
-
-{"name":"有線新聞台",image:"https://rb.gy/e83tun","url": "https://api.leonardpark.dev/live/icable/109"},
-
-{"name":"有線直播新聞台",image:"https://rb.gy/os4eh1","url": "https://api.leonardpark.dev/live/icable/110"},
-
-{"name":"有线18台",image:"https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png","url": "rtmp://119.81.124.89/sat/hk041"},
-
-{"name":"NowJelli紫金国际台",image:"https://upload.wikimedia.org/wikipedia/zh/4/47/NowJelli_logo.png","url": "http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941630&extension=ts"},
-
-{"name":"Now Sports 1",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_425_305","url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=1110615"},
-
-{"name":"Now Sports 2",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_425_305","url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=1110616"},
-
-{"name":"Now Sports 3",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305","url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=1110617"},
-
-{"name":"Now Sports 4",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305","url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=1110618"},
-
-{"name":"Now Sports 5",image:"https://www.nowtv.now.com/media/s-logo/635_e.png","url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=1110619"},
-
-{"name":"Now Sports 6",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305","url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=1110620"},
-
-{"name":"Now Sports 7",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305","url": "http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=1110621"},
-
-{"name":"HKIBC",image:"https://www.tvchinese.net/uploads/tv/hkibc.jpg","url": "http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8"},
-
-{"name":"東網直播1台",image:"https://yt3.ggpht.com/ytc/AKedOLSOxP7fyv7wRrlRU515u7ZWFznS9c7btQhNU7gfhw=s900-c-k-c0x00ffffff-no-rj","url": "https://streamw-az-news3.on.cc/video/playlist720p.m3u8"},
-
-{"name":"東網直播2台",image:"https://yt3.ggpht.com/ytc/AKedOLSOxP7fyv7wRrlRU515u7ZWFznS9c7btQhNU7gfhw=s900-c-k-c0x00ffffff-no-rj","url": "https://streama-aws-news2.on.cc/src/remote1_hd.smil/chunklist_b1596000.m3u8"},
-
-{"name":"澳門衛視",image:"https://bkimg.cdn.bcebos.com/pic/08f790529822720e246cd8fc73cb0a46f21fab11?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg","url": "https://www.nettvpro.live/aomen/3590.html"},
-
-{"name":"澳門賽馬會",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWinhveULgX9KGI2i4_woeOTo7WIMgJOEa3DJZCArCqtRUTWuoUhUScuLa_u6tf92JAQ&usqp=CAU","url": "https://www.nettvpro.live/aomen/5289.html"},
-
-{"name":"澳亞衛視",image:"http://9102920.s21i.faiusr.com/4/ABUIABAEGAAgz8-cuAUoyO-DiAcw7Q047A0!300x300.png","url": "https://www.nettvpro.live/aomen/macau.html"},
-
-{"name":"Miao Mi",image:"https://assetsmysky.blob.core.windows.net/assetsmysky/production/1527562168_artcard-miao-mi.jpg","url": "https://kr-streams.onrender.com/scraper?channel=521"},
-
-{"name":"Celestial Movies",image:"https://mncvision.tv/userfiles/image/channel/celestial.png","url": "http://210.210.155.37/dr9445/h/h14/index.m3u8"},
-
-{"name":"Celestial Classic",image:"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png","url": "http://210.210.155.37/qwr9ew/s/s31/index.m3u8"},
-
-{"name":"Kix",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png","url": "http://210.210.155.37/dr9445/h/h07/index.m3u8"},
-
-{"name":"Thrill",image:"https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg","url": "http://210.210.155.37/qwr9ew/s/s34/index.m3u8"},
-
-
-
-
-
-    
 ]
 }
