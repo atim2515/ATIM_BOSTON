@@ -744,10 +744,6 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0060/DASH/
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0059.png",ช่อง White Channel
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0059/DASH/V0059.mpd
 
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://yt3.googleusercontent.com/u4uCgiRmOXphVRqfsMT22DFbMGm6A8qIM2qO4bJ2x95BN2LG0aT46YFNGqBcbVGRkXWIycHusQ=s900-c-k-c0x00ffffff-no-rj",ช่อง T Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
-
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",ช่อง 3BB Asian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/3bbasian
@@ -780,6 +776,10 @@ https://dookeela.live/live-tv/cinemax
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png",ช่อง 3BB SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://playtv.my.id/play/3bbsport1.m3u8
+
+#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://yt3.googleusercontent.com/u4uCgiRmOXphVRqfsMT22DFbMGm6A8qIM2qO4bJ2x95BN2LG0aT46YFNGqBcbVGRkXWIycHusQ=s900-c-k-c0x00ffffff-no-rj",ช่อง T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
 
 #EXTINF:-1 group-title="GOOD TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",ช่อง สำรวจโลก
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
@@ -3746,7 +3746,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png",ช่อง Indosiar
-http://mykingtv.net:2082/mkhairil77/60192752752/5117
+http://mykingtv.net:2082/01125676380AA/3252353/5117
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png",ช่อง ANTV
 http://mykingtv.net:2082/mkhairil77/60192752752/5124
