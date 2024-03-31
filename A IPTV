@@ -2283,7 +2283,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",ช่อง MTV
-http://jp.vthanhnetwork.com/MTV/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT11URHTnat0Zr16guKVxxVCq7kSDHVmd2LsJyqLfgDbG5gWRy_y8C4mTQGlo3bNm5_tk&usqp=CAU",ช่อง Music On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -3783,6 +3783,9 @@ http://mykingtv.net:2082/01125676380AA/3252353/7139
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png",ช่อง FLIK
 http://mykingtv.net:2082/01125676380AA/3252353/7140
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.postimg.cc/HsLC8QfK/imc2.png",ช่อง IMC
+http://mykingtv.net:2082/01125676380AA/3252353/6974
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS9gu1kN_SETA96FjlqZwi0aVWiagXvZ6syqZKx=s900-c-k-c0x00ffffff-no-rj",ช่อง UGTV HD
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
