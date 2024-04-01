@@ -332,45 +332,20 @@ http://ott.columbus.te.ua/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
 https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
 
 #EXTINF:-1 tvg-id="d" tvg-name="d" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="koy",d
-http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+http://mykingtv.net:2082/01125676380AA/3252353/8493
 #EXTINF:-1 tvg-id="d" tvg-name="d" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="koy",d
-http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+http://mykingtv.net:2082/01125676380AA/3252353/8494
 #EXTINF:-1 tvg-id="d" tvg-name="d" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="koy",d
-http://50.7.238.114:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+http://mykingtv.net:2082/01125676380AA/3252353/8495
 #EXTINF:-1 tvg-id="d" tvg-name="d" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="koy",d
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+http://mykingtv.net:2082/01125676380AA/3252353/8496
 #EXTINF:-1 tvg-id="d" tvg-name="d" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="koy",d
-http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+http://mykingtv.net:2082/01125676380AA/3252353/8497
 #EXTINF:-1 tvg-id="d" tvg-name="d" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="koy",d
-http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337328
+http://mykingtv.net:2082/01125676380AA/3252353/8498
 #EXTINF:-1 tvg-id="d" tvg-name="d" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="koy",d
-http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1438487
+http://mykingtv.net:2082/01125676380AA/3252353/8499
 #EXTINF:-1 tvg-id="d" tvg-name="d" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="koy",d
-http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1095725
+http://mykingtv.net:2082/01125676380AA/3252353/8500
 #EXTINF:-1 tvg-id="d" tvg-name="d" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png" group-title="koy",d
-http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337314
-
-#EXTINF:-1 tvg-id="CCTN47.ph",CCTN 47 (1080p) [Not 24/7]
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 tvg-id="DepEdTV.ph",DepEd TV (480p) [Geo-blocked]
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="GreatCommissionTV.ph",Great Commission TV (468p)
-http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1 tvg-id="INCTV.ph",INC TV (1080p)
-https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
-#EXTINF:-1 tvg-id="PTV.ph",PTV (720p)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8
-#EXTINF:-1 tvg-id="SMNI.ph",SMNI (720p) [Not 24/7]
-https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-#EXTINF:-1 tvg-id="DZBBDT1.ph",Super Radyo DZBB (720p) [Not 24/7]
-https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="UNTV.ph",UNTV (576p)
-https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
-#EXTINF:-1 tvg-id="INCTV.ph" tvg-shift="0",INC TV (720p) (720p) [Geo-blocked]
-https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-#EXTINF:-1 tvg-id="MyxPhilippines.ph",MYX Philippines (720p)
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="CinemaOne.ph",Cinema One (1080p)
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="CLTV36.ph",CLTV 36 (1080p) [Not 24/7]
-https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+http://mykingtv.net:2082/01125676380AA/3252353/5696
