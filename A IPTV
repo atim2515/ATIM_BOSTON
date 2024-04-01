@@ -2677,7 +2677,7 @@ http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/jade.jpg",ช่อง TVB Jade Astro
-http://50.7.234.10:8278/Wlt/playlist.m3u8
+http://mykingtv.net:2082/01125676380AA/3252353/8490
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/j2.png",ช่อง TVB J2
 http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
@@ -2686,10 +2686,10 @@ http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&
 http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He
-http://50.7.234.10:8278/Xinhe/playlist.m3u8
+http://mykingtv.net:2082/01125676380AA/3252353/8491
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
-http://50.7.234.10:8278/Tvbclassic/playlist.m3u8
+http://mykingtv.net:2082/01125676380AA/3252353/8492
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/501_144.png",ช่อง TVB Magic
 http://50.7.234.10:8278/Tvbmagic/playlist.m3u8
@@ -3738,6 +3738,12 @@ http://mykingtv.net:2082/01125676380AA/3252353/8508
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/MediaCorp_Channel_U_logo.jpg/revision/latest/scale-to-width-down/250?cb=20101105110017",ช่อง CH U
 http://mykingtv.net:2082/01125676380AA/3252353/8509
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/1200px-Mediacorp_Suria_2023.svg.png",ช่อง Suria
+http://mykingtv.net:2082/01125676380AA/3252353/8510
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978309/mediacorp/corporate/inline-images/vasantham__370x180.jpg",ช่อง Vasantham
+http://mykingtv.net:2082/01125676380AA/3252353/8511
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
