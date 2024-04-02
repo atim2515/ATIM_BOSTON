@@ -3916,6 +3916,9 @@ http://mykingtv.net:2082/mkhairil77/60192752752/6954
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png",ช่อง BOO
 http://mykingtv.net:2082/mkhairil77/60192752752/12224
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/INews_on_screen_logo.png/revision/latest?cb=20180812071530",ช่อง iNews
+http://mykingtv.net:2082/mkhairil77/60192752752/8286
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",ช่อง CNA
 http://mykingtv.net:2082/mkhairil77/60192752752/9083
 
@@ -4006,9 +4009,6 @@ http://mykingtv.net:2082/mkhairil77/60192752752/13313
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/640px-Usee_Sports.png",ช่อง UseeSport 1
 http://mykingtv.net:2082/mkhairil77/60192752752/8285
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/640px-Usee_Sports.png",ช่อง UseeSport2
-http://mykingtv.net:2082/mkhairil77/60192752752/8286
-
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest/scale-to-width-down/600?cb=20191026180443",ช่อง FIGHT SPORTS
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
 
@@ -4027,19 +4027,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",ช่อง TV3
-http://50.7.234.10:8278/TV3/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8431
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://revmedia.my/wp-content/uploads/2020/10/ntv7-1.jpg",ช่อง NTV7
-http://50.7.234.10:8278/NTV7/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8434
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",ช่อง 8TV
-http://50.7.234.10:8278/TV8/playlist.m3u8
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/live-audio_0=96000-video=2000000.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://baseimages.tonton.com.my/1514366372608_channel-logo-tv9.png",ช่อง TV9
-http://50.7.234.10:8278/TV9/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8438
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",ช่อง Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -4063,13 +4063,16 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",ช่อง Astro Oasis HD
-http://50.7.234.10:8278/Oasis/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8451
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",ช่อง Astro Ria HD
+http://mykingtv.net:2082/mkhairil77/60192752752/8444
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png?20230806103453",ช่อง Astro Warna HD
 http://50.7.234.10:8278/Warna/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",ช่อง Astro Citra HD
-http://50.7.234.10:8278/Citra/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8453
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",ช่อง Astro Rania HD
 http://50.7.234.10:8278/Rania/playlist.m3u8
@@ -4090,10 +4093,13 @@ http://50.7.234.10:8278/Awani/playlist.m3u8
 http://50.7.234.10:8278/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",ช่อง Awesome TV
-http://50.7.234.10:8278/Goshop/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8442
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png",ช่อง BERNAMA
 http://50.7.234.10:8278/Bernama/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png",ช่อง TVS
+http://mykingtv.net:2082/mkhairil77/60192752752/8458
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://selebritionline.com/wp-content/uploads/2016/10/Boo-logo-BLACK-1.jpg",ช่อง BOO HD
 http://50.7.234.10:8278/Boo/playlist.m3u8
@@ -4102,9 +4108,7 @@ http://50.7.234.10:8278/Boo/playlist.m3u8
 http://50.7.234.10:8278/Huahee/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://dookeela.live/uploads/1706405008.png",ช่อง IQIYI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/iqiyi
-https://dookeela.live/live-tv/iqiyi
+http://mykingtv.net:2082/mkhairil77/60192752752/8469
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",ช่อง TVB Jade
 http://50.7.234.10:8278/Wlt/playlist.m3u8
@@ -4152,10 +4156,10 @@ http://50.7.234.10:8278/Zeetamil/playlist.m3u8
 http://50.7.234.10:8278/TVN/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png",ช่อง ONE HD
-http://50.7.234.10:8278/One/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8468
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",ช่อง K-Plus HD
-http://50.7.234.10:8278/Kplus/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8467
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png",ช่อง HBO HD
 http://50.7.234.10:8278/Hbo/playlist.m3u8
@@ -4167,7 +4171,7 @@ http://50.7.234.10:8278/Hbofamily/playlist.m3u8
 http://50.7.234.10:8278/Cinemax/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Paramount_Network_logo.png",ช่อง Paramount Network
-http://50.7.234.10:8278/Paramountnetwork/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/9670
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",ช่อง AXN HD
 http://50.7.234.10:8278/Axn/playlist.m3u8
