@@ -373,9 +373,8 @@ https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8|Refere
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/True_Asian_More.webp",ช่อง True Asian More
-#EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8
+https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8|Referer=https://wacth.tv/
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",ช่อง True Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -467,9 +466,8 @@ https://wacthstream.com/stream_live/556_History/playlist.m3u8
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",ช่อง BBC Lifestyle
-#EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8
+https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgMjoxMDoyNSBQTSZoYXNoX3ZhbHVlPUcrUmRsY2hCcmlobVY5K2tMUlZvNUE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF84NzgwNg==|Referer=https://wacth.tv/
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png",ช่อง Animal Planet
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -4042,6 +4040,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1200px-Sukan_RTM_1_April.png",ช่อง Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://link.zozotv.xyz/pic/DuniaSenimaZozo.png",ช่อง Dunia Sinema
+http://mykingtv.net:2082/mkhairil77/60192752752/8459
+
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png",ช่อง RTB SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
@@ -4223,34 +4224,55 @@ http://mykingtv.net:2082/mkhairil77/60192752752/5282
 http://50.7.234.10:8278/Cbeebies/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ช่อง Astro SuperSport HD
-http://50.7.234.10:8278/Assp1/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8416
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",ช่อง Astro SuperSport 2 HD
-http://50.7.234.10:8278/Assp2/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8417
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ช่อง Astro SuperSport 3 HD
-http://50.7.234.10:8278/Assp3/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8418
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ช่อง Astro SuperSport 4 HD
-http://50.7.234.10:8278/Assp4/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8419
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",ช่อง Astro Cricket HD
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/66506
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ช่อง Astro Arena HD
-http://50.7.234.10:8278/Arena/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/7156
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",ช่อง Astro Arena 2 HD
-http://50.7.234.10:8278/Arena2/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8648
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",ช่อง Arena Bola
+http://mykingtv.net:2082/mkhairil77/60192752752/18863
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png",ช่อง Arena Bola 2
+http://mykingtv.net:2082/mkhairil77/60192752752/18864
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",ช่อง W-Sport
+http://mykingtv.net:2082/mkhairil77/60192752752/8649
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://yt3.googleusercontent.com/W9hb266HaZ5dAiqeZe71KogajsDGwdZyAqN1bEgYrGbugT5RhVgFP0ntpgn5Ye53Lc9UHaLV5Dg=s900-c-k-c0x00ffffff-no-rj",ช่อง SPOTV
-http://50.7.234.10:8278/Spotv1/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8650
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.webp",ช่อง SPOTV2
-http://50.7.234.10:8278/Spotv2/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/11832
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",ช่อง beIN Sports HD
+http://mykingtv.net:2082/mkhairil77/60192752752/8414
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",ช่อง beIN Sports 2
+http://mykingtv.net:2082/mkhairil77/60192752752/20773
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",ช่อง beIN Sports 3
+http://mykingtv.net:2082/mkhairil77/60192752752/8413
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE Network HD
-http://50.7.234.10:8278/Wwe/playlist.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/7169
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://i.ibb.co/7S24MGc/adh.png",ช่อง Golf Channel HD
+http://mykingtv.net:2082/mkhairil77/60192752752/7516
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg",ช่อง SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
@@ -6210,13 +6232,13 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337
 http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337305
 
 #EXTINF:-1 group-title="VDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMzMTliZDYtNzNiZC00MWQ1LTgyYTMtMGQ2ZDIzOThjMTRmL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",ช่อง An Eye for an Eye
-http://mykingtv.net:2082/movie/01125676380AA/3252353/20849.mp4
+http://mykingtv.net:2082/movie/mkhairil77/60192752752/20849.mp4
 
 #EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/First_blood_poster.jpg",ช่อง First Blood
-http://mykingtv.net:2082/movie/01125676380AA/3252353/21677.mp4
+http://mykingtv.net:2082/movie/mkhairil77/60192752752/21677.mp4
 
 #EXTINF:-1 group-title="VDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",ช่อง Jaws
-http://mykingtv.net:2082/movie/01125676380AA/3252353/20977.mp4
+http://mykingtv.net:2082/movie/mkhairil77/60192752752/20977.mp4
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
