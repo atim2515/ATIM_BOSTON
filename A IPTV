@@ -65,7 +65,7 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0015/DASH/V0015.mpd?
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://yarmfaojor.net/wp-content/uploads/2021/04/jkn18-logo.png",ช่อง JKN18
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://hilight.kapook.com/img_cms2/user/pichaya/2023/1/08/jkn03.jpg",ช่อง JKN18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0010/DASH/V0010.mpd?
 
@@ -5930,6 +5930,18 @@ http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/6272/index.m3u8
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Eromania 4K
 http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/10049/index.m3u8
 
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Erotic
+http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/6289/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Erotic 2
+http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/6290/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Erotic 3
+http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/6291/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Erotic 4
+http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/6292/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Marvel_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694102537",ช่อง MARVEL 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924731
 
@@ -6247,6 +6259,9 @@ http://mykingtv.net:2082/movie/mkhairil77/60192752752/13797.mp4
 
 #EXTINF:-1 group-title="VDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",ช่อง Jaws
 http://mykingtv.net:2082/movie/mkhairil77/60192752752/20977.mp4
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TrickyBrains.jpg",ช่อง Tricky Brains
+http://mykingtv.net:2082/movie/mkhairil77/60192752752/16339.mp4
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",ช่อง COOL Fahrenheit
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
