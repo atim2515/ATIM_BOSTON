@@ -1,37 +1,13 @@
 #EXTM3U
- 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/12129/index.m3u8
+#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/fullregion.xml" tvg-shift=0
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/C7WL6QCNMEEGH4/12129/index.m3u8
+#MAIN DTV1 (720p)
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/12154/index.m3u8
+#EXTINF:-1 tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK総合 東京 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/C7WL6QCNMEEGH4/12154/index.m3u8
+#EXTINF:-1 tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK教育 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/12144/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/C7WL6QCNMEEGH4/12144/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/12140/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/C7WL6QCNMEEGH4/12140/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/WREXNT2RCKYRKX/6191/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/C7WL6QCNMEEGH4/6191/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/C7WL6QCNMEEGH4/6191/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://4e87b8a2.rossteleccom.net/iptv/C7WL6QCNMEEGH4/6191/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",group-title="DTV1 (720P)",日本テレビ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
