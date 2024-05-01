@@ -1203,6 +1203,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sut_logo.svg/1200px-Sut_logo.svg.png",ช่อง TV Shizuoka
 https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png",ช่อง テレビ神奈川
+http://pipe.ra1n.lol/tvk/index.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
 
@@ -1287,7 +1290,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/profile_images/945489201746788352/KH2s8LcM_400x400.jpg",ช่อง TAKARAZUKA SKY STAGE
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Fox_HD_wordmark_%28Asia%29.jpg",ช่อง FOX Japan
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/tn_corporate_news_20231205_01_4ad53ba1.jpeg?region=0,0,1200,677",ช่อง Dlife
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://notices.jcom.co.jp/sites/default/files/notices/common/img/10338.jpg",ช่อง Action Channel
