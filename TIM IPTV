@@ -2915,7 +2915,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="http://www.xemtvne.com/uploads/tv_image/sctv15.png",ช่อง SCTV15
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/index.m3u8
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="http://www.xemtvne.com/uploads/tv_image/sctv16.png",ช่อง SCTV16
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -2937,7 +2937,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="http://www.xemtvne.com/uploads/tv_image/sctv21.png",ช่อง SCTV21
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-xTrEMG7_hmPuPMFzHDdmHv8ETQinEJV_HwdFGC0wSm7lA6GYTXbOlURUQ91BkeSsQ&usqp=CAU",ช่อง SCTV21
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
 
