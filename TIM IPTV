@@ -2518,3 +2518,27 @@ http://210.210.155.35:80/uq2663/h/h123/live.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nifg16Trl8NlfxHof3hbBThOF9K6XhAGAMkMUcGA=s900-c-k-c0x00ffffff-no-rj",ช่อง HorizonSports
 http://210.210.155.35:80/uq2663/h/h127/live.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",ช่อง TV1
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",ช่อง TV2
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",ช่อง TV2
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv3/playlist.m3u8?id=1
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://revmedia.my/wp-content/uploads/2020/10/ntv7-1.jpg",ช่อง NTV7
+https://d25tgymtnqzu8s.cloudfront.net/smil:ntv7/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",ช่อง 8TV
+https://d25tgymtnqzu8s.cloudfront.net/smil:8tv/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://baseimages.tonton.com.my/1514366372608_channel-logo-tv9.png",ช่อง TV9
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv9/manifest.mpd
