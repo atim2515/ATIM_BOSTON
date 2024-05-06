@@ -93,10 +93,6 @@ http://58.186.169.3:9898/udp/225.1.1.139:30120
 
 #EXTINF:-1 tvg-id="320" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="🇹🇼 Đài Loan",TVBS
 https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
-#EXTINF:-1 tvg-id="6060" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png" group-title="🇹🇼 Đài Loan",TVBS ENTERTAINMENT
-http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
-#EXTINF:-1 tvg-id="6060" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png" group-title="🇹🇼 Đài Loan",TVBS NEWS
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="🇹🇼 Đài Loan",FORMOSA TV
 https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 #EXTINF:-1 tvg-id="6026" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="🇹🇼 Đài Loan",TTV
@@ -107,15 +103,17 @@ https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u
 https://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
 #EXTINF:-1 tvg-id="6054" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/CTI_Official_Logo.png" group-title="🇹🇼 Đài Loan",CTI
 https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
-#EXTINF:-1 tvg-id="6054" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Public_Television_Service_%28logo%29.png" group-title="🇹🇼 Đài Loan",PTS
-http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/ac/Titv_logo.png" group-title="🇹🇼 Đài Loan",ABORIGINAL TV
-http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="Quốc tế",TVB Satellite Jade
-https://sc2024.stream-link.org/live/113176232109.php?id=h066jhq
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/P5s3ymR/11.png" group-title="Quốc tế",TVB Satellite News Channel
 http://live.cooltv.top/tv/tvb.php?id=0
+#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
+http://live.cooltv.top/tv/tvb.php?id=1
+#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
+http://live.cooltv.top/tv/tvb.php?id=2
+#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
+http://live.cooltv.top/tv/tvb.php?id=3
+#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
+http://live.cooltv.top/tv/tvb.php?id=4
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
 http://live.cooltv.top/tv/tvb.php?id=5
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
@@ -126,27 +124,5 @@ http://live.cooltv.top/tv/tvb.php?id=7
 http://live.cooltv.top/tv/tvb.php?id=8
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
 http://live.cooltv.top/tv/tvb.php?id=9
-#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
-http://live.cooltv.top/tv/tvb.php?id=1
-#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
-http://live.cooltv.top/tv/tvb.php?id=2
-#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
-http://live.cooltv.top/tv/tvb.php?id=3
-#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
-http://live.cooltv.top/tv/tvb.php?id=4
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM Macau
-https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w183583389.m3u8
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM Macau
-https://live5.tdm.com.mo/ch2/ch2.live/chunklist_w183583390.m3u8
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM Macau
-https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w183583391.m3u8
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM Macau
-https://live5.tdm.com.mo/ch4/sport_ch4.live/chunklist_w183583392.m3u8
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM Macau
-https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w183583393.m3u8
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-09/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM Macau
-https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w183583394.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="Quốc tế",Phượng Hoàng Trung Văn
-https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="Quốc tế",Phượng Hoàng Tin Tức
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
