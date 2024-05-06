@@ -3192,8 +3192,8 @@ https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m9Oj7qzR8JESDiS1qppOtJryjEXDl7qR-JzY4F5DF42w=s900-c-k-c0x00ffffff-no-rj",ช่อง Channel 7
 https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",ช่อง Channel 9
-https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3lZYNo_oMyK_uYPv6OIb3OenTqkRbImwc5-vFrI8TrZd0P1wYN2FfsOMseLp4qiozw&usqp=CAU",ช่อง Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ",ช่อง Mahar TV
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
@@ -3206,9 +3206,6 @@ http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://media.licdn.cn/dms/image/C4D0BAQEnCuEUhzaOzQ/company-logo_200_200/0/1520275067936?e=2159024400&v=beta&t=LtWp94VnKmBzGCajTkFMksodoGxGFzNOvb0PMHsGGPs",ช่อง MCS
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
-
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3lZYNo_oMyK_uYPv6OIb3OenTqkRbImwc5-vFrI8TrZd0P1wYN2FfsOMseLp4qiozw&usqp=CAU",ช่อง Channel K
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601",ช่อง TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
@@ -4124,6 +4121,45 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1438
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 10
 http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1438468
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES INFO
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337329
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ PREMIERE 1 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337328
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ PREMIERE 2 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337327
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 1 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337326
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 2 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337317
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 3 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337324
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 4 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337323
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 5 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337322
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 6 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337321
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 7 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337320
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 8 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337319
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 9 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337318
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 10 HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337325
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL INFO
 http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=1337315
