@@ -1700,6 +1700,12 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w183583394.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/RTHK_33.png/revision/latest/scale-to-width-down/1000?cb=20230403055906&path-prefix=vi",ช่อง RTHK 33
+http://bziyunshao.synology.me:8892/bysid/33
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/RTHK_34.png/revision/latest/scale-to-width-down/1000?cb=20230403055909&path-prefix=vi",ช่อง RTHK 34
+http://bziyunshao.synology.me:8892/bysid/34
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://breadradioonline.com/images/tv-01.jpg",ช่อง 面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
@@ -2853,6 +2859,9 @@ https://ctrl.laotv.la/live/PSTV/index.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://yt3.googleusercontent.com/YWjbdbq3zWX6ba7JihzQa7hsFQVQJxaJzOe9wXGhXAO9XvfE_H_rZUUDwwj3ihZYsmGDc0ir=s900-c-k-c0x00ffffff-no-rj",ช่อง Lao ESTV
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJuioA8VXYFnDkFNG5VaVeJyNAuLFclQAL9928Vz3Zu6hRyEyCtAn1-4Klq_LWm0HLiQ&usqp=CAU",ช่อง Lao Champa TV 1
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://aetlive.s3-us-west-2.amazonaws.com/assets/img/2018/03/03231638/newLaoChampa3.jpg",ช่อง Lao Champa TV 3
 https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/playlist.m3u8
