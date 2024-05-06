@@ -1667,7 +1667,7 @@ http://58.176.4.57:8800/play/a00b
 http://58.176.4.57:8800/play/a00d
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/TVB_Finance%2C_Sports_%26_Information_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20221205065531",ช่อง TVB Finance Sports & Information Channel
-http://live.cooltv.top/tv/tvb.php?id=1
+http://live.cooltv.top/tv/tvb.php?id=4
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He
 http://mykingtv.net:2082/01125676380AA/3252353/8491
@@ -2883,6 +2883,39 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://www.appletvappdownload.com/wp-content/uploads/2020/12/TeaTV-Download-APK-1-1-1.jpg",ช่อง Tea TV 2
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png",ช่อง VTV1 HD
+http://58.186.169.3:9898/udp/225.1.2.249:30120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/VTV2_Logo_2008-2012_Alternate.svg/revision/latest/smart/width/250/height/250?cb=20240215111649",ช่อง VTV2 HD
+http://58.186.169.3:9898/udp/225.1.2.13:30120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5M9V09WOhIZP4u-gEPqbW2lFgbYoYIlZikzld9KE&s",ช่อง VTV3 HD
+http://58.186.169.3:9898/udp/225.1.2.247:30120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyJZTbM0hDnVWdEkjKGOSFUMuHNq3f5zMxv2cCj4fOA&s",ช่อง VTV4 HD
+http://58.186.169.3:9898/udp/225.1.2.20:30120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/VTV5_HD_logo_th%E1%BB%AD_nghi%E1%BB%87m.png/revision/latest/scale-to-width-down/1200?cb=20211014034536&path-prefix=vi",ช่อง VTV5 HD
+http://58.186.169.3:9898/udp/225.1.1.131:30120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/03/icon_channel_vtv5-tay-nam-bo_168048836001.jpg",ช่อง VTV5 Tây Nam Bộ HD
+http://58.186.169.3:9898/udp/225.1.2.236:30120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/VTV5_T%C3%A2y_Nguy%C3%AAn_ident_2016_no_logo.png/revision/latest/scale-to-width-down/1200?cb=20230521114045&path-prefix=vi",ช่อง VTV5 Tây Nguyên HD
+http://58.186.169.3:9898/udp/225.1.1.108:30120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",ช่อง VTV Cần Thơ HD
+http://58.186.169.3:9898/udp/225.1.2.245:30120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1280px-VTV7_logo_2016_final.svg.png",ช่อง VTV7 HD
+http://58.186.169.3:9898/udp/225.1.2.96:30120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://logowik.com/content/uploads/images/vietnam-television-vtv82811.logowik.com.webp",ช่อง VTV8 HD
+http://58.186.169.3:9898/udp/225.1.2.166:30120
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/2560px-VTV9_logo_2013_final.svg.png",ช่อง VTV9 HD
+http://58.186.169.3:9898/udp/225.1.1.128:30120
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="http://www.xemtvne.com/uploads/tv_image/sctv1.png",ช่อง SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
