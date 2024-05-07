@@ -1443,6 +1443,9 @@ https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Mit_1991_logo.svg/revision/latest/scale-to-width-down/250?cb=20220802075621",ช่อง Iwate Menkoi Television
 https://ythls.armelin.one/channel/UCw14eNQAUDqCg-fX3Uvd07w.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://eastasiaforum.org/wp-content/uploads/2021/08/2021-08-20T000000Z_432444740_MT1KYODO0008YT0FI_RTRMADP_3_JAPAN-S-FIGHT-AGAINST-CORONAVIRUS-600x404.jpg",ช่อง Japan Walk
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",ช่อง Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
@@ -1461,6 +1464,9 @@ http://mykingtv.net:2082/01125676380AA/3252353/6951
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png",ช่อง KIX
 http://210.210.155.37/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png",ช่อง THE K-POP
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://pbs.twimg.com/profile_images/1347443419019239425/3GrnHjge_400x400.jpg",ช่อง KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -3499,6 +3505,15 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://media.info/i/lf/0/1672197098/6367.png",ช่อง Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png",ช่อง XITE 80s FLASHBLACK
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png",ช่อง XITE 90s THROWBACK
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png",ช่อง XITE ROCK ON
+https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_UCCQ06AvEPZ0ogcL8oSw3lNLhFiGqXFh8PwqURaWokdb2bsxAfFBYmtJGUJdrlJYHI&usqp=CAU",ช่อง Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
