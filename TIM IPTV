@@ -1465,8 +1465,20 @@ http://mykingtv.net:2082/01125676380AA/3252353/6951
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png",ช่อง KIX
 http://210.210.155.37/dr9445/h/h07/01.m3u8
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg",ช่อง Nadoo Korean
+http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lzY0CqKE62NiMboM_-HizbzkBjSXP7zDiuIu1xsgtOlFM=s900-c-k-c0x00ffffff-no-rj",ช่อง K-Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png",ช่อง THE K-POP
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png",ช่อง THE K-POP 2
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://viberatecdn.blob.core.windows.net/entity/artist/newkidd-3pfB1",ช่อง NewKidd
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://pbs.twimg.com/profile_images/1347443419019239425/3GrnHjge_400x400.jpg",ช่อง KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -1739,14 +1751,53 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg",ช่อง TVBS
 https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://worldkings.org/Userfiles/Upload/images/yiu.png",ช่อง TVBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",ช่อง FORMOSA TV
 https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",ช่อง FTV News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png",ช่อง CTV
 https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnVCNY_HWo9dPvULZbFxtXVcs7pcOmRYmxGf55Uoyy-w&s",ช่อง CTV News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhuPfKrwsemB72DowVf_7Jzne8HWHDdLIjae7t8XwdQ&s",ช่อง CTS Drama
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhuPfKrwsemB72DowVf_7Jzne8HWHDdLIjae7t8XwdQ&s",ช่อง CTS Show
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/CTI_Official_Logo.png",ช่อง CTI
 https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://images.squarespace-cdn.com/content/5a9e21884eddecded2210b22/1572293212255-QM5XY8IOXJQBQWMCEH6C/TTVNews.gif?content-type=image%2Fgif",ช่อง TTV News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.tvchinese.net/uploads/tv/setinews.jpg",ช่อง SET iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Global News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EBC_News_logo_20150706.jpg/1200px-EBC_News_logo_20150706.jpg",ช่อง EBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/x6bmeqvSzpymlTW9nS5cqwxHmivmwdoOaXH_aZOSLmD7Qxz1_kqYrwuWzJC-NsIXg60H4ug3SQ=s900-c-k-c0x00ffffff-no-rj",ช่อง EFTV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://image.roku.com/developer_channels/prod/9424bd263f61e82de4678b28c6c6091ba2c278d4e3a23874a359ce556b4e45db.png",ช่อง su3ej8xu1o
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://s3-symbol-logo.tradingview.com/momo-com--600.png",ช่อง momo channel 1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://s3-symbol-logo.tradingview.com/momo-com--600.png",ช่อง momo channel 2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png",ช่อง 大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
