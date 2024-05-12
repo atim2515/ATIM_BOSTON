@@ -395,12 +395,6 @@ https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8|Referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",ช่อง Bein Sports 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png",ช่อง Bein Sports 2
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
-
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",ช่อง Spotv 1 HD
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
 
@@ -450,6 +444,18 @@ https://dookeela.live/live-tv/cinemax
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://yt3.googleusercontent.com/u4uCgiRmOXphVRqfsMT22DFbMGm6A8qIM2qO4bJ2x95BN2LG0aT46YFNGqBcbVGRkXWIycHusQ=s900-c-k-c0x00ffffff-no-rj",ช่อง T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
+
+#EXTINF:-1 group-title="GOOD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSR5MAO5_qmfR0KjAEXSYUIPi4Oj_i6R5syg&usqp=CAU",ช่อง สำรวจโลก
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
+
+#EXTINF:-1 group-title="GOOD TV" tvg-logo="https://www.butterfire.com/wp-content/uploads/MySci.jpg",ช่อง MySci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
+
+#EXTINF:-1 group-title="GOOD TV" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185932sweet.png",ช่อง Sweet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_x_rUVn5fCZe3aEAoLymjbKqtJHkzi9ORXv.png",ช่อง MV TV CHANNEL
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
@@ -1108,14 +1114,50 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/02/14110243/4Music-January-2022.jpg",ช่อง 4Music
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53848
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/06/86c9f7b8-4d9c-3eec-95e5-4940db5e25a4.png?bf=0&f=jpg&p=true&q=70&w=1920",ช่อง EUROSPORT 1
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53894
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://tv.assets.pressassociation.io/a1b8b361-6f77-51dc-b403-365614cd909d.png",ช่อง EUROSPORT 2
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53895
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://pbs.twimg.com/profile_images/1613469493468045313/xAmP5QkU_400x400.jpg",ช่อง SKY SPORTS RACING
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53987
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://media.info/i/lf/0/1600877510/1087.png",ช่อง SKY SPORTS NEWS
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53984
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=hn9vkic8rbfi1ndrym8sw2qh7_image-header_pEs_1661945052000&quality=70",ช่อง DAZN 1
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=1065544
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/sites/2/2023/07/ViaplayLogo.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&w=866&h=650",ช่อง ViaPlay 1
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=5101
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53942
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/sites/2/2023/07/ViaplayLogo.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&w=866&h=650",ช่อง ViaPlay 2
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=5102
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53943
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2023/07/VIAPLAY_XTRA_WEBSITE.png",ช่อง VIAPLAY XTRA
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53900
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",ช่อง TNT SPORTS 1
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53850
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",ช่อง TNT SPORTS 2
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53851
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",ช่อง TNT SPORTS 3
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53852
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",ช่อง TNT SPORTS 4
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53853
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",ช่อง TNT SPORTS 5
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53854
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",ช่อง TNT SPORTS 6
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53855
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",ช่อง TNT SPORTS 9
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53858
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSgafhGSV7WYWfiZ89toaD0z2JvNLxsPCGLi1-2=s900-c-k-c0x00ffffff-no-rj",ช่อง LFCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -2479,7 +2521,7 @@ http://mykingtv.net:2082/01125676380AA/3252353/6969
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Galaxy_TV.png/800px-Galaxy_TV.png",ช่อง Galaxy Premium
 http://mykingtv.net:2082/01125676380AA/3252353/6970
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",ช่อง &flix
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/flix-hd.jpg",ช่อง &flix
 http://mykingtv.net:2082/01125676380AA/3252353/8288
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://cdn.entries.clios.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png",ช่อง Syfy
@@ -3237,7 +3279,8 @@ https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://i.imgur.com/hD3wGq3.png",ช่อง TNN16
-https://ctrl.laotv.la/live/TNN24/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://static.thaicom.io/chbig/big_14_20211217071952.png",ช่อง Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -4339,6 +4382,18 @@ http://mykingtv.net:2082/movie/01125676380AA/3252353/13797.mp4
 
 #EXTINF:-1 group-title="VDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",ช่อง Jaws
 http://mykingtv.net:2082/movie/01125676380AA/3252353/20977.mp4
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Jaws_The_Revenge.jpg",ช่อง Jaws: The Revenge
+http://mykingtv.net:2082/movie/01125676380AA/3252353/22301.mp4
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Die_Hard_%281988_film%29_poster.jpg/220px-Die_Hard_%281988_film%29_poster.jpg",ช่อง Die Hard
+http://mykingtv.net:2082/movie/01125676380AA/3252353/19139.mp4
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Die_Hard_2.jpg",ช่อง Die Hard 2
+http://mykingtv.net:2082/movie/01125676380AA/3252353/19140.mp4
+
+#EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Die_Hard_With_A_Vengance.jpg",ช่อง Die Hard with a Vengeance
+http://mykingtv.net:2082/movie/01125676380AA/3252353/19141.mp4
 
 #EXTINF:-1 group-title="VDO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TrickyBrains.jpg",ช่อง Tricky Brains
 http://mykingtv.net:2082/movie/01125676380AA/3252353/16339.mp4
