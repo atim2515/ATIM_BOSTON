@@ -3884,3 +3884,27 @@ https://mangga-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
 https://mangga-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/2b/HoYIBC_logo.png/220px-HoYIBC_logo.png",ช่อง HOY TV 76
+http://58.176.4.57:8800/play/a002
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/HOY_TV.png/revision/latest?cb=20230316043051&path-prefix=vi",ช่อง HOY TV 77
+http://58.176.4.57:8800/play/a003
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HOY_Infotainment_Channel.png/revision/latest/scale-to-width-down/220?cb=20231221130037&path-prefix=vi",ช่อง HOY TV 78
+http://58.176.4.57:8800/play/a004
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.viu.tv/viutv_logo.png",ช่อง VIU TV
+http://58.176.4.57:8800/play/a00i
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg",ช่อง VIU TV SIX
+http://58.176.4.57:8800/play/a00h
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716018_490_small.jpg",ช่อง TVB Jade
+http://58.176.4.57:8800/play/a00g
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvYJeUsmYsfNvxtspbdcOfkYZoA0qiOAAfvOO17OGTw&s",ช่อง TVB Plus
+http://58.176.4.57:8800/play/a00c
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://pbs.twimg.com/profile_images/767623619094523904/bFUdlYb__400x400.jpg",ช่อง TVB Pearl
+http://58.176.4.57:8800/play/a00b
