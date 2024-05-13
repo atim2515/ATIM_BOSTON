@@ -3071,39 +3071,6 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://www.appletvappdownload.com/wp-content/uploads/2020/12/TeaTV-Download-APK-1-1-1.jpg",ช่อง Tea TV 2
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png",ช่อง VTV1 HD
-http://58.186.169.3:9898/udp/225.1.2.249:30120
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/VTV2_Logo_2008-2012_Alternate.svg/revision/latest/smart/width/250/height/250?cb=20240215111649",ช่อง VTV2 HD
-http://58.186.169.3:9898/udp/225.1.2.13:30120
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5M9V09WOhIZP4u-gEPqbW2lFgbYoYIlZikzld9KE&s",ช่อง VTV3 HD
-http://58.186.169.3:9898/udp/225.1.2.247:30120
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyJZTbM0hDnVWdEkjKGOSFUMuHNq3f5zMxv2cCj4fOA&s",ช่อง VTV4 HD
-http://58.186.169.3:9898/udp/225.1.2.20:30120
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/VTV5_HD_logo_th%E1%BB%AD_nghi%E1%BB%87m.png/revision/latest/scale-to-width-down/1200?cb=20211014034536&path-prefix=vi",ช่อง VTV5 HD
-http://58.186.169.3:9898/udp/225.1.1.131:30120
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/03/icon_channel_vtv5-tay-nam-bo_168048836001.jpg",ช่อง VTV5 Tây Nam Bộ HD
-http://58.186.169.3:9898/udp/225.1.2.236:30120
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/VTV5_T%C3%A2y_Nguy%C3%AAn_ident_2016_no_logo.png/revision/latest/scale-to-width-down/1200?cb=20230521114045&path-prefix=vi",ช่อง VTV5 Tây Nguyên HD
-http://58.186.169.3:9898/udp/225.1.1.108:30120
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",ช่อง VTV Cần Thơ HD
-http://58.186.169.3:9898/udp/225.1.2.245:30120
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1280px-VTV7_logo_2016_final.svg.png",ช่อง VTV7 HD
-http://58.186.169.3:9898/udp/225.1.2.96:30120
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://logowik.com/content/uploads/images/vietnam-television-vtv82811.logowik.com.webp",ช่อง VTV8 HD
-http://58.186.169.3:9898/udp/225.1.2.166:30120
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/2560px-VTV9_logo_2013_final.svg.png",ช่อง VTV9 HD
-http://58.186.169.3:9898/udp/225.1.1.128:30120
-
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="http://www.xemtvne.com/uploads/tv_image/sctv1.png",ช่อง SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
@@ -3221,6 +3188,18 @@ https://live.mediatech.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png",ช่อง BTV HD | TH Bình Thuận
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/TBK_logo_2021.png/revision/latest?cb=20231007103028&path-prefix=vi",ช่อง TBK
+http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/DRT_%C4%90%E1%BA%AFk_L%E1%BA%AFk_2021.png/revision/latest?cb=20230108145830&path-prefix=vi",ช่อง DRT
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/THD_2023.png/revision/latest?cb=20230925025249&path-prefix=vi",ช่อง THD
+http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=auto&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620240408085552",ช่อง Yen Bai TV
+https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png",ช่อง Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -3360,6 +3339,9 @@ http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 #EXTINF:-1 group-title="KHMER TV" tvg-logo="https://mytv.com.vn/upload/channel/683.png",ช่อง KienGiangTV1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://play-lh.googleusercontent.com/oEkCn-8RapO7XgDAY_LQvNrTpHyK40BeSaV2mWMGZJRt-8VP92Fd0-eVoQAmiUHPEVg",ช่อง Fresh News
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://hmongstartv.com/web/images/poster.png",ช่อง Hmong Star TV
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
