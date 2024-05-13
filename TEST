@@ -1,109 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,VTC1 HD
-http://58.186.169.3:9898/udp/225.1.2.254:30120
-#EXTINF:-1,VTC3 HD
-http://58.186.169.3:9898/udp/225.1.2.251:30120
-#EXTINF:-1,VTC4 HD
-http://58.186.169.3:9898/udp/225.1.2.200:30120
-#EXTINF:-1,VTC5 HD
-http://58.186.169.3:9898/udp/225.1.2.199:30120
-#EXTINF:-1,VTC6 HD
-http://58.186.169.3:9898/udp/225.1.2.198:30120
-#EXTINF:-1,VTC9 HD
-http://58.186.169.3:9898/udp/225.1.2.195:30120
-#EXTINF:-1,VTC10 HD
-http://58.186.169.3:9898/udp/225.1.2.194:30120
-#EXTINF:-1,VTC14 HD
-http://58.186.169.3:9898/udp/225.1.2.88:30120
-#EXTINF:-1,VTC16 HD
-http://58.186.169.3:9898/udp/225.1.2.190:30120
-#EXTINF:-1,HTV2 HD
-http://58.186.169.3:9898/udp/225.1.1.193:30120
-#EXTINF:-1,HTV7 HD
-http://58.186.169.3:9898/udp/225.1.1.192:30120
-#EXTINF:-1,HTV9 HD
-http://58.186.169.3:9898/udp/225.1.1.190:30120
-#EXTINF:-1,HTV Thể Thao HD
-http://58.186.169.3:9898/udp/225.1.1.165:30120
-#EXTINF:-1,HTVC Ca Nhạc HD
-http://58.186.169.3:9898/udp/225.1.1.185:30120
-#EXTINF:-1,HTVC Du Lịch và Cuộc Sống HD
-http://58.186.169.3:9898/udp/225.1.1.166:30120
-#EXTINF:-1,HTVC Gia Đình HD
-http://58.186.169.3:9898/udp/225.1.1.170:30120
-#EXTINF:-1,HTVC Phim HD
-http://58.186.169.3:9898/udp/225.1.1.184:30120
-#EXTINF:-1,HTVC Phụ Nữ HD
-http://58.186.169.3:9898/udp/225.1.1.171:30120
-#EXTINF:-1,HTVC Thuần Việt HD
-http://58.186.169.3:9898/udp/225.1.1.186:30120
-#EXTINF:-1,HTVC+ HD
-http://58.186.169.3:9898/udp/225.1.1.181:30120
-#EXTINF:-1,HTV1
-http://58.186.169.3:9898/udp/225.1.1.180:30120
-#EXTINF:-1,HTV3
-http://58.186.169.3:9898/udp/225.1.1.178:30120
-#EXTINF:-1,HTV Keys
-http://58.186.169.3:9898/udp/225.1.1.177:30120
-#EXTINF:-1,SCTV6 HD
-http://58.186.169.3:9898/udp/225.1.1.188:30120
-#EXTINF:-1,THVL1 HD
-http://58.186.169.3:9898/udp/225.1.1.155:30120
-#EXTINF:-1,THVL2 HD
-http://58.186.169.3:9898/udp/225.1.1.154:30120
-#EXTINF:-1,THVL3 HD
-http://58.186.169.3:9898/udp/225.1.1.235:30120
-#EXTINF:-1,THVL4 HD
-http://58.186.169.3:9898/udp/225.1.2.25:30120
-#EXTINF:-1,Animal Planet HD
-http://58.186.169.3:9898/udp/225.1.1.231:30120
-#EXTINF:-1,Animax HD
-http://58.186.169.3:9898/udp/225.1.1.135:30120
-#EXTINF:-1,Asian Food Network HD
-http://58.186.169.3:9898/udp/225.1.1.198:30120
-#EXTINF:-1,AXN HD
-http://58.186.169.3:9898/udp/225.1.2.225:30120
-#EXTINF:-1,BBC CbeeBies HD
-http://58.186.169.3:9898/udp/225.1.1.134:30120
-#EXTINF:-1,BBC Earth HD
-http://58.186.169.3:9898/udp/225.1.2.24:30120
-#EXTINF:-1,Cartoon Network HD
-http://58.186.169.3:9898/udp/225.1.2.231:30120
-#EXTINF:-1,Cartoonito HD
-http://58.186.169.3:9898/udp/225.1.1.138:30120
-#EXTINF:-1,Da Vinci HD
-http://58.186.169.3:9898/udp/225.1.1.197:30120
-#EXTINF:-1,Discovery Asia HD
-http://58.186.169.3:9898/udp/225.1.2.223:30120
-#EXTINF:-1,Discovery Channel HD
-http://58.186.169.3:9898/udp/225.1.1.238:30120
-#EXTINF:-1,Dreamworks HD
-http://58.186.169.3:9898/udp/225.1.1.136:30120
-#EXTINF:-1,Fashion TV HD
-http://58.186.169.3:9898/udp/225.1.2.227:30120
-#EXTINF:-1,HBO HD
-http://58.186.169.3:9898/udp/225.1.1.112:30120
-#EXTINF:-1,Outdoor Channel HD
-http://58.186.169.3:9898/udp/225.1.2.215:30120
-#EXTINF:-1,TLC HD
-http://58.186.169.3:9898/udp/225.1.1.236:30120
-#EXTINF:-1,WBTV HD
-http://58.186.169.3:9898/udp/225.1.1.139:30120
-#EXTINF,Fresh News
-http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
-#EXTINF,TBK
-http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF,BTV
-https://64d0d74b76158.streamlock.net:443/BTVTV/binhthuantv/playlist.m3u8
-#EXTINF,BRT
-http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8
-#EXTINF,DRT
-https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF,THD
-http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=auto&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
-#EXTINF,Yen Bai TV
-https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF,Aaj Tak
@@ -120,8 +16,6 @@ http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8
 #EXTINF,Al Etejah TV
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
-#EXTINF,Al Ghadeer TV
-http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8
 #EXTINF,I24 News
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF,Simaye Azadi
@@ -158,8 +52,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxMLn71/Aljazeera.png" group-title="NEWS",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" group-title="NEWS",TVRI WORLD
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png",TLC (L*)
