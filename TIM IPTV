@@ -2568,6 +2568,18 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/IDTV.svg/1200px-IDTV.svg.png",ช่อง IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/9C3eaL4t0SiI0Nie_sNvc-amO-CSKG7_wOUcrnqEvB-oe16SLqAMU3Xw1n9POlH_PzeELw6l=s900-c-k-c0x00ffffff-no-rj",ช่อง IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l7vncFZAHBxu5eXX1OEvRRsa-9caMKsPiHrBr6ng=s900-c-k-c0x00ffffff-no-rj",ช่อง Nagaswara Dangdut
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bAVfQ6gpye.png",ช่อง Nagaswara Pop
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/g4kUYcZWjy.png",ช่อง Nagaswara Dance
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg",ช่อง My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
@@ -3913,9 +3925,6 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 
 #EXTINF:-1 group-title="FASHION CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",ช่อง FTV
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
-
-#EXTINF:-1 group-title="FASHION CHANNEL" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/fr-ftv-midnight-secrets-1304-300x225-1.jpg",ช่อง FTV Midnight Secret
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="PET CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/x6e8G5-X3CxKrOszUaZ_lzPwonSYMA3T0wctAvlGopMhPVNF8izOl-4FaEfbyELrcA",ช่อง AKC TV
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
