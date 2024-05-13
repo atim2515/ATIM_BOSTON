@@ -90,14 +90,8 @@ http://58.186.169.3:9898/udp/225.1.2.215:30120
 http://58.186.169.3:9898/udp/225.1.1.236:30120
 #EXTINF:-1,WBTV HD
 http://58.186.169.3:9898/udp/225.1.1.139:30120
-
-
-#EXTINF,ANIMAL KINGDOM
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
 #EXTINF,Fresh News
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
-#EXTINF,TVK
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC56/index.m3u8
 #EXTINF,TBK
 http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF,BTV
@@ -110,36 +104,8 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=auto&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
 #EXTINF,Yen Bai TV
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
-#EXTINF,ABC News
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC44/index.m3u8
-#EXTINF,Rai Italia
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8
-#EXTINF,RT
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC9/index.m3u8
-#EXTINF,DW
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC12/index.m3u8
-#EXTINF,CCTV-4
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC33/index.m3u8
-#EXTINF,CGTN
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC51/index.m3u8
-#EXTINF,France 24
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC34/index.m3u8
-#EXTINF,Euro News
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC35/index.m3u8
-#EXTINF,Bloomberg
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC36/index.m3u8
-#EXTINF,NHK World
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnhk/index.m3u8
-#EXTINF,CNA
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC16/index.m3u8
-#EXTINF,HOUSE CHANNEL
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8
 #EXTINF,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF,Russia 24
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC57/index.m3u8
-#EXTINF,Dubai TV
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC15/index.m3u8
 #EXTINF,Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 #EXTINF,Al Ahd TV
@@ -172,10 +138,6 @@ https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF,NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF,TV5MONDE Asia
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC10/index.m3u8
-#EXTINF,TV5MONDE Style
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC25/index.m3u8
 #EXTINF,Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
@@ -241,12 +203,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", CAPITAL
-#EXTVLCOPT:http-user-agent=aHR0cHM6Ly9xcmVhdGlma3UubXkuaWQgLSBwbGF5bGlzdCBxcmVhdGlma3V0dg==13)
-https://cdnweb.qreatifku.my.id/Capital.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", DEEJAY
-#EXTVLCOPT:http-user-agent=aHR0cHM6Ly9xcmVhdGlma3UubXkuaWQgLSBwbGF5bGlzdCBxcmVhdGlma3V0dg==13)
-https://cdnweb.qreatifku.my.id/DeeJay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC", Aquarius Musikindo
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/akuarius.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC", Musica Studios
@@ -536,14 +492,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 http://103.120.172.74:1040
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Star India
 http://103.120.172.74:1060
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Colors
-http://103.120.172.74:1070
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony SAB
-http://103.120.172.74:1080
-#EXTINF:-1 group-title="INDIA" tvg-logo="",India news
-http://103.120.172.74:1090
-#EXTINF:-1 group-title="INDIA" tvg-logo="",StarPlus
-http://103.120.172.74:1120
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Zee TV
 http://103.120.172.74:1140
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Max
@@ -556,8 +504,6 @@ http://103.120.172.74:4000
 http://103.120.172.74:4100
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
 http://103.120.172.74:4200
-#EXTINF:-1 group-title="INDIA" tvg-logo="",StarPlus
-http://103.120.172.74:4300
 #EXTINF:-1 group-title="INDIA" tvg-logo="",MTV
 http://103.120.172.74:4400
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports1
@@ -568,14 +514,8 @@ http://103.120.172.74:4700
 http://103.120.172.74:4800
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold
 http://103.120.172.74:5000
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony HD
-http://103.120.172.74:5100
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Star India
 http://103.120.172.74:5200
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Sport5
-http://103.120.172.74:5300
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Sport1
-http://103.120.172.74:5400
 #EXTINF:-1 group-title="INDIA" tvg-logo="",NDTV
 http://103.120.172.74:5500
 
