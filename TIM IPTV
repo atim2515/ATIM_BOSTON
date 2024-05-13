@@ -1251,6 +1251,9 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53858
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png",ช่อง France 5
+http://69.64.57.208:8080/france5/playlist.m3u8 
+
 #EXTINF:-1 group-title="AFRICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg",ช่อง MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 
@@ -2556,6 +2559,15 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/200px-BTV_%28Indonesia%29_logo.svg.png",ช่อง BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",ช่อง METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.ytimg.com/vi/SuiXn6MjLlc/maxresdefault.jpg",ช่อง Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/IDTV.svg/1200px-IDTV.svg.png",ช่อง IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg",ช่อง My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
@@ -2664,8 +2676,17 @@ http://mykingtv.net:2082/01125676380AA/3252353/12224
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/INews_on_screen_logo.png/revision/latest?cb=20180812071530",ช่อง iNews
 http://mykingtv.net:2082/01125676380AA/3252353/8286
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1693576055737487360/7rbADPvJ_400x400.jpg",ช่อง CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",ช่อง CNA
 http://mykingtv.net:2082/01125676380AA/3252353/9083
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",ช่อง CGTN
 http://mykingtv.net:2082/01125676380AA/3252353/5305
@@ -2674,7 +2695,7 @@ http://mykingtv.net:2082/01125676380AA/3252353/5305
 http://mykingtv.net:2082/01125676380AA/3252353/5306
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TRT_World_Radio_logo.svg/2560px-TRT_World_Radio_logo.svg.png",ช่อง TRT World
-http://210.210.155.35/uq2663/h/h156/index2.m3u8
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png",ช่อง National Geographic
 http://mykingtv.net:2082/01125676380AA/3252353/6992
@@ -3022,6 +3043,12 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/2560px-Eurosport_logo_%282001-2011%29.svg.png",ช่อง Eurosport
 https://varun-iptv.netlify.app/m3u/Eurosport.m3u8
+
+#EXTINF:-1 group-title="DUBAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Dubai_TV_Logo.svg/2560px-Dubai_TV_Logo.svg.png",ช่อง Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="DUBAI TV" tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo.png",ช่อง Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJuioA8VXYFnDkFNG5VaVeJyNAuLFclQAL9928Vz3Zu6hRyEyCtAn1-4Klq_LWm0HLiQ&usqp=CAU",ช่อง Lao Champa TV 1
 https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8
@@ -3566,6 +3593,9 @@ https://symc-cdn.violin.co.th/madoit/timetv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC13/index.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkslIpJ_RqHIiLuDz8aof4Jc-iGtVqaECwYs6pZcHkQ&s",ช่อง TLC
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQQVpl3gWcBPD8nN7bq6HMdA92PfRq4DXoVR3DCHQ=s900-c-k-c0x00ffffff-no-rj",ช่อง The Young Turks
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
@@ -3883,6 +3913,9 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 
 #EXTINF:-1 group-title="FASHION CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",ช่อง FTV
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
+
+#EXTINF:-1 group-title="FASHION CHANNEL" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/fr-ftv-midnight-secrets-1304-300x225-1.jpg",ช่อง FTV Midnight Secret
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="PET CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/x6e8G5-X3CxKrOszUaZ_lzPwonSYMA3T0wctAvlGopMhPVNF8izOl-4FaEfbyELrcA",ช่อง AKC TV
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
