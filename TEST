@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF,Aaj Tak
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+
 #EXTINF,Al Ahd TV
 http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
 #EXTINF,Al Anwar 2
@@ -26,18 +25,6 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 https://www.nandighoshatvlive.com/hls/stream/index.m3u8
 #EXTINF,Naxatra News
 https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
-#EXTINF,NDTV 24×7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF,NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF,Zoo Moo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
-
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="" group-title="LIFESTYLE",The Food Network (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png", HGTV (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery (L*)
@@ -57,10 +44,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", Discovery Kid (L*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
@@ -361,28 +344,3 @@ http://103.120.172.74:5000
 http://103.120.172.74:5200
 #EXTINF:-1 group-title="INDIA" tvg-logo="",NDTV
 http://103.120.172.74:5500
-
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/2b/HoYIBC_logo.png/220px-HoYIBC_logo.png",ช่อง HOY TV 76
-http://58.176.4.57:8800/play/a002
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/HOY_TV.png/revision/latest?cb=20230316043051&path-prefix=vi",ช่อง HOY TV 77
-http://58.176.4.57:8800/play/a003
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HOY_Infotainment_Channel.png/revision/latest/scale-to-width-down/220?cb=20231221130037&path-prefix=vi",ช่อง HOY TV 78
-http://58.176.4.57:8800/play/a004
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.viu.tv/viutv_logo.png",ช่อง VIU TV
-http://58.176.4.57:8800/play/a00i
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg",ช่อง VIU TV SIX
-http://58.176.4.57:8800/play/a00h
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716018_490_small.jpg",ช่อง TVB Jade
-http://58.176.4.57:8800/play/a00g
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvYJeUsmYsfNvxtspbdcOfkYZoA0qiOAAfvOO17OGTw&s",ช่อง TVB Plus
-http://58.176.4.57:8800/play/a00c
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://pbs.twimg.com/profile_images/767623619094523904/bFUdlYb__400x400.jpg",ช่อง TVB Pearl
-http://58.176.4.57:8800/play/a00b
