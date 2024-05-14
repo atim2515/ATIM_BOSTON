@@ -1,51 +1,5 @@
 #EXTM3U
 
-
-#EXTINF,Al Ahd TV
-http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
-#EXTINF,Al Anwar 2
-http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
-#EXTINF,Al Ayam TV
-http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
-#EXTINF,Al Eshraq TV
-http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
-#EXTINF,Afaq TV
-http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8
-#EXTINF,Al Etejah TV
-http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
-#EXTINF,I24 News
-https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF,Simaye Azadi
-https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
-#EXTINF,Kurdistan 24
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF,Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF,Nandighosha TV
-https://www.nandighoshatvlive.com/hls/stream/index.m3u8
-#EXTINF,Naxatra News
-https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
-
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="KNOWLEDGE",Discovery Science*
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
-#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discien.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", ANIMAL PLANET HD
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="",Investigation Discovery (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="KNOWLEDGE",Dmax (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Discovery Turbo (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Trvl Channel (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", Discovery Kid (L*)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
 https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="RADIO",Ardan FM
@@ -156,30 +110,12 @@ http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
 http://91.224.190.66:4263/bysid/26624
 
 
-#EXTINF:-1 group-title="RANDOM TV",setinews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 group-title="RANDOM TV",globalnewstw
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 group-title="RANDOM TV",57ETFN
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 group-title="RANDOM TV",momoch4812
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 group-title="RANDOM TV",momoch3571
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 group-title="RANDOM TV",EFTV01
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 group-title="RANDOM TV",su3ej8xu1o
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 #EXTINF:-1 group-title="RANDOM TV",dwnews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 group-title="RANDOM TV",twctvnews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 group-title="RANDOM TV",MalaimurasuTv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
 #EXTINF:-1 group-title="RANDOM TV",asianetnews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-#EXTINF:-1 group-title="RANDOM TV",cts_drama
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="RANDOM TV",CtiAsia
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 #EXTINF:-1 group-title="RANDOM TV",aljazeera
@@ -188,8 +124,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 group-title="RANDOM TV",thekpop
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 group-title="RANDOM TV",FTV_News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 group-title="RANDOM TV",CH46 China
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 #EXTINF:-1 group-title="RANDOM TV",sensengo2015
@@ -204,20 +138,12 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 #EXTINF:-1 group-title="RANDOM TV",ABCNews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TTV_NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 group-title="RANDOM TV",CTSSHOW
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 group-title="RANDOM TV",astroawani
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 #EXTINF:-1 group-title="RANDOM TV",ctitv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="RANDOM TV",japan_walk
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 #EXTINF:-1 group-title="RANDOM TV",DaAiVideo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TVBSNEWS01
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 group-title="RANDOM TV",setnews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 group-title="RANDOM TV",GBNewsOnline
