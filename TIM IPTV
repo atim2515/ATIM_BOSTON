@@ -289,6 +289,30 @@ https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/ch
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",ช่อง Discovery
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png",ช่อง Discovery Science
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",ช่อง Investigation Discovery
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",ช่อง Dmax
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",ช่อง Discovery Turbo
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",ช่อง Discovery Kid
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png",ช่อง ANIMAL PLANET
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png",ช่อง Trvl Channel
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobqdb6IPI0TKlLSCqu_G6tP-T3jmFUKzP64TXJRlWYSsueVATffgiruKIznxi_lIUYEI&usqp=CAU",ช่อง ISTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 
@@ -2996,6 +3020,12 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/2560px-NDTV_247.svg.png",ช่อง NDTV 24×7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Nandighosha_TV.jpeg/revision/latest?cb=20200108064908",ช่อง Nandighosha TV
+https://www.nandighoshatvlive.com/hls/stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Naxatra_News.jpg/revision/latest?cb=20191220181811",ช่อง Naxatra News
+https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
+
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sethd_23oct_portrait_thumb_rev.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
@@ -3070,6 +3100,36 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m
 
 #EXTINF:-1 group-title="DUBAI TV" tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo.png",ช่อง Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="IRAQ TV" tvg-logo="https://www.washingtoninstitute.org/sites/default/files/2022-02/Logo.jpeg",ช่อง Al Ahd TV
+http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
+
+#EXTINF:-1 group-title="IRAQ TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png",ช่อง Al Anwar 2
+http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
+
+#EXTINF:-1 group-title="IRAQ TV" tvg-logo="https://play-lh.googleusercontent.com/4iSK7VzzRoDLEVwase5_06CslgFGd32Ewa4xBoSTHgldB12_mCbeATeb8IHejgYDnO8Q",ช่อง Al Ayam TV
+http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
+
+#EXTINF:-1 group-title="IRAQ TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0lzSjOd9JfYT3S6b0Dpsf0OFrdkbGYoSFGC4owNzrlg&s",ช่อง Al Eshraq TV
+http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
+
+#EXTINF:-1 group-title="IRAQ TV" tvg-logo="https://afaq.iq/static/images/site/logo_afaq2.png",ช่อง Afaq TV
+http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8
+
+#EXTINF:-1 group-title="IRAQ TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfVpvWLBHnUyZM9RNreFqI_RQKYlJdFlQtH2aq130FQ&s",ช่อง Al Etejah TV
+http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
+
+#EXTINF:-1 group-title="IRAQ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png",ช่อง Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="IRAQ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/K24logo.png",ช่อง Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+
+#EXTINF:-1 group-title="IRAN TV" tvg-logo="https://www.parsatv.com/index_files/channels/simayeazadi.jpg",ช่อง Simaye Azadi
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+
+#EXTINF:-1 group-title="ISRAEL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/2560px-I24NEWS_logo.svg.png",ช่อง I24 News
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJuioA8VXYFnDkFNG5VaVeJyNAuLFclQAL9928Vz3Zu6hRyEyCtAn1-4Klq_LWm0HLiQ&usqp=CAU",ช่อง Lao Champa TV 1
 https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8
