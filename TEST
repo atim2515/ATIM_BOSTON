@@ -110,20 +110,8 @@ http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
 http://91.224.190.66:4263/bysid/26624
 
 
-#EXTINF:-1 group-title="RANDOM TV",dwnews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 group-title="RANDOM TV",MalaimurasuTv
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 group-title="RANDOM TV",asianetnews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
 #EXTINF:-1 group-title="RANDOM TV",CtiAsia
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 group-title="RANDOM TV",aljazeera
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 group-title="RANDOM TV",SaluranBeritaRTM123
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 group-title="RANDOM TV",thekpop
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 group-title="RANDOM TV",CH46 China
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 #EXTINF:-1 group-title="RANDOM TV",sensengo2015
@@ -242,17 +230,3 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Max
 http://103.120.172.74:1150
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee TV
-http://103.120.172.74:4000
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports1
-http://103.120.172.74:4100
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
-http://103.120.172.74:4200
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports1
-http://103.120.172.74:4600
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
-http://103.120.172.74:4700
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
-http://103.120.172.74:4800
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold
-http://103.120.172.74:5000
