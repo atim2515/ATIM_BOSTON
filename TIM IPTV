@@ -1557,6 +1557,9 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg",ช่อง TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.pinimg.com/originals/4f/06/59/4f0659e132a448c1397156b3eed071f4.jpg",ช่อง ANN NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ",ช่อง 朝日新聞 NEWS
 https://ythls-v2.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 
@@ -3020,6 +3023,12 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",ช่อง Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Malai_Murasu.png/revision/latest?cb=20191229035538",ช่อง Malaimurasu TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://www.theweek.in/content/dam/week/news/india/images/2020/3/7/asianet-news.jpg",ช่อง Asianet News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibcprtb4LLvm4lzmEqYa9VDuaVtVxyrhI-arlVA5bYA&s",ช่อง NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
@@ -3035,8 +3044,14 @@ https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/DD-News_2022.png/revision/latest/scale-to-width-down/250?cb=20230610231518",ช่อง DD news
 http://103.120.172.74:1170
 
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",ช่อง Zee TV
+http://103.120.172.74:4000
+
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.cnbctv18.com/wp-content/uploads/2020/01/Untitled-3-1024x702.png",ช่อง Zee India
 http://103.120.172.74:1040
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",ช่อง Zee Cinema
+http://103.120.172.74:4100
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Star_Television_logo.svg/1280px-Star_Television_logo.svg.png",ช่อง Star India
 http://103.120.172.74:1060
@@ -3068,6 +3083,9 @@ https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_wah_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY WAH
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png?20221116000341",ช่อง SONY ENTERTAINMENT TELEVISION
+http://103.120.172.74:5000
+
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_pixhd_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
@@ -3076,6 +3094,18 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646",ช่อง SONY SPORTS 1
 http://103.120.172.74:1140
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500",ช่อง SONY SPORTS 2
+http://103.120.172.74:4800
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png?20221025095646",ช่อง Star Sports 1
+http://103.120.172.74:4600
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcS9o5ibPlNqoIY46lUJmxfk7z3IwGePcLRTzBJC50QQ&s",ช่อง Star Sports 2
+http://103.120.172.74:4200
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646",ช่อง Star Sports Select 2
+http://103.120.172.74:4700
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/180px-Sports18_logo.svg.png",ช่อง Sports 18
 http://103.120.172.74:5500
@@ -3118,6 +3148,12 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/2560px-Eurosport_logo_%282001-2011%29.svg.png",ช่อง Eurosport
 https://varun-iptv.netlify.app/m3u/Eurosport.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",ช่อง DW News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg",ช่อง Aljazeera
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
 
 #EXTINF:-1 group-title="DUBAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Dubai_TV_Logo.svg/2560px-Dubai_TV_Logo.svg.png",ช่อง Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
