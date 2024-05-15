@@ -1557,6 +1557,12 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg",ช่อง TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ",ช่อง 朝日新聞 NEWS
+https://ythls-v2.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/vcGsZVD.png",ช่อง HBC 北海道NEWS
+https://ythls-v2.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.imgur.com/yqUItvM.png",ช่อง HTB北海道テレビ NEWS
 https://ythls-v2.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
 
@@ -3026,6 +3032,18 @@ https://www.nandighoshatvlive.com/hls/stream/index.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Naxatra_News.jpg/revision/latest?cb=20191220181811",ช่อง Naxatra News
 https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
 
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/DD-News_2022.png/revision/latest/scale-to-width-down/250?cb=20230610231518",ช่อง DD news
+http://103.120.172.74:1170
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.cnbctv18.com/wp-content/uploads/2020/01/Untitled-3-1024x702.png",ช่อง Zee India
+http://103.120.172.74:1040
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Star_Television_logo.svg/1280px-Star_Television_logo.svg.png",ช่อง Star India
+http://103.120.172.74:1060
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Star_Television_logo.svg/1280px-Star_Television_logo.svg.png",ช่อง Star India
+http://103.120.172.74:5200
+
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sethd_23oct_portrait_thumb_rev.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
@@ -3055,6 +3073,12 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_bbchd_23oct_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",ช่อง SONY BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646",ช่อง SONY SPORTS 1
+http://103.120.172.74:1140
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/180px-Sports18_logo.svg.png",ช่อง Sports 18
+http://103.120.172.74:5500
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",ช่อง Discovery Kids Hindi
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
