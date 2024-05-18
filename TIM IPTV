@@ -719,7 +719,7 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53412
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia803107.us.archive.org/34/items/ActionMax/action%20max.png",ช่อง CINEMAX ACTION MAX
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:A2:FA&extension=ts&stream=824721
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://tvbix.com/images/channels/outer-max.png",ช่อง CINEMAX OUTER MAX
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Ddxp3zKg4iz2qlhqDvLIjKXde0jq7guGC3CYpTWE3cYJGp5GhZJwX3L_rTYPK6ShFLc&usqp=CAU",ช่อง CINEMAX OUTER MAX
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/56278
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://live-tv-channels.org/media/tv-logo/us-5-starmax-8614.jpg",ช่อง CINEMAX 5 STAR MAX
@@ -854,7 +854,7 @@ https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTuO0VbPzyHkFsH6MRHsvm19v29fhXH2ma9pZ8p=s900-c-k-c0x00ffffff-no-rj",ช่อง ET Live
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://musicrow.com/wp-content/uploads/2021/01/Circle-logo.png",ช่อง Circle
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/1200px-Circle_Network_logo.svg.png",ช่อง Circle
 https://circle-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41duBUD0OHL.png",ช่อง Atlanta Channel
@@ -1711,7 +1711,7 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/121_image.png",ช่อง ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLfpNEi_hgkK9DgZoF54OnenxUcgHb2vMJYnJLjs0aldomZwVRYjpSG_RFhAOmSxY69j0&usqp=CAU",ช่อง CTS기독교TV
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://seedch.org/wp-content/uploads/2020/12/cts-news.jpg",ช่อง CTS기독교TV
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/QUxuHA1.png",ช่อง GCN
@@ -2009,8 +2009,38 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",ช่อง CCTV-4
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s900-c-k-c0x00ffffff-no-rj",ช่อง ABC NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/NBC_News_%282023%29.svg/revision/latest/scale-to-width-down/250?cb=20231120040213",ช่อง NBC NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/GB-News-logo-e1660555171324-1038x778.png",ช่อง GBN
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",ช่อง France 24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png",ช่อง Aljazeera English
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/CNA.png",ช่อง CNA
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://logowik.com/content/uploads/images/phoenix-infonews-channel8389.jpg",ช่อง Phoenix InfoNews Channel
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.htb.co.jp/news/images/ogp2021.png",ช่อง HTB News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0=s176-c-k-c0x00ffffff-no-rj",ช่อง ABC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCzC3-kSTcbu3wMNtVxdgGPm37pzPb_qMlIpOM-X1_wHw=s900-c-k-c0x00ffffff-no-rj",ช่อง 123 GO! LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCtby8z_CqlX0frBpvElyxLhcZzdy2iX94GgTvtzeqQ&s",ช่อง Lofi Girl
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 状王宋世杰-第二部-张达明大战黄子华
 http://159.75.85.63:35455/huya/23734183
@@ -2927,7 +2957,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1200px-Sukan_RTM_1_April.png",ช่อง Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://link.zozotv.xyz/pic/DuniaSenimaZozo.png",ช่อง Dunia Sinema
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Dunia_Sinema_Old.png/revision/latest/scale-to-width-down/1200?cb=20230119131035",ช่อง Dunia Sinema
 http://mykingtv.net:2082/01125676380AA/3252353/8459
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png",ช่อง RTB SUKMAINDERA
