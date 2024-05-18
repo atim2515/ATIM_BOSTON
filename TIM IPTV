@@ -1338,6 +1338,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png",ช่อง ABC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.ytimg.com/vi/YUWowy8WDRA/maxresdefault.jpg",ช่อง Kansai News 24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/a/aa/Ktv_logo.png/revision/latest?cb=20200821080929",ช่อง Kansai TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 
@@ -2033,7 +2036,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.htb.co.jp/news/images/ogp2021.png",ช่อง HTB News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0=s176-c-k-c0x00ffffff-no-rj",ช่อง ABC News
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://i.ytimg.com/vi/YUWowy8WDRA/maxresdefault.jpg",ช่อง Kansai News 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCzC3-kSTcbu3wMNtVxdgGPm37pzPb_qMlIpOM-X1_wHw=s900-c-k-c0x00ffffff-no-rj",ช่อง 123 GO! LIVE
