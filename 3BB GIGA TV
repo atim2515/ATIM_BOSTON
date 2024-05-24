@@ -8,227 +8,129 @@
 		"stations":[
     
 
-{"name":"NBT HD",image:"https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png","url": "http://183.89.246.119:8010/play/a009/index.m3u8"},
-
-{"name":"Thai PBS HD",image:"https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png","url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"},
-    
 {
-"name":"ALTV",
-"image":"https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png",
-"url":"https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8", 
-"referer": "https://freetvdd.com/", 
-"info": "TIM", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
-    
-{"name":"TV5 HD",image:"https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png","url": "http://183.89.246.119:8010/play/a00u/index.m3u8"},
+"name": "FW SPORT",
+"image": "https://img.inwiptv.net/postor/20240429213640FWsport.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=92941",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
-{
-"name": "T Sports7", "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0129/HLS/V0129.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-				
-{
-"name":"TPTV",
-"image":"https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",
-"url":"https://cdn6.goprimetime.info/feed/202205171929/tptv/playlist.m3u8", 
-"referer": "https://freetvdd.com/", 
-"info": "TIM", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
-{"name":"TNN16",image:"https://i.imgur.com/hD3wGq3.png","url": "http://183.89.246.119:8010/play/a00b/index.m3u8"},
+  {
+"name": "FW TOON",
+"image": "https://img.inwiptv.net/postor/20240429213651FWTOON.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89782",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
-{"name":"JKN 18","image": "https://images.livebox.co/images/tv/png/sd-new.png","url": "https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
-{
-"name":"Nation tv",
-"image":"https://freetvdd.com/wp-content/uploads/2019/12/nation.png",
-"url":"https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8", 
-"referer": "https://freetvdd.com/", 
-"info": "TIM", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
+  {
+"name": "FW COMEDY",
+"image": "https://img.inwiptv.net/postor/20240429213343just_for_laughs_gags.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89781",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
-{
-"name":"Workpoint",
-"image":"https://static.wikia.nocookie.net/logopedia/images/8/8e/Workpoint-logo.png/revision/latest/scale-to-width-down/1200?cb=20170508090614",
-"url":"https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8", 
-"referer": "https://freetvdd.com/", 
-"info": "TIM", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true"},
 
-{
-"name": "True4U", "image": "https://www.true4u.com/images/true4u.jpg", 
-"url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/index.m3u8", "referer": "https://cdn6.goprimetime.info", "info": "TIM", "desktop": "true"},
-    
-{"name":"GMM 25","image": "https://static.thairath.co.th/media/4DQpjUtzLUwmJZZO8z9VN5NIgaKSrOiW8Uxx0i826t1c.jpg","url": "https://cdn6.goprimetime.info/feed/202205171929/chgmm/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
-    
-{"name":"CH 8",image:"https://overseer.blackboxsys.net/images/png/hd-ch8.png","url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8"},
 
-{"name":"Mono29",image:"https://overseer.blackboxsys.net/images/png/hd-mono.png","url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8"},
-    
-{"name":"MCOT HD",image:"https://i.imgur.com/KQu4dTf.png","url": "http://183.89.246.119:8010/play/a00h/index.m3u8"},
-    
-{"name":"ONE HD",image:"https://overseer.blackboxsys.net/images/png/hd-gmmone.png","url": "http://183.89.246.119:8010/play/a00e/index.m3u8"},
+  {
+"name": "FW CNN",
+"image": "https://img.inwiptv.net/postor/20240421224528CNN.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=40922",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
-{"name":"Thairath TV",image:"https://overseer.blackboxsys.net/images/png/hd-thairath.png","url": "http://183.89.246.119:8010/play/a00i/index.m3u8"},
-    
-{"name":"CH3 HD",image:"https://overseer.blackboxsys.net/images/png/hd-ch3.png","url": "http://183.89.246.119:8010/play/a00n/index.m3u8"},
-    
-{"name":"AMARIN TV HD",image:"https://overseer.blackboxsys.net/images/png/hd-amarin.png","url": "http://183.89.246.119:8010/play/a00r/index.m3u8"},
 
-{"name":"BBTV CH 7",image:"https://overseer.blackboxsys.net/images/png/hd-ch7.png","url": "http://183.89.246.119:8010/play/a00f/index.m3u8"},
 
-{"name":"PPTV HD",image:"https://overseer.blackboxsys.net/images/png/hd-pptv.png","url": "http://183.89.246.119:8010/play/a00s/index.m3u8"},
+  {
+"name": "FW CBSN",
+"image": "https://img.inwiptv.net/postor/20240421224653CBS_News.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=40913",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
-{
-"name": "3BB Asian", "image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0191/HLS/V0191.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
 
-{
-"name": "HBO", "image": "https://logowik.com/content/uploads/images/hbo.jpg",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0114/HLS/V0114.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
 
-{
-"name": "HBO Signature", "image": "https://www.nicepng.com/png/detail/233-2333069_hbo-signature-logo-png.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0117/HLS/V0117.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
+  {
+"name": "FW NHK",
+"image": "https://img.inwiptv.net/postor/20240421225150NHK.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=40910",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
-{
-"name": "HBO Hits", "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0116/HLS/V0116.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
+  {
+"name": "FW RT",
+"image": "https://img.inwiptv.net/postor/20240421225216RT.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=40889",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
-{
-"name": "HBO Family", "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0115/HLS/V0115.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
 
-{
-"name": "Cinemax", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0118/HLS/V0118.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
+  {
+"name": "FW NEWS",
+"image": "https://img.inwiptv.net/postor/2023070801064220200314132736RT%20News.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=40889",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
-{
-"name": "MONO PLUS", "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0192/HLS/V0192.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
 
-{
-"name": "MONO 29 Music station", "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0193/HLS/V0193.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
+  {
+"name": "FW Blomberg",
+"image": "https://img.inwiptv.net/postor/20240421225204Bloomberg.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=40892",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
-{
-"name": "A'lure Channel", "image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/AlureChannel.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0194/HLS/V0194.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "RUSH Stories", "image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/RushStories.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0195/HLS/V0195.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{"name": "มังกร","image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png" ,"url": "https://www.dailymotion.com/embed/video/x80wbgj?autoplay=1"},
-
-{
-"name": "JKN High Shopping", "image": "https://mpics.mgronline.com/pics/Images/564000009550001.JPEG",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0101/HLS/V0101.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "BBC lifestyle", "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBC-lifestylese.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0126/HLS/V0126.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "Rock Action", "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockActionLOGO.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0166/HLS/V0166.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{"name":"HUNAN",image:"https://i.imgur.com/rciggYQ.jpg","url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8"},
-
-{"name":"NHK WORLD JAPAN",image:"https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"},
-
-{
-"name": "Cartoon Network", "image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cartoonnetwork.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/X171/HLS/X171.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "Nickelodeon", "image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nickelodeon.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0187/HLS/V0187.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "NICK JR.", "image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nick-Jr.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0186/HLS/V0186.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "Cartoon Club", "image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/CartoonClub.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0100/HLS/V0100.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "Boomerang", "image": "https://i.imgur.com/gu2KjYv.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0104/HLS/V0104.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "3BB Sport one", "image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBSportsOne.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0190/HLS/V0190.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "EDGE Sport", "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/EDGEsport-Channel.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0128/HLS/V0128.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "Golf Channel Thailand HD Plus", "image": "https://i.imgur.com/wVenKVZ.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0130/HLS/V0130.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "LOVE Nature 4K", "image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/LoveNature4K.png",  
-"url":"https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{
-"name": "GlobalTrekker", "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0023/HLS/V0023.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{name:"BBC Earth",image:"https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png","url": " https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8 ", "referer": " https://freetvdd.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
-
-{"name": "ดูนี่ทีวี","image": "https://sv1.picz.in.th/images/2022/10/07/p2Eg6J.png" ,"url": "https://www.dailymotion.com/embed/video/x80po78?autoplay=1"},
-
-{"name":"DLTV 1",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV1/header_webboard.png","url": "https://www.dltv.ac.th/streaming"},
-
-{"name":"DLTV 2",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV2/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV2"},
-
-{"name":"DLTV 3",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV3/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV3"},
-
-{"name":"DLTV 4",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV4/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV4"},
-
-{"name":"DLTV 5",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV5/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV5"},
-
-{"name":"DLTV 6",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV6/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV6"},
-
-{"name":"DLTV 7",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV7/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV7"},
-
-{"name":"DLTV 8",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV8/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV8"},
-
-{"name":"DLTV 9",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV9/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV9"},
-
-{"name":"DLTV 10",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV10/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV10"},
-
-{"name":"DLTV 11",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV11/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV11"},
-
-{"name":"DLTV 12",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV12/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV12"},
-
-{"name":"DLTV 13",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV13/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV13"},
-
-{"name":"DLTV 14",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV14/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV14"},
-
-{"name":"DLTV 15",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV15/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV15"},
-
-{"name":"ETV",image:"http://www.etvthai.tv/images_new/logo.png","url": "http://www.etvthai.tv/stream/home.aspx"},
-
-{"name":"TOP NEWS",image:"https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png","url": "https://live.topnews.co.th/hls/topnews.m3u8"},
-
-{
-"name": "BBC World News", "image": "https://i.imgur.com/Iz9AQEv.png",  
-"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0125/HLS/V0125.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=828e444ee6e3887a69bb4c6bf855cfaa&chunkHttps=true&tmid=B0001&tpbk=2xKEKmh3ELqkz4wG&rrt=1680243609&tmod=rfk&rsid=b8334287-3b23-42f7-bfd6-f0f810d838e2&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1680325203", "referer": "https://ais-vidnt.com/", "info": "TIM", "desktop": "true"},
-
-{"name":"CNN",image:"https://i.imgur.com/oHXDurA.png","url": "https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"},
-
-{"name":"Bloomberg TV",image:"https://i.imgur.com/2r7utRt.png","url": "https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8"},
-
-{"name":"CGTN",image:"https://i.imgur.com/evTfZ85.png","url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"},
-
-{"name":"CCTV 4",image:"http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png","url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8"},
-
-{"name":"Al Jazeera English HD",image:"https://i.imgur.com/Fyha6mW.png","url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"},
-
-{"name":"CNA",image:"https://i.imgur.com/TkNQ76N.png","url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"},
+  {
+"name": "FW CGTN",
+"image": "https://img.inwiptv.net/postor/20240421225237CGTN.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=40886",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+  {
+"name": "FW MIXTV",
+"image": "https://img.inwiptv.net/postor/20240421225313MIXTV.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=40884",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+  {
+"name": "FW ถิ่นใต้ ทีวี ",
+"image": "https://img.inwiptv.net/postor/20240421225339%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27312",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+      {
+"name": "FW FOXNEWS",
+"image": "https://img.inwiptv.net/postor/20240421225254FoxNews.jpg",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27315",
+"online": "true",
+"referer": "https://www.inwiptv.com/",
+        "info":"CABLETV",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
 
 ]
 }
