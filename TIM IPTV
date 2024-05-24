@@ -257,6 +257,18 @@ https://www.inwiptv.com/player_demo.php?channel=89782
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://www.inwiptv.com/player_demo.php?channel=89781
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://img.inwiptv.net/postor/20240429213640FWsport.jpg",ช่อง FW Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://www.inwiptv.com/player_demo.php?channel=92941
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://img.inwiptv.net/postor/20240421225339%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",ช่อง FW ถิ่นใต้ ทีวี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://www.inwiptv.com/player_demo.php?channel=27312
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://img.inwiptv.net/postor/20240421225313MIXTV.jpg",ช่อง FW MIXTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://www.inwiptv.com/player_demo.php?channel=40884
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",ช่อง SIAM NEWS
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
@@ -477,13 +489,21 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
 
+#EXTINF:-1 group-title="GOOD TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png",ช่อง ของดีประเทศไทย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/HLS/V0154.m3u8
+
+#EXTINF:-1 group-title="GOOD TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png",ช่อง THAINESS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/V0155.m3u8
+
+#EXTINF:-1 group-title="GOOD TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",ช่อง ANIMAL SHOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
+https://cors-proxy.elfsight.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
+
 #EXTINF:-1 group-title="GOOD TV" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185932sweet.png",ช่อง Sweet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
-
-#EXTINF:-1 group-title="GOOD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRemzYuJ06PSCSz9-_DANd1vEH7JSfaHvrQ&usqp=CAU",ช่อง บุษบาคาเฟ่
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://wacthstream.com/stream_live/38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6NDIgQU0maGFzaF92YWx1ZT1TUVpqZTR3VlpOZlFQR0R3WXE4dmpBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjAzOTU=
 
 #EXTINF:-1 group-title="GOPRIMETIME TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png",HLN film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
