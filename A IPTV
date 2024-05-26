@@ -20,11 +20,3 @@ https://live.thaitvstream.com/play/thaikaona/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",ช่อง PTV
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png",ช่อง hd-asianmore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livesod365.com/live/hd-asianmore/True
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png",ช่อง hd-asianmore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livesod365.com/live/hd-asianmore/True|Referer=https://livesod365.com/
