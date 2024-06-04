@@ -2039,11 +2039,8 @@ https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 10-Samsung TV Plus 10
 https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jsnzm21r7lwrj-prod/Channel_MBC_10.m3u8?ads.device_did=%7BPSID
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",ช่อง TVB Jade
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=153505
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",ช่อง TVB Jade Astro
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=571187
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=153505
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvbyule.jpg",ช่อง TVB Entertainment News
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=153504
@@ -2054,17 +2051,11 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&s
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=153503
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic Astro
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=571197
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVdB03xKU5gLuRWhEFapy6aY4fySfC9j-TQ&s",ช่อง TVBE
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=153398
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://dishpromotions.com/wp-content/uploads/TVB1-logo.png",ช่อง TVB1
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=153396
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZwu25tUJ3Z3JNZ0tyT4O-i_4EJt6agQeNovoALjYHKb_rusduWkZ1oQpKtJRtcbx&usqp=CAU",ช่อง TVBJ1
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=153395
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0c51dVeiLZTKxOSj2dnu-3phnfljyb5MoA&s",ช่อง TVB Drama
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=153400
@@ -2074,12 +2065,6 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&s
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png",ช่อง Now premier 1
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=1032487
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2023/07/632-e.png",ช่อง Now sports 2
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=1032478
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png",ช่อง Now sports 3
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:CC:04:A1&extension=ts&stream=1032477
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",ช่อง Phoenix InfoNews Channel
 http://php.17186.eu.org/phtv/fhzx.m3u8
@@ -4494,20 +4479,20 @@ http://live.redtraffic.xyz/livecams.m3u8
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Woman
 http://live.redtraffic.net/woman.m3u8
 
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s",ช่อง Amateur
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470082
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s",ช่อง 21 Sextury
+http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/12205/index.m3u8
 
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s",ช่อง Anal Sex
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470083
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s",ช่อง A3 Bikini
+http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/6165/index.m3u8
 
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s",ช่อง Asian Sex
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470641
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s",ช่อง AST TV
+http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/6169/index.m3u8
 
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s",ช่อง BBW
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470085
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s",ช่อง AST TV 2
+http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/6170/index.m3u8
 
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s",ช่อง Barely 18
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20507
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s",ช่อง Adult Time
+http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/6166/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Marvel_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694102537",ช่อง MARVEL 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:c5:09:b3&extension=ts&stream=924731
