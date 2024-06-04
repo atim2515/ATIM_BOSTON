@@ -128,3 +128,12 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
 #EXTINF:-1 group-title="RANDOM TV",faintv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+
+#EXTINF:-1 group-title="a TV",faintv
+https://tbs4.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="a TV",faintv
+http://202.60.106.14:8080/1305/playlist.m3u8
+#EXTINF:-1 group-title="a TV",faintv
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="a TV",faintv
+http://202.60.106.14:8080/1346/playlist.m3u8
