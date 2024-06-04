@@ -415,26 +415,13 @@ https://livesod365.com/live/hd-food/Food|Referer=https://livesod365.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",ช่อง BBC Lifestyle
-https://spleeny-bridges.000webhostapp.com/channel/bbclifestyle.m3u8
-
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",ช่อง History Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://livesod365.com/live/hd-history/History|Referer=https://livesod365.com/
 
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://yt3.googleusercontent.com/gjB4FBlH4bQKrpWoFkz8m-7kU38KIumhG1xwlgprLFc2SF9OnuQ4Zf4JG4FnZQYry9Q1D9OT=s900-c-k-c0x00ffffff-no-rj",ช่อง Love Nature
-https://spleeny-bridges.000webhostapp.com/channel/lovenature.m3u8
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png",ช่อง True Explore Life
-https://spleeny-bridges.000webhostapp.com/channel/life.m3u8
-
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",ช่อง True Explore Sci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://livesod365.com/live/th-expsci|Referer=https://livesod365.com/
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",ช่อง True Explore Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livesod365.com/live/sd-expwild/Explore|Referer=https://livesod365.com/
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/2560px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime + Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -517,10 +504,6 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Refe
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.png",ช่อง Spotv 2 HD
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?|Referer=https://dooball2you.com/
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/06/01/69d36290-e15a-11ec-b8a7-99ad15c732f5_webp_320.png",ช่อง ID Station
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://livesod365.com/live/th-idstation/ID/|Referer=https://livesod365.com/
 
 #EXTINF:-1 group-title="AIS PLAY" tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59.png",ช่อง คูล ชาแนล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -908,6 +891,9 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53412
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia803107.us.archive.org/34/items/ActionMax/action%20max.png",ช่อง CINEMAX ACTION MAX
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:a4:52:10&extension=ts&stream=824721
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png",ช่อง CINEMAX THRILLER MAX
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=824763
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Ddxp3zKg4iz2qlhqDvLIjKXde0jq7guGC3CYpTWE3cYJGp5GhZJwX3L_rTYPK6ShFLc&usqp=CAU",ช่อง CINEMAX OUTER MAX
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/56278
 
@@ -1009,6 +995,12 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53372
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png",ช่อง MOVIETIME
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/118563
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Epix_Hits_logo.svg/2560px-Epix_Hits_logo.svg.png",ช่อง EPIX HITS
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=824729
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/2560px-Movieplex_logo.svg.png",ช่อง Movieplex
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=824740
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Retroplex_logo.png",ช่อง RETRO PLEX
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:a4:52:10&extension=ts&stream=824742
@@ -1223,6 +1215,12 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53441
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",ช่อง beIN Sports HD
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/55055
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymAiK1B1uXt3Vq4FcJxTXAl2QuTyQj8kTig&s",ช่อง beIN Sports 2
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=1002740
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png",ช่อง MOTOR TREND
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=824632
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg",ช่อง WWE NETWORK
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/54904
 
@@ -1367,6 +1365,12 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53607
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2022/09/26/0dd2c300d45cb1c4be6f7b49e126bfca/logo-euronews-stacked-neon-blue-on-white-rgb.png",ช่อง EURO NEWS
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/82878
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://creativestories808.com/wp-content/uploads/2020/08/discovery-channel-logo.png?w=1024",ช่อง DISCOVERY CHANNEL
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=865523
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",ช่อง DISCOVERY SCIENCE
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=865529
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1200px-Discovery_History_logo.svg.png",ช่อง DISCOVERY HISTORY
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53877
 
@@ -1420,6 +1424,9 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53848
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305",ช่อง Now Sports 1
 http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=594627
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",ช่อง Now Sports Premier League 1
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=594611
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/06/86c9f7b8-4d9c-3eec-95e5-4940db5e25a4.png?bf=0&f=jpg&p=true&q=70&w=1920",ช่อง EUROSPORT 1
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53894
@@ -2241,385 +2248,385 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 状王宋世杰-第二部-张达明大战黄子华
-http://159.75.85.63:35455/huya/23734183
+https://live.metshop.top/huya/23734183
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 美猴王粤语版
-http://159.75.85.63:35455/huya/23734246
+https://live.metshop.top/huya/23734246
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 孙悟空唐三藏取西经
-http://159.75.85.63:35455/huya/23735126
+https://live.metshop.top/huya/23735126
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 楚汉骄雄
-http://159.75.85.63:35455/huya/23740156
+https://live.metshop.top/huya/23740156
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 普通司机小马的直播间
-http://159.75.85.63:35455/huya/23749096
+https://live.metshop.top/huya/23749096
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 射雕之九阴真经-姜大卫 张智霖
-http://159.75.85.63:35455/huya/23824164
+https://live.metshop.top/huya/23824164
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 法证先锋
-http://159.75.85.63:35455/huya/23829543
+https://live.metshop.top/huya/23829543
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 野蛮亲家血腥对线
-http://159.75.85.63:35455/huya/23863796
+https://live.metshop.top/huya/23863796
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 寻秦记 古天乐宣萱CP
-http://159.75.85.63:35455/huya/23864973
+https://live.metshop.top/huya/23864973
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 食为奴·王祖蓝万绮雯
-http://159.75.85.63:35455/huya/23865058
+https://live.metshop.top/huya/23865058
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 鹿鼎记 小春版韦小宝
-http://159.75.85.63:35455/huya/23865080
+https://live.metshop.top/huya/23865080
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 大头绿衣斗僵尸 钱小豪这能打
-http://159.75.85.63:35455/huya/23865152
+https://live.metshop.top/huya/23865152
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 大时代
-http://159.75.85.63:35455/huya/23865161
+https://live.metshop.top/huya/23865161
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 天龙八部 97版黄日华
-http://159.75.85.63:35455/huya/23903123
+https://live.metshop.top/huya/23903123
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 洗冤录 经典TVB·欧阳震华
-http://159.75.85.63:35455/huya/23903130
+https://live.metshop.top/huya/23903130
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 宠物情缘-古天乐与郑秀文
-http://159.75.85.63:35455/huya/23903183
+https://live.metshop.top/huya/23903183
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 扫黄先锋·欧阳震华
-http://159.75.85.63:35455/huya/23903196
+https://live.metshop.top/huya/23903196
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 虎牙八点档
-http://159.75.85.63:35455/huya/880261
+https://live.metshop.top/huya/880261
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 五福星系列
-http://159.75.85.63:35455/huya/11282233
+https://live.metshop.top/huya/11282233
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง [女神系列]邱淑贞 王祖贤 张曼玉
-http://159.75.85.63:35455/huya/11336571
+https://live.metshop.top/huya/11336571
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 周星星粤语经典版
-http://159.75.85.63:35455/huya/11336587
+https://live.metshop.top/huya/11336587
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 成龙
-http://159.75.85.63:35455/huya/11342386
+https://live.metshop.top/huya/11342386
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 周润发
-http://159.75.85.63:35455/huya/11342387
+https://live.metshop.top/huya/11342387
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 李连杰
-http://159.75.85.63:35455/huya/11342390
+https://live.metshop.top/huya/11342390
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 太极的传承
-http://159.75.85.63:35455/huya/11342397
+https://live.metshop.top/huya/11342397
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 周星驰
-http://159.75.85.63:35455/huya/11342412
+https://live.metshop.top/huya/11342412
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 林正英
-http://159.75.85.63:35455/huya/11342421
+https://live.metshop.top/huya/11342421
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 刘德华
-http://159.75.85.63:35455/huya/11342424
+https://live.metshop.top/huya/11342424
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黄渤-经典回顾
-http://159.75.85.63:35455/huya/11342429
+https://live.metshop.top/huya/11342429
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 甄子丹
-http://159.75.85.63:35455/huya/11352935
+https://live.metshop.top/huya/11352935
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 港产搞笑恐怖
-http://159.75.85.63:35455/huya/11601960
+https://live.metshop.top/huya/11601960
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 沈腾合集
-http://159.75.85.63:35455/huya/11601968
+https://live.metshop.top/huya/11601968
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 历年贺岁档
-http://159.75.85.63:35455/huya/11601986
+https://live.metshop.top/huya/11601986
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 电吉他少女在线翻弹
-http://159.75.85.63:35455/huya/21241765
+https://live.metshop.top/huya/21241765
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 街访Show-西哥来了
-http://159.75.85.63:35455/huya/10849208
+https://live.metshop.top/huya/10849208
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 徐良除暴安良替天行道
-http://159.75.85.63:35455/huya/10871113
+https://live.metshop.top/huya/10871113
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 陈翔六点半
-http://159.75.85.63:35455/huya/11274154
+https://live.metshop.top/huya/11274154
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 飞车电影
-http://159.75.85.63:35455/huya/11279247
+https://live.metshop.top/huya/11279247
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 卧底&警察的故事
-http://159.75.85.63:35455/huya/11279251
+https://live.metshop.top/huya/11279251
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 圣斗士李世民
-http://159.75.85.63:35455/huya/11336572
+https://live.metshop.top/huya/11336572
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 盗墓笔记少年篇
-http://159.75.85.63:35455/huya/11336578
+https://live.metshop.top/huya/11336578
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 上古神器轩辕剑
-http://159.75.85.63:35455/huya/11336579
+https://live.metshop.top/huya/11336579
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 愚人节一起笑破肚皮
-http://159.75.85.63:35455/huya/11336590
+https://live.metshop.top/huya/11336590
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黄金配角 | 达叔
-http://159.75.85.63:35455/huya/11336592
+https://live.metshop.top/huya/11336592
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 美ren制造!好片好剧
-http://159.75.85.63:35455/huya/11336593
+https://live.metshop.top/huya/11336593
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黑帮大片
-http://159.75.85.63:35455/huya/11336719
+https://live.metshop.top/huya/11336719
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง RM 刘在石李光洙跑男
-http://159.75.85.63:35455/huya/11336725
+https://live.metshop.top/huya/11336725
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 武林萌主唐小姐
-http://159.75.85.63:35455/huya/11336726
+https://live.metshop.top/huya/11336726
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 新水浒传-‪在‪下正‪是‪西公子
-http://159.75.85.63:35455/huya/11342384
+https://live.metshop.top/huya/11342384
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 草莽英雄变成抗日英雄
-http://159.75.85.63:35455/huya/11342388
+https://live.metshop.top/huya/11342388
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 冲冲冲!给老子上
-http://159.75.85.63:35455/huya/11342392
+https://live.metshop.top/huya/11342392
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 国产悬疑精选
-http://159.75.85.63:35455/huya/11342395
+https://live.metshop.top/huya/11342395
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 纪晓岚-岚宝珅宝的爱恨情仇
-http://159.75.85.63:35455/huya/11342396
+https://live.metshop.top/huya/11342396
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 一代枭雄为报父仇励精图治
-http://159.75.85.63:35455/huya/11342398
+https://live.metshop.top/huya/11342398
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 简小熙的直播间
-http://159.75.85.63:35455/huya/11342399
+https://live.metshop.top/huya/11342399
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 活佛济公
-http://159.75.85.63:35455/huya/11342400
+https://live.metshop.top/huya/11342400
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 搞笑的一家人
-http://159.75.85.63:35455/huya/11342402
+https://live.metshop.top/huya/11342402
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 倚天屠龙记·六大门派围攻光明顶
-http://159.75.85.63:35455/huya/11342403
+https://live.metshop.top/huya/11342403
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 陆贞传奇
-http://159.75.85.63:35455/huya/11342404
+https://live.metshop.top/huya/11342404
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 中华小当家
-http://159.75.85.63:35455/huya/11342413
+https://live.metshop.top/huya/11342413
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 玄幻剧场·体验另一种生活
-http://159.75.85.63:35455/huya/11342414
+https://live.metshop.top/huya/11342414
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 群雄逐鹿.窃符救赵
-http://159.75.85.63:35455/huya/11342415
+https://live.metshop.top/huya/11342415
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 姐妹搞笑都市生活
-http://159.75.85.63:35455/huya/11342417
+https://live.metshop.top/huya/11342417
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 康熙·民间私访
-http://159.75.85.63:35455/huya/11342418
+https://live.metshop.top/huya/11342418
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 黑帮斗争
-http://159.75.85.63:35455/huya/11342419
+https://live.metshop.top/huya/11342419
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 王艳的孙蝶真的好美
-http://159.75.85.63:35455/huya/11342420
+https://live.metshop.top/huya/11342420
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 吐槽·明星大咖自黑现场
-http://159.75.85.63:35455/huya/11342422
+https://live.metshop.top/huya/11342422
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 开心鬼系列
-http://159.75.85.63:35455/huya/11342423
+https://live.metshop.top/huya/11342423
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 神探狄仁杰
-http://159.75.85.63:35455/huya/11342425
+https://live.metshop.top/huya/11342425
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 邻li一家亲 满院白眼狼
-http://159.75.85.63:35455/huya/11342426
+https://live.metshop.top/huya/11342426
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง DC外国电影
-http://159.75.85.63:35455/huya/11342428
+https://live.metshop.top/huya/11342428
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 许三多军营成长史
-http://159.75.85.63:35455/huya/11342430
+https://live.metshop.top/huya/11342430
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 布衣结交天子古今一人
-http://159.75.85.63:35455/huya/11342432
+https://live.metshop.top/huya/11342432
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 热血学生保家卫国
-http://159.75.85.63:35455/huya/11342434
+https://live.metshop.top/huya/11342434
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 金庸的武侠世界
-http://159.75.85.63:35455/huya/11342435
+https://live.metshop.top/huya/11342435
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 没想到你是这样的猪
-http://159.75.85.63:35455/huya/11342436
+https://live.metshop.top/huya/11342436
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 雍正皇帝的风云一生
-http://159.75.85.63:35455/huya/11342439
+https://live.metshop.top/huya/11342439
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 胡八一胖子沙漠古城找鬼洞
-http://159.75.85.63:35455/huya/11352871
+https://live.metshop.top/huya/11352871
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 家有儿女 我叫夏冰雹
-http://159.75.85.63:35455/huya/11352872
+https://live.metshop.top/huya/11352872
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 龙门镖局
-http://159.75.85.63:35455/huya/11352874
+https://live.metshop.top/huya/11352874
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 宁浩导演-yoo守护TA
-http://159.75.85.63:35455/huya/11352876
+https://live.metshop.top/huya/11352876
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 合家欢喜剧
-http://159.75.85.63:35455/huya/11352877
+https://live.metshop.top/huya/11352877
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 经典港片-邻家少女
-http://159.75.85.63:35455/huya/11352878
+https://live.metshop.top/huya/11352878
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง [猫和老鼠]汤姆和杰瑞的故事
-http://159.75.85.63:35455/huya/11352879
+https://live.metshop.top/huya/11352879
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 我的宝贝baby
-http://159.75.85.63:35455/huya/11352880
+https://live.metshop.top/huya/11352880
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 萌新司机
-http://159.75.85.63:35455/huya/11352881
+https://live.metshop.top/huya/11352881
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 我们都爱笑卡通
-http://159.75.85.63:35455/huya/11352882
+https://live.metshop.top/huya/11352882
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 第十门
-http://159.75.85.63:35455/huya/11352883
+https://live.metshop.top/huya/11352883
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 韩国高分动作片
-http://159.75.85.63:35455/huya/11352884
+https://live.metshop.top/huya/11352884
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 卧底警匪片
-http://159.75.85.63:35455/huya/11352886
+https://live.metshop.top/huya/11352886
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 灾难大片-吞针主播
-http://159.75.85.63:35455/huya/11352887
+https://live.metshop.top/huya/11352887
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 头文字D·秋名山车神
-http://159.75.85.63:35455/huya/11352889
+https://live.metshop.top/huya/11352889
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 医馆笑传
-http://159.75.85.63:35455/huya/11352891
+https://live.metshop.top/huya/11352891
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 灵剑山·试炼开启
-http://159.75.85.63:35455/huya/11352896
+https://live.metshop.top/huya/11352896
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 抗日大片
-http://159.75.85.63:35455/huya/11352897
+https://live.metshop.top/huya/11352897
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 汉武大帝.七国之乱
-http://159.75.85.63:35455/huya/11352899
+https://live.metshop.top/huya/11352899
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 燃青春!热血男儿中国心
-http://159.75.85.63:35455/huya/11352905
+https://live.metshop.top/huya/11352905
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 荒漠中的枪神
-http://159.75.85.63:35455/huya/11352906
+https://live.metshop.top/huya/11352906
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 岳云鹏贾玲宋小宝!
-http://159.75.85.63:35455/huya/11352907
+https://live.metshop.top/huya/11352907
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 笑傲帮 顶尖笑匠再登舞台
-http://159.75.85.63:35455/huya/11352908
+https://live.metshop.top/huya/11352908
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 古墓系列
-http://159.75.85.63:35455/huya/11352913
+https://live.metshop.top/huya/11352913
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 极限挑战-双黄联手拆弹绝地求生
-http://159.75.85.63:35455/huya/11352914
+https://live.metshop.top/huya/11352914
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 孙红雷·硬汉电影
-http://159.75.85.63:35455/huya/11352917
+https://live.metshop.top/huya/11352917
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 海绵宝宝
-http://159.75.85.63:35455/huya/11352919
+https://live.metshop.top/huya/11352919
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 花开正元 孙俪民国上位记
-http://159.75.85.63:35455/huya/11352920
+https://live.metshop.top/huya/11352920
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 瞬间炸裂!超燃开场
-http://159.75.85.63:35455/huya/11352934
+https://live.metshop.top/huya/11352934
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 笑傲江湖 喜剧脱口秀
-http://159.75.85.63:35455/huya/11352937
+https://live.metshop.top/huya/11352937
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 刘小光·捧腹大笑
-http://159.75.85.63:35455/huya/11352938
+https://live.metshop.top/huya/11352938
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 康熙大帝的传奇一生
-http://159.75.85.63:35455/huya/11352940
+https://live.metshop.top/huya/11352940
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 中国功夫-经典大片
-http://159.75.85.63:35455/huya/11352941
+https://live.metshop.top/huya/11352941
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 新三国滚滚长江东逝水
-http://159.75.85.63:35455/huya/11352944
+https://live.metshop.top/huya/11352944
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 看完你也学不会系列
-http://159.75.85.63:35455/huya/11352945
+https://live.metshop.top/huya/11352945
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 成龍历险记·社会我阿福乌鸦坐飞机
-http://159.75.85.63:35455/huya/11352946
+https://live.metshop.top/huya/11352946
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 中‪国‪新‪相‪亲‪·大‪型‪男‪女‪口‪嗨‪现‪场
-http://159.75.85.63:35455/huya/11352947
+https://live.metshop.top/huya/11352947
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 邱淑贞太好看了吧
-http://159.75.85.63:35455/huya/11352949
+https://live.metshop.top/huya/11352949
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง VIP11
-http://159.75.85.63:35455/huya/11352950
+https://live.metshop.top/huya/11352950
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 龙门 贵妃拒绝跟皇上亲热
-http://159.75.85.63:35455/huya/11352953
+https://live.metshop.top/huya/11352953
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 大宅门
-http://159.75.85.63:35455/huya/11352956
+https://live.metshop.top/huya/11352956
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 神探狄仁杰
-http://159.75.85.63:35455/huya/11352958
+https://live.metshop.top/huya/11352958
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 庆余年
-http://159.75.85.63:35455/huya/11352960
+https://live.metshop.top/huya/11352960
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 80后脱口秀
-http://159.75.85.63:35455/huya/11352961
+https://live.metshop.top/huya/11352961
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 经典高智商犯罪片
-http://159.75.85.63:35455/huya/11352962
+https://live.metshop.top/huya/11352962
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 谍战系列
-http://159.75.85.63:35455/huya/11352963
+https://live.metshop.top/huya/11352963
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง [神貂侠侣]陈妍希小笼包版姑姑
-http://159.75.85.63:35455/huya/11352964
+https://live.metshop.top/huya/11352964
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 经典港剧笑嘻嘻
-http://159.75.85.63:35455/huya/11352965
+https://live.metshop.top/huya/11352965
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 如意菜头
-http://159.75.85.63:35455/huya/11352966
+https://live.metshop.top/huya/11352966
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 镖行天下 镖在人在
-http://159.75.85.63:35455/huya/11352969
+https://live.metshop.top/huya/11352969
 
 #EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง 车模现场-美女云集
 http://diyp.112114.xyz/douyu/10118209
