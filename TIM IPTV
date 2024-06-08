@@ -2850,36 +2850,62 @@ http://diyp.112114.xyz/douyu/3627728
 #EXTINF:-1 group-title="DOUYU" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",ช่อง [贝爷影厅]2号厅.欧美.日韩.国产
 http://diyp.112114.xyz/douyu/36337
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",ช่อง CCTV-1
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",ช่อง CCTV-1
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel91/index.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",ช่อง CCTV-2
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",ช่อง CCTV-2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",CCTV-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC33/index.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",ช่อง CCTV-3
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/2300.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CCTV5.png/revision/latest/scale-to-width-down/1547?cb=20230104110327&path-prefix=vi",ช่อง CCTV-5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/1300.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://cdn.startimestv.com/static/files/console/127f663c-3a8d-4644-8b73-03bc2a55a9a6.png?l=320",ช่อง CCTV-5+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",ช่อง CCTV-5
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",ช่อง CCTV-6
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",ช่อง CCTV-5+
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",ช่อง CCTV-8
-https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",ช่อง CCTV-6
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel6/2300.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg",ช่อง CCTV-9
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",ช่อง CCTV-7
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel7/1300.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg",ช่อง CCTV-13
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",ช่อง CCTV-8
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel8/2300.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",ช่อง CCTV-9
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel9/1300.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",ช่อง CCTV-10
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel10/2300.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",ช่อง CCTV-11
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel41/1300.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",ช่อง CCTV-12
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel11/1300.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",ช่อง CCTV-13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",ช่อง CCTV-14
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/1300.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",ช่อง CCTV-15
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/1300.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg",ช่อง CCTV-16
 https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",ช่อง CCTV-17
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel90/2300.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",ช่อง CCTV-4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="http://tv.haoqu99.com/d/file/2016/1112/374a57994e7103ce8ef306c4d5238f23.jpg",ช่อง 安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
