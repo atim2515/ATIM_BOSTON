@@ -817,7 +817,7 @@ https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",ช่อง HBO
-http://wayforward.xyz/EH33LcVqVgZH/PNC8CQcHxtPu/53384
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53384
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",ช่อง HBO SIGNATURE
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/56293
@@ -2982,6 +2982,33 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",ช่อง My Kidz
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",ช่อง CinemaWorld
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683146
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",ช่อง Cinemachi Action
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683090
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",ช่อง Cinemachi Kids
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683085
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_404.png",ช่อง Cinemachi MAX
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683173
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNKoZC9y-19yXdtMmci46swS_Z8HH1lz_pxw&s",ช่อง Cinemachi Xtra
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683161
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg",ช่อง Lifetime
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683129
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",ช่อง HITS
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683145
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",ช่อง HITS Movies
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683163
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",ช่อง Thrill
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683154
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/51228a21277171.562fe7a2cca71.jpg",ช่อง CELESTIAL MOVIES
 http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 
@@ -2996,6 +3023,12 @@ http://210.210.155.35/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1693576055737487360/7rbADPvJ_400x400.jpg",ช่อง CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",ช่อง CNA
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683185
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",ช่อง CNBC
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=683186
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
