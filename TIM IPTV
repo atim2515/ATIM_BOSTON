@@ -3101,20 +3101,17 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png",ช่อง RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic HD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=153503
+
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",ช่อง TVB Jade
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=153505
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He HD
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=153506
 
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic HD
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=153503
-
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png",ช่อง Astro Premier
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=571245
-
-#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ช่อง Astro SuperSport HD
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=1016544
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ช่อง Astro SuperSport 2 HD
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=571248
@@ -3127,6 +3124,18 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&s
 
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",ช่อง W-Sport
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=918982
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",ช่อง beIN Sports HD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=941569
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",ช่อง beIN Sports 2
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=941568
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",ช่อง beIN Sports 3
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=941567
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",ช่อง Premier Sports
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:EE:05:1A&extension=ts&stream=571253
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg",ช่อง SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
@@ -3432,7 +3441,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-xTrEMG7_hmPuPMFzHDdmHv8ETQinEJV_HwdFGC0wSm7lA6GYTXbOlURUQ91BkeSsQ&usqp=CAU",ช่อง SCTV21
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SCTV_logo_%28Vietnam%29.svg/1280px-SCTV_logo_%28Vietnam%29.svg.png",ช่อง SCTV21
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
 
