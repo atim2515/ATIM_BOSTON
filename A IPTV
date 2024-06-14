@@ -1,6 +1,9 @@
 #EXTM3U
  
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/6BYIsYL2sWhmBVZtJGYfSnCXly2B2_EsGgegdtBSskzOf1rKwV1Qy7HuHAqCSf-qtMg",ช่อง Pattaya People TV
+https://spleeny-bridges.000webhostapp.com/channel/life.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/6BYIsYL2sWhmBVZtJGYfSnCXly2B2_EsGgegdtBSskzOf1rKwV1Qy7HuHAqCSf-qtMg",ช่อง Pattaya People TV
 http://s1.thailandstreaming.net:1935/live/ppmg/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/oB-wyEZX0pXoCYN3UrNmbI9LA6BFjgHj3AJkzrVQpXF2Jf8KPV8q4TXy3FXz8sEjHV2KzNKoF9w=s900-c-k-c0x00ffffff-no-rj",ช่อง ไทยไท แชนเนล
@@ -23,7 +26,7 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/04/26/a02f0700-c543-11ec-afb7-6b3c35cde20d_webp_320.png",ช่อง True X-Zyte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=th-kmtv&api_key=xjA7kf1WXmzK|Referer=https://playerembed-lb.blackboxsys.net/player.php
+https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=th-kmtv&api_key=xjA7kf1WXmzK
 
 #EXTINF:-1 tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK総合 東京 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
