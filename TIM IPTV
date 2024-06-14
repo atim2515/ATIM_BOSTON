@@ -2983,19 +2983,31 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/51228a21277171.562fe7a2cca71.jpg",ช่อง CELESTIAL MOVIES
-http://210.210.155.35:80/dr9445/h/h14/01.m3u8
+http://210.210.155.35/uq2663/h/h14/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/CCM_Celestial_Classic_Movies.jpg/revision/latest?cb=20120620033034",ช่อง CELESTIAL CLASIC MOVIES
 http://210.210.155.35:80/uq2663/h/h239/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2560px-KIX_logo.svg.png",ช่อง KIX
-http://210.210.155.37/dr9445/h/h07/01.m3u8
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",ช่อง ROCK Entertainment
+http://210.210.155.35/uq2663/h/h16/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/15/f3c87ce0-3b4c-11ee-9a2b-95fa44b28696_webp_original.webp",ช่อง ROCK Action
+http://210.210.155.35/uq2663/h/h15/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2048px-NHK_World.svg.png",ช่อง NHK WORLD
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png",ช่อง tvN
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg",ช่อง tvN Movies
+http://210.210.155.35/uq2663/h/h21/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1693576055737487360/7rbADPvJ_400x400.jpg",ช่อง CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",ช่อง CNA
+http://210.210.155.35/uq2663/h/h29/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -3003,11 +3015,11 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://crema.tv/wp-content/uploads/2022/04/cremaTV-Logo-square-768x768.jpg",ช่อง Crema.tv
-http://210.210.155.35/uq2663/h/h228/index.m3u8
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TV5Monde_Style_2023.svg/revision/latest/scale-to-width-down/250?cb=20231101032935",ช่อง TV5MONDE Style
+http://210.210.155.35/uq2663/h/h121/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest/scale-to-width-down/600?cb=20191026180443",ช่อง FIGHT SPORTS
-http://210.210.155.35:80/dr9445/h/h05/01.m3u8
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline-900x653.png",ช่อง W-sport
+http://210.210.155.35/uq2663/h/h26/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://radioink.com/wp-content/uploads/2023/10/Motor-Racing-Network.jpeg",ช่อง MotoRRacing TV
 http://210.210.155.35:80/uq2663/h/h123/live.m3u8
