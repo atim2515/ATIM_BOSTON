@@ -972,6 +972,9 @@ http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:a4:52:10&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",ช่อง AMC
 http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/1083/index.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US043HALLMARK.png",ช่อง Hallmark Channel
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3125
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png",ช่อง BBC AMERICA
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53428
 
@@ -981,8 +984,20 @@ https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",ช่อง TLC
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53316
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BET-2021Logo.svg/800px-BET-2021Logo.svg.png",ช่อง BET
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3158
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png",ช่อง Bravo
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3157
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US040Freeform.png",ช่อง Freeform
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3128
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",ช่อง A&E
 http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/6419/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png",ช่อง Comedy Central
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3146
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ช่อง ABC
 http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/1087/index.m3u8
@@ -1025,6 +1040,9 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/184402
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",ช่อง CNBC
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53418
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2021/07/08/08f7d9a8-3d70-4655-ac3c-559caf5a7adb/cbsnews-blue.png",ช่อง CBS News
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/3151
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png",ช่อง FOX NEWS CHANNEL
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53391
@@ -3000,8 +3018,8 @@ https://stream.freetv.fun/ad5c341f587aee798aa0c85be60939213bf54be7d4ca5a450b62dd
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg",ช่อง HITS Movies
 https://stream.freetv.fun/84e3fc5a9fc8c7941454f059d53ec34108ca9b7a561659ceb12922f6179393d1.ctv
 
-#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010900183106_94.jpg",ช่อง HITS
-https://stream.freetv.fun/757a99e648e00a46cdc037af83d11474a87de30aec4ee27fab74943d96af31fd.ctv
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://motorvision.tv/wp-content/uploads/2021/09/Motorvision-App.jpg",ช่อง Motorvision TV
+https://stream.freetv.fun/97d53af6dfe12b5d2b3e075058569d2df52e26809e3b3bef7223b34b4db4a068.ctv
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://media.licdn.com/dms/image/C560BAQHgyjlFvVmBZw/company-logo_200_200/0/1631307445018?e=2147483647&v=beta&t=TPcVbFc4xLxcQa3vO17Nr6veuwgWdwQz6wlb6m7_MiE",ช่อง Cooking Channel
 https://stream.freetv.fun/fabd25a417d3996f563d8be9ae8be7d5274b65561cd18308b168de4503aeba75.ctv
