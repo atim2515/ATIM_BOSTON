@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",ช่อง 5
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",ช่อง 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
 
@@ -62,7 +62,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u/index.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-60714.png",ช่อง CH8
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/5408a390-5377-11ee-8e1b-194edbb69638_webp_original.webp",ช่อง CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
@@ -82,6 +82,9 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/6BYIsYL2sWhmBVZtJGYfSnCXly2B2_EsGgegdtBSskzOf1rKwV1Qy7HuHAqCSf-qtMg",ช่อง Pattaya People TV
+http://s1.thailandstreaming.net:1935/live/ppmg/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/57e474db-0dce-4fdc-93d8-bc2b57d3a685.png",ช่อง สุวรรณภูมิ
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
@@ -246,6 +249,12 @@ https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่อง มังกร
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg",ช่อง THRILL
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:7d:2b:a1&extension=ts&stream=731796
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",ช่อง BOO HD
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/1697
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.postimg.cc/43j6pf41/Fwmovie.jpg",ช่อง FW Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
@@ -3158,6 +3167,12 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:7d:2b:a1&extension=ts&s
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/MediaCorp_Channel_U_logo.jpg/revision/latest/scale-to-width-down/250?cb=20101105110017",ช่อง CH U
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:7d:2b:a1&extension=ts&stream=941617
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978259/mediacorp/corporate/inline-images/suria__370x180.jpg",ช่อง Suria
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/1700
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978309/mediacorp/corporate/inline-images/vasantham__370x180.jpg",ช่อง Vasantham
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/1699
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://play-lh.googleusercontent.com/pvoIUgtbvS3XuxLTDkDOghF59twl66Vx-aalb74yOTKYLz3t17y7MJFtbwTfV0itWA",ช่อง LIVE 1
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:7d:2b:a1&extension=ts&stream=941678
