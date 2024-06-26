@@ -313,6 +313,12 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",ช่อง THAI NEWS
+https://live.thaitvstream.com/play/thaikaona/index.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",ช่อง PTV
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://png.pngtree.com/png-vector/20231115/ourmid/pngtree-bangkok-destinations-rubber-sticker-png-image_10577085.png",ช่อง บางกอก CHANNEL
 https://live2.thaitvstream.com/play/gochannel/index.m3u8
 
@@ -4303,20 +4309,20 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&s
 #EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง Aljazeera
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=683190
 
-#EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง CGTN Documentary
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=683111
-
-#EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง CNBC
+#EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง CNBC Indonesia
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=683186
 
-#EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง Dreamwork
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=683171
+#EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง France24
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=683191
 
-#EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง DW
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=683192
+#EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง NHK
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=683183
 
-#EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง Fox News
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=683179
+#EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง ANIMAX
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=731865
+
+#EXTINF:-1 group-title="line.premiumpowers.net" tvg-logo="https://img1.wsimg.com/isteam/ip/e3158209-3406-4f86-bfbc-05da0da6c977/blob.png/:/rs=h:192,cg:true,m/qt=q:95",ช่อง ARIRANG
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=926203
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://i.imgur.com/hD3wGq3.png",ช่อง TNN16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
