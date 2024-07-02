@@ -999,9 +999,6 @@ http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/HDNET_Movies_Logo.png",ช่อง HDNET MOVIES
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:a4:52:10&extension=ts&stream=824737
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2VQT7rY5PB4amYu-FcY9cTfZD4qxbRlTFw&s",ช่อง The Film Detective
-https://filmdetective-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/master.m3u8
-
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",ช่อง AMC
 http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/1083/index.m3u8
 
@@ -1040,15 +1037,6 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://logos-world.net/wp-content/uploads/2022/04/Crackle-Symbol.png",ช่อง Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://bloody-disgusting.com/wp-content/uploads/2014/04/bdselectslogohires031011.jpg",ช่อง Bloody Disgusting
-https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://images.squarespace-cdn.com/content/62207966b1c4ae746e7d8419/c9dc45bb-c230-4d2f-aaf1-938154c3a09f/horrify+copy+2.png?content-type=image%2Fpng",ช่อง Horrify
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvXETmpRnhdL9_XwjkG-dNV-sasn5wGLeLg&s",ช่อง Buzzr
-https://buzzr-roku-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.ggpht.com/FXLtXovi3kRM30XtAfAMcNNDcoWsFtXrm3h6vzXvaWLPE0jCbj9q2CbHljnKUoJzJdzGGrFtXZs=s900-c-k-c0x00ffffff-no-rj",ช่อง Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
@@ -1239,14 +1227,17 @@ http://480685701592860387.otjb0606.xyz:80/live/he48794/Qy84xfgE9PM/860387.ts
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://lawandcrime.com/wp-content/uploads/2020/12/lawandcrime-defult-social.jpg",ช่อง Law & Crime
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=91861
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://seeklogo.com/images/B/buzzr-tv-logo-7FBC8686FA-seeklogo.com.png",ช่อง Buzzr
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Symbol.png",ช่อง FOOD NETWORK
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=45577
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://media.licdn.com/dms/image/C560BAQHgyjlFvVmBZw/company-logo_200_200/0/1631307445018?e=2147483647&v=beta&t=TPcVbFc4xLxcQa3vO17Nr6veuwgWdwQz6wlb6m7_MiE",ช่อง Cooking Channel
 http://480685701592724747.otjb0606.xyz:80/live/he48794/Qy84xfgE9PM/724747.ts
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://cdn.dribbble.com/users/1260346/screenshots/5547414/tastemade_logo_1600.png",ช่อง Tastemade
-https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/ed6f9581682cd7725484b6eaa58eed84c0bd908baee4df5cbc0bbe69f886a53a.png",ช่อง bon appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/800px-Magnolia_Network.svg.png",ช่อง Magnolia Network
 http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/6488/index.m3u8
