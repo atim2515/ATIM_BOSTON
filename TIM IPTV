@@ -3294,6 +3294,18 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://play-lh.googleusercontent.com/OKHS6EcJx8XhrQZ1leZxAH9fbGX6ug_fRyHI4bT5v0W1eo6Or2FudDaDruI_-cCsaFE",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/09/03/large/20220903145524161520_92.jpg",ช่อง SCTV
+https://stream.freetv.fun/1c8df564d969a605d8013bb286c7f3eb00015416d67b3cf0776eab4b92f64147.ctv
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173857976881_92.png",ช่อง tvri nasional
+https://stream.freetv.fun/c650b0c9bda09bc3cd7380f929bb5a1f623d4bf0a008136896482c1ae0c70f2c.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173857976881_92.png",ช่อง tvri jakarta
+https://stream.freetv.fun/e7791f7487a20dbc88ffc6740c1c1dee4c781a771c998e4d34a7615ddc1896d1.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173857976881_92.png",ช่อง tvri yogyakarta
+https://stream.freetv.fun/bc75766fe6dc027871a01aaad1ae79e4f7a58bae2f1d52a892ece64be7d4346f.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png",ช่อง TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
@@ -3306,8 +3318,14 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/200px-BTV_%28Indonesia%29_logo.svg.png",ช่อง BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/cca77230e396b443174a014efe4acb6f.jpg",ช่อง METRO TV
+https://stream.freetv.fun/7dfe7a6d8b1b36376c919482772ebbf5e94ff5089100602617c3d118004038fd.m3u8
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",ช่อง METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRGHsUTzSoNy2EDowWYXiDBULWkPA4-TuQgQ&s",ช่อง Padang TV
+https://stream.freetv.fun/e527b98e316765d91442e7f9db5ef465f498699063e878586bfae9230b2f01dd.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.ytimg.com/vi/SuiXn6MjLlc/maxresdefault.jpg",ช่อง Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
@@ -3629,8 +3647,11 @@ http://newlife3.wanicelife.com:8880/6mmk170005/92179118/71108
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",ช่อง Astro Cricket HD
 http://newlife3.wanicelife.com:8880/6mmk170005/92179118/71109
 
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://assets.myx.global/wp-content/uploads/2022/11/myxBanner_1080x1080_New.jpg",ช่อง MYX
-https://stream.freetv.fun/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.ctv
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022331272861_32.png",ช่อง GMA Pinoy Tv
+https://stream.freetv.fun/cc62fab4771426163a9fb1afb1c49690cba77a122693d839a1b9ba1b8ef6253c.ctv
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://epg.pw/media/images/channel/2024/03/25/large/20240325000042898868_30.jpg",ช่อง GMA News TV
+https://stream.freetv.fun/6ad7bc0a71961576259d17fa2d7604b2ae6f4503f120dcdd02ed5cc3466132ef.ctv
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg",ช่อง SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
@@ -3640,6 +3661,9 @@ http://45.32.115.103/live/livestream/index.m3u8
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png",ช่อง CCTN
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://assets.myx.global/wp-content/uploads/2022/11/myxBanner_1080x1080_New.jpg",ช่อง MYX
+https://stream.freetv.fun/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.ctv
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",ช่อง Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
