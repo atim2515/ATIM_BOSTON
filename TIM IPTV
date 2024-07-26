@@ -2666,14 +2666,17 @@ https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 10-Samsung TV Plus 10
 https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jsnzm21r7lwrj-prod/Channel_MBC_10.m3u8?ads.device_did=%7BPSID
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=153505
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade
+http://metatvpro.xyz:25461/W1045/4329/12205
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540",ช่อง TVB Pearl
+http://metatvpro.xyz:25461/W1045/4329/12207
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvbyule.jpg",ช่อง TVB Entertainment News
 http://newlife3.wanicelife.com:8880/6mmk170005/92179118/1714
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=153506
+http://metatvpro.xyz:25461/W1045/4329/12206
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=153503
@@ -2690,8 +2693,23 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&s
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0c51dVeiLZTKxOSj2dnu-3phnfljyb5MoA&s",ช่อง TVB Drama
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=153400
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcl6XDMUGvTjbt410qmPhFScUZDgfdrTahA&s",ช่อง TVB
+http://metatvpro.xyz:25461/W1045/4329/12209
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Asian_Action_Channel.png/revision/latest?cb=20190203084737",ช่อง Asian Action Channel
+http://metatvpro.xyz:25461/W1045/4329/12211
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeesgB28ZzTqVvfFSjKrmlnQquv1EDEUva8JGUn1sn&s",ช่อง TVB News
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=153399
+http://metatvpro.xyz:25461/W1045/4329/12210
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBKyXu7t6dNiUpGDIEwT_khAVMawjqPtjRQ&s",ช่อง HOY TV
+http://metatvpro.xyz:25461/W1045/4329/12205
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTin_BIbceXDQu8eeg6SkGwnvhkx0NuJz9Lgg&s",ช่อง VIU TV
+http://metatvpro.xyz:25461/W1045/4329/12221
+ 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbk2uetCzcYFZnqxGuyv5cvnt5ksFSgOEgZA&s",ช่อง VIU TV 6
+http://metatvpro.xyz:25461/W1045/4329/12222
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.fairchildtv.com/english/images/schedule_logo1.png",ช่อง FTV1
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=90351
@@ -2704,6 +2722,12 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&s
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",ช่อง Phoenix InfoNews Channel
 http://php.17186.eu.org/phtv/fhzx.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebUNRGq3rh_9gKjjUNmN5p6xT-20VTFJAHw&s",ช่อง 凤凰中文
+http://metatvpro.xyz:25461/W1045/4329/61
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebUNRGq3rh_9gKjjUNmN5p6xT-20VTFJAHw&s",ช่อง 凤凰香港台
+http://metatvpro.xyz:25461/W1045/4329/12212
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
 https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w183583389.m3u8
@@ -2727,11 +2751,11 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w183583394.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4d/RTHK_33.png/revision/latest/scale-to-width-down/1000?cb=20230403055906&path-prefix=vi",ช่อง RTHK 33
-http://bziyunshao.synology.me:8892/bysid/33
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/RTHK_34.png/revision/latest/scale-to-width-down/1000?cb=20230403055909&path-prefix=vi",ช่อง RTHK 34
-http://bziyunshao.synology.me:8892/bysid/34
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/RTHK_TV_31_2020.svg/revision/latest/scale-to-width-down/260?cb=20200511232851",ช่อง RTHK 31
+http://metatvpro.xyz:25461/W1045/4329/12217
+ 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/RTHK_TV_32.svg/revision/latest/scale-to-width-down/260?cb=20200511233323",ช่อง RTHK 32
+http://metatvpro.xyz:25461/W1045/4329/12218
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://breadradioonline.com/images/tv-01.jpg",ช่อง 面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
