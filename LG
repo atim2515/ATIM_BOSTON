@@ -3156,3 +3156,45 @@ https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/7DqAhMKgcr.jpeg",ช่อง Cat Radio
 http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w1543475410.m3u8
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/yevk8f78cyqr.png",ช่อง FLEX 102.5 FM
+https://streaming.flexconnect.net/voiceflex/voiceflex/chunklist_w350994315.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/0a01b40d-6206-49dd-85f4-06d89f5f2065?ops=fit(960%2C960)%2Cresize(0%2C390)",ช่อง iHeart 80s
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982?ops=fit(480%2C480)",ช่อง iHeart 90s
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8",ช่อง iHeart Radio Christmas
+http://stream.revma.ihrhls.com/zc4596/hls.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/26c7d6fa-1003-4ccc-967c-c6bb3b7949b4",ช่อง iHeart Radio Christmas Jazz
+https://stream.revma.ihrhls.com/zc7251/hls.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/6afae4be-9a66-453d-96c0-c94def7b97e9?ops=fit(480%2C480)",ช่อง iHeart Radio Christmas R&B
+https://stream.revma.ihrhls.com/zc6136/hls.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
+http://stream.revma.ihrhls.com/zc6410/hls.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/c001b08b-93e3-48d8-9134-acf64369131a",ช่อง iHeart Radio North Pole Radio
+http://stream.revma.ihrhls.com/zc6734/hls.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第一台
+http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第二台
+http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第三台
+http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第四台
+http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第五台
+http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 普通話台
+http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
