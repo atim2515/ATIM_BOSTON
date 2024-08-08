@@ -1195,12 +1195,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf9
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",ช่อง VEVO '90s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/originals/44/5f/50/445f50adcf926040fc2d9d39c0c671e0.jpg",ช่อง iHeart 80s
-https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982",ช่อง iHeart 90s
-https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg",ช่อง FOX SPORTS 1
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53390
 
@@ -3159,12 +3153,6 @@ http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w1543475410.m3u8
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/yevk8f78cyqr.png",ช่อง FLEX 102.5 FM
 https://streaming.flexconnect.net/voiceflex/voiceflex/chunklist_w350994315.m3u8
-
-#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/0a01b40d-6206-49dd-85f4-06d89f5f2065?ops=fit(960%2C960)%2Cresize(0%2C390)",ช่อง iHeart 80s
-https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982?ops=fit(480%2C480)",ช่อง iHeart 90s
-https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8",ช่อง iHeart Radio Christmas
 http://stream.revma.ihrhls.com/zc4596/hls.m3u8
