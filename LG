@@ -62,7 +62,7 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 https://live.x2.co.th/live/13livetv-th.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
-https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1723168113&x_ark_path_prefix=%2F&x_ark_signature=kcLCZahgmjueSqDNdgu55Q
+https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1723375591&x_ark_path_prefix=%2F&x_ark_signature=8X-RpO2-yFObSyRrDZMQCA
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -164,7 +164,7 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 https://www.livedoomovies.com:4431/02_TRUE4U_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
-https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1723168113&x_ark_path_prefix=%2F&x_ark_signature=kcLCZahgmjueSqDNdgu55Q
+https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1723375591&x_ark_path_prefix=%2F&x_ark_signature=8X-RpO2-yFObSyRrDZMQCA
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://truevisions.co.th/static/07c607f1-f827-4ecc-8e85-fee084bc6821.png",ช่อง beIN Sports HD 1
 https://www.livedoomovies.com:4431/02_sport2_480p/chunklist.m3u8
@@ -392,6 +392,456 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stre
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Marvel_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694102537",ช่อง MARVEL 4
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924734
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/The-best-movie-logos-Your-guide-to-the-most-iconic-film-logos-of-all-time.png",ช่อง ALL TIME BEST 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924698
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/The-best-movie-logos-Your-guide-to-the-most-iconic-film-logos-of-all-time.png",ช่อง ALL TIME BEST 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924699
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/The-best-movie-logos-Your-guide-to-the-most-iconic-film-logos-of-all-time.png",ช่อง ALL TIME BEST 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924700
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924735
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924736
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924737
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924738
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 5
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924739
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",ช่อง NETFLIX 6
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924740
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",ช่อง SHOWTIME 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924741
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",ช่อง SHOWTIME 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924742
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",ช่อง SHOWTIME 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924743
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",ช่อง SHOWTIME 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924744
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",ช่อง SHOWTIME 5
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924745
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",ช่อง SHOWTIME 6
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924746
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",ช่อง SHOWTIME 7
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924747
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png",ช่อง SHOWTIME 8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924748
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924692
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924693
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924694
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924695
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 5
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924696
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/box-office.jpg",ช่อง BOX OFFICE 2022 6
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924697
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924705
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924706
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924707
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924708
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 5
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924709
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 6
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924710
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",ช่อง HBO MAX 7
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924711
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL INFO HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095497
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095496
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095495
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 3 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095494
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 4 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095493
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 5 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095492
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 6 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095491
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 7 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095490
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 8 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095489
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 9 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095488
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 10 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095487
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 11 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095486
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 12 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095485
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 13 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095484
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 14 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095483
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 15 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095482
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 16 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095481
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static.wikia.nocookie.net/b0ad7e02-4aad-49de-83b3-c9117a720e12/scale-to-width/755",ช่อง HBO MAX ORIGINAL 17 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095480
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924712
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924713
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924714
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924715
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 5
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924716
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 6
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924717
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://variety.com/wp-content/uploads/2014/03/hulu-logo.jpg?w=1000",ช่อง HULU 7
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924718
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL INFO
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095725
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095724
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095723
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095722
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095721
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL 5
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095720
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL 6
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095719
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL 7
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095718
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL 8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095717
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL 9
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095716
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.pinimg.com/originals/88/16/b4/8816b48243f00b8e6ef91f7ca8a40b98.jpg",ช่อง STARZ ORIGINAL 10
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1095715
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD PREMIERE 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438487
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD PREMIERE 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438486
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD PREMIERE 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438485
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD PREMIERE 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438484
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD PREMIERE 5
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438483
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD PREMIERE 6
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438482
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD PREMIERE 7
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438481
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD PREMIERE 8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438480
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD PREMIERE 9
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438479
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD PREMIERE 10
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438478
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438477
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438476
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438475
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438474
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 5
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438473
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 6
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438472
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 7
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438471
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438470
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 9
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438469
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 10
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438468
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 11
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438467
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 12
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438466
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 13
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438465
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 14
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438464
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 15
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438463
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 16
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438462
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 17
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438461
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 18
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438460
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 19
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438459
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 20
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438458
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 21
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438457
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 22
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438456
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 23
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438455
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 24
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438454
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 25
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438453
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 26
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438452
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 27
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438451
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 28
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438450
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 29
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438449
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 30
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438448
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 31
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438447
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 32
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438446
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 33
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438445
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 34
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438444
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 35
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438443
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 36
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438442
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 37
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438441
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 38
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438440
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 39
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438439
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 40
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438438
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 41
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438437
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 42
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438436
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 43
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438435
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 44
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438434
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 45
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438433
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 46
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438432
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 47
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438431
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 48
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438430
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 49
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438429
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 50
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438428
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES INFO
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337329
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ PREMIERE 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337328
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ PREMIERE 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337327
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337326
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337317
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 3 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337324
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 4 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337323
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 5 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337322
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 6 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337321
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 7 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337320
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 8 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337319
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 9 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337318
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://store-images.s-microsoft.com/image/apps.29046.14495311847124170.206992ba-abd1-4b2e-809c-d4bb3137de45.d1dee63c-b89e-4e43-9669-001800a5454f",ช่อง DISNEY+ SERIES 10 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337325
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL INFO
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337315
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337314
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337313
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337312
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337311
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL 5
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337310
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL 6
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337309
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL 7
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337308
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL 8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337307
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL 9
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337306
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2018/11/National-Geographic-Logo-1024x462.png",ช่อง NATGEO+ ORIGINAL 10
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1337305
 
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQQVpl3gWcBPD8nN7bq6HMdA92PfRq4DXoVR3DCHQ=s900-c-k-c0x00ffffff-no-rj",ช่อง The Young Turks
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
@@ -685,7 +1135,7 @@ https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
-https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1723168113&x_ark_path_prefix=%2F&x_ark_signature=kcLCZahgmjueSqDNdgu55Q
+https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1723375591&x_ark_path_prefix=%2F&x_ark_signature=8X-RpO2-yFObSyRrDZMQCA
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://hilight.kapook.com/img_cms2/user/pichaya/2023/1/08/jkn03.jpg",ช่อง JKN18
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
@@ -1968,6 +2418,33 @@ https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade
 http://metatvpro.xyz:25461/W1045/4329/12205
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
+http://php.jdshipin.com:8880/smt.php?id=Wlt
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
+https://www.livedoomovies.com:4431/02_AMARINHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
+https://www.livedoomovies.com:4431/02_THAIRATH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
+https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
+https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
+https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
+https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
+https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540",ช่อง TVB Pearl
 http://metatvpro.xyz:25461/W1045/4329/12207
