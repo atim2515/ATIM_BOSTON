@@ -270,14 +270,20 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png",ช่อง HBO HD
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",ช่อง Cinemax
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926158
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://trademarks.justia.com/media/image.php?serial=78319568",ช่อง SHOWTIME HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45503
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/ct_custom_page_f_primary_image/AXN_LOGO-620x348.jpg",ช่อง AXN
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571222
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",ช่อง HITS MOVIES
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571200
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png",ช่อง Thrill
+http://lzoq.serv00.net/daili/Smartv.php?id=Thrill
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",ช่อง Pluto TV 70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -2221,47 +2227,11 @@ https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 10-Samsung TV Plus 10
 https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jsnzm21r7lwrj-prod/Channel_MBC_10.m3u8?ads.device_did=%7BPSID
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade
-http://metatvpro.xyz:25461/W1045/4329/12205
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540",ช่อง TVB Pearl
-http://metatvpro.xyz:25461/W1045/4329/12207
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://yt3.googleusercontent.com/hqxHwOOdEjqb9rD4lT8Q1cD8WEJUEuZQyzMqPl0AfuBx7TRK6igFqL_nvc_ABumk2ktYCF2n2qA=s900-c-k-c0x00ffffff-no-rj",ช่อง TVB PLUS
-http://metatvpro.xyz:25461/W1045/4329/12209
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He
-http://metatvpro.xyz:25461/W1045/4329/12206
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153506
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS718kj0sqWtPEeCzohNZgl1OPf2pWcU95iUw&s",ช่อง TVB Drama
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153400
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Asian_Action_Channel.png/revision/latest?cb=20190203084737",ช่อง Asian Action Channel
-http://metatvpro.xyz:25461/W1045/4329/12211
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeesgB28ZzTqVvfFSjKrmlnQquv1EDEUva8JGUn1sn&s",ช่อง TVB News
-http://metatvpro.xyz:25461/W1045/4329/12210
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTin_BIbceXDQu8eeg6SkGwnvhkx0NuJz9Lgg&s",ช่อง VIU TV
-http://metatvpro.xyz:25461/W1045/4329/12221
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbk2uetCzcYFZnqxGuyv5cvnt5ksFSgOEgZA&s",ช่อง VIU TV 6
-http://metatvpro.xyz:25461/W1045/4329/12222
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/RTHK_TV_31_2020.svg/revision/latest/scale-to-width-down/260?cb=20200511232851",ช่อง RTHK 31
-http://metatvpro.xyz:25461/W1045/4329/12217
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/RTHK_TV_32.svg/revision/latest/scale-to-width-down/260?cb=20200511233323",ช่อง RTHK 32
-http://metatvpro.xyz:25461/W1045/4329/12218
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebUNRGq3rh_9gKjjUNmN5p6xT-20VTFJAHw&s",ช่อง 凤凰中文
-http://metatvpro.xyz:25461/W1045/4329/61
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebUNRGq3rh_9gKjjUNmN5p6xT-20VTFJAHw&s",ช่อง 凤凰资讯
-http://metatvpro.xyz:25461/W1045/4329/62
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebUNRGq3rh_9gKjjUNmN5p6xT-20VTFJAHw&s",ช่อง 凤凰香港台
-http://metatvpro.xyz:25461/W1045/4329/12212
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
 https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w183583389.m3u8
