@@ -735,6 +735,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",ช่อง Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png",ช่อง BOOM ANIME
+https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",ช่อง Boomerang Thai
+https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://static.wikia.nocookie.net/kamenrider/images/3/37/TokuSHOUTsu_logo.png/revision/latest?cb=20200316163643",ช่อง TokuSHOUTsu
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
