@@ -82,7 +82,7 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://static.thaicom.io/chbig/big_14_20211217071952.png",ช่อง Nation TV
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/615/026/000/1418748190-nationtvne-o.jpg",ช่อง Nation TV
 https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
@@ -278,6 +278,15 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",ช่อง HBO FAMILY
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45550
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_logo.png/640px-HBO_Zone_logo.png",ช่อง HBO ZONE
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45546
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg",ช่อง HBO 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176913
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",ช่อง HBO 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45552
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",ช่อง Cinemax
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926158
@@ -720,6 +729,9 @@ https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist_Fuso_121120.m
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mtrmZJT1Ph8jHrmJimx2LqaGdQbzel3eT-sMQt=s900-c-k-c0x00ffffff-no-rj",ช่อง ไทไชโย
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/MTV_Classic_2013_logo.svg/1200px-MTV_Classic_2013_logo.svg.png",ช่อง MTV CLASSIC
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45266
+
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg",ช่อง VEVO '80s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -753,7 +765,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",ช่อง The Country Network
 https://d39uqn16w2n0w1.cloudfront.net/scte35/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://nzhistory.govt.nz/files/images/juice-tv-thumbnail.jpg",ช่อง Juice TV
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JKT0FN4ytE8IaGh6prBN-hrtLS9AQzFkVQ&s",ช่อง Juice TV
 https://juicex.nz/hls/mystream.m3u8
 
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://dbs.radioline.fr/pictures/radio_8adf1bc7e41bba74091ee074730fb68f/logo200.jpg?size=600",ช่อง Kronehit
@@ -975,7 +987,7 @@ https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://hilight.kapook.com/img_cms2/user/pichaya/2023/1/08/jkn03.jpg",ช่อง JKN18
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 group-title="NEWS CH" tvg-logo="https://static.thaicom.io/chbig/big_14_20211217071952.png",ช่อง Nation TV
+#EXTINF:-1 group-title="NEWS CH" tvg-logo="https://f.ptcdn.info/615/026/000/1418748190-nationtvne-o.jpg",ช่อง Nation TV
 https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
@@ -1064,10 +1076,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 #EXTINF:-1 group-title="LEARNING CH" tvg-logo="https://bit.ly/2LK7hpg",ช่อง ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="LEARNING CH" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png",ช่อง English club
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
 
 #EXTINF:-1 group-title="LEARNING CH" tvg-logo="https://image.roku.com/developer_channels/prod/110b229663a135a0abf87413c41f22f1f12c8cef7c1fc752e4fb572d71476693.png",ช่อง STIRR The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
@@ -2798,13 +2806,22 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://livear.cgtn.com/1000a/prog_index.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",ช่อง CHANNEL NEWS ASIA
-http://metatvpro.xyz:25461/W1045/4329/96
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571251
 
-#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/800px-Mediacorp_Channel_8_2023.svg.png",ช่อง CH 8
-http://metatvpro.xyz:25461/W1045/4329/94
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",ช่อง Ch 5
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941615
 
-#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/MediaCorp_Channel_U_logo.jpg/revision/latest/scale-to-width-down/250?cb=20101105110017",ช่อง CH U
-http://metatvpro.xyz:25461/W1045/4329/95
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/220px-Mediacorp_Channel_8_2023.svg.png",ช่อง Ch 8
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941616
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/200px-Mediacorp_Channel_U_2023.svg.png",ช่อง Ch U
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941617
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://play-lh.googleusercontent.com/pvoIUgtbvS3XuxLTDkDOghF59twl66Vx-aalb74yOTKYLz3t17y7MJFtbwTfV0itWA",ช่อง LIVE 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941678
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://play-lh.googleusercontent.com/pvoIUgtbvS3XuxLTDkDOghF59twl66Vx-aalb74yOTKYLz3t17y7MJFtbwTfV0itWA",ช่อง LIVE 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941679
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
