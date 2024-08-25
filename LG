@@ -73,6 +73,9 @@ https://livestream.parliament.go.th/lives/chunklist_w936810286.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png",ช่อง มวลชน ทีวี
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/57e474db-0dce-4fdc-93d8-bc2b57d3a685.png",ช่อง สุวรรณภูมิ
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
@@ -264,9 +267,6 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",ช่อง SIAM NEWS
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png",ช่อง มวลชน ทีวี
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
 
@@ -297,7 +297,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0006/6506/brand.gif?itok=b3xVkx7k",ช่อง CINEMAX MORE MAX
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45596
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png",ช่อง CINEMAX THRILLER MAX
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png",ช่อง CINEMAX THRILLER MAX
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45595
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://trademarks.justia.com/media/image.php?serial=78319568",ช่อง SHOWTIME HD
@@ -684,6 +684,9 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stre
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 50
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438428
 
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://yt3.googleusercontent.com/u1b9mnkN2hSAZGQ0MklWLXftoGeEnxWeYnW-y7__llSNfQftKoMSwr7-bXUDLv1doNmEyvP0=s900-c-k-c0x00ffffff-no-rj",ช่อง E! ENTERTAINMENT
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45584
+
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQQVpl3gWcBPD8nN7bq6HMdA92PfRq4DXoVR3DCHQ=s900-c-k-c0x00ffffff-no-rj",ช่อง The Young Turks
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
@@ -1055,6 +1058,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://i.pinimg.com/originals/08/14/3f/08143f803bf851ad3386e7238e3b7e0e.jpg",ช่อง Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 group-title="NEWS CH" tvg-logo="https://static.dw.com/image/69105246_605.jpg",ช่อง DW NEWS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=992267
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/ABC_Newslogo.svg/revision/latest/scale-to-width-down/250?cb=20200716221007",ช่อง ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
