@@ -2100,6 +2100,18 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png",ช่อง NHK WORLD JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/profile_images/781790577390039040/5-Umq3Kb_400x400.jpg",ช่อง NHK World News (French Subs)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/profile_images/781790577390039040/5-Umq3Kb_400x400.jpg",ช่อง NHK World News (Portuguese Subs)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/profile_images/781790577390039040/5-Umq3Kb_400x400.jpg",ช่อง NHK World News (Spanish Subs)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://whc.unesco.org/uploads/thumbs/organization_326-364--20200818182512.jpg",ช่อง NHK Kishou Saigai
+https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.crwflags.com/fotw/images/j/jp$nhk2.gif",ช่อง NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
@@ -2160,6 +2172,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/250px-Tvk_logo.svg.png",ช่อง TVK
+http://r3jx.djtmewibu.com/tvk/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png",ช่อง TSS
+http://r3jx.djtmewibu.com/tss/index.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7cyWxyUUfn8XAeTVL6iYTXSqKR2mXsdNU14e33svP9FRPPGCCKG4RZtP2SstET37aQo&usqp=CAU",ช่อง BS Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
 
@@ -2175,8 +2193,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&b
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png",ช่อง BS-TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",ช่อง BS11
-https://vnpt.nekocdn.xyz/11644528-009c-47e3-a444-16da17f3f88f.m3u8
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg",ช่อง BS Shochiku Tokyu
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png",ช่อง Star 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
@@ -2269,7 +2287,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",ช่อง AT-X
-https://neetball.net/live/neet3.m3u8
+http://r3jx.djtmewibu.com/at-x/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykVkJwIKWix3HlsmdWKmzjNnLb3A-ypFDZ8Zn-vN9f3lGnifZHXOA9EiEa-JkkUBsUl0&usqp=CAU",ช่อง Kids Station
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
@@ -2328,62 +2346,17 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_n03.png",ช่อง Nippon TV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/tEtAip-sN2g4DN_-G0dO1kgb8tpL4hZkJW4LDIpKECLostodleuohg1cA3hE4pOS__jZi32iFw",ช่อง Nippon TV News
-https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg",ช่อง TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/AinbPmBSBsp7EuUA5HbrSj4o2qfr08uT8RsS4mP4ssWF1KwjSSNqdtPhra3IcUSNLgV9clxItg",ช่อง TBS NEWS DIG
-https://ythls-v3.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8?playlist=index
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i.pinimg.com/originals/4f/06/59/4f0659e132a448c1397156b3eed071f4.jpg",ช่อง ANN NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/ORToHzPUdRmSzWY7H4tjZ3LE913yVg09JejWYWHS-oNKboDrMglaJFrloYSgPVXZ0rqY1vQmXQ",ช่อง 朝日新聞 NEWS
-https://ythls-v3.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQtEARMuPbnJ1ObDA2lualzg7TnN1Yu-ntg&s",ช่อง HBC 北海道NEWS
-https://ythls-v3.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.screens-lab.jp/wp-content/uploads/2020/03/06155813/htb-sns.jpg",ช่อง HTB北海道テレビ NEWS
-https://ythls-v3.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFx3E548shDuboSO0_7QjyHMa__uxC70N8Kw&s",ช่อง STV札幌テレビ放送 NEWS
-https://ythls-v3.onrender.com/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Satv_logo_2021.jpg",ช่อง SATV静岡朝日テレビ NEWS
-https://ythls-v3.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/uxFYyO107Bv7FK7fq9IXh9Marf_tqrXaTin1D8gGT1Z0ladRssiXm497wQh5Nr6KbdegwKO-9Q=s900-c-k-c0x00ffffff-no-rj",ช่อง NST新潟総合テレビ NEWS
-https://ythls-v3.onrender.com/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc",ช่อง メ〜テレ名古屋テレビ NEWS
-https://ythls-v3.onrender.com/video/-C6FE2m7kX8.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/140px-Mainichi_Broadcasting_System_logo.svg.png?20110904042013",ช่อง MBS毎日放送 NEWS
-https://ythls-v3.onrender.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/pdmhb8Gtl4gvB8HdC8Na3mChnujTTMl5ghy41wx7Olhn00qgeIJOl7FjF9RQ9hJNyQ5b9PU0",ช่อง ABC朝日放送テレビ NEWS
-https://ythls-v3.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/qgEu_5bsC8PYrtd8fUyC2jFz5l5jPTo2vfsewNg-aQMqYAG1HeRfeDUKYFEo6FSKzTs32jlE",ช่อง HOME広島テレビ NEWS
-https://ythls-v3.onrender.com/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8?playlist=index
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/aiB1WALywZi2Lx5MxF2pQRQm_HUHTj19Of-2HARuzCNmlMHi-2ejmyucJEwL9EmBFWjQMUdIZQ=s900-c-k-c0x00ffffff-no-rj",ช่อง TOS News
-https://ythls-v3.onrender.com/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://press.jal.co.jp/ja/items/uploads/a89741436e550f5d12646481975ad63fd075c490.png",ช่อง Weathernews
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://seeklogo.com/images/S/shop-channel-logo-B05C72F34A-seeklogo.com.png",ช่อง Jupiter Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png",ช่อง QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jp-gstv-7333.jpg",ช่อง GSTV
-https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://eastasiaforum.org/wp-content/uploads/2021/08/2021-08-20T000000Z_432444740_MT1KYODO0008YT0FI_RTRMADP_3_JAPAN-S-FIGHT-AGAINST-CORONAVIRUS-600x404.jpg",ช่อง Japan Walk
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
@@ -2615,6 +2588,9 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w183583394.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://breadradioonline.com/images/tv-01.jpg",ช่อง 面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://www.creation-tv.com/ctv_hk/wp-content/uploads/2017/01/cropped-cropped-logo_transperent_2-1.png",ช่อง Creation TV
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg",ช่อง HKSTV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
