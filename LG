@@ -291,6 +291,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",ช่อง Cinemax
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926158
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",ช่อง CINEMAX
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45597
+
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://ia803107.us.archive.org/34/items/ActionMax/action%20max.png",ช่อง CINEMAX ACTION MAX
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45599
 
@@ -300,8 +303,71 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png",ช่อง CINEMAX THRILLER MAX
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45595
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/1200px-MovieMax_Logo.svg.png",ช่อง CINEMAX MOVIE MAX
+http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/6155/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Ddxp3zKg4iz2qlhqDvLIjKXde0jq7guGC3CYpTWE3cYJGp5GhZJwX3L_rTYPK6ShFLc&usqp=CAU",ช่อง CINEMAX OUTER MAX
+http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/6154/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://trademarks.justia.com/media/image.php?serial=78319568",ช่อง SHOWTIME HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45503
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/699px-Showtime_2.svg.png?20200720022346",ช่อง SHOWTIME 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45505
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest/scale-to-width-down/300?cb=20230125211658",ช่อง SHOWTIME BET
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=303331
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/800px-Showtime_Extreme.svg.png?20200720022756",ช่อง SHOWTIME EXTREME
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=91887
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTqyhmaOyVPnVfljVa4duuUD4epsE3qI0lyg&s",ช่อง SHOWTIME FAMILY ZONE
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=91888
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/2560px-Showtime_Next.svg.png",ช่อง SHOWTIME NEXT
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=92019
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png",ช่อง SHOWTIME SHOWCASE
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45502
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/2560px-Showtime_Women.svg.png",ช่อง SHOWTIME WOMEN
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=92018
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4LWFia_Z1C5GjMtxhNOHJPmzmk1DaXbNFaQ&s",ช่อง STARZ CINEMA
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45496
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_e__WO84d4vQovWXZJ3X3Cqzu4dtY82aOA&s",ช่อง STARZ BLACK
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45498
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_STARZ-1.png",ช่อง STARZ 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176929
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_STARZ-2.png",ช่อง STARZ 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176930
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png",ช่อง SONY MOVIE CHANNEL
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=91789
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",ช่อง AMC
+http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/1083/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png",ช่อง FX
+http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/6435/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/02/BBC-LOGO.png",ช่อง BBC AMERICA
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45612
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg",ช่อง LIFETIME
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45541
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/220px-LMN_logo_2019.svg.png",ช่อง LIFETIME MOVIE NETWORK
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45456
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Lifetime_real_women_2012_logo.jpg",ช่อง LIFETIME REAL WOMEN
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=150353
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1H423xw8XCTugW8uYZEdZVY1zSFgIJcLNg&s",ช่อง MOVIEPLEX
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45536
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/ct_custom_page_f_primary_image/AXN_LOGO-620x348.jpg",ช่อง AXN
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571222
@@ -753,6 +819,9 @@ https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png",ช่อง MTV 80s
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45266
 
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://seeklogo.com/images/M/mtv-live-hd-2013-logo-CFB830E358-seeklogo.com.png",ช่อง MTV LIVE
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45460
+
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg",ช่อง VEVO '80s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -896,6 +965,21 @@ https://lotus.stingray.com/manifest/ose-122ads-montreal/plextv/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/thumbh_20200717_232723.jpg",ช่อง Stingray Today's Latin Pop
 https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsciFJfkzPd6RySPKKxKZqbDO_zDr5pyhNg&s",ช่อง MUSIC CHOICE MAX
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=991598
+
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsciFJfkzPd6RySPKKxKZqbDO_zDr5pyhNg&s",ช่อง MUSIC CHOICE CLASSIC COUNTRY
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=991605
+
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsciFJfkzPd6RySPKKxKZqbDO_zDr5pyhNg&s",ช่อง MUSIC CHOICE HIP-HOP AND R&B
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=991602
+
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsciFJfkzPd6RySPKKxKZqbDO_zDr5pyhNg&s",ช่อง MUSIC CHOICE JAZZ
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=991599
+
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsciFJfkzPd6RySPKKxKZqbDO_zDr5pyhNg&s",ช่อง MUSIC CHOICE ROMANCES
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=991595
 
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1200px-Destination_America_logo.svg.png",ช่อง DESTINATION AMERICA
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=90954
