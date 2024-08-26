@@ -813,6 +813,9 @@ https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",ช่อง Boomerang Thai
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png",ช่อง BOOMERANG
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45608
+
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://static.wikia.nocookie.net/starwars/images/1/15/DisneyChannelLogo.png/revision/latest?cb=20130521011352",ช่อง DISNEY CHANNEL
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45588
 
@@ -821,6 +824,27 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",ช่อง DISNEY XD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45586
+
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDPhtZtrzBhjXKD3ItmrLLXWIM3-m5eVzTQ&s",ช่อง NICKELODEON
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45521
+
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20240128235839",ช่อง NICK JR
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45522
+
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png",ช่อง NICK TOONS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45520
+
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png",ช่อง TEEN NICK
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=91877
+
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNCh0GDZTB0md4CH6EDM5-3_wTXfEJOkaPQ&s",ช่อง UNIVERSAL KIDS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45499
+
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Much_-_2013_logo.svg/1200px-Much_-_2013_logo.svg.png",ช่อง MUCH
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176924
+
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/1200px-Treehouse_TV_logo.svg.png",ช่อง TREEHOUSE
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=177337
 
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCzC3-kSTcbu3wMNtVxdgGPm37pzPb_qMlIpOM-X1_wHw=s900-c-k-c0x00ffffff-no-rj",ช่อง 123 GO! LIVE
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
