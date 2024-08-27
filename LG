@@ -900,6 +900,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",ช่อง Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/axstv_artwork_horizontal.jpg",ช่อง AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png",ช่อง XITE 80s FLASHBLACK
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -2219,6 +2222,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&b
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg",ช่อง BS Shochiku Tokyu
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfufS7_3XHPXIuPqZjngQeZwXyW5Wh3BJGA&s",ช่อง BS11
+https://vnpt.nekocdn.xyz/11644528-009c-47e3-a444-16da17f3f88f.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png",ช่อง Star 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
