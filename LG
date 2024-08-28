@@ -2160,14 +2160,11 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL",ช่อง Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-01/Now80s-logo255x140.png?itok=jOXm9NjN",ช่อง Now 80's
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",ช่อง Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUHqjVPT1GLKWYGTjwXzedypQP25sViO6PQ&s",ช่อง Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",ช่อง A&E
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6419/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/1024px-CTV_Comedy_Channel_2019.svg.png",ช่อง CTV Comedy
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6454/index.m3u8
@@ -2187,8 +2184,23 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6507/index.m3u8
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png",ช่อง ABC Spark
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6466/index.m3u8
 
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNuwj7XUkfO200qxUyoP6F9LdFYUzSVumKPQ&s",ช่อง FOX Buffalo
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6537/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9d3HyVfist7dDSJZ64rtb4SoSDt3BHtEKeg&s",ช่อง E! Entertainment
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6469/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRutABGms9PPV56HysJg1PrEPxoJ31OJBSJPw&s",ช่อง DTour
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6463/index.m3u8
+
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",ช่อง AMC
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6510/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",ช่อง FX
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6435/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png",ช่อง FXX
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6470/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Current_Logo_for_CBC_News_Network.png",ช่อง CBC News Network
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6442/index.m3u8
@@ -2199,11 +2211,20 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6501/index.m3u8
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRZvlyx8Tv-VCSX1OFy0FfetT7MYMNHejAw&s",ช่อง CPAC English
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6494/index.m3u8
 
-#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgT-R52bE5nFi11FvXv3Er0ADTmXuBd3ieeQ&s",ช่อง CNN
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6538/index.m3u8
-
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8AX1afCcibi77vxgifFNkihOICxsAmq4eg&s",ช่อง CNBC Canada
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6482/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEYmXFZ39FeNDkxHBu-8qWLkj17-5Dhevk2A&s",ช่อง Magnolia Network
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6488/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",ช่อง A&E
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6419/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",ช่อง Crime + Investigation
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6506/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqetkfK9qmxtvZXhrJ_OmY5JEpXkpwLmHyw&s",ช่อง Disney XD
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6503/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CMT_Canada_2015_logo.svg/1200px-CMT_Canada_2015_logo.svg.png",ช่อง CMT Canada
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6448/index.m3u8
