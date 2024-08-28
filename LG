@@ -2040,14 +2040,8 @@ http://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwRotuNoRP0wO3-cm4Na_cUPDTrTA8tH7msw&s",ช่อง BBC 2
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30580
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BBC_World_Service_2022.svg/1200px-BBC_World_Service_2022.svg.png",ช่อง BBC WORLD SERVICE
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=735291
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png",ช่อง BBC NEWS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45331
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH9vKWxu6YuAC66INz0Hcy32sglldGdrJSuQ&s",ช่อง BBC WORLD NEWS
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=75865
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png",ช่อง BBC EARTH
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176867
@@ -2058,14 +2052,50 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",ช่อง CNN
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30553
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMUJZC7p6y0y96EmdEwKmAgLhvRuktJes0KA&s",ช่อง CNN INTERNATIONAL
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=459632
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://www.livehdtv.com/uploads/kanal/21463Bloomberg-TV-euro.png",ช่อง BLOOMBERG EU
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=111540
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHe7cI-2N6LqCtQYTFX-549L3z4N-zVgG_2Q&s",ช่อง NBC NEWS NOW
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=875304
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CMdieU1YSM6pUePCUtSp2w5jbUWLQQys4A&s",ช่อง GB NEWS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=622483
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.dw.com/image/69419573_603.jpg",ช่อง DW NEWS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=992267
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png",ช่อง FRANCE 24
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=149653
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2022/09/26/0dd2c300d45cb1c4be6f7b49e126bfca/logo-euronews-stacked-neon-blue-on-white-rgb.png",ช่อง EURO NEWS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=75866
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",ช่อง RT UK HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=149649
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",ช่อง RT NEWS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=149648
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png",ช่อง RTE NEWS NOW
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1014206
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwbHA-go-W0p48MpkrKF-u_BYLMb_29BFSYQ&s",ช่อง ITV 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30533
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1200px-ITV2_logo_2022.svg.png",ช่อง ITV 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30532
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png",ช่อง ITV 3
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30531
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShC4pPhAz7rBMGjaMGrIpE7U6regT-cv_O_Q&s",ช่อง ITV 4
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30530
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/u1b9mnkN2hSAZGQ0MklWLXftoGeEnxWeYnW-y7__llSNfQftKoMSwr7-bXUDLv1doNmEyvP0=s900-c-k-c0x00ffffff-no-rj",ช่อง E! ENTERTAINMENT
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45278
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง FOOD NETWORK
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45275
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://creativestories808.com/wp-content/uploads/2020/08/discovery-channel-logo.png?w=1024",ช่อง DISCOVERY CHANNEL
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30549
@@ -2085,8 +2115,20 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",ช่อง DMAX
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=164004
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2018/03/12/153049/ID_logo.png",ช่อง ID
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=549406
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://user-images.githubusercontent.com/16014375/32408256-42902d1a-c195-11e7-9545-abdab567f0b5.png",ช่อง ID +1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=164051
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQHP_5wwdJ9yppfSobsINsj6P_mzYa8W5GQ&s",ช่อง CRIME & INVESTIGATION
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30551
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png",ช่อง NAT GEO
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30526
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJBoAr8OzWfNh-DCwzhMHQFMM1Hrs0Fexjzg&s",ช่อง NAT GEO WILD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30525
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFVXi7-XHXZDhnhx9Scyf64bvu4bKoMqUYw&s",ช่อง ANIMAL PLANET
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30582
@@ -2097,6 +2139,39 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",ช่อง CARTOON NETWORK
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30556
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://pbs.twimg.com/profile_images/876809258351955969/K91xXTMH_400x400.jpg",ช่อง NICKELODEON
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30524
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2RwmQKC-N9NJ-inkTHxfYQZAbht7C_wilug&s",ช่อง NICK JUNIOR
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45260
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://tv.assets.pressassociation.io/4ef7f230-83a8-53cd-91ac-eafd09b01b83.png",ช่อง NICK JUNIOR +1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45259
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Nick_Jr._Too_UK_logo_2014.svg/2560px-Nick_Jr._Too_UK_logo_2014.svg.png",ช่อง NICK JUNIOR TOO
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45261
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939",ช่อง NICK TOONS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45258
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeZlkaCQcisXICWHSrcWx9IooSiQ2V7djsQ&s",ช่อง MTV
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45326
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png",ช่อง MTV 80s
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45266
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9c/MTV_Dance_%282017-.n.v.%29.png/revision/latest?cb=20170415055608",ช่อง MTV DANCE
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45265
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/0d/MTV_Hits_Europe.png/revision/latest/scale-to-width-down/340?cb=20190802093637",ช่อง MTV HITS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45264
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png",ช่อง MTV LIVE
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45325
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-B_v_Kn5IVffJA2tBe5GZPEyvu8U7cvfYQ&s",ช่อง MTV MUSIC
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=163792
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL",ช่อง Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -2105,6 +2180,9 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUHqjVPT1GLKWYGTjwXzedypQP25sViO6PQ&s",ช่อง Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nXIJhonQwIzknZnNgKK5xe5Lj-fESPcPeR32S5b17j2HI=s900-c-k-c0x00ffffff-no-rj",ช่อง EDGE SPORT
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1014266
 
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ZN9SIOeOxv01BsMPWrC0SRv2PvwLAjpL2Q&s",ช่อง 20 Minutes TV
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8 
