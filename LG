@@ -2010,6 +2010,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltbb2b0cf0f8615935/61ee9cfc284f0d35bcbb3af2/Main-Image-SN.jpg",ช่อง SKY NEWS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30504
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPn-HKGSuAZjYxdLOXOVWzctMrXQxm1j73_w&s",ช่อง SKY KIDS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45328
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://logowik.com/content/uploads/images/rakuten-tv2152.logowik.com.webp",ช่อง Rakuten Action Movies
 http://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -2052,11 +2055,11 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/3qmqERfLcvq2PqADhyrf_5T2LNAmxAfs9CbYqQgn52JfmqnPZzqQdt_46TYqxe5FyMFj8WIODw=s900-c-k-c0x00ffffff-no-rj",ช่อง CBBC
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=164064
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw4O_BLUcKAgj7Hvrq75P0PCV0JX7sN8nuA&s",ช่อง CBEEBIES
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45328
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",ช่อง CNN
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30553
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMUJZC7p6y0y96EmdEwKmAgLhvRuktJes0KA&s",ช่อง CNN INTERNATIONAL
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=459632
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://www.livehdtv.com/uploads/kanal/21463Bloomberg-TV-euro.png",ช่อง BLOOMBERG EU
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=111540
@@ -2081,6 +2084,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",ช่อง DMAX
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=164004
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQHP_5wwdJ9yppfSobsINsj6P_mzYa8W5GQ&s",ช่อง CRIME & INVESTIGATION
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30551
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFVXi7-XHXZDhnhx9Scyf64bvu4bKoMqUYw&s",ช่อง ANIMAL PLANET
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30582
