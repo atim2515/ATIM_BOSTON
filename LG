@@ -2061,9 +2061,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://static.dw.com/image/69419573_603.jpg",ช่อง DW NEWS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=992267
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png",ช่อง FRANCE 24
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=149653
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2022/09/26/0dd2c300d45cb1c4be6f7b49e126bfca/logo-euronews-stacked-neon-blue-on-white-rgb.png",ช่อง EURO NEWS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=75866
 
@@ -2169,23 +2166,47 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUHqjVPT1GLKWYGTjwXzedypQP25sViO6PQ&s",ช่อง Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",ช่อง BEIN SPORTS 1
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=483921
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",ช่อง A&E
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6419/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",ช่อง BEIN SPORTS 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=483920
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/1024px-CTV_Comedy_Channel_2019.svg.png",ช่อง CTV Comedy
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6454/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",ช่อง BEIN SPORTS 3
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=238266
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CTV_News_Channel_%28Canada%29_logo.svg/1200px-CTV_News_Channel_%28Canada%29_logo.svg.png",ช่อง CTV News Channel
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6468/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",ช่อง EPL BRENTFORD
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=988365
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://blog.trekcore.com/wp-content/uploads/2021/06/header-ctv-snw-prodigy-1.jpg",ช่อง CTV SCI-FI
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6459/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.vecteezy.com/system/resources/previews/026/135/421/original/liverpool-club-logo-symbol-premier-league-football-abstract-design-illustration-free-vector.jpg",ช่อง EPL LIVERPOOL
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=988358
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/CTV_Two.svg/220px-CTV_Two.svg.png",ช่อง CTV Two Atlantic
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6423/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",ช่อง EPL MANCHESTER UTD
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=988356
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStiJsy4Pv7psScv9Uf3Obxrgq02OwQlq7SZA&s",ช่อง ABC Buffalo
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6507/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png",ช่อง ABC Spark
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6466/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",ช่อง AMC
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6510/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Current_Logo_for_CBC_News_Network.png",ช่อง CBC News Network
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6442/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CP24_black_logo.svg/1280px-CP24_black_logo.svg.png",ช่อง CP 24
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6501/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRZvlyx8Tv-VCSX1OFy0FfetT7MYMNHejAw&s",ช่อง CPAC English
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6494/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgT-R52bE5nFi11FvXv3Er0ADTmXuBd3ieeQ&s",ช่อง CNN
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6538/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8AX1afCcibi77vxgifFNkihOICxsAmq4eg&s",ช่อง CNBC Canada
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6482/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CMT_Canada_2015_logo.svg/1200px-CMT_Canada_2015_logo.svg.png",ช่อง CMT Canada
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6448/index.m3u8
 
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ZN9SIOeOxv01BsMPWrC0SRv2PvwLAjpL2Q&s",ช่อง 20 Minutes TV
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8 
