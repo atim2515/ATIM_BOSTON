@@ -2574,14 +2574,20 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6494/index.m3u8
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://play-lh.googleusercontent.com/375NW5yL8owK_hW9igW9sh-YJbda9ZcygpDXuVvK_R7l-yJp-fuhb4qvUw_FE4XW4ms",ช่อง CNN
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6538/index.m3u8
 
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/BBC_Canada_logo.svg/800px-BBC_Canada_logo.svg.png?20230407001036",ช่อง BBC CANADA
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176796
+
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8AX1afCcibi77vxgifFNkihOICxsAmq4eg&s",ช่อง CNBC Canada
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6482/index.m3u8
 
-#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/WUTV_Fox_29_2021_Logo.svg/220px-WUTV_Fox_29_2021_Logo.svg.png",ช่อง FOX Buffalo
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6537/index.m3u8
-
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEYmXFZ39FeNDkxHBu-8qWLkj17-5Dhevk2A&s",ช่อง Magnolia Network
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6488/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png",ช่อง BBC EARTH
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176867
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png",ช่อง ANIMAL PLANET
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176865
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",ช่อง A&E
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6419/index.m3u8
@@ -2603,9 +2609,6 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6503/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://guardian.ng/wp-content/uploads/2023/12/Nickelodeon-2.jpg",ช่อง Nickelodeon
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6504/index.m3u8
-
-#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/T%C3%A9l%C3%A9toon_2014_logo.png",ช่อง Teletoon
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6455/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/1200px-Treehouse_TV_logo.svg.png",ช่อง Treehouse
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6471/index.m3u8
