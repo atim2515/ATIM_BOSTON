@@ -2319,9 +2319,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://www.thesun.co.uk/wp-content/uploads/2023/09/tnt-sports-logo.jpg?1694795901&strip=all&w=360&h=240&crop=1",ช่อง TNT SPORT 1
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6566/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.thesun.co.uk/wp-content/uploads/2023/09/tnt-sports-logo.jpg?1694795901&strip=all&w=360&h=240&crop=1",ช่อง TNT SPORT 2
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6565/index.m3u8
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://www.thesun.co.uk/wp-content/uploads/2023/09/tnt-sports-logo.jpg?1694795901&strip=all&w=360&h=240&crop=1",ช่อง TNT SPORT 3
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6564/index.m3u8
 
@@ -2337,11 +2334,8 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/10078/index.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGKbLZSZT2FNmm4vGl358DQr55KMPXDqzcQ&s",ช่อง PREMIER SPORTS 1
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6555/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThu5X1aI0BIdxitAWllWrb7Db7dTHt7hv52w&s",ช่อง SKY SPORTS ARENA
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThu5X1aI0BIdxitAWllWrb7Db7dTHt7hv52w&s",ช่อง SKY SPORTS +
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7338/index.m3u8
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThu5X1aI0BIdxitAWllWrb7Db7dTHt7hv52w&s",ช่อง SKY SPORTS Action
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7345/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThu5X1aI0BIdxitAWllWrb7Db7dTHt7hv52w&s",ช่อง SKY SPORTS F1
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/7342/index.m3u8
@@ -2459,6 +2453,18 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6485/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurc7jgzeg9uvKKiA8PIulAVJyWsKRN-tUlw&s",ช่อง Golf Channel
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6481/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://yt3.googleusercontent.com/qu9JbAM2Vv0H1yWDgphsCLRjACF9-fmpfWIsyKfasrdEStyjrhdMwaU2epXJeOTKmE3Ufz9ANw=s900-c-k-c0x00ffffff-no-rj",ช่อง TSN 1
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6521/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://yt3.googleusercontent.com/qu9JbAM2Vv0H1yWDgphsCLRjACF9-fmpfWIsyKfasrdEStyjrhdMwaU2epXJeOTKmE3Ufz9ANw=s900-c-k-c0x00ffffff-no-rj",ช่อง Golf Channel
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6492/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://yt3.googleusercontent.com/qu9JbAM2Vv0H1yWDgphsCLRjACF9-fmpfWIsyKfasrdEStyjrhdMwaU2epXJeOTKmE3Ufz9ANw=s900-c-k-c0x00ffffff-no-rj",ช่อง Golf Channel
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6522/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://yt3.googleusercontent.com/qu9JbAM2Vv0H1yWDgphsCLRjACF9-fmpfWIsyKfasrdEStyjrhdMwaU2epXJeOTKmE3Ufz9ANw=s900-c-k-c0x00ffffff-no-rj",ช่อง Golf Channel
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6445/index.m3u8
 
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ZN9SIOeOxv01BsMPWrC0SRv2PvwLAjpL2Q&s",ช่อง 20 Minutes TV
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8 
