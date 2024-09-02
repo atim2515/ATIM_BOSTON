@@ -2040,6 +2040,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png",ช่อง OUTDOOR CHANNEL
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=90964
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s",ช่อง NHK World TV
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/729/index.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png",ช่อง DISNEY CHANNEL
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45588
 
@@ -2079,6 +2082,12 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://seeklogo.com/images/M/mtv-live-hd-2013-logo-CFB830E358-seeklogo.com.png",ช่อง MTV LIVE
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45460
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zVWpw60_9UkspZf47uaKv9X2bQYcbotVnQ&s",ช่อง MTV Hits
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/153/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGlRs1mbmM3qaJaGM3wlu2X4qByrNlS9Bpzg&s",ช่อง MTV Classic
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19148/index.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg",ช่อง VEVO '80s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -2099,6 +2108,15 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsciFJfkzPd6RySPKKxKZqbDO_zDr5pyhNg&s",ช่อง MUSIC CHOICE ROMANCES
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=991595
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkM6IAf4g13SylA0Gk-N8_W4dJe10VSzMVZA&s",ช่อง ESPN
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19156/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",ช่อง ESPN 2
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19155/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOORTr5HgXNZEnmtzx_2wq2WneUg5qS3vBMQ&s",ช่อง Espn News
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19154/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/WFN-1.png",ช่อง WORLD FISHING NETWORK
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=91906
@@ -2135,6 +2153,9 @@ http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/19150/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png",ช่อง Red Bull TV
 http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/16040/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://kmph.com/resources/media2/16x9/full/1015/center/80/7469f2c1-58f1-46ab-9bf1-bd395e0d46ab-large16x9_TENNISCHANNELIMAGE.png",ช่อง TENNIS CHANNEL
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6096/index.m3u8
 
 #EXTINF:-1 group-title="TVS NETWORK" tvg-logo="https://www.tvstvnetworks.com/wp-content/uploads/2020/06/cropped-TVSTVLogo2.png",ช่อง TVS Boxing
 https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
@@ -2392,7 +2413,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30530
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/u1b9mnkN2hSAZGQ0MklWLXftoGeEnxWeYnW-y7__llSNfQftKoMSwr7-bXUDLv1doNmEyvP0=s900-c-k-c0x00ffffff-no-rj",ช่อง E! ENTERTAINMENT
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45278
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45584
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU2M9Ttg-9HqWKoyIqbmhGl3FUgG5Pglo4Q&s",ช่อง TLC
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30489
