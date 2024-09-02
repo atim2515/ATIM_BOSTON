@@ -2412,20 +2412,8 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/1200px-BBC_Alba_2021.svg.png",ช่อง BBC Alba
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19179/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://i.scdn.co/image/ab6775700000ee854c4e5488a85e405c5130c80f",ช่อง BBC America
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1092/index.m3u8
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/bbc/images/6/6e/BBC_Entertainment_channel.png/revision/latest?cb=20220213220202",ช่อง BBC Entertainment
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19180/index.m3u8
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyRCDthONOlA_5JYfbj2mVQdPiLr1iukrJg&s",ช่อง BBC First
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19181/index.m3u8
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/bbc/images/7/73/BBCP.png/revision/latest?cb=20220509123529",ช่อง BBC Parliament
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19182/index.m3u8
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkrHOG7J8Ol8QpIsdVPn9HttyRgB63S9eVA&s",ช่อง BBC Scotland
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19183/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png",ช่อง BBC EARTH
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176867
@@ -2541,9 +2529,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-B_v_Kn5IVffJA2tBe5GZPEyvu8U7cvfYQ&s",ช่อง MTV MUSIC
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=163792
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyy8xkyVJQkcJHJdnet9jtEJbKz_dY9XjEBw&s",ช่อง MTV Base
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19198/index.m3u8
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL",ช่อง Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -2591,6 +2576,12 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6468/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://blog.trekcore.com/wp-content/uploads/2021/06/header-ctv-snw-prodigy-1.jpg",ช่อง CTV SCI-FI
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6459/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/CTV_Two.svg/220px-CTV_Two.svg.png",ช่อง CTV 2
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6437/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/CTV_Two.svg/220px-CTV_Two.svg.png",ช่อง Qub !NatGeo Wild
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6473/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/CTV_Two.svg/220px-CTV_Two.svg.png",ช่อง CTV Two Atlantic
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6423/index.m3u8
@@ -2699,6 +2690,9 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6448/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://images.ctfassets.net/8utyj17y1gom/1cwjdRY52HDydNzWCHqXmB/0fe47ece4b41113c7e7668fb95989973/WebsiteUpdate_SSP_846x476_MLB.jpg",ช่อง Super Sports Pak-MLB
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6485/index.m3u8
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Sportsnet_2011_short.svg/revision/latest/scale-to-width-down/250?cb=20230828131223",ช่อง Sportsnet
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6477/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Sportsnet360.png",ช่อง Sportsnet 360
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6462/index.m3u8
