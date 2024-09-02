@@ -2373,6 +2373,12 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltbb2b0cf0f8615935/61ee9cfc284f0d35bcbb3af2/Main-Image-SN.jpg",ช่อง SKY NEWS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30504
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Sky_News_Extra_2018.svg/revision/latest/scale-to-width-down/250?cb=20240411041740",ช่อง Sky News Extra 2
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6114/index.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Sky_News_Extra_2018.svg/revision/latest/scale-to-width-down/250?cb=20240411041740",ช่อง Sky News Extra 3
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6115/index.m3u8
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPn-HKGSuAZjYxdLOXOVWzctMrXQxm1j73_w&s",ช่อง SKY KIDS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45328
 
@@ -2577,11 +2583,8 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6468/index.m3u8
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://blog.trekcore.com/wp-content/uploads/2021/06/header-ctv-snw-prodigy-1.jpg",ช่อง CTV SCI-FI
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6459/index.m3u8
 
-#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/CTV_Two.svg/220px-CTV_Two.svg.png",ช่อง CTV 2
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUWY_AXdyenjUiP2gsaD_YQFMdka72OqDKA&s",ช่อง CTV Drama Channel
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6437/index.m3u8
-
-#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/CTV_Two.svg/220px-CTV_Two.svg.png",ช่อง Qub !NatGeo Wild
-http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6473/index.m3u8
 
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/CTV_Two.svg/220px-CTV_Two.svg.png",ช่อง CTV Two Atlantic
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6423/index.m3u8
