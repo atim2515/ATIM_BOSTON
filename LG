@@ -1080,6 +1080,12 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://seeklogo.com/images/M/mtv-live-hd-2013-logo-CFB830E358-seeklogo.com.png",ช่อง MTV LIVE
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45460
 
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zVWpw60_9UkspZf47uaKv9X2bQYcbotVnQ&s",ช่อง MTV Hits
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/153/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGlRs1mbmM3qaJaGM3wlu2X4qByrNlS9Bpzg&s",ช่อง MTV Classic
+http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19148/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg",ช่อง VEVO '80s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -1974,6 +1980,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTuO0VbPzyHkFsH6MRHsvm19v29fhXH2ma9pZ8p=s900-c-k-c0x00ffffff-no-rj",ช่อง ET Live
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9W6uu25eTRN1NZTiqrUeCHrKQ4gVNb-4Ubw&s",ช่อง AWE Encore
+https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU2M9Ttg-9HqWKoyIqbmhGl3FUgG5Pglo4Q&s",ช่อง TLC
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45471
 
@@ -2127,6 +2136,9 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/153/index.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGlRs1mbmM3qaJaGM3wlu2X4qByrNlS9Bpzg&s",ช่อง MTV Classic
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19148/index.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/axstv_artwork_horizontal.jpg",ช่อง AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg",ช่อง VEVO '80s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -2189,6 +2201,9 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/11109/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/WFN-1.png",ช่อง WORLD FISHING NETWORK
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=91906
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=mw019sf1bwuq1ndz0qhwas8in_image-header_pRow_1715780206000&quality=70",ช่อง Billiard TV
+https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",ช่อง NBA TV
 http://38b891c9.rossteleccom.net/iptv/UAWZS54EW64RZB/7226/index.m3u8
