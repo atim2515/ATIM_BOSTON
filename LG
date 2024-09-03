@@ -2661,6 +2661,18 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6469/index.m3u8
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRutABGms9PPV56HysJg1PrEPxoJ31OJBSJPw&s",ช่อง DTour
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6463/index.m3u8
 
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxMoxpxwflH_kWzMTrYbgD2itB55ytWcfyw&s",ช่อง HBO 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176913
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",ช่อง HBO 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176914
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_STARZ-1.png",ช่อง STARZ 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176929
+
+#EXTINF:-1 group-title="CANADA TV" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_STARZ-2.png",ช่อง STARZ 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176930
+
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",ช่อง AMC
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6510/index.m3u8
 
@@ -4122,6 +4134,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png",ช่อง RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Astro_Premier_flat.png/revision/latest?cb=20230918040502",ช่อง Astro Premier
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111034
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571187
 
@@ -4148,6 +4163,12 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://i.ytimg.com/vi/E4RUQxYTZDQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCK0zYRKBFOjezMJ3L1YoO-1yY5ug",ช่อง Celestial Classic Movies
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571182
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s",ช่อง Astro SuperSport
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918986
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",ช่อง Astro SuperSport 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1016545
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",ช่อง Astro SuperSport 3
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918984
@@ -4476,123 +4497,6 @@ https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://www.hmongusatv.com/wp-content/uploads/2020/11/logoUSA-1.png",ช่อง HmongUSA TV
 https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง ASTRO SPORTS
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918986
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง ASTRO SPORTS 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918985
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง ASTRO SPORTS 2 4K
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1016545
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง ASTRO SPORTS 3
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918984
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง ASTRO SPORTS 4
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918983
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง W SPORT
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918982
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง ASSP2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571248
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง ASSP3
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571247
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง ASSP4
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571246
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Astro Sports 1
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111034
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Astro Sports 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111033
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Astro Sports 3
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111032
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Astro Sports 4
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111031
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง BeIN SPORTS
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941569
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง BeIN SPORTS
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=683139
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง BeIN SPORTS
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926196
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง BeIN SPORTS 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941568
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง BeIN SPORTS 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=683138
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง BeIN SPORTS 3
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941567
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Fight Sports
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=683135
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Hub Premier 1
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1032529
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Hub Premier 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1032528
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Hub Sports 1
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1110667
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Hub Sports 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1110666
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Hub Sports 4
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1110665
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง HUB sports 1
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941573
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง HUB sports 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941572
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง HUB sports 3
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941571
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Now HK premier 1
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1032487
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Now HK premier sports 1
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=554953
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Now HK sports 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1032478
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Now HK sports 3
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1032477
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Now Sports 1
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=554949
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Now Sports 2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=554948
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง Now Sports 3
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=554947
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง PREMIER SPORTS
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571253
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง PREMIER SPORTS
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926155
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง SPOTV
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941564
-
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png",ช่อง SPOTV2
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941563
-
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",ช่อง AXN
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571222
 
@@ -4628,6 +4532,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU2M9Ttg-9HqWKoyIqbmhGl3FUgG5Pglo4Q&s",ช่อง TLC
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571189
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Astro_Premier_flat.png/revision/latest?cb=20230918040502",ช่อง Astro Premier
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111034
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",ช่อง Ch 5
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941615
@@ -4670,6 +4577,60 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/800px-BBC_World_News_red.svg.png",ช่อง BBC WORLD NEWS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926200
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s",ช่อง Astro SuperSport
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918986
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",ช่อง Astro SuperSport 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1016545
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",ช่อง Astro SuperSport 3
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918984
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748",ช่อง Astro SuperSport 4
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918983
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/473px-BeIN-Sports-Logo.svg.png",ช่อง BeIN SPORTS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941569
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymAiK1B1uXt3Vq4FcJxTXAl2QuTyQj8kTig&s",ช่อง BeIN SPORTS 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926196
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",ช่อง BeIN SPORTS 3
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941567
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",ช่อง Hub Premier 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1032529
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",ช่อง Hub Premier 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1032528
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530",ช่อง Hub Sports 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1110667
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/25/HubSports_2.png/revision/latest?cb=20190619114541",ช่อง Hub Sports 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1110666
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_425_305",ช่อง Now Sports Premier League 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1032487
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305",ช่อง Now Sports 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=554949
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305",ช่อง Now Sports 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=554948
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305",ช่อง Now Sports 3
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=554947
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Premier_Sports_logo_final.png/revision/latest/scale-to-width-down/400?cb=20210920130931",ช่อง PREMIER SPORTS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926155
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ช่อง SPOTV
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941564
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpt7Baawf4MFdYsShGrV795Lstw1lWxWey7Q&s",ช่อง SPOTV2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941563
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/7DqAhMKgcr.jpeg",ช่อง Cat Radio
 http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w1543475410.m3u8
