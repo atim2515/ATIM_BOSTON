@@ -2667,10 +2667,10 @@ http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/428339
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/800px-Virgin_Media_Three_logo_2018.svg.png?20231125080759",ช่อง VIRGIN MEDIA THREE
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/546045
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://i.pinimg.com/474x/07/43/e9/0743e9ca1a825b00353d47b18d9ff44e.jpg",ช่อง Yesterday
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/D3Xf0z7LEw3LXLDL-9O4RZrfqjwFZazndNQiPA2-3r6xn2uYeLTWAs9lrUmw0kql2kY8wuq2DQ=s900-c-k-c0x00ffffff-no-rj",ช่อง U&YESTERDAY
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508002
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/800px-W_%28UKTV%29_2022.svg.png?20220323185919",ช่อง Watch
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/U%26W_%282024%29.svg/2560px-U%26W_%282024%29.svg.png",ช่อง U&W
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508001
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/u1b9mnkN2hSAZGQ0MklWLXftoGeEnxWeYnW-y7__llSNfQftKoMSwr7-bXUDLv1doNmEyvP0=s900-c-k-c0x00ffffff-no-rj",ช่อง E! ENTERTAINMENT
@@ -2739,14 +2739,11 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png",ช่อง MTV 80s
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45266
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKv9mZYtMAkRknjHtthfhaVpra4liFJb-xw&s",ช่อง MTV Classic
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508014
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mtv_base_uk.png/800px-Mtv_base_uk.png",ช่อง MTV Base
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1a/MTV_90%27s_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/606?cb=20200919214211",ช่อง MTV 90s
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508012
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mtv_base_uk.png/800px-Mtv_base_uk.png",ช่อง MTV Base
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605290
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKv9mZYtMAkRknjHtthfhaVpra4liFJb-xw&s",ช่อง MTV Classic
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508014
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/0d/MTV_Hits_Europe.png/revision/latest/scale-to-width-down/340?cb=20190802093637",ช่อง MTV HITS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45264
@@ -4320,11 +4317,32 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571197
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png?t=0825571003",ช่อง CGTN
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605294
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",ช่อง tvN
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605359
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UTlf8WbfQIRsznwlQpXt1Vf3FZyFhlIbsQ&s",ช่อง iQIYI
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571198
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",ช่อง HBO Hits
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605315
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s",ช่อง HBO Family
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605314
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",ช่อง Cinemax
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605295
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/ct_custom_page_f_primary_image/AXN_LOGO-620x348.jpg",ช่อง AXN
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571222
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png",ช่อง Lifetime
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605324
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU2M9Ttg-9HqWKoyIqbmhGl3FUgG5Pglo4Q&s",ช่อง TLC
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605347
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",ช่อง HITS MOVIES
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571200
@@ -4332,8 +4350,35 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg/revision/latest/smart/width/386/height/259?cb=20240506054820",ช่อง HITS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571252
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg/revision/latest/smart/width/386/height/259?cb=20240711133443",ช่อง HITS NOW
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605306
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest/smart/width/386/height/259?cb=20171225070136",ช่อง BOO
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605290
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://i.ytimg.com/vi/E4RUQxYTZDQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCK0zYRKBFOjezMJ3L1YoO-1yY5ug",ช่อง Celestial Classic Movies
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571182
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605311
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png",ช่อง AFN
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605242
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF4T4h1YL5FfB283T7ZdhjHsXUV_f9fUrpkA&s",ช่อง HGTV
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605269
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",ช่อง Crime + Investigation
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605300
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",ช่อง Dmax
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605307
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/200px-MTV_2021_%28brand_version%29.svg.png",ช่อง MTV
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605329
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",ช่อง Cartoon Network
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605266
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s",ช่อง Astro SuperSport
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918986
