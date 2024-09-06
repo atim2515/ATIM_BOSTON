@@ -276,10 +276,10 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",ช่อง HBO SIGNATURE
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45547
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",ช่อง HBO Hits (Asia)
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",ช่อง HBO Hits (Asia)
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605315
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s",ช่อง HBO Family (Asia)
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s",ช่อง HBO Family (Asia)
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605314
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",ช่อง HBO FAMILY
@@ -539,6 +539,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wixstatic.com/media/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png/v1/fill/w_1280,h_720,al_c/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png",ช่อง Lone Star
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_dark.png",ช่อง OnePlay 007
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567160
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_dark.png",ช่อง OnePlay 007classic
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567161
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Marvel_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694102537",ช่อง MARVEL 1
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=924731
