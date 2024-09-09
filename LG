@@ -2907,6 +2907,15 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFVXi7-XHXZDhnhx9Scyf64bvu4bKoMqUYw&s",ช่อง ANIMAL PLANET
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30582
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png",ช่อง Disney Channel
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508156
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWaBVJAvwCg360SEp8p_jQLaiKSeRD9jI_1Q&s",ช่อง Disney Junior
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508158
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",ช่อง Disney XD
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508160
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png",ช่อง BOOMERANG
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45295
 
@@ -4494,9 +4503,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lUhRlvRg4NyppZQMuLNh83k6U1erw5rKylZWh8NLVc3DM=s900-c-k-c0x00ffffff-no-rj",ช่อง 8TV
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605239
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20240208152522",ช่อง Astro Hua Hee Dai
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605319
-
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Astro_Premier_flat.png/revision/latest?cb=20230918040502",ช่อง Astro Premier
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111034
 
@@ -4520,9 +4526,6 @@ http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605301
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/800px-Phoenix_Chinese.svg.png",ช่อง Phoenix Chinese Channel
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605336
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvM9sgdyz8W2X7MaHOmQIiV_qend6Hdi1zA&s",ช่อง Phoenix Info News
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605337
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",ช่อง CCTV4
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605292
@@ -4620,9 +4623,6 @@ http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605236
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ช่อง Animal Planet
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605243
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",ช่อง Love Nature
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605234
-
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/200px-ABC_Australia_logo.svg.png",ช่อง ABC Australia
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605240
 
@@ -4673,9 +4673,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",ช่อง SPOTV2
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941563
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png",ช่อง Golf Channel
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605312
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg",ช่อง SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
