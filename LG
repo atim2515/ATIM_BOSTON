@@ -2106,6 +2106,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",ช่อง HBO SIGNATURE
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45547
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png",ช่อง HBO COMEDY
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/419288
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",ช่อง HBO FAMILY
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45550
 
@@ -2405,6 +2408,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",ช่อง DISNEY XD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45586
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",ช่อง Cartoon Network
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/419270
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png",ช่อง BOOMERANG
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45608
@@ -2724,8 +2730,29 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://ia800409.us.archive.org/8/items/SkyCinemaSuperhero/sky%20cinema%20superhero.png",ช่อง SKY CINEMA SUPERHERO
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1821
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/05/Sky-Docs-for-website.png",ช่อง Sky Documentaries
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508102
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWQ63o3SvjAqH8xE4Gu053aIN1qS7Zz8rXg&s",ช่อง SKY History
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508088
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnQM6WTI5NodXdPdDBOxrGaO1gH5VUgtd0Q&s",ช่อง Sky History 2
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508090
+
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sky_Crime_logo_2019.svg/1280px-Sky_Crime_logo_2019.svg.png",ช่อง SKY CRIME
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=164073
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizcH69zr88xJdPdpkuAKEiFZNf76jDJF6zA&s",ช่อง Sky Witness
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507988
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPvS28AawWkoL6EOL3ChN3gUpwb68CjV6_GA&s",ช่อง Sky Atlantic
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507980
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmrum1FQncT_pgmrRA09fsD7taJb9oSYeUg&s",ช่อง Sky Max
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507984
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.everyonetv.co.uk/sites/default/files/inline-images/sky-arts-logo-1920w_0.png",ช่อง Sky Arts
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507978
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/1280px-Sky_Nature.svg.png",ช่อง SKY NATURE
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=164071
@@ -2741,27 +2768,6 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6115/index.m3u8
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPn-HKGSuAZjYxdLOXOVWzctMrXQxm1j73_w&s",ช่อง SKY KIDS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45328
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWQ63o3SvjAqH8xE4Gu053aIN1qS7Zz8rXg&s",ช่อง SKY History
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508088
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnQM6WTI5NodXdPdDBOxrGaO1gH5VUgtd0Q&s",ช่อง Sky History 2
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508090
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.everyonetv.co.uk/sites/default/files/inline-images/sky-arts-logo-1920w_0.png",ช่อง Sky Arts
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507978
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPvS28AawWkoL6EOL3ChN3gUpwb68CjV6_GA&s",ช่อง Sky Atlantic
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507980
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/05/Sky-Docs-for-website.png",ช่อง Sky Documentaries
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508102
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmrum1FQncT_pgmrRA09fsD7taJb9oSYeUg&s",ช่อง Sky Max
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507984
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizcH69zr88xJdPdpkuAKEiFZNf76jDJF6zA&s",ช่อง Sky Witness
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507988
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://logowik.com/content/uploads/images/rakuten-tv2152.logowik.com.webp",ช่อง Rakuten Action Movies
 http://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -2787,14 +2793,17 @@ http://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://logowik.com/content/uploads/images/rakuten-tv2152.logowik.com.webp",ช่อง Rakuten TV Shows
 http://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",ช่อง BBC 1
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",ช่อง BBC One
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19176/index.m3u8
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwRotuNoRP0wO3-cm4Na_cUPDTrTA8tH7msw&s",ช่อง BBC 2
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwRotuNoRP0wO3-cm4Na_cUPDTrTA8tH7msw&s",ช่อง BBC Two
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30580
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_%28television_channel%29_2008_logo.svg/1280px-BBC_Three_%28television_channel%29_2008_logo.svg.png",ช่อง BBC 3
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_%28television_channel%29_2008_logo.svg/1280px-BBC_Three_%28television_channel%29_2008_logo.svg.png",ช่อง BBC Three
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507882
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HO6zwy5eRVcwshcbv4-UJQB-bNylaV-tYQ&s",ช่อง BBC Four
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508152
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png",ช่อง BBC NEWS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45331
@@ -2886,16 +2895,10 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://tv.assets.pressassociation.io/dbd9bead-85c8-5855-9aed-9f0e3d8f0d90.png",ช่อง Great! Movies +1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=1830
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXcEtlVnyyxE8m9kkSrWx1ha9lJpOqWRiSg&s",ช่อง Drama
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507921
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6i8or9ZGHqbEFRS_8d9hwOzZbgMO8xWZJsQ&s",ช่อง Drama +1
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507922
-
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EavuzcNcyEuM3DtXwV5KlfWnB7PVXpA8uQ&s",ช่อง AMC
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507877
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyDVgr1_NsLMd-tRFReibc4xyOUBin19lr6w&s",ช่อง Sony Movies Channel
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",ช่อง Sony Entertainment Television
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508133
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Legend_TV_logo.svg/1280px-Legend_TV_logo.svg.png",ช่อง LEGEND
@@ -2912,9 +2915,6 @@ http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507907
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIv4w2ytUQmXt9hGXFAEHRaJL-KdqoJX1Og&s",ช่อง Comedy Central Extra
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507909
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IW_Logo.svg/1200px-IW_Logo.svg.png",ช่อง Ideal World TV
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507934
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Eden_logo-en.png",ช่อง Eden
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507928
@@ -2940,8 +2940,14 @@ http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508001
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/o4NBK8yaf1_cJnO54mOvzVfTMf-J3YRwCYy57lrxQN-_1d4I4w-pzq0uxmjk5yaR375tkudUcA=s900-c-k-c0x00ffffff-no-rj",ช่อง U&Dave
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507915
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dave_ja_vu.png/800px-Dave_ja_vu.png",ช่อง Dave Ja Vu
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://tv.assets.pressassociation.io/6416feaa-f4ac-5dbf-ac5e-1c9d5997031d.png",ช่อง U&Dave ja vu
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507917
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://tv.assets.pressassociation.io/5ad52cd7-c322-5c87-ab62-7795f0acad14.png",ช่อง U&Drama
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507921
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-XonvVnyfgfpaN_w1aDy1OPxrIcvyKw49ooG1bwcgI9AKXP_OqKGHUf1b-v9j6XFgUWI&usqp=CAU",ช่อง U&Drama +1
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507922
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://yt3.googleusercontent.com/u1b9mnkN2hSAZGQ0MklWLXftoGeEnxWeYnW-y7__llSNfQftKoMSwr7-bXUDLv1doNmEyvP0=s900-c-k-c0x00ffffff-no-rj",ช่อง E! ENTERTAINMENT
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45584
@@ -2957,6 +2963,9 @@ http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/360770
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง FOOD NETWORK
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45275
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IW_Logo.svg/1200px-IW_Logo.svg.png",ช่อง Ideal World TV
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507934
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://creativestories808.com/wp-content/uploads/2020/08/discovery-channel-logo.png?w=1024",ช่อง DISCOVERY CHANNEL
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30549
@@ -2999,9 +3008,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFVXi7-XHXZDhnhx9Scyf64bvu4bKoMqUYw&s",ช่อง ANIMAL PLANET
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30582
-
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cbeebies2022.svg/revision/latest/scale-to-width-down/300?cb=20221122180525",ช่อง CBeebies
-http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508152
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1200px-Pop_UK_TV_Logo_%282015%29.svg.png",ช่อง POP
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/508168
@@ -4585,19 +4591,31 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571251
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",ช่อง Ch 5
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941615
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/518039
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/220px-Mediacorp_Channel_8_2023.svg.png",ช่อง Ch 8
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941616
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/518038
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/200px-Mediacorp_Channel_U_2023.svg.png",ช่อง Ch U
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941617
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/518037
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://play-lh.googleusercontent.com/pvoIUgtbvS3XuxLTDkDOghF59twl66Vx-aalb74yOTKYLz3t17y7MJFtbwTfV0itWA",ช่อง LIVE 1
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941678
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://play-lh.googleusercontent.com/pvoIUgtbvS3XuxLTDkDOghF59twl66Vx-aalb74yOTKYLz3t17y7MJFtbwTfV0itWA",ช่อง LIVE 2
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941679
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://play-lh.googleusercontent.com/pvoIUgtbvS3XuxLTDkDOghF59twl66Vx-aalb74yOTKYLz3t17y7MJFtbwTfV0itWA",ช่อง Live+
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/518030
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",ช่อง BeIN SPORTS
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/517924
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQy-JJW572RLFcvLymKX_i-j_QuqAq8TJGEg&s",ช่อง BeIN SPORTS 2
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/517925
+
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQShb7RW5AF-4aqa5ITdLOXpf1N1HQ4dbRMPQ&s",ช่อง BeIN Sports 3
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/517923
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
