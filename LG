@@ -3951,6 +3951,12 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeesgB28ZzTqVvfFSjKrmlnQquv1EDEUva8JGUn1sn&s",ช่อง TVB News
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153504
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6VVWln6t7_J3O1-yMnV5gxmQiJgkM4N3vPQ&s",ช่อง Fairchild TV 1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=90351
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1J0EqbcaL129LDdTXSwZkJ8KHiYo43ui0A&s",ช่อง Fairchild TV 2
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=90352
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://logowik.com/content/uploads/images/phoenix-infonews-channel8389.jpg",ช่อง Phoenix InfoNews Channel
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 
@@ -3972,14 +3978,8 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w183583393.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳視高清
 https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w183583394.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://breadradioonline.com/images/tv-01.jpg",ช่อง 面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://www.creation-tv.com/ctv_hk/wp-content/uploads/2017/01/cropped-cropped-logo_transperent_2-1.png",ช่อง Creation TV
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg",ช่อง HKSTV
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dCMVdFZwluwxiPJwTBRlt77DVVA3i-egt47IGqNp4pFKC2UX_-YJthP9n6o5HplU4QY&usqp=CAU",ช่อง 耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -5663,6 +5663,72 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/800px-BBC_World_News_red.svg.png",ช่อง BBC WORLD NEWS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926200
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Celestial_Movies_logo.png/revision/latest/scale-to-width-down/733?cb=20240506010219&path-prefix=vi",ช่อง 天映頻道
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571218
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700",ช่อง 天映经典
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571182
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://ctiasia.chinatimes.com/wp-content/uploads/2018/12/logo-460x180-300x117.png",ช่อง 中天亚洲台
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571212
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebUNRGq3rh_9gKjjUNmN5p6xT-20VTFJAHw&s",ช่อง 凤凰中文
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=114695
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebUNRGq3rh_9gKjjUNmN5p6xT-20VTFJAHw&s",ช่อง 凤凰香港
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153402
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/98/TVB_Jade_logo_3D.png/revision/latest/scale-to-width-down/898?cb=20240308054517&path-prefix=vi",ช่อง 翡翠台
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153505
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png",ช่อง TVB娱乐新闻台
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153504
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/TVB_Classic_International.png/revision/latest/scale-to-width-down/340?cb=20230714155414&path-prefix=vi",ช่อง TVB千禧经典台
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153503
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.getsatellite.com/channels/tvb1.png",ช่อง TVB1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153396
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/TVBJ1_screenbug.png/revision/latest/scale-to-width-down/250?cb=20231129081435&path-prefix=vi",ช่อง TVBJ1
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153395
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS718kj0sqWtPEeCzohNZgl1OPf2pWcU95iUw&s",ช่อง TVB Drama
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153400
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB星河
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153506
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.getsatellite.com/channels/tvbe.png",ช่อง TVBE
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153398
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktNd3zD9jzKqlxA2hlMz2mDJ05GD6H2xJOw&s",ช่อง 无线新闻台
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153399
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2MV6jWGk-Ry-H5aOuUtw__K6NxW3cWRCog&s",ช่อง 星空卫视
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=683118
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/Star_chinese_movies_2012.png",ช่อง 卫视电影台
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941625
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://zhongsinmusic.com.tw/wp-content/uploads/2020/10/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E7%B6%B2-logo.jpg",ช่อง 民视新闻HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=156389
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png",ช่อง 三立国际台
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=156390
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",ช่อง 华视HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=156391
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/ttv-hd-live.jpg",ช่อง 台视综合HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=156392
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/250px-Eastern_Broadcasting_Co_Limited_logo.svg.png",ช่อง 东森中国台
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=156393
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/250px-Eastern_Broadcasting_Co_Limited_logo.svg.png",ช่อง 东森卫视HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=156394
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s",ช่อง Astro SuperSport
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918986
