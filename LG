@@ -235,23 +235,11 @@ https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://truevisions.co.th/static/07c607f1-f827-4ecc-8e85-fee084bc6821.png",ช่อง beIN Sports HD 1
 https://www.livedoomovies.com:4431/02_sport2_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_x_rUVn5fCZe3aEAoLymjbKqtJHkzi9ORXv.png",ช่อง MV TV CHANNEL
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://cdn6.aptoide.com/imgs/a/e/8/ae83e2c39a1ba8f8d96ca3b643fcf162_icon.jpg",ช่อง MVTV CHANNEL
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
-
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/112_x_IJ3AQXdaChY9HUoipnMTScOqsuEjzgV4.png",ช่อง MV NEWS
-https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
-
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/32_x_fWKv7p8yBYAsRI5SgwENcFH0hCQukV3r.jpg",ช่อง VTV NEWS
-https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
-
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/42_x_yb1ORMZWmsUKkTNo8Gnu3vX20p4wxCLS.png",ช่อง MV Series
-https://n-edge-1-th.v2h-cdn.com/mvtvseries/mvtvseries/playlist.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png",ช่อง TVB-Thai
 https://n-edge-1-th.v2h-cdn.com/tvb/tvb_thai/playlist.m3u8
-
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_x_KWQFiNwmxolf3PV54h8UcDryvGtbueEI.png",ช่อง MIX MAJOR
-https://n-edge-1-th.v2h-cdn.com/mixmajor/mixmajor/playlist.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/37_x_tofpxriUeKzsv30hIy1LTV4gOQMRa526.png",ช่อง สยาม Channel
 https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
@@ -261,9 +249,6 @@ https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/38_x_31fQ6niWbtVPogeIJEGzNRcd8DhBvM7C.png",ช่อง ลิโด้ Channel
 https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
-
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/40_x_Aw4erhDcoTCKHG5FJPBYqQsixOSjtRWL.png",ช่อง ราม่า Channel
-https://n-edge-1-th.v2h-cdn.com/rama/rama/playlist.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png",ช่อง ไทบ้าน TV
 https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
@@ -286,9 +271,6 @@ https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/107_x_ajeNQEgSxDZU4XhIzYKTr8G2LqB7POJV.jpg",ช่อง MV Mall Family
 https://edge6a.v2h-cdn.com/mvmall_ttd12/mvmall_ttd12.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/113_x_Mh0SvYx9urRDqZBGp6ygXm1P5aoVdcAJ.jpg",ช่อง MV Mall Best
-https://edge6a.v2h-cdn.com/mvmall2/mvmall2.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/112_x_Qd9cBfGsqSH8x7YVgN1h63ODiuEPZpeJ.jpg",ช่อง MV Mall Home
 https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
 
@@ -298,11 +280,17 @@ https://edge6a.v2h-cdn.com/ttd14/ttd14.stream/playlist.m3u8
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/42_x_02lowuHBcakPf8A3F7sqEnb5YMZtpdW9.jpg",ช่อง MV Mall Trend
 https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
 
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_x_Cmh6zO2NJqrc91xW3QUwk4I5BtXLSFsa.jpg",ช่อง MV Mall Healthy
+https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/113_x_Mh0SvYx9urRDqZBGp6ygXm1P5aoVdcAJ.jpg",ช่อง MV Mall Best
+https://edge6a.v2h-cdn.com/mvmall2/mvmall2.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/40_x_EoLA4BZTzjm91VctsQSIxXUqahd3CPpN.jpg",ช่อง MV Mall ดี๊ดี
 https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
 
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_x_Cmh6zO2NJqrc91xW3QUwk4I5BtXLSFsa.jpg",ช่อง MV Mall Healthy
-https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/32_x_g95VQeLUSctjWdIql3rMmDiPCAbxGayo.jpg",ช่อง MV Mall Plus
+https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
