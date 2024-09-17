@@ -2679,7 +2679,7 @@ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png",ช่อง FX
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6435/index.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://ew.com/thmb/mmcB3If_wztz2KnQBLjdyFd0f4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/syfy-67b52e1eacd84cf780267163cde7e72a.jpg",ช่อง Syfy
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://cdn.entries.clios.com/styles/clio_aotw_image_panels_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19.png",ช่อง Syfy
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/02/BBC-LOGO.png",ช่อง BBC AMERICA
@@ -2913,6 +2913,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png",ช่อง TEEN NICK
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=91877
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.ytimg.com/vi/6V2HxZ9WEYg/maxresdefault.jpg",ช่อง Nick Music
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNCh0GDZTB0md4CH6EDM5-3_wTXfEJOkaPQ&s",ช่อง UNIVERSAL KIDS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45499
 
@@ -2924,9 +2927,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vbgP2dY_NZVT3SVtD5L9WGbM0N42ZocRdw&s",ช่อง MTV
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45461
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/200px-MTV2_logo_2013.svg.png",ช่อง MTV2
-https://fl5.moveonjoy.com/MTV_2/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://seeklogo.com/images/M/mtv-live-hd-2013-logo-CFB830E358-seeklogo.com.png",ช่อง MTV LIVE
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45460
