@@ -16,6 +16,9 @@ https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://s.isanook.com/ns/0/ud/192/963123/nbt.jpg",ช่อง NBT
 https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://positioningmag.com/wp-content/uploads/2020/08/1.jpg",ช่อง NBT World
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mtyWuD3YrtZSvORvi4qnYNpKkTo1nIVkU52HIT1bcrUAA=s900-c-k-c0x00ffffff-no-rj",ช่อง NBT ภาคกลาง
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
 
@@ -35,7 +38,7 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://edge6a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png",ช่อง AMARIN TV
-https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",ช่อง PPTV HD
 https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
@@ -2676,6 +2679,9 @@ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png",ช่อง FX
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6435/index.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://ew.com/thmb/mmcB3If_wztz2KnQBLjdyFd0f4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/syfy-67b52e1eacd84cf780267163cde7e72a.jpg",ช่อง Syfy
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/02/BBC-LOGO.png",ช่อง BBC AMERICA
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45612
 
@@ -2693,6 +2699,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1H423xw8XCTugW8uYZEdZVY1zSFgIJcLNg&s",ช่อง MOVIEPLEX
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45536
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1280px-Hallmark_Channel.svg.png",ช่อง Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/USA_Network_logo_original.svg/192px-USA_Network_logo_original.svg.png?20180325180606",ช่อง USA Network
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1101/index.m3u8
@@ -2750,6 +2759,21 @@ https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU2M9Ttg-9HqWKoyIqbmhGl3FUgG5Pglo4Q&s",ช่อง TLC
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45471
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png",ช่อง BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/8/8f/20210706212206%21BET_Jams_Logo.png",ช่อง BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png",ช่อง BET Her
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/0/0f/90E6F9AB-9C31-47C3-8E27-6724099F9941.png/revision/latest?cb=20191208013200",ช่อง BET Gospel
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2sNnYY1CfUkEQGNtEn5WhdTUmpRFULBkSg&s",ช่อง FYI
+http://fl2.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/1200px-Circle_Network_logo.svg.png",ช่อง Circle
 https://circle-samsung.amagi.tv/playlist.m3u8
@@ -2822,6 +2846,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",ช่อง CRIME & INVESTIGATION
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=90938
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png",ช่อง Oxygen
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",ช่อง DISCOVERY
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45442
@@ -2897,6 +2924,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vbgP2dY_NZVT3SVtD5L9WGbM0N42ZocRdw&s",ช่อง MTV
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45461
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/200px-MTV2_logo_2013.svg.png",ช่อง MTV2
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://seeklogo.com/images/M/mtv-live-hd-2013-logo-CFB830E358-seeklogo.com.png",ช่อง MTV LIVE
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45460
