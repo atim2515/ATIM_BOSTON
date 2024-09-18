@@ -50,7 +50,7 @@ https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
 https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",ช่อง ONE 31
-https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
 https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
@@ -92,7 +92,7 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/615/026/000/1418748190-nationtvne-o.jpg",ช่อง Nation TV
-https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -2925,6 +2925,12 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1H423xw8XCTugW8uYZEdZVY1zSFgIJcLNg&s",ช่อง MOVIEPLEX
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45536
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/220px-MGM%2B_logo.svg.png",ช่อง MGM+
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk7M2Sgo8LcqZ99XKo-9aekgxzuLKDg_j_mg&s",ช่อง MGM+ Marquee
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1280px-Hallmark_Channel.svg.png",ช่อง Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
@@ -3263,6 +3269,9 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19150/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png",ช่อง Red Bull TV
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/16040/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://deadline.com/wp-content/uploads/2018/01/big-ten-network-logo.jpg?w=621&h=383&crop=1",ช่อง Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://kmph.com/resources/media2/16x9/full/1015/center/80/7469f2c1-58f1-46ab-9bf1-bd395e0d46ab-large16x9_TENNISCHANNELIMAGE.png",ช่อง TENNIS CHANNEL
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6096/index.m3u8
