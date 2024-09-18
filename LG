@@ -92,7 +92,7 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/615/026/000/1418748190-nationtvne-o.jpg",ช่อง Nation TV
-http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -2985,6 +2985,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTuO0VbPzyHkFsH6MRHsvm19v29fhXH2ma9pZ8p=s900-c-k-c0x00ffffff-no-rj",ช่อง ET Live
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/150px-Logo_TV_2015.svg.png",ช่อง Logo
+http://fl3.moveonjoy.com/Logo/index.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9W6uu25eTRN1NZTiqrUeCHrKQ4gVNb-4Ubw&s",ช่อง AWE Encore
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 
@@ -3270,7 +3273,10 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19150/index.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png",ช่อง Red Bull TV
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/16040/index.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://deadline.com/wp-content/uploads/2018/01/big-ten-network-logo.jpg?w=621&h=383&crop=1",ช่อง Big Ten Network
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png",ช่อง MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png",ช่อง Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://kmph.com/resources/media2/16x9/full/1015/center/80/7469f2c1-58f1-46ab-9bf1-bd395e0d46ab-large16x9_TENNISCHANNELIMAGE.png",ช่อง TENNIS CHANNEL
