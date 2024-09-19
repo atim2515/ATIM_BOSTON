@@ -6393,6 +6393,9 @@ https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://www.hmongusatv.com/wp-content/uploads/2020/11/logoUSA-1.png",ช่อง HmongUSA TV
 https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",ช่อง CINEMAX
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571214
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",ช่อง AXN
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571222
 
@@ -6411,6 +6414,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",ช่อง Discovery Science
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571211
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",ช่อง DMAX
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571206
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571179
 
@@ -6428,6 +6434,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU2M9Ttg-9HqWKoyIqbmhGl3FUgG5Pglo4Q&s",ช่อง TLC
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571189
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png",ช่อง TRAVEL CHANNEL
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=731794
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Astro_Premier_flat.png/revision/latest?cb=20230918040502",ช่อง Astro Premier
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111034
@@ -6465,14 +6474,32 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png",ช่อง ANIMAX
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=731865
 
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/2560px-Nickelodeon_2023_logo_%28outline%29.svg.png",ช่อง NICKELODEON
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571283
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/799px-Moonbug_Kids.svg.png?20220206210555",ช่อง MOONBUG KIDS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926168
+
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCs6wGG-3FlKaKTQL7ls9NsvLYPsKNxDdqQ&s",ช่อง ARIRANG
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926203
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2560px-Logo_tvN.svg.png",ช่อง tvN
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571260
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s",ช่อง KBS WORLD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=731824
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK-ntOmelaOpQq5DsmOeCCjzK_bfEbffqKzA&s",ช่อง KIX
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926171
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png",ช่อง BBC EARTH
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926201
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/800px-BBC_World_News_red.svg.png",ช่อง BBC WORLD NEWS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926200
+
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/640px-WWE_official_logo.svg.png",ช่อง WWE
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571184
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700",ช่อง 天映经典
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571182
