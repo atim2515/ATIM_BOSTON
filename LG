@@ -95,7 +95,7 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/615/026/000/1418748190-nationtvne-o.jpg",ช่อง Nation TV
-http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -142,7 +142,7 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_W_2JqEruZTu1NuWTkX6OxW9zvDqzz7NzNA&s",ช่อง แซ่บ ชาแนล
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.imgur.com/MrjG6dC.png",ช่อง Varanya's Show
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://tvshopping.vn/wp-content/uploads/2022/04/tvshoping.png",ช่อง Varanya's Show
 https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/chunklist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://bit.ly/3nJtvVE",ช่อง DLTV 1
@@ -294,9 +294,6 @@ https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/32_x_g95VQeLUSctjWdIql3rMmDiPCAbxGayo.jpg",ช่อง MV Mall Plus
 https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
-
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v2h2-th.png",ช่อง V2H2
-https://edge2a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
@@ -1532,6 +1529,99 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stre
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://i.ytimg.com/vi/yCYxLSvfYeo/maxresdefault.jpg",ช่อง CM HOLLYWOOD 50
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:9B:2B:C3&extension=ts&stream=1438428
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store info
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567232
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 1
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567233
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 2
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567234
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 3
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567235
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 4
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567236
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 5
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567237
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 6
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567238
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 7
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567239
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 8
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567240
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 9
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567241
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 10
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567242
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 11
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567243
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 12
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567244
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 13
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567245
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 14
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567246
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 15
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567247
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 16
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567248
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 17
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567249
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 18
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567250
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 19
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567251
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 20
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567252
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 21
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567253
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 22
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567254
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 23
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567255
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 24
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567256
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 25
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567257
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 26
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567258
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 27
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567259
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 28
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567260
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 29
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567261
+
+#EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT1klS2nAwnvjJUBKtCHeIikk5dmeFgRMMA&s",ช่อง Sky Store Premiere 30
+http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567262
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://www.boredpanda.com/blog/wp-content/uploads/2022/02/fb_image_61f907334fa6b-png__700.jpg",ช่อง Reality Show info
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567214
