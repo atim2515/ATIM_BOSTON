@@ -549,6 +549,9 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmiOxYR0rNiYIuxjtJW2_mP-3-Dhe-_AY7rwyk_kdGA&s",ช่อง Horror Machine
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd7c9fc0-461a-4e62-98a1-6420747f358e/FrightFlix_artwork_horizontal.jpg",ช่อง Fright Flix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3964
+
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.xumo.com/v1/channels/channel/9999302/300x300.png?type=smartCast_channelTile",ช่อง Hi-YAH
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
@@ -557,6 +560,9 @@ https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png",ช่อง Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4729689c-cf27-4e2b-886c-165b4656c006/Cinepride_artwork_horizontal.jpeg",ช่อง CINEPRIDE
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3954
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png",ช่อง Rakuten Family Movies
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
@@ -1989,6 +1995,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/1200px-Treehouse_TV_logo.svg.png",ช่อง TREEHOUSE
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=177337
 
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKiWZhhMJAV65q-2XohpzR89Wg7CANnWvsA&s",ช่อง Watch it .Kid
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3970
+
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCzC3-kSTcbu3wMNtVxdgGPm37pzPb_qMlIpOM-X1_wHw=s900-c-k-c0x00ffffff-no-rj",ช่อง 123 GO! LIVE
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 
@@ -2214,6 +2223,9 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png",ช่อง Beach TV Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtMVKEbyTbhDGSYwXVkarL0kk3_uk4vwANQ&s",ช่อง The Palm Beaches TV
+https://live.feed.thepalmbeaches.tv/index.m3u8
+
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://static.wixstatic.com/media/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png/v1/fill/w_1917,h_771,al_c/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png",ช่อง XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8
 
@@ -2277,6 +2289,9 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",ช่อง LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg",ช่อง Docurama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docrumaa-freetv/playlist.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg?fit=250%2C250&ssl=1",ช่อง Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
 
@@ -2303,6 +2318,12 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlis
 
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://www.postwrestling.com/wp-content/uploads/2019/01/impact-wrestling-social-2018.jpg",ช่อง Impact Wrestling
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",ช่อง Trace Sports Stars
+https://tracesportstars-freetv.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-freetv/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a2b787ae-e7f3-4dec-b4a5-8ef5ddffab03/DungeonTV_artwork_horizontal.jpeg",ช่อง Dungeon
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3958
 
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://media.glassdoor.com/sqll/1374572/lax-sports-network-squarelogo-1513143171554.png",ช่อง Lax Sports Network TV
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
