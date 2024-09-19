@@ -561,6 +561,12 @@ https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png",ช่อง Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://10play.com.au/ip/s3/2023/01/25/f0a87010a3de3fbfb828dbdbc7fdabb6-1213478.jpg?io=landscape",ช่อง MovieSphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphereaus-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8mruuYzMrXf1HXSRqu2d9afiCSwdWE7lOp1Z4auJvw-OuQtdfP3h4AQ1F4J0BNxGwxU&usqp=CAU",ช่อง Action Hollywood Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-fetchtvau/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4729689c-cf27-4e2b-886c-165b4656c006/Cinepride_artwork_horizontal.jpeg",ช่อง CINEPRIDE
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3954
 
@@ -2232,6 +2238,15 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71x-fPLrErL.png",ช่อง Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://www.failarmy.com/cdn/shop/t/25/assets/logo-image-file.png?v=88203441892567631601703008237",ช่อง FailArmy
+https://jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2020/04/Outdoor_Channel_282017-.n.v.29.png",ช่อง Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortv-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0pUPcDReE0yy0vx8EAuGOlFT8a92tdXOYg&s",ช่อง Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-fetchtvau/playlist.m3u8
+
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://play-lh.googleusercontent.com/tikW7wLc8E5FCt5niq_PhUFicWrU12nSgEfqfGFwyecdJLdhS-pBc9AS_WaN5lcM_WI",ช่อง STIRR City
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 
@@ -2246,6 +2261,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf
 
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://cdn.shopify.com/s/files/1/0035/2508/3181/files/BON_001_Shopify_logo_r3_x300.gif?v=1565812544",ช่อง Bon Appetit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FOOD CH" tvg-logo="https://image.roku.com/developer_channels/prod/ded1f0b2d19ef85143c4465b044b64345b41fedb486e7d3721ff5ffd85c91f85.png",ช่อง Gusto TV
+https://gustotv-samsung-au.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGGe_M1PZ407w/company-logo_200_200/0/1615407647420?e=2159024400&v=beta&t=t14m3LO-coPRLosC5MywL0Zb1eFq5X7yfjtShrjhhwU",ช่อง Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
@@ -2289,11 +2307,20 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",ช่อง LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg",ช่อง Docurama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docrumaa-freetv/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png",ช่อง INFAST
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/",ช่อง INTROUBLE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublehd-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKy6Thi-nVwId_Z24tjywVxN29b2aPEmlRew&s",ช่อง INWONDER
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-fetchtvau/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg?fit=250%2C250&ssl=1",ช่อง Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://www.fetchtv.com.au/marketing/img/features-and-packages/included-channels/haunt-tv.png",ช่อง Haunt TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaustralia-fetchtvau/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
@@ -2328,6 +2355,12 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3958
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://media.glassdoor.com/sqll/1374572/lax-sports-network-squarelogo-1513143171554.png",ช่อง Lax Sports Network TV
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
+#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5HOH1d2fL9Qh-3KKrKcbgETDdzQclpUxYA&s",ช่อง Fuel TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvauen-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeotv/WickedTuna/showimages/f77c1071dd7b82916caa59ea9b0b2f17/1600x900-Q90_f77c1071dd7b82916caa59ea9b0b2f17.jpg",ช่อง The Wicked Tuna Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-fetchtvau/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG",ช่อง Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
@@ -2349,6 +2382,9 @@ https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://play-lh.googleusercontent.com/x6e8G5-X3CxKrOszUaZ_lzPwonSYMA3T0wctAvlGopMhPVNF8izOl-4FaEfbyELrcA",ช่อง AKC TV
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 
+#EXTINF:-1 group-title="PET CH" tvg-logo="https://cdn.mos.cms.futurecdn.net/xvPiVbHBDvsz3HXWJzenxE-1200-80.jpg",ช่อง The Pet Collective
+https://jukin-thepetcollective-1-au.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
@@ -2360,9 +2396,6 @@ https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
-
-#EXTINF:-1 group-title="NEWS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",ช่อง VOICE TV
-https://stream.freetv.fun/d88c52193c030485ae249f2a13de2ddf1cf33a20b158427354b0ec70e60cdee9.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png",ช่อง CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -2396,6 +2429,9 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://i.iheart.com/v3/re/new_assets/5faefbc04b2d2470f40bf614",ช่อง OAN
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS CH" tvg-logo="https://tickernews.co/wp-content/uploads/2023/09/TICKER-ROYAL-BLUE-LOGO.png",ช่อง Ticker News
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsfetchau-fetchtvau/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf12DWr6qDElS5TxJ7m-A9MCZC76ljrYD0mO6pUEiToSAa5a7BsEoMYaKMPSIRBzbf07I&usqp=CAU",ช่อง Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
