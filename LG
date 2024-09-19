@@ -82,6 +82,9 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png",ช่อง มวลชน ทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",ช่อง Thai News
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/57e474db-0dce-4fdc-93d8-bc2b57d3a685.png",ช่อง สุวรรณภูมิ
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
@@ -92,13 +95,10 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/615/026/000/1418748190-nationtvne-o.jpg",ช่อง Nation TV
-https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",ช่อง VOICE TV
-https://stream.freetv.fun/d88c52193c030485ae249f2a13de2ddf1cf33a20b158427354b0ec70e60cdee9.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png",ช่อง ZOOM072.Net
 https://live.zoom072.com/ch5/ch5.m3u8
@@ -142,7 +142,7 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_W_2JqEruZTu1NuWTkX6OxW9zvDqzz7NzNA&s",ช่อง แซ่บ ชาแนล
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://tvshopping.vn/wp-content/uploads/2022/04/tvshoping.png",ช่อง Varanya's Show
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.imgur.com/MrjG6dC.png",ช่อง Varanya's Show
 https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/chunklist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://bit.ly/3nJtvVE",ช่อง DLTV 1
@@ -294,6 +294,9 @@ https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/32_x_g95VQeLUSctjWdIql3rMmDiPCAbxGayo.jpg",ช่อง MV Mall Plus
 https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v2h2-th.png",ช่อง V2H2
+https://edge2a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
@@ -2898,6 +2901,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHmTLIcleUUY5YDlwVCqLn0dzNLGEyFC6pw&s",ช่อง STARZ ENCORE CLASSIC
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45487
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Paramount_Network_%28Black%29_Logo.png",ช่อง Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png",ช่อง SONY MOVIE CHANNEL
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=91789
 
@@ -2963,6 +2969,9 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6419/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ช่อง ABC
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1087/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/ABC_25_Columbia_logo_2022.png",ช่อง ABC 25 Columbia
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png",ช่อง ABC Spark
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/6466/index.m3u8
@@ -3041,6 +3050,12 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19147/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://play-lh.googleusercontent.com/EXg_nZ2hwTkZzTnV274559uvzXJlRugUbb9ATi9bSxFh9d1YP6lUqNaMzreo1ibTUw",ช่อง OAN
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NewsNation_logo.svg/1280px-NewsNation_logo.svg.png",ช่อง NewsNation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1024px-C-SPAN_Logo_%282019%29.svg.png",ช่อง C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://logowik.com/content/uploads/images/yahoo-finance7411.jpg",ช่อง Yahoo! Finance
 https://yahoo-roku-us.amagi.tv/playlist.m3u8
@@ -3279,8 +3294,14 @@ http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/19150/index.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png",ช่อง Red Bull TV
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/16040/index.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKv0pAlbnbPt6CqqAARAa6NHRbrOvFtpUBg&s",ช่อง NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png",ช่อง MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/200px-YES_Network_logo.svg.png",ช่อง Yes Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png",ช่อง Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
