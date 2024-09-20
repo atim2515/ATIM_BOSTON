@@ -2,16 +2,16 @@
 
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/chunklist_w575099455_b4692000_slThai.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",ช่อง 5
-https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",ช่อง 7
-http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/428/057/000/p88xfxv2eU2OHPlO7dF-o.png",ช่อง 9
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://s.isanook.com/ns/0/ud/192/963123/nbt.jpg",ช่อง NBT
 https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
@@ -35,25 +35,25 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunk
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png",ช่อง ALTV
-https://edge6a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png",ช่อง AMARIN TV
-http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1726942911&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=SC4S_KPEqHrjHU-no9YG1Q
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",ช่อง PPTV HD
-https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+https://pptv36-1tsjfj.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1726883401&x_ark_path_prefix=%2Flive%2F&x_ark_signature=zX7SAqQa6nVJS6XjH4HyQA
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.thairath.co.th/assets/tv/img/share_tv.jpg",ช่อง Thairath TV
-https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.gmm25.com/asset/img/gmm25-logo.png",ช่อง GMM25
-https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",ช่อง ONE 31
 https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
-https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/5408a390-5377-11ee-8e1b-194edbb69638_webp_original.webp",ช่อง CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
@@ -61,8 +61,11 @@ https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29 (Soundtrack)
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",ช่อง Workpoint TV
-https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://hilight.kapook.com/img_cms2/user/pichaya/2023/1/08/jkn03.jpg",ช่อง JKN18
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
@@ -92,10 +95,10 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 https://live.x2.co.th/live/13livetv-th.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
-https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+https://iptv36.vercel.app/api/true?channel=tnn16hd
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/615/026/000/1418748190-nationtvne-o.jpg",ช่อง Nation TV
-https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
