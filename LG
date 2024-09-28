@@ -262,10 +262,10 @@ https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/153_x_IMz6So10K5qk7i9tlCZFAYrsBLDp3Eye.jpg",ช่อง Boomerang
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream//playlist.m3u8
 
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/33_x_bMhkve5VyzXn2DTam83pIoHBNd9R41Jj.png",ช่อง MV LAO
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQio07CFWQftvEZGeBMeHFZIxRfJm2DbC6_bQ&s",ช่อง MV LAO
 https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/34_x_Fk9Q2nuGNSaPJeiH6BAULjDWhX1bmMzE.png",ช่อง MVM
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",ช่อง MVM
 https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/109_x_S4Uanv7tueOR9YAysVEH1WjmBClqkTM5.jpg",ช่อง MVC-TV3
@@ -476,6 +476,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png",ช่อง SONY MOVIE CHANNEL
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=91789
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYmLrLwvtPlyZFh6POOUZ3Hnyv-zkEXw-ww&s",ช่อง SONY CINE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",ช่อง AMC
 http://38b891c9.rossteleccom.net/iptv/USBN2X5DXL5CHW/1083/index.m3u8
@@ -1953,6 +1956,15 @@ https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s",ช่อง Loupe
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://press.upentertainment.com/wp-content/uploads/2022/03/aspire-tv-life-logo-570x380.jpg",ช่อง Aspire TV Life
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQlylIMb06YQRCEgms-iNHw5qBzflInzsbw&s",ช่อง Game Show Network
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/77/fd/d677fddf-c0f7-cd63-0823-33ed4bc8f434/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1200x600wa.png",ช่อง Lifeminute.tv
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://play-lh.googleusercontent.com/g7GtFpPuo5RelDW0nEZlE0Grk15zGhBh0TKAQoLbJXILrTDi88lbthSmDR4TSdHrDiZf",ช่อง Humor Mill
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 
@@ -1965,7 +1977,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",ช่อง Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png",ช่อง BOOM ANIME
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxysvva86UdV2btn-I1uZ7h-FPEGxmlinqoA&s",ช่อง BOOM ANIME
 https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",ช่อง Boomerang Thai
@@ -2267,6 +2279,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf
 
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://cdn.shopify.com/s/files/1/0035/2508/3181/files/BON_001_Shopify_logo_r3_x300.gif?v=1565812544",ช่อง Bon Appetit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FOOD CH" tvg-logo="https://image.roku.com/developer_channels/prod/67c772bb9fce340d413ebc744e90bb590624c5c5335323e72b3400f3d8a3c152.png",ช่อง Cooking Panda
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?&version=12&id=901&partner=klowdtv&device_model=&device_width=1920&device_height=1080&yob=&gender=&us_privacy=1---&gdpr=&gdpr_consent=&device_language=&is_lat=
 
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://image.roku.com/developer_channels/prod/ded1f0b2d19ef85143c4465b044b64345b41fedb486e7d3721ff5ffd85c91f85.png",ช่อง Gusto TV
 https://gustotv-samsung-au.samsung.wurl.tv/playlist.m3u8
@@ -3201,7 +3216,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png",ช่อง CNBC
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45593
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png",ช่อง CNBC WORLD
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_mjXQ9LB6AZQp2XCeB0iHILuzEX3jzmy0pw&s",ช่อง CNBC WORLD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=91782
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1200px-BBC_World_News_2022.svg.png",ช่อง BBC WORLD NEWS
@@ -3933,7 +3948,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IW_Logo.svg/1200px-IW_Logo.svg.png",ช่อง Ideal World TV
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/507934
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://creativestories808.com/wp-content/uploads/2020/08/discovery-channel-logo.png?w=1024",ช่อง DISCOVERY CHANNEL
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",ช่อง DISCOVERY CHANNEL
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=30549
 
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Discovery_%2B1_%282019%29.svg/revision/latest/scale-to-width-down/250?cb=20221106011522",ช่อง Discovery +1
@@ -4653,7 +4668,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38",ช่อง THE K-POP 2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://viberatecdn.blob.core.windows.net/entity/artist/newkidd-3pfB1",ช่อง NewKidd
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.pinimg.com/originals/9d/f0/60/9df060e4ff36d123efcfaa15d41b228c.jpg",ช่อง NewKidd
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://pbs.twimg.com/profile_images/1347443419019239425/3GrnHjge_400x400.jpg",ช่อง KBS World
@@ -6791,63 +6806,3 @@ http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
 
 #EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 普通話台
 http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?&version=12&id=901&partner=klowdtv&device_model=&device_width=1920&device_height=1080&yob=&gender=&us_privacy=1---&gdpr=&gdpr_consent=&device_language=&is_lat=
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5288
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://actionhollywood-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-actionhollywood-klowdtv/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5290
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://amg00283-anthymtv-911network-ono-p7py5.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://muxip-hardknocks-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-hardknocks/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://naviofequency-campusloresports.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://darkmatter-klowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://popstar-klowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://muxip-24hoursmovies-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-24hoursmovies/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/pop_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://cinedigm-fantawild-klowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="yed" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01570-carbontv-carbontv-klowdtv/playlist.m3u8
