@@ -71,9 +71,6 @@ https://www.inwiptv.com/player_demo.php?channel=40910
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://www.inwiptv.com/player_demo.php?channel=40886
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",ช่อง THAI NEWS
-https://live.thaitvstream.com/play/thaikaona/index.m3u8
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",ช่อง PTV
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
@@ -351,111 +348,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/09/03/large/20220903145524161520_92.jpg",ช่อง SCTV
 https://stream.freetv.fun/1c8df564d969a605d8013bb286c7f3eb00015416d67b3cf0776eab4b92f64147.ctv
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173857976881_92.png",ช่อง tvri nasional
-https://stream.freetv.fun/c650b0c9bda09bc3cd7380f929bb5a1f623d4bf0a008136896482c1ae0c70f2c.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173857976881_92.png",ช่อง tvri jakarta
-https://stream.freetv.fun/e7791f7487a20dbc88ffc6740c1c1dee4c781a771c998e4d34a7615ddc1896d1.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173857976881_92.png",ช่อง tvri yogyakarta
-https://stream.freetv.fun/bc75766fe6dc027871a01aaad1ae79e4f7a58bae2f1d52a892ece64be7d4346f.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png",ช่อง TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://seeklogo.com/images/T/trans-7-logo-E431AA9800-seeklogo.com.png",ช่อง TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS9gu1kN_SETA96FjlqZwi0aVWiagXvZ6syqZKx=s900-c-k-c0x00ffffff-no-rj",ช่อง UGTV HD
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/200px-BTV_%28Indonesia%29_logo.svg.png",ช่อง BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/cca77230e396b443174a014efe4acb6f.jpg",ช่อง METRO TV
-https://stream.freetv.fun/7dfe7a6d8b1b36376c919482772ebbf5e94ff5089100602617c3d118004038fd.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",ช่อง METRO GLOBE NETWORK
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRGHsUTzSoNy2EDowWYXiDBULWkPA4-TuQgQ&s",ช่อง Padang TV
-https://stream.freetv.fun/e527b98e316765d91442e7f9db5ef465f498699063e878586bfae9230b2f01dd.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.ytimg.com/vi/SuiXn6MjLlc/maxresdefault.jpg",ช่อง Jawa Pos TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/IDTV.svg/1200px-IDTV.svg.png",ช่อง IDTV
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/9C3eaL4t0SiI0Nie_sNvc-amO-CSKG7_wOUcrnqEvB-oe16SLqAMU3Xw1n9POlH_PzeELw6l=s900-c-k-c0x00ffffff-no-rj",ช่อง IMTV
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l7vncFZAHBxu5eXX1OEvRRsa-9caMKsPiHrBr6ng=s900-c-k-c0x00ffffff-no-rj",ช่อง Nagaswara Dangdut
-https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bAVfQ6gpye.png",ช่อง Nagaswara Pop
-https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/g4kUYcZWjy.png",ช่อง Nagaswara Dance
-https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg",ช่อง My Cinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg",ช่อง My Cinema Asia
-http://210.210.155.35/uq2663/h/h193/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg",ช่อง My Family Channel
-http://210.210.155.37/uq2663/h/h194/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",ช่อง My Kidz
-http://210.210.155.37/uq2663/h/h191/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/51228a21277171.562fe7a2cca71.jpg",ช่อง CELESTIAL MOVIES
-http://210.210.155.35/uq2663/h/h14/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/CCM_Celestial_Classic_Movies.jpg/revision/latest?cb=20120620033034",ช่อง CELESTIAL CLASIC MOVIES
-http://210.210.155.35:80/uq2663/h/h239/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",ช่อง ROCK Entertainment
-http://210.210.155.35/uq2663/h/h16/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/15/f3c87ce0-3b4c-11ee-9a2b-95fa44b28696_webp_original.webp",ช่อง ROCK Action
-http://210.210.155.35/uq2663/h/h15/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2048px-NHK_World.svg.png",ช่อง NHK WORLD
-http://210.210.155.35/uq2663/h/h23/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png",ช่อง tvN
-http://210.210.155.35/uq2663/h/h20/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg",ช่อง tvN Movies
-http://210.210.155.35/uq2663/h/h21/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1693576055737487360/7rbADPvJ_400x400.jpg",ช่อง CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",ช่อง CNA
-http://210.210.155.35/uq2663/h/h29/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TV5Monde_Style_2023.svg/revision/latest/scale-to-width-down/250?cb=20231101032935",ช่อง TV5MONDE Style
-http://210.210.155.35/uq2663/h/h121/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline-900x653.png",ช่อง W-sport
-http://210.210.155.35/uq2663/h/h26/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://radioink.com/wp-content/uploads/2023/10/Motor-Racing-Network.jpeg",ช่อง MotoRRacing TV
-http://210.210.155.35:80/uq2663/h/h123/live.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nifg16Trl8NlfxHof3hbBThOF9K6XhAGAMkMUcGA=s900-c-k-c0x00ffffff-no-rj",ช่อง HorizonSports
-http://210.210.155.35:80/uq2663/h/h127/live.m3u8
-
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",ช่อง TV1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
@@ -463,30 +355,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",ช่อง TV2
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",ช่อง Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",ช่อง TVIKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",ช่อง Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1200px-Sukan_RTM_1_April.png",ช่อง Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png",ช่อง RTB SUKMAINDERA
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png",ช่อง RTB ANEKA
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png",ช่อง RTB GO
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022331272861_32.png",ช่อง GMA Pinoy Tv
 https://stream.freetv.fun/cc62fab4771426163a9fb1afb1c49690cba77a122693d839a1b9ba1b8ef6253c.ctv
