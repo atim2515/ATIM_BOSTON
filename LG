@@ -82,11 +82,40 @@ http://dopachannel.truegse.com/live/dopatv03.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/6BYIsYL2sWhmBVZtJGYfSnCXly2B2_EsGgegdtBSskzOf1rKwV1Qy7HuHAqCSf-qtMg",ช่อง Pattaya People TV
+http://s1.thailandstreaming.net:1935/live/ppmg/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png",ช่อง @แอททีวี
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59.png",ช่อง คูล ชาแนล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่อง มังกร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",ช่อง SIAM NEWS
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png",ช่อง มวลชน ทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",ช่อง Thai News
 https://live.thaitvstream.com/play/thainews/index.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",ช่อง PTV
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://png.pngtree.com/png-vector/20231115/ourmid/pngtree-bangkok-destinations-rubber-sticker-png-image_10577085.png",ช่อง บางกอก CHANNEL
+https://live2.thaitvstream.com/play/gochannel/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/57e474db-0dce-4fdc-93d8-bc2b57d3a685.png",ช่อง สุวรรณภูมิ
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
@@ -6173,9 +6202,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",ช่อง SPOTV2
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941563
-
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://assets.myx.global/wp-content/uploads/2022/11/myxBanner_1080x1080_New.jpg",ช่อง MYX
-https://stream.freetv.fun/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.ctv
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg",ช่อง SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
