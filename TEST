@@ -1,8 +1,5 @@
 #EXTM3U
  
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/6BYIsYL2sWhmBVZtJGYfSnCXly2B2_EsGgegdtBSskzOf1rKwV1Qy7HuHAqCSf-qtMg",ช่อง Pattaya People TV
-http://s1.thailandstreaming.net:1935/live/ppmg/playlist.m3u8
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",ช่อง HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela.live/live-tv/hbo
@@ -70,16 +67,6 @@ https://www.inwiptv.com/player_demo.php?channel=40910
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://img.inwiptv.net/postor/20240421225237CGTN.jpg",ช่อง FW CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://www.inwiptv.com/player_demo.php?channel=40886
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",ช่อง PTV
-https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://png.pngtree.com/png-vector/20231115/ourmid/pngtree-bangkok-destinations-rubber-sticker-png-image_10577085.png",ช่อง บางกอก CHANNEL
-https://live2.thaitvstream.com/play/gochannel/index.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://inwfile.com/s-aa/d3l2e4.jpg",ช่อง UMMTV
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://symc-cdn.violin.co.th/madoit/timetv/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",ช่อง True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -252,9 +239,6 @@ https://dookeela.live/live-tv/cnn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela.live/live-tv/bbc-news
 
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/111_x_siDEFTI2noQW0ute1kA3RarfOvGjzXqw.png",ช่อง มูเตลู
-https://psiiptv-b.sky-cdn.com/ttd25-playlist/index.m3u8
-
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/95_x_O8Du7ETc04HmRsBeJxqiZQtv9zVwaAGy.jpg",ช่อง TTD1
 https://psiiptv-b.sky-cdn.com/ttd01-playlist/tracks-v1a1/playlist.m3u8
 
@@ -278,9 +262,6 @@ https://psiiptv-b.sky-cdn.com/ttd07-playlist/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/103_x_W3OEfxzLwjldUGoSrtCY9knQ8BM1aiJp.jpg",ช่อง TTD8
 https://psiiptv-b.sky-cdn.com/ttd08-playlist/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/153_x_IMz6So10K5qk7i9tlCZFAYrsBLDp3Eye.jpg",ช่อง TTD9
-https://edge6a.v2h-cdn.com/boomerang/boomerang.stream//playlist.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/105_x_yRSd1jaYKgJ4VAI0cnuDzmNGlftUBZws.png",ช่อง TTD10
 https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8
@@ -333,9 +314,6 @@ https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/170_x_QsStd7nhyiNa84EJBvPcgDTCA0bI3xV1.jpg",ช่อง V2H15
 https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/tEtAip-sN2g4DN_-G0dO1kgb8tpL4hZkJW4LDIpKECLostodleuohg1cA3hE4pOS__jZi32iFw",ช่อง Nippon TV News
-https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/yQSsRuHFP9IWtOUwzXbcf7gNiz66oNga8set1TYy7jq6UnG_GMWbd3ZWIQPZkaRKbSqvk5gmPTc",ช่อง メ〜テレ名古屋テレビ NEWS
 https://ythls-v3.onrender.com/video/-C6FE2m7kX8.m3u8
 
@@ -355,12 +333,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",ช่อง TV2
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
-
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022331272861_32.png",ช่อง GMA Pinoy Tv
-https://stream.freetv.fun/cc62fab4771426163a9fb1afb1c49690cba77a122693d839a1b9ba1b8ef6253c.ctv
-
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://epg.pw/media/images/channel/2024/03/25/large/20240325000042898868_30.jpg",ช่อง GMA News TV
-https://stream.freetv.fun/6ad7bc0a71961576259d17fa2d7604b2ae6f4503f120dcdd02ed5cc3466132ef.ctv
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://assets.myx.global/wp-content/uploads/2022/11/myxBanner_1080x1080_New.jpg",ช่อง MYX
 https://stream.freetv.fun/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.ctv
@@ -452,21 +424,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_ident_2014_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20230323091526&path-prefix=vi",ช่อง SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png",ช่อง ANTV
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png",ช่อง VNews
-https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png",ช่อง Nhân Dân TV
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png",ช่อง Quốc Hội
-http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png",ช่อง BRT HD | TH Bà Rịa Vũng Tàu
-https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png",ช่อง Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -606,92 +563,3 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22374
 
 #EXTINF:-1 group-title="JAPAN RADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995d.png",ช่อง Powerplay J-Pop
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22384
-
-#EXTINF:-1 ,澳门卫星
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 ,澳门
-http://61.244.22.4/ch3/ch3.live/chunklist_w72827378.m3u8
-#EXTINF:-1 ,澳门有线I
-http://202.175.127.77/live/show/ch1/index.m3u8
-#EXTINF:-1 ,澳门有线II
-http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 ,澳门有线III
-http://202.175.127.77/live/show/ch3/index.m3u8
-#EXTINF:-1 ,澳门综艺
-http://61.244.22.5/ch6/_definst_/hd_ch6.live/opuylist.m3u8
-#EXTINF:-1 ,澳视澳门
-http://61.244.22.4/ch1/ch1.live/chunklist_w1769233607.m3u8
-#EXTINF:-1 ,澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 ,澳视葡语
-http://61.244.22.4/ch2/ch2.live/chunklist_w861342563.m3u8
-#EXTINF:-1 ,澳亚卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 ,点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 ,TVB财经资讯
-http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 ,TVB翡翠台
-http://danielwu.gz01.bdysite.com/iptv/?id=tvb
-#EXTINF:-1 ,TVB翡翠台
-http://520574.xyz/dl/iptv.php?id=1
-#EXTINF:-1 ,TVB翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-#EXTINF:-1 ,TVB明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-#EXTINF:-1 ,TVB明珠台
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1 ,TVB明珠台
-http://116.199.5.52:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 ,TVB新闻
-http://tv.sason.xyz/proxy/tvb.php?id=xw
- #EXTINF:-1 ,彭博财经台
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 ,亚旅卫视
-http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 ,凤凰卫视中文台
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 ,凤凰卫视中文台
-http://liveali.ifeng.com/live/FHZW.flv
-#EXTINF:-1 ,凤凰中文
-http://39.134.176.157/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 ,凤凰中文
-http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 ,凤凰卫视资讯台
-http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 ,凤凰卫视资讯台
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1 ,凤凰卫视资讯台
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 ,凤凰卫视资讯台
-http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452
-#EXTINF:-1 ,凤凰卫视资讯台
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 ,凤凰卫视资讯台
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 ,凤凰卫视资讯台
-http://liveali.ifeng.com/live/FHZX.flv
-#EXTINF:-1 ,凤凰香港 HD
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 ,凤凰香港
-http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 ,凤凰香港
-http://223.82.250.72/live/fhhongkong/1.m3u8
-#EXTINF:-1 ,阳光卫视
-http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
-#EXTINF:-1 ,阳光卫视
-http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-#EXTINF:-1 ,阳光卫视
-http://stream.chinasuntv.com/680k/mid_video_index.m3u8
-#EXTINF:-1 ,阳光卫视
-https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-#EXTINF:-1 ,耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 ,耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,耀才财经
-http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
