@@ -2201,10 +2201,10 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://support.livexlive.com/hc/theming_assets/01HZPAX7FMJ65BZ82X6XBFCAMS",ช่อง LIVExLIVE
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 
-#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://hoyeeh.com/upload/1QuestTVJazz.png",ช่อง Qwest TV Jazz & Beyond
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4DzZIkOzvlLlFIpx0WSztAjjkTvyTo2yFg&s",ช่อง Qwest TV Jazz & Beyond
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://yt3.googleusercontent.com/UJoQmVbSJ3TxjQ_o9SZxAp6TjFzg1ywIpl75Tnnd-1NckkUi2UiXuvgPAsVRqSt9esOs3aUIrPw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",ช่อง Qwest TV Black Music & Global Sounds
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4DzZIkOzvlLlFIpx0WSztAjjkTvyTo2yFg&s",ช่อง Qwest TV Black Music & Global Sounds
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik AMVA 2020
@@ -2465,6 +2465,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublehd-f
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKy6Thi-nVwId_Z24tjywVxN29b2aPEmlRew&s",ช่อง INWONDER
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-fetchtvau/playlist.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwrxR5Kt3J62AEsCbiuTSlsQ65qjmL-T5zg&s",ช่อง INWILD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwildnz-samsungnz/playlist.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg?fit=250%2C250&ssl=1",ช่อง Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
 
@@ -2485,6 +2488,12 @@ https://c652c4f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYW
 
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRacMlDTuN4eEEex2_-z14svnEcWKvAdrwersZwasjwBTZK1Rd0d-J2AlMZIbOWvyL45m0&usqp=CAU",ช่อง Crime & Punishment
 https://d7278b99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX0NyaW1lYW5kUHVuaXNobWVudF9ITFM/playlist.m3u8?ads.wurl_channel=1230&ads.wurl_name=CrimeandPunishment&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5401
+
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://provider-static.plex.tv/epg/cms/production/94c911d8-cb2a-4184-a0de-b3f6e6260575/1920x1080_Hero__Real_Crime_-_Simon_Tuquabo.jpg",ช่อง Real Crime
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEn-eBuL9NzUm2se4LSvgCHHMMS7O6sYrpGA&s",ช่อง History Hit
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
@@ -2563,6 +2572,9 @@ https://jukin-thepetcollective-1-au.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVda4rgW51tU3R0bEc9cM2Z5N2AbW3nRPgng&s",ช่อง PET CLUB
 https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-petclub-tclus/playlist.m3u8
+
+#EXTINF:-1 group-title="PET CH" tvg-logo="https://images.squarespace-cdn.com/content/v1/5eb18a370c6aef0b9ed26c66/1608115006562-O25FI8GITNENELXGJTAG/WaterBear-Network-2.jpg",ช่อง Waterbear
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
