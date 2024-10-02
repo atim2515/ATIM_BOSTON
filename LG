@@ -635,6 +635,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wixstatic.com/media/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png/v1/fill/w_1280,h_720,al_c/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png",ช่อง Lone Star
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://i.pcmag.com/imagery/reviews/04Li6b38DUaSVJWLgQ01tHq-8..v1585676136.png",ช่อง Crackle
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-vidaa/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://i.pcmag.com/imagery/reviews/04Li6b38DUaSVJWLgQ01tHq-8..v1585676136.png",ช่อง Crackle Classics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassic-vidaa/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHVGsuqUi-9zx9KrGtazVl8jBI26Ot8TUXw&s",ช่อง Chicken Soup for the Soul
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-vidaa/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/marvel-movies-ranked.jpg",ช่อง OnePlay Marvel 1
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567158
 
@@ -2006,6 +2015,9 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf036
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://images.paramount.tech/uri/mgid:arc:imageassetref:mtv.com:b917faa2-f534-4144-a4cc-10bcef252768?quality=0.7&gen=ntrn&legacyStatusCode=true",ช่อง MTV Are you the One
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBUqYObwQgAkd1IiNq0wOlXGwH6isUk72YA&s",ช่อง Mythical 24/7
+https://mythical-ent-mythical247-1-eu.vidaa.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",ช่อง Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
@@ -2300,6 +2312,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-fetch
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://play-lh.googleusercontent.com/tikW7wLc8E5FCt5niq_PhUFicWrU12nSgEfqfGFwyecdJLdhS-pBc9AS_WaN5lcM_WI",ช่อง STIRR City
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXy1NYRPkPxhVPPQbdNBS8u9c-UzbtqZXiA&s",ช่อง CraftsyTV
+https://linear-492.frequency.stream/dist/vidaa/492/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4972
+
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
@@ -2326,6 +2341,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://static.wikia.nocookie.net/masterchef/images/6/6b/474128E8-5CAC-4A4C-AE40-1A40E82CEB27.jpeg/revision/latest?cb=20200912015952",ช่อง MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 group-title="FOOD CH" tvg-logo="https://static.next-episode.net/tv-shows-images/big/great-british-menu.jpg",ช่อง Great British Menu
+https://all3media-great-british-menu-1-gb.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FOOD CH" tvg-logo="https://m.media-amazon.com/images/I/B1EHspAsXmL._SL500_.png",ช่อง So Yummy TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00437-firstmedia-soyummytv-vidaa/playlist.m3u8
+
+#EXTINF:-1 group-title="FOOD CH" tvg-logo="https://variety.com/wp-content/uploads/2014/06/tastemade-logo.png?w=1000&h=600&crop=1",ช่อง Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaustralia-vidaa/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png",ช่อง Discovery Channels
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45442
