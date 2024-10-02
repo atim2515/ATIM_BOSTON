@@ -662,14 +662,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementus
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Are_We_There_Yet_logo.png",ช่อง Are We There Yet
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-arewethereyetus-vidaa/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/The_Guardian_%28TV_series%29.png",ช่อง Guardian
-https://rakuten-guardian-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/137e73d4adc4ae9dc1312096219f5ac18becc588585d9412eff37fe1ae32a260.jpg",ช่อง Trailers from Hell
+https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU228QzSBDgob1tlMyTzHbT9oCJKJ9L9M4eg&s",ช่อง Conflict
-https://c652c4f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX0NvbmZsaWN0X0hMUw/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXg8fbYuwXzN5jX6J2woi2eVDmk6Jt0La1NQ&s",ช่อง Crime & Punishment
-https://d7278b99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX0NyaW1lYW5kUHVuaXNobWVudF9ITFM/playlist.m3u8?ads.wurl_channel=1230&ads.wurl_name=CrimeandPunishment&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5401
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://icdn.cda.pl/vid/thumbs/4995364e98bfefca1383097150fb93b8-001.jpg_ooooxooxox_1280x720.jpg",ช่อง Watch Mojo
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/marvel-movies-ranked.jpg",ช่อง OnePlay Marvel 1
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567158
@@ -2045,9 +2042,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBUqYObwQgAkd1IiNq0wOlXGwH6isUk72YA&s",ช่อง Mythical 24/7
 https://mythical-ent-mythical247-1-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Young_Hollywood_logo.png",ช่อง Young Hollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-vidaa/playlist.m3u8
-
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",ช่อง Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
@@ -2300,6 +2294,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsciFJfkzPd6RySPKKxKZqbDO_zDr5pyhNg&s",ช่อง MUSIC CHOICE ROMANCES
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=991595
 
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://yt3.googleusercontent.com/Zgfw2OQDlS9T94wwPYaNsJCv53YOWEPrMAdxzT7e_RAUnJ5yD6XdVFBt-PwnYWuXITR1SmfCgA=s900-c-k-c0x00ffffff-no-rj",ช่อง Qwest Jazz
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
+
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1200px-Destination_America_logo.svg.png",ช่อง DESTINATION AMERICA
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=90954
 
@@ -2335,6 +2332,15 @@ https://jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://www.failarmy.com/cdn/shop/t/25/assets/logo-image-file.png?v=88203441892567631601703008237",ช่อง FailArmy International
 https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://www.comedydynamics.com/wp-content/uploads/2020/06/comedy-dynamics-logo.png",ช่อง Comedy Dynamics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-comedydynamics-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/55f4268104b9c6c86962096a88d5a0b35c7abfb0474a37660abc9c9c30dacd0b.png",ช่อง Just for Laughs Gags
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://pyxis.nymag.com/v1/imgs/268/e88/b7270bfd4a4ca5a88fd05f620c2e87ec8b-funny-or-die.2x.rsocial.w600.jpg",ช่อง Funny or Die
+https://funny-or-die-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHWZBvwDBy_251-lSgOEm2qw3BKRTgYNOLQ&s",ช่อง People Are Awesome International
 https://jukin-peopleareawesome-international-4-eu.vidaa.wurl.tv/playlist.m3u8
@@ -2444,8 +2450,20 @@ https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://www.fetchtv.com.au/marketing/img/features-and-packages/included-channels/haunt-tv.png",ช่อง Haunt TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaustralia-fetchtvau/playlist.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5300c8e6-3520-46d6-a458-6015e999403f/beyond_paranormal_tile_01__1__Bryan_Mcdaid.jpg",ช่อง Beyond Paranormal
+https://videoelephantlimited-beyondparanormal-1-us.tcltvplus.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhXw8jwqoWtkmTS6gZl6TpjeAsJuHS2R7t_Q&s",ช่อง So Real
 https://all3media-soreal-1-gb.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/The-Guardian-Logo.jpg",ช่อง Guardian
+https://rakuten-guardian-1-gb.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://www.shutterstock.com/image-photo/business-still-life-channel-conflict-600nw-2259640459.jpg",ช่อง Conflict
+https://c652c4f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX0NvbmZsaWN0X0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRacMlDTuN4eEEex2_-z14svnEcWKvAdrwersZwasjwBTZK1Rd0d-J2AlMZIbOWvyL45m0&usqp=CAU",ช่อง Crime & Punishment
+https://d7278b99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX0NyaW1lYW5kUHVuaXNobWVudF9ITFM/playlist.m3u8?ads.wurl_channel=1230&ads.wurl_name=CrimeandPunishment&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5401
 
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
@@ -2491,9 +2509,6 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-6333694838.jpg",ช่อง Dallas Cowboy Cheerleaders
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-
-#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://variety.com/wp-content/uploads/2019/06/fubo-sports-network-logo-dark.jpg",ช่อง Fubo Sports Network
-https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/vidaa-sports-us/master.m3u8?ads.partner=vidaa-sports-us&ads.channel_name=fubo_sports_network&ads.station_id=120123&ads.vidaa_ads_param=1191211667&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3505
 
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsm3q1NkdJxMJJLv79IaoasUvqUMbobW2NSg&s",ช่อง Motortrend Fast TV
 https://57596a33.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfTW90b3JUcmVuZEZhc3RUVl9ITFM/playlist.m3u8
