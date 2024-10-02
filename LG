@@ -635,14 +635,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wixstatic.com/media/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png/v1/fill/w_1280,h_720,al_c/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png",ช่อง Lone Star
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://i.pcmag.com/imagery/reviews/04Li6b38DUaSVJWLgQ01tHq-8..v1585676136.png",ช่อง Crackle
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqlb6jWJY1EphjsbT-5CHSBAop4YQhTHznQ&s",ช่อง Filmzie
+https://filmzie-filmzie-1-gb.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://i.pcmag.com/imagery/reviews/04Li6b38DUaSVJWLgQ01tHq-8..v1585676136.png",ช่อง Crackle Classics
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassic-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDc6d1qghxMYz6vMhYcG_pqfBnL60rQEk5_A&s",ช่อง Gravitas Movies
+https://gravitas-movies-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHVGsuqUi-9zx9KrGtazVl8jBI26Ot8TUXw&s",ช่อง Chicken Soup for the Soul
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png",ช่อง Wedo Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesen-vidaa/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFTR88nIFr6Mb1NcnHrJ0u-wr-1kE4Ub4cg&s",ช่อง Go See Westerns
+https://cdn44.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/GoSeeWesterns_VIDAA/index.m3u8?ads.vidaa_ads_param=1191726536
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.roku.com/developer_channels/prod/d0c78a56a4391effb1dc5d21218ba9b3a9cd66554a9e9f9dea9b052892240c0f.png",ช่อง Grjngo 2
+https://amogonetworx-grjngo-2-eu.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wixstatic.com/media/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg/v1/fill/w_2500,h_1406,al_c/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg",ช่อง Artflix
+https://amogonetworx-artflix-3-eu.vidaa.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CENTER" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/marvel-movies-ranked.jpg",ช่อง OnePlay Marvel 1
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/567158
