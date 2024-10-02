@@ -2184,6 +2184,9 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://yt3.googleusercontent.com/Zgfw2OQDlS9T94wwPYaNsJCv53YOWEPrMAdxzT7e_RAUnJ5yD6XdVFBt-PwnYWuXITR1SmfCgA=s900-c-k-c0x00ffffff-no-rj",ช่อง Qwest TV Jazz
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://yt3.googleusercontent.com/Zgfw2OQDlS9T94wwPYaNsJCv53YOWEPrMAdxzT7e_RAUnJ5yD6XdVFBt-PwnYWuXITR1SmfCgA=s900-c-k-c0x00ffffff-no-rj",ช่อง Qwest TV Playlists
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik AMVA 2020
@@ -2294,9 +2297,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsciFJfkzPd6RySPKKxKZqbDO_zDr5pyhNg&s",ช่อง MUSIC CHOICE ROMANCES
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=991595
 
-#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://yt3.googleusercontent.com/Zgfw2OQDlS9T94wwPYaNsJCv53YOWEPrMAdxzT7e_RAUnJ5yD6XdVFBt-PwnYWuXITR1SmfCgA=s900-c-k-c0x00ffffff-no-rj",ช่อง Qwest Jazz
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
-
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1200px-Destination_America_logo.svg.png",ช่อง DESTINATION AMERICA
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=90954
 
@@ -2333,7 +2333,7 @@ https://jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://www.failarmy.com/cdn/shop/t/25/assets/logo-image-file.png?v=88203441892567631601703008237",ช่อง FailArmy International
 https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://www.comedydynamics.com/wp-content/uploads/2020/06/comedy-dynamics-logo.png",ช่อง Comedy Dynamics
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROCI4faO8lpnuqFSrYKBmqYUTeF_Cxq9Rk9w&s",ช่อง Comedy Dynamics
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-comedydynamics-tcl/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/55f4268104b9c6c86962096a88d5a0b35c7abfb0474a37660abc9c9c30dacd0b.png",ช่อง Just for Laughs Gags
@@ -2356,6 +2356,9 @@ https://all3media-homes-under-the-hammer-1-gb.vidaa.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2020/04/Outdoor_Channel_282017-.n.v.29.png",ช่อง Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortv-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4dBjnBWUyd7P_Rp3Km5xYZCLE53B0gegfoA&s",ช่อง Outdoor Action TV
+https://careco-outdoor-action-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0pUPcDReE0yy0vx8EAuGOlFT8a92tdXOYg&s",ช่อง Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-fetchtvau/playlist.m3u8
@@ -2531,11 +2534,17 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="FASHION CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",ช่อง FTV
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
 
+#EXTINF:-1 group-title="FASHION CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNgJgLDSEv8vtZK0YnayQt56kLw8DD9n8aA&s",ช่อง Global Fashion Channnel
+https://gfcomnimedia-globalfashionchannel-1-us.tcl.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://play-lh.googleusercontent.com/x6e8G5-X3CxKrOszUaZ_lzPwonSYMA3T0wctAvlGopMhPVNF8izOl-4FaEfbyELrcA",ช่อง AKC TV
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://cdn.mos.cms.futurecdn.net/xvPiVbHBDvsz3HXWJzenxE-1200-80.jpg",ช่อง The Pet Collective
 https://jukin-thepetcollective-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="PET CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVda4rgW51tU3R0bEc9cM2Z5N2AbW3nRPgng&s",ช่อง Petclub
+https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-petclub-tclus/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
