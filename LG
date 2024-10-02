@@ -2042,6 +2042,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBUqYObwQgAkd1IiNq0wOlXGwH6isUk72YA&s",ช่อง Mythical 24/7
 https://mythical-ent-mythical247-1-eu.vidaa.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://pbs.twimg.com/profile_images/700470249162825730/7o8nGc8n_400x400.jpg",ช่อง Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",ช่อง Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
@@ -2387,6 +2390,9 @@ https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXy1NYRPkPxhVPPQbdNBS8u9c-UzbtqZXiA&s",ช่อง CraftsyTV
 https://linear-492.frequency.stream/dist/vidaa/492/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4972
 
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://images.squarespace-cdn.com/content/v1/5eb18a370c6aef0b9ed26c66/1608115006562-O25FI8GITNENELXGJTAG/WaterBear-Network-2.jpg",ช่อง Waterbear
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnz/playlist.m3u8
+
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
@@ -2464,9 +2470,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublehd-f
 
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKy6Thi-nVwId_Z24tjywVxN29b2aPEmlRew&s",ช่อง INWONDER
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-fetchtvau/playlist.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwrxR5Kt3J62AEsCbiuTSlsQ65qjmL-T5zg&s",ช่อง INWILD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwildnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg?fit=250%2C250&ssl=1",ช่อง Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
@@ -2572,9 +2575,6 @@ https://jukin-thepetcollective-1-au.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVda4rgW51tU3R0bEc9cM2Z5N2AbW3nRPgng&s",ช่อง PET CLUB
 https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-petclub-tclus/playlist.m3u8
-
-#EXTINF:-1 group-title="PET CH" tvg-logo="https://images.squarespace-cdn.com/content/v1/5eb18a370c6aef0b9ed26c66/1608115006562-O25FI8GITNENELXGJTAG/WaterBear-Network-2.jpg",ช่อง Waterbear
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
