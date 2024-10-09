@@ -5084,6 +5084,9 @@ http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png",ช่อง Phoenix Hong Kong Channel HD
 http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png",ช่อง LOTUS TV MACAU
+http://php.jdshipin.com:8880/amlh.php
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
 https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w183583389.m3u8
 
@@ -7045,6 +7048,3 @@ http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
 
 #EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 普通話台
 http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/amlh.php
