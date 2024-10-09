@@ -5012,8 +5012,17 @@ https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/tvplus/06282021/Samsung_TVPlus_Horizontal_Logo_02_Primaryv3.png",ช่อง MBC 10-Samsung TV Plus 10
 https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jsnzm21r7lwrj-prod/Channel_MBC_10.m3u8?ads.device_did=%7BPSID
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",ช่อง TVB Jade
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571187
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/12/Free-Pearl.png/revision/latest?cb=20191229125016&path-prefix=ru",ช่อง TVB Pearl
+http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/TVBPlus.jpg/revision/latest/scale-to-width-down/200?cb=20240429164515",ช่อง TVB Plus
+http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/TVB1.png",ช่อง TVB1
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153396
@@ -5036,8 +5045,29 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS718kj0sqWtPEeCzohNZgl1OPf2pWcU95iUw&s",ช่อง TVB Drama
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153400
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://img.alicdn.com/imgextra/i4/O1CN01wULoGa1TADxtC2DSM_!!6000000002341-0-tps-328-180.jpg_.webp",ช่อง MY TV SUPER
+http://live.hkdvb.com/hls/live/803.m3u8?token=275839252920364
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://img.alicdn.com/imgextra/i4/O1CN01wULoGa1TADxtC2DSM_!!6000000002341-0-tps-328-180.jpg_.webp",ช่อง MY TV SUPER
+http://live.hkdvb.com/hls/live/804.m3u8?token=275839252920364
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeesgB28ZzTqVvfFSjKrmlnQquv1EDEUva8JGUn1sn&s",ช่อง TVB News
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=153504
+http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://yt3.googleusercontent.com/7EEdrvtVjhVXkEUczhjktiu-Amrx3g_k6CsoFSbC1pf1wTW2-7j3c9ybABkir-Eve44N8uUY=s900-c-k-c0x00ffffff-no-rj",ช่อง NOW星影台
+http://live.hkdvb.com/hls/live/138.m3u8?token=275839252920364
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wB4SXkTKIhJCW-Bp4VTVPQU9GsXfRFu1tA&s",ช่อง NOW NEWS
+http://live.hkdvb.com/hls/live/332.m3u8?token=275839252920364
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_425_305",ช่อง NOW SPORTS 1
+http://live.hkdvb.com/hls/live/621.m3u8?token=275839252920364
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTin_BIbceXDQu8eeg6SkGwnvhkx0NuJz9Lgg&s",ช่อง VIU TV
+http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBK0wCVLRyDknBw45UwqZt8CPtC8she3LBKA&s",ช่อง VIU TV SIX
+http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6VVWln6t7_J3O1-yMnV5gxmQiJgkM4N3vPQ&s",ช่อง Fairchild TV 1
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=90351
@@ -5045,8 +5075,14 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1J0EqbcaL129LDdTXSwZkJ8KHiYo43ui0A&s",ช่อง Fairchild TV 2
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=90352
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://logowik.com/content/uploads/images/phoenix-infonews-channel8389.jpg",ช่อง Phoenix InfoNews Channel
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.ktwong.org/wp-content/uploads/2013/11/8f6362be31cd17488ee5a22f714d0625phoenix-main.jpg",ช่อง Phoenix TV HD
+http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://logowik.com/content/uploads/images/phoenix-infonews-channel8389.jpg",ช่อง Phoenix InfoNews Channel HD
+http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png",ช่อง Phoenix Hong Kong Channel HD
+http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
 https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w183583389.m3u8
@@ -5066,6 +5102,12 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w183583393.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳視高清
 https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w183583394.m3u8
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/RTHK_TV_31.svg/640px-RTHK_TV_31.svg.png",ช่อง RTHK TV 31
+http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezuCE4lTeb0atxItjtYytb8qXSIrhcPLkwQ&s",ช่อง RTHK TV 32
+http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/1200px-RTHK_TV_33.svg.png",ช่อง RTHK TV 33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 
@@ -5080,6 +5122,12 @@ https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dCMVdFZwluwxiPJwTBRlt77DVVA3i-egt47IGqNp4pFKC2UX_-YJthP9n6o5HplU4QY&usqp=CAU",ช่อง 耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.celestialtiger.com/assets/img/logos/channel-list/popc-3d.webp",ช่อง POPC
+http://live.hkdvb.com/hls/live/801.m3u8?token=275839252920364
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW7uTUBC7f_YUk9USsNQNsRPKEHMZckenQsQ&s",ช่อง 美亚电影台
+http://live.hkdvb.com/hls/live/802.m3u8?token=275839252920364
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",ช่อง FTV News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
@@ -6185,6 +6233,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lUhRlvRg4NyppZQMuLNh83k6U1erw5rKylZWh8NLVc3DM=s900-c-k-c0x00ffffff-no-rj",ช่อง 8TV
 http://yourservpan.com:3050/ThomasC/nPRTDXKzNR/605239
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR33u6fO2mTS4Xdy4d9ei8yxFnj32gQhHrAA&s",ช่อง Astro AOD
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Astro_Premier_flat.png/revision/latest?cb=20230918040502",ช่อง Astro Premier
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111034
 
@@ -6996,118 +7047,4 @@ http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
 http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
 
 #EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://50.7.234.10:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://live.hkdvb.com/hls/live/801.m3u8?token=275839252920364
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://live.hkdvb.com/hls/live/138.m3u8?token=275839252920364
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://live.hkdvb.com/hls/live/802.m3u8?token=275839252920364
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://live.hkdvb.com/hls/live/803.m3u8?token=275839252920364
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://live.hkdvb.com/hls/live/804.m3u8?token=275839252920364
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://live.hkdvb.com/hls/live/332.m3u8?token=275839252920364
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://live.hkdvb.com/hls/live/621.m3u8?token=275839252920364
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-
-#EXTINF:-1 group-title="f" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง f
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
+http://php.jdshipin.com:8880/amlh.php
