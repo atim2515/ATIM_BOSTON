@@ -4226,26 +4226,56 @@ http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCzCkHSdR2HkVrFESVqVNLXgeDKScZbgURg&s",ช่อง 亚洲旅游台
 http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森新闻
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/EBC_News_logo_20150706.jpg",ช่อง 东森新闻
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森财经新闻
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png",ช่อง 东森财经新闻
 http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森羊片
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://emovie.ebc.net.tw/Images/footer-logo.png",ช่อง 东森羊片
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森綜合
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mKNGEDCIhJl-rcRH3jUG2IyyejtqXbsK8QiwCkI8TaTRk=s900-c-k-c0x00ffffff-no-rj",ช่อง 东森綜合
 http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森电影
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png",ช่อง 东森电影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森戏剧
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://drama.ebc.net.tw/upload/drama/img/logoes/mobile_logo.png",ช่อง 东森戏剧
 http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森幼幼
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 东森幼幼
 http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 民视台湾台
+http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 三立綜合台
+http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 三立戏剧台
+http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 八大第一台
+http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 八大戏剧台
+http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 八大综合台
+http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 好莱坞电影
+http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 星卫HD电影台
+http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 美亚电影台
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yoyotv.ebc.net.tw/images/yoyotv-ogimage.jpg",ช่อง 美食星球
+http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",ช่อง DAAI TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
