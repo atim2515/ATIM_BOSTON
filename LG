@@ -4301,9 +4301,6 @@ http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_4ff53e627ce28c4ba535c0c8e2178da8.png",ช่อง 爱尔达体育1台
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png",ช่อง 爱尔达体育2台
-http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/115_pic_20230908113540.png",ช่อง 爱尔达体育4台
 http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
 
@@ -4339,6 +4336,15 @@ http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX_8AYO_LuPi0Hx_-RClMcxV-ZsSGmEbIkw&s",ช่อง Discovery Sci
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX_8AYO_LuPi0Hx_-RClMcxV-ZsSGmEbIkw&s",ช่อง 龙华卡通
+http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX_8AYO_LuPi0Hx_-RClMcxV-ZsSGmEbIkw&s",ช่อง 龙华戏剧
+http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX_8AYO_LuPi0Hx_-RClMcxV-ZsSGmEbIkw&s",ช่อง 龙华洋片
+http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",ช่อง DAAI TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
