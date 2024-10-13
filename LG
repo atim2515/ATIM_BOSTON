@@ -4184,8 +4184,11 @@ http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_7xI9C7N7ZbaEPxbsWwTEGC4tIF8VJkUPg&s",ช่อง 民视台湾台
 http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhcOfT4Ejdp6FHPqnOtOdmv9uriRBeqcO0heifq1vzjBXvwQ6fJTI3yFJxDa7Vdqx0-7Q&usqp=CAU",ช่อง LTV
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyangpian.jpg",ช่อง L.T.V ocean film stand
 http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1840.png",ช่อง L.T.V Movie Station
+http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png",ช่อง 中视
 http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
@@ -4267,9 +4270,6 @@ http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hollywood_movie_channel.png",ช่อง 好莱坞电影
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPfaq1gssvygLgwt9IYAjLrNlUgHA3CBY9FA&s",ช่อง 星卫HD电影台
-http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsLWhgczVtc8AInpL8u8iroJeTeb-3gCbZA&s",ช่อง 美亚电影台
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
