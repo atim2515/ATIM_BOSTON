@@ -4226,6 +4226,27 @@ http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCzCkHSdR2HkVrFESVqVNLXgeDKScZbgURg&s",ช่อง 亚洲旅游台
 http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森新闻
+http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森财经新闻
+http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森羊片
+http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森綜合
+http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森电影
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森戏剧
+http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/ETNEW.png",ช่อง 东森幼幼
+http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",ช่อง DAAI TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 
