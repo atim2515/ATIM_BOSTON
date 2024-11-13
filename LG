@@ -85,11 +85,11 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/6BYIsYL2sWhmBVZtJGYfSnCXly2B2_EsGgegdtBSskzOf1rKwV1Qy7HuHAqCSf-qtMg",ช่อง Pattaya People TV
 http://s1.thailandstreaming.net:1935/live/ppmg/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",ช่อง HBO
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654499f2d940521074e78b79_hbovodhd/dash0/THA_index.mpd
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",ช่อง H
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",ช่อง HBO Hits
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",ช่อง HBO Signature
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
