@@ -20,30 +20,6 @@ https://dookeela.live/live-tv/hbo-signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela.live/live-tv/cinemax
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.postimg.cc/43j6pf41/Fwmovie.jpg",ช่อง FW Movie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://www.inwiptv.com/player_demo.php?channel=95262
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.postimg.cc/fR0kmw65/Fwseries.jpg",ช่อง FW Series
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://www.inwiptv.com/player_demo.php?channel=94898
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.postimg.cc/gJG0C3rB/fwcartoon.jpg",ช่อง FW Cartoon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://www.inwiptv.com/player_demo.php?channel=92941
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.postimg.cc/jd2Dq6cp/Comedy.jpg",ช่อง FW Comedy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://www.inwiptv.com/player_demo.php?channel=89781
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.pinimg.com/564x/c5/7e/f6/c57ef60c450a421d4ed6c8241e430443.jpg",ช่อง FW Skynet Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://www.inwiptv.com/player_demo.php?channel=89782
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://img.inwiptv.net/postor/20240421225339%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",ช่อง FW ถิ่นใต้ ทีวี
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://www.inwiptv.com/player_demo.php?channel=27312
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://img.inwiptv.net/postor/20240421224528CNN.jpg",ช่อง FW CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://www.inwiptv.com/player_demo.php?channel=40922
@@ -63,10 +39,6 @@ https://www.inwiptv.com/player_demo.php?channel=40889
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://img.inwiptv.net/postor/20240421225150NHK.jpg",ช่อง FW NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
 https://www.inwiptv.com/player_demo.php?channel=40910
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://img.inwiptv.net/postor/20240421225237CGTN.jpg",ช่อง FW CGTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33
-https://www.inwiptv.com/player_demo.php?channel=40886
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",ช่อง True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -174,26 +146,6 @@ https://dookeela.live/live-tv/3bbasian
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",ช่อง MONO29 PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela.live/live-tv/mono29plus
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",ช่อง HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/hbo
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",ช่อง HBO family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/hbo-family
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",ช่อง HBO HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/hbo-hits
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",ช่อง HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/hbo-signature
-
-#EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",ช่อง Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dookeela.live/live-tv/cinemax
 
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_original.png",ช่อง Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
