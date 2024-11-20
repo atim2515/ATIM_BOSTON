@@ -3753,37 +3753,37 @@ https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",ช่อง NHK-G
-http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
+http://vthanh.utako.moe/1/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",ช่อง NHK-G Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=7
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK-E
-http://tv.utako.moe/nhke_testsignal/index.m3u8
+http://vthanh.utako.moe/2/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",ช่อง NHK BS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://vthanh.utako.moe/8/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/NHK_BS4K.svg/revision/latest/scale-to-width-down/250?cb=20231124144931",ช่อง NHK BSP4K
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://obs.line-scdn.net/0haKF4nC9TPmR7TS0Rt-lBM0MbMhVIKyRtWSsiCw4dYFQCYXtmTyhtB14ZaEheL35mWyIiAV9KNQNfeSpnEw/w644",ช่อง Nippon TV
-http://tv.utako.moe/ntv_testsignal/index.m3u8
+http://vthanh.utako.moe/3/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://gazetausa.com/wp-content/uploads/2016/08/TBS-TOKYO-BROADCASTING-SYSTEM.jpg",ช่อง TBS
-http://tv.utako.moe/tbs_testsignal/index.m3u8
+http://vthanh.utako.moe/5/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png",ช่อง Fuji TV
-http://tv.utako.moe/fuji_testsignal/index.m3u8
+http://vthanh.utako.moe/7/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png",ช่อง Fuji TV Next
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=7
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",ช่อง TV Asahi
-http://tv.utako.moe/asahi_testsignal/index.m3u8
+http://vthanh.utako.moe/4/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",ช่อง TV Tokyo
-http://tv.utako.moe/tvtokyo_testsignal/index.m3u8
+http://vthanh.utako.moe/6/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png",ช่อง ABC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=7
@@ -3807,7 +3807,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=7
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=7
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX1
-http://tv.utako.moe/mx1_testsignal/index.m3u8
+http://vthanh.utako.moe/12/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pff.jp/jp/uploads/20210524-0.jpg",ช่อง TOKYO MX2
 http://tv.utako.moe/mx2_testsignal/index.m3u8
@@ -3843,7 +3843,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=7
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfufS7_3XHPXIuPqZjngQeZwXyW5Wh3BJGA&s",ช่อง BS11
-http://tv.utako.moe/bs11/index.m3u8
+http://vthanh.utako.moe/10/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png",ช่อง Star 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -3936,10 +3936,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i3.gamebiz.jp/media/14956665-536d-457c-ad23-900d816d9c86.jpg",ช่อง BS Animax
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://vthanh.utako.moe/9/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",ช่อง AT-X
-http://tv.utako.moe/at-x/index.m3u8
+http://vthanh.utako.moe/11/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykVkJwIKWix3HlsmdWKmzjNnLb3A-ypFDZ8Zn-vN9f3lGnifZHXOA9EiEa-JkkUBsUl0&usqp=CAU",ช่อง Kids Station
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
