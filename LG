@@ -47,13 +47,13 @@ http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.gmm25.com/asset/img/gmm25-logo.png",ช่อง GMM25
-https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
+https://hls-nginx.v2h-cdn.com/hls/gmm25myStream.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",ช่อง ONE 31
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
-https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+https://hls-nginx.v2h-cdn.com/hls/true4umyStream.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/5408a390-5377-11ee-8e1b-194edbb69638_webp_original.webp",ช่อง CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
@@ -6347,6 +6347,33 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzBzSSZ_0bROvGFY2KKy4YEAGSNh9UOyIWIdlTSDdpYo9_ydI5KYQD7OZCeS7UwleI9k&usqp=CAU",ช่อง Tea TV 2
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yKO-uSroZMU4ZGHJFXE94Wcc_cD0Mwmf6Q&s",ช่อง VTV1
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1832182777
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yKO-uSroZMU4ZGHJFXE94Wcc_cD0Mwmf6Q&s",ช่อง VTV2
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/155786089
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yKO-uSroZMU4ZGHJFXE94Wcc_cD0Mwmf6Q&s",ช่อง VTV3
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1670319050
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yKO-uSroZMU4ZGHJFXE94Wcc_cD0Mwmf6Q&s",ช่อง VTV4
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1808263040
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yKO-uSroZMU4ZGHJFXE94Wcc_cD0Mwmf6Q&s",ช่อง VTV5
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/990145644
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yKO-uSroZMU4ZGHJFXE94Wcc_cD0Mwmf6Q&s",ช่อง VTV Cần Thơ
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1556533701
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yKO-uSroZMU4ZGHJFXE94Wcc_cD0Mwmf6Q&s",ช่อง VTV7
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1241070663
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yKO-uSroZMU4ZGHJFXE94Wcc_cD0Mwmf6Q&s",ช่อง VTV8
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/171379530
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yKO-uSroZMU4ZGHJFXE94Wcc_cD0Mwmf6Q&s",ช่อง VTV9
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/163971978
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Logo_VOV.svg.png",ช่อง VOVTV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
@@ -6418,6 +6445,18 @@ https://github.com/ChiSheng9/iptv/raw/master/TV23.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMVMG3Tv3ag9SVjq1hrUFTVa-etWVNqFj1nA&s",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg",ช่อง K+ Action
+https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/916837844
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg",ช่อง K+ Cine
+https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/1946352900
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpm_172771660734.jpg",ช่อง K+ Sport 1
+https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/556914677
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpc_172771667492.jpg",ช่อง K+ Sport 2
+https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/541337809
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png",ช่อง MRTV
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w31827482.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDU6NTM6NDAgQU0maGFzaF92YWx1ZT1pV3FzL1c1eSs2SmFZVFRlckE2SmFRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEx
