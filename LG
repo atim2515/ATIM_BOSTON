@@ -545,6 +545,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCKHmfswO78_9dOHNdPwU0851iyKLjxWQfgw&s",ช่อง China Movie Channel
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=156417
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Astro_Boo_%28Nov_2024%29.png/revision/latest?cb=20241121181423",ช่อง BOO
+http://extraott.com:80/live/6772191932/1654508883/29626.m3u8
+
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",ช่อง Pluto TV 70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -4484,8 +4487,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/kamiwaza-wanda/images/4/4d/HOYTV_Logo.png/revision/latest?cb=20240518180548",ช่อง HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.meiah.com/player_meiah_16_9.jpg",ช่อง 美亚电影
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.meiah.com/player_meiah_16_9.jpg",ช่อง 美亚电影台(中文)
 http://co-sg3.jdiptv.cc/live/xgmydygy.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.meiah.com/player_meiah_16_9.jpg",ช่อง 美亚电影台(粤语)
+http://co-sg3.jdiptv.cc/live/xgmydyyy.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKtz2ERrSU8WiDik9-Zwe29AF3hBiwn6jxw&s",ช่อง 天映频道
 http://co-sg1.jdiptv.cc/live/typd.m3u8
@@ -4539,7 +4545,7 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w183583393.m3u8
 https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w183583394.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/RTHK_TV_31.svg/640px-RTHK_TV_31.svg.png",ช่อง RTHK TV 31
-http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+http://jp1.jdiptv.cc/live/rthk31.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezuCE4lTeb0atxItjtYytb8qXSIrhcPLkwQ&s",ช่อง RTHK TV 32
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
