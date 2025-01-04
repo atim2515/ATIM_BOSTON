@@ -6182,14 +6182,23 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571197
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png",ช่อง 欢喜台
+http://extraott.com:80/live/6772191932/1654508883/191948.m3u8
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuG4-mevGoym05rUzLcn1_AlKQnOACci_Vbg&s",ช่อง TVBS
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6SiVcJIh5I_D_cTpKbmsCEiAWwthLhSp7Yg&s",ช่อง TVBS NEWS
 http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",ช่อง CCTV4
+http://extraott.com:80/live/6772191932/1654508883/191897.m3u8
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UTlf8WbfQIRsznwlQpXt1Vf3FZyFhlIbsQ&s",ช่อง iQIYI
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571198
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Astro_Boo_%28Nov_2024%29.png/revision/latest?cb=20241121181423",ช่อง BOO
+http://extraott.com:80/live/6772191932/1654508883/29626.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/ct_custom_page_f_primary_image/AXN_LOGO-620x348.jpg",ช่อง AXN
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571222
@@ -6207,7 +6216,16 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571182
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0VJgpYnEO8A5OUr0WcdYj9U_ZgZG5qHoGA&s",ช่อง Thrill
-http://50.7.234.10:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
+http://co-sg3.jdiptv.cc/live/thrill.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png",ช่อง ABC AUSTRALIA
+http://extraott.com:80/live/6772191932/1654508883/191837.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2FCampaignAsiaPacific_bloombergtvJk_460x325.jpg&h=630&w=1200&q=75&v=20170226&c=1",ช่อง BLOOMBERG TV
+http://extraott.com:80/live/6772191932/1654508883/191886.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",ช่อง BBC Lifestyle
+http://extraott.com:80/live/6772191932/1654508883/400200779.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo6FGqCcEPDDFaSD5tFBxVOTAzpdP88DxsQ&s",ช่อง Global Trekker
 http://50.7.234.10:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
