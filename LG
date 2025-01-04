@@ -22,7 +22,7 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mtyWuD3YrtZSvORvi4qnYNpKkTo1nIVkU52HIT1bcrUAA=s900-c-k-c0x00ffffff-no-rj",ช่อง NBT ภาคกลาง
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/0thCmInzfwKI3ztnITqqdBwrAuJ5KgnulBKH3rLr_TM-6Co55SaSo4KpZgLAb6QtRTriHFfIQ0M=s900-c-k-c0x00ffffff-no-rj",ช่อง NBT ภาคอีสาน
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://th.kku.ac.th/wp-content/uploads/2024/01/NBT-11-%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99.jpg",ช่อง NBT ภาคอีสาน
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqmDKqNQ5wnZeRYQT_dfLaMaWxxKw4svbRBw&s",ช่อง NBT ภาคเหนือ
@@ -544,9 +544,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCKHmfswO78_9dOHNdPwU0851iyKLjxWQfgw&s",ช่อง China Movie Channel
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=156417
-
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Astro_Boo_%28Nov_2024%29.png/revision/latest?cb=20241121181423",ช่อง BOO
-http://extraott.com:80/live/6772191932/1654508883/29626.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",ช่อง Pluto TV 70s Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -6182,23 +6179,17 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571197
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png",ช่อง 欢喜台
-http://extraott.com:80/live/6772191932/1654508883/191948.m3u8
-
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuG4-mevGoym05rUzLcn1_AlKQnOACci_Vbg&s",ช่อง TVBS
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6SiVcJIh5I_D_cTpKbmsCEiAWwthLhSp7Yg&s",ช่อง TVBS NEWS
 http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",ช่อง CCTV4
-http://extraott.com:80/live/6772191932/1654508883/191897.m3u8
-
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UTlf8WbfQIRsznwlQpXt1Vf3FZyFhlIbsQ&s",ช่อง iQIYI
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571198
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Astro_Boo_%28Nov_2024%29.png/revision/latest?cb=20241121181423",ช่อง BOO
-http://extraott.com:80/live/6772191932/1654508883/29626.m3u8
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",ช่อง CINEMAX
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571214
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/ct_custom_page_f_primary_image/AXN_LOGO-620x348.jpg",ช่อง AXN
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571222
@@ -6218,14 +6209,14 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0VJgpYnEO8A5OUr0WcdYj9U_ZgZG5qHoGA&s",ช่อง Thrill
 http://co-sg3.jdiptv.cc/live/thrill.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png",ช่อง ABC AUSTRALIA
-http://extraott.com:80/live/6772191932/1654508883/191837.m3u8
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f9/Asian_Food_Network_%282019-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20191208173205",ช่อง AFN
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=534440
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2FCampaignAsiaPacific_bloombergtvJk_460x325.jpg&h=630&w=1200&q=75&v=20170226&c=1",ช่อง BLOOMBERG TV
-http://extraott.com:80/live/6772191932/1654508883/191886.m3u8
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/CNA.png",ช่อง CNA
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571251
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",ช่อง BBC Lifestyle
-http://extraott.com:80/live/6772191932/1654508883/400200779.m3u8
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",ช่อง CGTN
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571216
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo6FGqCcEPDDFaSD5tFBxVOTAzpdP88DxsQ&s",ช่อง Global Trekker
 http://50.7.234.10:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
