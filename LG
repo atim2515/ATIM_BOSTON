@@ -6206,9 +6206,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg/revision/latest/smart/width/386/height/259?cb=20240506054820",ช่อง HITS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571252
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Celestial_Movies_logo.png/revision/latest/scale-to-width-down/733?cb=20240506010219&path-prefix=vi",ช่อง Celestial Movies
-http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571218
-
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://i.ytimg.com/vi/E4RUQxYTZDQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCK0zYRKBFOjezMJ3L1YoO-1yY5ug",ช่อง Celestial Classic Movies
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571182
 
@@ -6233,11 +6230,20 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/CNA.png",ช่อง CNA
 http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571251
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLf1Qb8YcdBUMOxAUlgS-bq1Z0xQeuOBctA&s",ช่อง 凤凰中文
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=114695
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",ช่อง CGTN
 http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571216
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",ช่อง Crime&Investigation
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571215
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHo6FGqCcEPDDFaSD5tFBxVOTAzpdP88DxsQ&s",ช่อง Global Trekker
 http://50.7.234.10:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",ช่อง Discovery Asia
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571181
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ช่อง Animal Planet
 http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
@@ -6274,12 +6280,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",ช่อง SPOTV2
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941563
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png",ช่อง W SPORT
-http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=918982
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",ช่อง PREMIER SPORTS
-http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571253
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
 http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
