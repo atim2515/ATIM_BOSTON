@@ -6161,11 +6161,11 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png",ช่อง RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR33u6fO2mTS4Xdy4d9ei8yxFnj32gQhHrAA&s",ช่อง Astro AOD
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR33u6fO2mTS4Xdy4d9ei8yxFnj32gQhHrAA&s",ช่อง Astro AOD 351
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571226
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Astro_Premier_flat.png/revision/latest?cb=20230918040502",ช่อง Astro Premier
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111034
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR33u6fO2mTS4Xdy4d9ei8yxFnj32gQhHrAA&s",ช่อง Astro AOD 353
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571229
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571187
@@ -6185,6 +6185,9 @@ http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsu
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6SiVcJIh5I_D_cTpKbmsCEiAWwthLhSp7Yg&s",ช่อง TVBS NEWS
 http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/CTi_%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.png/revision/latest?cb=20221203134351&path-prefix=vi",ช่อง CTi 中天亞洲台
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571212
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UTlf8WbfQIRsznwlQpXt1Vf3FZyFhlIbsQ&s",ช่อง iQIYI
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571198
 
@@ -6202,6 +6205,9 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg/revision/latest/smart/width/386/height/259?cb=20240506054820",ช่อง HITS
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571252
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Celestial_Movies_logo.png/revision/latest/scale-to-width-down/733?cb=20240506010219&path-prefix=vi",ช่อง Celestial Movies
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571218
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://i.ytimg.com/vi/E4RUQxYTZDQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCK0zYRKBFOjezMJ3L1YoO-1yY5ug",ช่อง Celestial Classic Movies
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571182
@@ -6248,16 +6254,16 @@ http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=MFCF1347936613479366&ct=19249&t
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfo24pgu0zoZveMqMRKUYe4RZVLZD6uoiOw&s",ช่อง CBeebies
 http://50.7.234.10:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s",ช่อง Astro SuperSport
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroPremierLeague.jpg",ช่อง Astro Premier League
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918986
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",ช่อง Astro SuperSport 2
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257",ช่อง Astro Premier League 2
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1016545
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",ช่อง Astro SuperSport 3
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356",ช่อง Astro Grandstand
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918984
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748",ช่อง Astro SuperSport 4
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Jk9QNq3vxTwghzf3MzL18JG0cV0ktsUcKQ&s",ช่อง Astro Football
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918983
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",ช่อง Astro Arena 2
@@ -6268,6 +6274,12 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",ช่อง SPOTV2
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941563
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png",ช่อง W SPORT
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=918982
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",ช่อง PREMIER SPORTS
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571253
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
 http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
