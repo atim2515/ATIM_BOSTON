@@ -73,6 +73,27 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",ช่อง True Sports 1
+https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Sports 2
+https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",ช่อง True Sports 3
+https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",ช่อง True Premier Football HD 1
+https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",ช่อง True Premier Football HD 2
+https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",ช่อง True Premier Football HD 3
+https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",ช่อง True Premier Football HD 4
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",ช่อง TPTV
 https://tv-live.tpchannel.org/live/tv.m3u8
 
@@ -119,6 +140,36 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://png.pngtree.com/png-vector/20231115/ourmid/pngtree-bangkok-destinations-rubber-sticker-png-image_10577085.png",ช่อง บางกอก CHANNEL
 https://live2.thaitvstream.com/play/gochannel/index.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",ช่อง MVTV ท้องถิ่นไทย
+https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/th-tvb-thai.jpg",ช่อง TVB-Thai
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1eVH_7EuMxnCRJxDgjjSPW5G77sb-xvgYwQ&s",ช่อง สยาม Channel
+https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxXvyIYags0HT-y82J2VXf8_DKPAQkNX2_pNaQGTqbEWSpnElD7QLypPEyX5CTste1UY&usqp=CAU",ช่อง สกาล่า Channel
+https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/38_x_31fQ6niWbtVPogeIJEGzNRcd8DhBvM7C.png",ช่อง ลิโด้ Channel
+https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png",ช่อง ไทบ้าน TV
+https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxysvva86UdV2btn-I1uZ7h-FPEGxmlinqoA&s",ช่อง BOOM ANIME
+https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",ช่อง Boomerang Thai
+https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Jpkw_5gcirzJZLr-2Kbtsyzv3ZwhS9XZfg&s",ช่อง Look Thoong TV
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mtrmZJT1Ph8jHrmJimx2LqaGdQbzel3eT-sMQt=s900-c-k-c0x00ffffff-no-rj",ช่อง ไทไชโย
+https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/57e474db-0dce-4fdc-93d8-bc2b57d3a685.png",ช่อง สุวรรณภูมิ
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
@@ -189,6 +240,48 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://tvshopping.vn/wp-content/uploads/2022/04/tvshoping.png",ช่อง Varanya's Show
 https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/chunklist.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao-Thai US TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_q3MlgDQEFWF3_XfVmVixP38olV09zQQtmw&s",ช่อง ISTV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Lao.png/revision/latest?cb=20191209082932",ช่อง LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3f80Fgf2_p7ON3O-LuaAk_jZHqgmlZ0hxQg&s",ช่อง NAT TV
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ3CXdit8ZwlwvrAm7lyPiYSRNwZikjIkCH-up11Q=s900-c-k-c0x00ffffff-no-rj",ช่อง Good Idea TV
+https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/107_x_ajeNQEgSxDZU4XhIzYKTr8G2LqB7POJV.jpg",ช่อง MV Mall Family
+https://edge6a.v2h-cdn.com/mvmall_ttd12/mvmall_ttd12.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/112_y_2uKgIhyzBtmJCVlqGTaX16b9A3HenR0D.png",ช่อง MV Mall Home
+https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png",ช่อง MV Mall Living
+https://edge6a.v2h-cdn.com/ttd14/ttd14.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i9mTUuHZF44u9XTr_Fnm05Gs7JdBIEgayw&s",ช่อง MV Mall Trend
+https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_x_Cmh6zO2NJqrc91xW3QUwk4I5BtXLSFsa.jpg",ช่อง MV Mall Healthy
+https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/69_x_Ij35qknOxBRUsWwrDKdufvC0c8Lgm4NF.jpg",ช่อง MV Mall Happy
+https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/113_y_MZJpu9AhykldsP1STHq08LYG47ebWwnB.png",ช่อง MV Mall Best
+https://edge6a.v2h-cdn.com/mvmall2/mvmall2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/40_x_EoLA4BZTzjm91VctsQSIxXUqahd3CPpN.jpg",ช่อง MV Mall ดี๊ดี
+https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/32_y_B1QfWmDNsgnKI7xCzkrYeTt4LR8EGqy6.png",ช่อง MV Mall Plus
+https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://bit.ly/3nJtvVE",ช่อง DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 
@@ -245,6 +338,9 @@ https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",ช่อง True Sports 1
 https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
