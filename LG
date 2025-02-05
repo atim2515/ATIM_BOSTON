@@ -4,12 +4,6 @@
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",ช่อง 3
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/chunklist_w575099455_b4692000_slThai.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",ช่อง 3
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",ช่อง 3
-https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",ช่อง 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
@@ -44,7 +38,7 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://edge6a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png",ช่อง AMARIN TV
-http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+https://edge6a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",ช่อง PPTV HD
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
@@ -1687,6 +1681,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00437-firstmedia-soyummytv-vidaa/pl
 
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://variety.com/wp-content/uploads/2014/06/tastemade-logo.png?w=1000&h=600&crop=1",ช่อง Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaustralia-vidaa/playlist.m3u8
+
+#EXTINF:-1 group-title="FOOD CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUduGeCsIBdF6HTAlClY2T3_rdq-Pf3USfvg&s",ช่อง Mad Dog and Merrill
+https://bozztv.com/gusa/gusa-mwg/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png",ช่อง Discovery Channels
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45442
