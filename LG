@@ -190,7 +190,7 @@ https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
 https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxysvva86UdV2btn-I1uZ7h-FPEGxmlinqoA&s",ช่อง BOOM ANIME
-https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
+https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",ช่อง Boomerang Thai
 https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
@@ -213,8 +213,8 @@ https://live.x2.co.th/live/bntv.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://inwfile.com/s-aa/d3l2e4.jpg",ช่อง UMMTV
 https://symc-cdn.violin.co.th/madoit/timetv/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",ช่อง France 24
-https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",ช่อง DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/F7kryheJM-vlSy3fGkvgzaHgQNWv1XVXbgREvuoUBh_8JQmNBzgD2FDbSQ-7qJMTeEam",ช่อง CNA
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
@@ -222,8 +222,11 @@ https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTpFcEzG14PA1Lq5eFL5Zk7wR3FrxCxw4wlw&s",ช่อง NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",ช่อง CCTV4
-https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",ช่อง CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1200px-CGTN_Documentary.svg.png",ช่อง CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
