@@ -109,6 +109,21 @@ https://ramach.ddns.net/live/ramalive/index.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/6BYIsYL2sWhmBVZtJGYfSnCXly2B2_EsGgegdtBSskzOf1rKwV1Qy7HuHAqCSf-qtMg",ช่อง Pattaya People TV
 https://s1.thailandstreaming.net/memfs/b0a69f7a-d7b4-4951-9dd2-1f6a7457024c_output_0.m3u8?
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",ช่อง STAR MOVIES
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=282639
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYKwRjQcFvxiDVVbq56lYob7UMu1rodoRWA&s",ช่อง STAR MOVIES SELECT
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=155729
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",ช่อง AND FLIX
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=282632
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png",ช่อง AND PRIVE
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=155746
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/nnF0vSUyYMNha7ukbxH3KeYW2gx6YVGU8rqzvURusWfxglA8cfTLtAtcIrE3uXxiNhZ-WE0Qpg=s900-c-k-c0x00ffffff-no-rj",ช่อง SONY PIX
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=1116481
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",ช่อง HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela.live/live-tv/hbo
@@ -188,9 +203,6 @@ https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png",ช่อง ไทบ้าน TV
 https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/114_x_ys9VN2kUGKYRMzCBJmZHulgOf7IL4wdW.jpg",ช่อง V2H2
-https://edge2a.v2h-cdn.com//v2h2/v2h2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxysvva86UdV2btn-I1uZ7h-FPEGxmlinqoA&s",ช่อง BOOM ANIME
 https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
@@ -4955,14 +4967,14 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",ช่อง STAR MOVIES
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=282639
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYKwRjQcFvxiDVVbq56lYob7UMu1rodoRWA&s",ช่อง STAR MOVIES SELECT
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=155729
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.celestialpictures.com/images/new/logo_channel_classic.jpg",ช่อง Celestial Classic Movies
 http://line.greatstar.me/play/live.php?mac=00:1A:79:1c:0a:6f&extension=ts&stream=571182
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png",ช่อง THRILL
-http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683154
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_425_305",ช่อง Now HK premier 1
-http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=1032487
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=731796
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_425_305",ช่อง Now HK premier sports 1
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=554953
@@ -6624,7 +6636,7 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:1c:0a:6f&extension=ts&stream
 http://line.greatstar.me/play/live.php?mac=00:1A:79:1c:0a:6f&extension=ts&stream=571182
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0VJgpYnEO8A5OUr0WcdYj9U_ZgZG5qHoGA&s",ช่อง Thrill
-http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683154
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=731796
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png",ช่อง ONE
 http://line.greatstar.me/play/live.php?mac=00:1A:79:1c:0a:6f&extension=ts&stream=571193
