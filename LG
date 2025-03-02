@@ -6308,17 +6308,20 @@ http://diyp.112114.xyz/douyu/997925
 #EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 来呀官人解说
 http://diyp.112114.xyz/douyu/9986305
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://play-lh.googleusercontent.com/w5INytRhFqfW79hDWhjVsqZbwZHk8CIE1pgRRrM8dZwz64_7wW6mKYAKjwhzHamFwrM",ช่อง CCTV+ 1
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://play-lh.googleusercontent.com/w5INytRhFqfW79hDWhjVsqZbwZHk8CIE1pgRRrM8dZwz64_7wW6mKYAKjwhzHamFwrM",ช่อง CCTV+
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://play-lh.googleusercontent.com/w5INytRhFqfW79hDWhjVsqZbwZHk8CIE1pgRRrM8dZwz64_7wW6mKYAKjwhzHamFwrM",ช่อง CCTV+ 2
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4america.jpg",ช่อง CCTV-4 America
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cctv-4_m.png",ช่อง CCTV-4 Asia
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4america.jpg",ช่อง 台 HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cctv-4_m.png",ช่อง 外AXN HD
+http://45.126.83.51/uq2663/h/h09/01.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cctv-4_m.png",ช่อง 外MTV HD德国
+http://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",ช่อง CHANNEL NEWS ASIA
 http://line.greatstar.me/play/live.php?mac=00:1A:79:1c:0a:6f&extension=ts&stream=571251
