@@ -4427,6 +4427,9 @@ https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA-sDkjubhOfa4mYB_VodGp4ShZIWZUiCCMQ&s",ช่อง CDirect
 http://51.254.199.122:8080/cdirectTV/index.m3u8
 
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/0/5/4/1348054_thiswildsidetv_logo_925227.jpg",ช่อง Wildside TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIIalS6uFP_FmBfGcbcHNjQ3kHemGbAcPow&s",ช่อง Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
 
@@ -4435,9 +4438,6 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfI3FOgD8MaxG2VFsiKZmVhkkasjXWU0N5w&s",ช่อง FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-
-#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/0/5/4/1348054_thiswildsidetv_logo_925227.jpg",ช่อง Wildside TV
-https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="AFRICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg",ช่อง MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
@@ -6308,20 +6308,20 @@ http://diyp.112114.xyz/douyu/997925
 #EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 来呀官人解说
 http://diyp.112114.xyz/douyu/9986305
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://play-lh.googleusercontent.com/w5INytRhFqfW79hDWhjVsqZbwZHk8CIE1pgRRrM8dZwz64_7wW6mKYAKjwhzHamFwrM",ช่อง CCTV+
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/CCTV-1_Logo.svg/220px-CCTV-1_Logo.svg.png",ช่อง CCTV-1
+http://haoyunlai.serv00.net/Smartv-1.php?id=cctv1
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4america.jpg",ช่อง CCTV-4 America
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/1/1f/CCTV2.png/revision/latest?cb=20230426223516",ช่อง CCTV-2
+http://haoyunlai.serv00.net/Smartv-1.php?id=cctv2
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4america.jpg",ช่อง 台 HBO
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",ช่อง CCTV-3
+http://haoyunlai.serv00.net/Smartv-1.php?id=cctv3
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cctv-4_m.png",ช่อง 外AXN HD
-http://45.126.83.51/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",ช่อง CCTV-4
+http://haoyunlai.serv00.net/Smartv-1.php?id=cctv4
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cctv-4_m.png",ช่อง 外MTV HD德国
-http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",ช่อง CCTV-5
+http://haoyunlai.serv00.net/Smartv-1.php?id=cctv5
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",ช่อง CHANNEL NEWS ASIA
 http://line.greatstar.me/play/live.php?mac=00:1A:79:1c:0a:6f&extension=ts&stream=571251
@@ -6404,14 +6404,23 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",ช่อง TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png",ช่อง TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png",ช่อง TV2
+https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
+
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvApH_-rrGVaTBmq2Ej4mOvKkWQ6F72Sy1ug&s",ช่อง TV9
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",ช่อง Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",ช่อง TVIKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",ช่อง Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
