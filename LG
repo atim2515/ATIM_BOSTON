@@ -59,7 +59,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29 (Soundtrack)
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
@@ -4409,8 +4409,41 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6522/index.m3u8
 #EXTINF:-1 group-title="CANADA TV" tvg-logo="https://yt3.googleusercontent.com/qu9JbAM2Vv0H1yWDgphsCLRjACF9-fmpfWIsyKfasrdEStyjrhdMwaU2epXJeOTKmE3Ufz9ANw=s900-c-k-c0x00ffffff-no-rj",ช่อง TSN 4
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6445/index.m3u8
 
-#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ZN9SIOeOxv01BsMPWrC0SRv2PvwLAjpL2Q&s",ช่อง 20 Minutes TV
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8 
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfSoG7-Z2Wuv9OvqYiQg1IHWWG6QQ-C_wCQ&s",ช่อง A12 TV
+https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_Africa_24.jpg",ช่อง Africa 24
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_Africa_24.jpg",ช่อง Africa 24 English
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_Antenne_R%C3%A9union_2011.png",ช่อง Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSctIrwf-xKdp-8sxEMqgsQHWK8bS6nbpfzDw&s",ช่อง Brionnais TV
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://lerinstvradio.fr/upload/design/66cf40b8510e04.22508416.png",ช่อง Cannes Lérins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA-sDkjubhOfa4mYB_VodGp4ShZIWZUiCCMQ&s",ช่อง CDirect
+http://51.254.199.122:8080/cdirectTV/index.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIIalS6uFP_FmBfGcbcHNjQ3kHemGbAcPow&s",ช่อง Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://play-lh.googleusercontent.com/5VutmeXOdk3qNnV2E5IVVcVVyh50MoM6Os02lx_2h0csmYGgAfcZ-tHKesg1n9X1HDQ",ช่อง D5tv
+https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69F4SPmxna_V7_u4LoSHGPVW-e3j74XqpiQ&s",ช่อง DBM TV
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/chaine-ere-tv.png",ช่อง Ère TV
+https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfI3FOgD8MaxG2VFsiKZmVhkkasjXWU0N5w&s",ช่อง FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="AFRICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg",ช่อง MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
@@ -6282,289 +6315,70 @@ http://diyp.112114.xyz/douyu/997925
 http://diyp.112114.xyz/douyu/9986305
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgImenseQPc1eBINZi47V6-nrSGAk8G95Xkw&s",ช่อง CCTV1
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
+http://iptv.0564.org:35455/itv/5000000004000002226.m3u8?cdn=bestzb
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",ช่อง CCTV2
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
+http://iptv.0564.org:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/3/34/CCTV-3_Logo.png",ช่อง CCTV3
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
+http://iptv.0564.org:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://i0.wp.com/enjoytv.asia/wp-content/uploads/2021/05/CCTV-4-LOGO-final-copy-1.png?ssl=1",ช่อง CCTV4
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
+http://iptv.0564.org:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Screen-Shot-2019-12-19-at-2.26.32-PM.png",ช่อง CCTV5
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+http://iptv.0564.org:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQaJzYACQ6-HEBZxsr2VTVJkwl0IQ4ud8BLBbQ0IRAEvNMcpi_TBu51qFWqxcO2KVbpA4&usqp=CAU",ช่อง CCTV5+
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
+http://iptv.0564.org:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0NeKoMr0bZ6ZHjK6LzZlK1DMHixfCVYQ8RA&s",ช่อง CCTV6
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+http://iptv.0564.org:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfNUNUmO9ZfD5bm55WPgo5-6SG1eTGfKAjA&s",ช่อง CCTV7
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000024341/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000024341
+http://iptv.0564.org:35455/itv/1000000001000024341.m3u8?cdn=ystenlive
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZpNzVI7CmNNs4O3c332TvxiuFobaniKcJQ&s",ช่อง CCTV8
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+http://iptv.0564.org:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-pUuywE1rKMuVpirS-V45LGsYcgy5KYwB2Q&s",ช่อง CCTV9
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
+http://iptv.0564.org:35455/itv/1000000001000014583.m3u8?cdn=ystenlive
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png",ช่อง CCTV10
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",ช่อง CGTN
+http://iptv.0564.org:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/CCTV_channel_11.svg/1200px-CCTV_channel_11.svg.png",ช่อง CCTV11
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031106/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031106
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",ช่อง CGTN记录
+http://iptv.0564.org:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.liefm.com/wp-content/uploads/2022/05/20211015_183933-008.jpg",ช่อง CCTV12
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVhVSuFv5FkDMc5jE8E3b625Otlt_0ccvbTQ&s",ช่อง 中国教育1台
+http://iptv.0564.org:35455/itv/5000000002000002652.m3u8?cdn=bestzb
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",ช่อง CCTV13
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1_3eifADdwcv1-LXoQZ32afBYwB_3MumsQ&s",ช่อง CCTV14
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/CCTV_channel_15.svg/1200px-CCTV_channel_15.svg.png",ช่อง CCTV15
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031109/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031109
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc3SUH5hWqjRE1QNHcmFgDSPJ1CC1UdwY7YA&s",ช่อง CCTV16
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023253/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023253
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENM22U2rjmcTcBqJ0VGonafY9Z0ranItHzk1ThGKOBtrJ0rhzUYNbknFC85wHFAZ64uk&usqp=CAU",ช่อง CCTV17
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKP_eYpe4ts3g6EEBmGAzt8SMLVKv0yUUbQ&s",ช่อง NEWTV动作电影
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKP_eYpe4ts3g6EEBmGAzt8SMLVKv0yUUbQ&s",ช่อง NEWTV惊悚悬疑
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKP_eYpe4ts3g6EEBmGAzt8SMLVKv0yUUbQ&s",ช่อง NEWTV黑莓电影
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ__4NoeJvoJU47fYN6AnQENGidvjS0bYAjhg&s",ช่อง 东方卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265018/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWk1hOFEAqwWMmGyMgHc52iInM58gCL7W6g&s",ช่อง 浙江卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000007275/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3$1920x1080
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwCFSiNY8paLbPDscdyLL7BVwtm_G8ZzOJw&s",ช่อง 湖南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d8/GRT_Satellite_Channel_2016_logo.jpg",ช่อง 广东卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3$1920x1080
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/SETV_fujian.jpg",ช่อง 东南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265033/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ33cQAsaEW0u2X6q1pxNA5dSwX8xOnkEnMA&s",ช่อง 北京卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265027/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4kYG8s8fSElos7LpF2pnvS6JqtyNXdRaQYw&s",ช่อง 吉林卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRaMAULIEMYIY-7-x8xbi0pp2atte-QE3zSw&s",ช่อง 四川卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkzaO8kml1bUk4SgWO3swn3F0JjL13Jlbzg&s",ช่อง 天津卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265026/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",ช่อง 安徽卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265025/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpuqmhoPPylaW-XO80H41k88_wdCLC7mkEsg&s",ช่อง 山东卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000016568/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-nK8VwMVlZt0HZzvHERZFvOt87cQYEnaJg&s",ช่อง 广西卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",ช่อง 江苏卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265030/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5uGVPRdb_aVwJvAH3OCi3Cofm2dbyA2WKQ&s",ช่อง 江西卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowi3Wy_wpbc7w6bg-nmo3R4-gCHBZAzRVpQ&s",ช่อง 河北卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJTHySjcMnMWrB6zYHkIEo3xjmBXVhoEZ0PPC_5RIJdEvqEz4DNiRzfNZOjg8SWbVdtA&usqp=CAU",ช่อง 河南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIxLDCjzVKpZGJ9jONRj4mGPqDbnqQfcOHA&s",ช่อง 海南卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl6w_P1pnzMbs3eUA1fX0ukWQ6KDUZZ1Pzkg&s",ช่อง 深圳卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265028/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://yt3.googleusercontent.com/pvz3eTqcqkA5HEPLMLsadSQ6fkiLF91DN01oVvlZl0ALSh5MEpMf4KSxj5uBASwj3e04V8ffgw=s900-c-k-c0x00ffffff-no-rj",ช่อง 湖北卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000024621/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNfpgrtGLO6eb8cnmlbt_AhXMNxREv_CqfQ&s",ช่อง 甘肃卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://yt3.googleusercontent.com/dd1mf7Z0HXqJgVF7IU3xZP-0DAHn-ZC67axu-p17KG3t4OSo4kIK3hv3ps9kywsnkPz02Utwjw=s900-c-k-c0x00ffffff-no-rj",ช่อง 贵州卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000025843/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQInfPyO2_tzhbTjcHk3mi8-pp31LUeAQu5aw&s",ช่อง 辽宁卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265022/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrJLadKdDpw22JuZs0fDAJhvfg0bisdCSpmQ&s",ช่อง 重庆卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001096/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg",ช่อง 青海卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qCp8qsbN42QGcawYvGmQLVI23gd-c9AVfQ&s",ช่อง 黑龙江卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7c/Cetv4.png/revision/latest?cb=20240404112208&path-prefix=vi",ช่อง 中国教育4台
+http://iptv.0564.org:35455/itv/5000000011000031126.m3u8?cdn=bestzb
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/59/STVlogo.png",ช่อง 上海新闻综合
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+http://iptv.0564.org:35455/itv/5000000011000031110.m3u8?cdn=bestzb
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6O7pokhKztWl4QnfJeKeQV2bYpjakQeBYpg&s",ช่อง 上海都市
-http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyCAJevZgACud3ski7QaUeO6D6Vi_zEIqSuQ&s",ช่อง 上海都市
+http://iptv.0564.org:35455/itv/5000000010000018926.m3u8?cdn=bestzb
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Great_Sports.jpg",ช่อง 五星体育
-http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuoSzICkrviiQGKz-wBNoYrypxQ28kFUt93w&s",ช่อง 上海东方影视
+http://iptv.0564.org:35455/itv/5000000010000032212.m3u8?cdn=bestzb
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKZMbdDt6P5L-8bPKVKmJb_RbghykOoedo_Q&s",ช่อง 精品体育
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOem05l_2PIaOVHL83TNh0IJxGVBEP4j-1g&s",ช่อง 上海第一财经
+http://iptv.0564.org:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播1
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPIesoGYBwtrIv5AQeTCqeUFi5cbGuyQQCQ&s",ช่อง 上海东方财经
+http://iptv.0564.org:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播2
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/Doc_Channel.jpg",ช่อง 纪实人文
+http://iptv.0564.org:35455/itv/5000000004000010282.m3u8?cdn=bestzb
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播3
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlj8lkMvQAxrRoDctHd4TslbzG79JhRHLNg&s",ช่อง 五星体育
+http://iptv.0564.org:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播4
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播5
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播6
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播7
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播8
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播9
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播10
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播11
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播12
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播13
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播14
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播15
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播16
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播17
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播18
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播19
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播20
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播21
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播22
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播23
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播24
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播25
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播26
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播27
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播28
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播29
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播30
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播31
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播32
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播33
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播34
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播35
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播36
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播37
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播38
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播39
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播40
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播41
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播42
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播43
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播44
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",ช่อง 咪咕直播45
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgcrabtsNVSb5hIBGdUR3x5d8WbAeCjpvvgA&s",ช่อง 法治天地
+http://iptv.0564.org:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",ช่อง CHANNEL NEWS ASIA
 http://line.greatstar.me/play/live.php?mac=00:1A:79:1c:0a:6f&extension=ts&stream=571251
