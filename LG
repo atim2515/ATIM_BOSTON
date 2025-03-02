@@ -4418,9 +4418,6 @@ https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_Africa_24.jpg",ช่อง Africa 24 English
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
-#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_Antenne_R%C3%A9union_2011.png",ช่อง Antenne Réunion
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSctIrwf-xKdp-8sxEMqgsQHWK8bS6nbpfzDw&s",ช่อง Brionnais TV
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 
@@ -4433,17 +4430,14 @@ http://51.254.199.122:8080/cdirectTV/index.m3u8
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIIalS6uFP_FmBfGcbcHNjQ3kHemGbAcPow&s",ช่อง Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://play-lh.googleusercontent.com/5VutmeXOdk3qNnV2E5IVVcVVyh50MoM6Os02lx_2h0csmYGgAfcZ-tHKesg1n9X1HDQ",ช่อง D5tv
-https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69F4SPmxna_V7_u4LoSHGPVW-e3j74XqpiQ&s",ช่อง DBM TV
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 
-#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/chaine-ere-tv.png",ช่อง Ère TV
-https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfI3FOgD8MaxG2VFsiKZmVhkkasjXWU0N5w&s",ช่อง FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/0/5/4/1348054_thiswildsidetv_logo_925227.jpg",ช่อง Wildside TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="AFRICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg",ช่อง MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
@@ -6314,71 +6308,17 @@ http://diyp.112114.xyz/douyu/997925
 #EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 来呀官人解说
 http://diyp.112114.xyz/douyu/9986305
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgImenseQPc1eBINZi47V6-nrSGAk8G95Xkw&s",ช่อง CCTV1
-http://iptv.0564.org:35455/itv/5000000004000002226.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://play-lh.googleusercontent.com/w5INytRhFqfW79hDWhjVsqZbwZHk8CIE1pgRRrM8dZwz64_7wW6mKYAKjwhzHamFwrM",ช่อง CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",ช่อง CCTV2
-http://iptv.0564.org:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://play-lh.googleusercontent.com/w5INytRhFqfW79hDWhjVsqZbwZHk8CIE1pgRRrM8dZwz64_7wW6mKYAKjwhzHamFwrM",ช่อง CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/3/34/CCTV-3_Logo.png",ช่อง CCTV3
-http://iptv.0564.org:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4america.jpg",ช่อง CCTV-4 America
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://i0.wp.com/enjoytv.asia/wp-content/uploads/2021/05/CCTV-4-LOGO-final-copy-1.png?ssl=1",ช่อง CCTV4
-http://iptv.0564.org:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Screen-Shot-2019-12-19-at-2.26.32-PM.png",ช่อง CCTV5
-http://iptv.0564.org:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQaJzYACQ6-HEBZxsr2VTVJkwl0IQ4ud8BLBbQ0IRAEvNMcpi_TBu51qFWqxcO2KVbpA4&usqp=CAU",ช่อง CCTV5+
-http://iptv.0564.org:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0NeKoMr0bZ6ZHjK6LzZlK1DMHixfCVYQ8RA&s",ช่อง CCTV6
-http://iptv.0564.org:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfNUNUmO9ZfD5bm55WPgo5-6SG1eTGfKAjA&s",ช่อง CCTV7
-http://iptv.0564.org:35455/itv/1000000001000024341.m3u8?cdn=ystenlive
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZpNzVI7CmNNs4O3c332TvxiuFobaniKcJQ&s",ช่อง CCTV8
-http://iptv.0564.org:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-pUuywE1rKMuVpirS-V45LGsYcgy5KYwB2Q&s",ช่อง CCTV9
-http://iptv.0564.org:35455/itv/1000000001000014583.m3u8?cdn=ystenlive
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",ช่อง CGTN
-http://iptv.0564.org:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",ช่อง CGTN记录
-http://iptv.0564.org:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVhVSuFv5FkDMc5jE8E3b625Otlt_0ccvbTQ&s",ช่อง 中国教育1台
-http://iptv.0564.org:35455/itv/5000000002000002652.m3u8?cdn=bestzb
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7c/Cetv4.png/revision/latest?cb=20240404112208&path-prefix=vi",ช่อง 中国教育4台
-http://iptv.0564.org:35455/itv/5000000011000031126.m3u8?cdn=bestzb
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/59/STVlogo.png",ช่อง 上海新闻综合
-http://iptv.0564.org:35455/itv/5000000011000031110.m3u8?cdn=bestzb
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyCAJevZgACud3ski7QaUeO6D6Vi_zEIqSuQ&s",ช่อง 上海都市
-http://iptv.0564.org:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuoSzICkrviiQGKz-wBNoYrypxQ28kFUt93w&s",ช่อง 上海东方影视
-http://iptv.0564.org:35455/itv/5000000010000032212.m3u8?cdn=bestzb
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOem05l_2PIaOVHL83TNh0IJxGVBEP4j-1g&s",ช่อง 上海第一财经
-http://iptv.0564.org:35455/itv/5000000010000027146.m3u8?cdn=bestzb
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPIesoGYBwtrIv5AQeTCqeUFi5cbGuyQQCQ&s",ช่อง 上海东方财经
-http://iptv.0564.org:35455/itv/5000000007000010003.m3u8?cdn=bestzb
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/Doc_Channel.jpg",ช่อง 纪实人文
-http://iptv.0564.org:35455/itv/5000000004000010282.m3u8?cdn=bestzb
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlj8lkMvQAxrRoDctHd4TslbzG79JhRHLNg&s",ช่อง 五星体育
-http://iptv.0564.org:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgcrabtsNVSb5hIBGdUR3x5d8WbAeCjpvvgA&s",ช่อง 法治天地
-http://iptv.0564.org:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cctv-4_m.png",ช่อง CCTV-4 Asia
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",ช่อง CHANNEL NEWS ASIA
 http://line.greatstar.me/play/live.php?mac=00:1A:79:1c:0a:6f&extension=ts&stream=571251
