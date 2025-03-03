@@ -6413,9 +6413,6 @@ https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgAfvDfML7VQ1ckTNThtCKiwRzMe2WupI1Iw&s",ช่อง JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/cropped-logo-RodjaTV-300x87.png",ช่อง RODJA TV
-https://rodjatv.com/rodjatv/live.m3u8
-
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://tvtabalong.com/wp-content/uploads/2025/02/logo-tv-tabalong.png",ช่อง TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
@@ -6431,8 +6428,20 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png",ช่อง HBO
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/215px-HBO_logo.svg.png",ช่อง HBO
 http://iptv12k.com:35461/654321/123456/1748
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png",ช่อง HBO Family
+http://iptv12k.com:35461/654321/123456/1746
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",ช่อง HBO Signature
+http://iptv12k.com:35461/654321/123456/2118
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",ช่อง Cinemax
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png",ช่อง CIRCLE
+https://circle-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",ช่อง TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
