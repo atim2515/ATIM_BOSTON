@@ -6944,17 +6944,20 @@ http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="KHMER TV" tvg-logo="https://play-lh.googleusercontent.com/oEkCn-8RapO7XgDAY_LQvNrTpHyK40BeSaV2mWMGZJRt-8VP92Fd0-eVoQAmiUHPEVg",ช่อง Fresh News
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfhdfwh6IAU461qDiypkLV1XbWYh05AorYg&s",ช่อง CNC
-http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZkkmCP-9ikaxRINb_lqfsNOCKb9U39k6zw&s",ช่อง Apsara TV11
+https://live.ams.com.kh/app/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kdkH1CCi444QUmtnk9vwwd6XRJ_1HO5WVbg8iWl0EorYo=s900-c-k-c0x00ffffff-no-rj",ช่อง CTN
-http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiCw149ste5sHf4H-gHbBfQPnRTMJ6V_sK9Q&s",ช่อง Bayon TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2iYzH27xY2FRwEXUzmsI7WEFuRDUsB-DMA&s",ช่อง CTV8 HD
-http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVh0goGonSIUHa1glN8pxoASYq91Y2vypejA&s",ช่อง BTV News
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhu_J0DD-9yzkNQ51DRmvcKPfOXQ5HxchSg&s",ช่อง My TV
-http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakCnmj6Najs8xfuqdNSrGYrrMg4d4dod6uw&s",ช่อง CTV 9
+https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgg59vzsGbq4DlNwIQN77Ra134zXAMi1Pv8Q&s",ช่อง iTV HD
+http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
 
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4f34xEBszWolD0z-9zhptzE9xRxQAdlZW9Q&s",ช่อง Hmong Star TV
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
