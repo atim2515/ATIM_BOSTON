@@ -6422,17 +6422,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",ช่อง Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png",ช่อง Unifi Inspirasi
-https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",ช่อง Unifi Siar
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png",ช่อง Unifi Salam HD
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2016/01/cinemaworldhd.gif?ssl=1",ช่อง Cinema World HD
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://images.indihometv.com/tvposter/galaxy.png",ช่อง Galaxy
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Dunia_Sinema_Old.png/revision/latest/scale-to-width-down/1200?cb=20230119131035",ช่อง Dunia Sinema
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -6445,9 +6436,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest/scale-to-width-down/280?cb=20210712111848",ช่อง Unifi Sports 1 hd
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDM_zmZz1Ct8YS4iUNcRecc4RsPRn6hmn7w&s",ช่อง Animax
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png",ช่อง RTB SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
