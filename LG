@@ -6347,9 +6347,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://play-lh.googleusercontent.com/OKHS6EcJx8XhrQZ1leZxAH9fbGX6ug_fRyHI4bT5v0W1eo6Or2FudDaDruI_-cCsaFE",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png",ช่อง RCTI
-https://allcutv.rctiplus.id/rcti2023.m3u8
-
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",ช่อง SCTV
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
@@ -6746,8 +6743,8 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 group-title="IRAN TV" tvg-logo="https://www.parsatv.com/index_files/channels/simayeazadi.jpg",ช่อง Simaye Azadi
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 
-#EXTINF:-1 group-title="ISRAEL TV" tvg-logo="https://play-lh.googleusercontent.com/b5uiFcklNc9Q-vDSy6gTuvae47w7zVdbIeV60C4TPCLtmbaEO-dJui_R9VLxrkrj2A=w416-h235-rw",ช่อง I24 News
-https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:-1 group-title="ISRAEL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBcybV93zIrAWesK4BGYNiBZaqDeG827HVqw&s",ช่อง Hala TV
+https://stream.panet.com/edge/halaTV/playlist.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJuioA8VXYFnDkFNG5VaVeJyNAuLFclQAL9928Vz3Zu6hRyEyCtAn1-4Klq_LWm0HLiQ&usqp=CAU",ช่อง Lao Champa TV 1
 https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8
@@ -6956,7 +6953,7 @@ http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playl
 #EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhu_J0DD-9yzkNQ51DRmvcKPfOXQ5HxchSg&s",ช่อง My TV
 http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="HMONG TV" tvg-logo="https://hmongstartv.com/web/images/poster.png",ช่อง Hmong Star TV
+#EXTINF:-1 group-title="HMONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4f34xEBszWolD0z-9zhptzE9xRxQAdlZW9Q&s",ช่อง Hmong Star TV
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://pbs.twimg.com/profile_images/1199585034572746753/JYJ9ml3d.jpg",ช่อง Hmong TV Network
