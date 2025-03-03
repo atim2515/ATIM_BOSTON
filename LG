@@ -6347,14 +6347,20 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://play-lh.googleusercontent.com/OKHS6EcJx8XhrQZ1leZxAH9fbGX6ug_fRyHI4bT5v0W1eo6Or2FudDaDruI_-cCsaFE",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173857976881_92.png",ช่อง tvri nasional
-https://stream.freetv.fun/c650b0c9bda09bc3cd7380f929bb5a1f623d4bf0a008136896482c1ae0c70f2c.m3u8
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png",ช่อง RCTI
+https://allcutv.rctiplus.id/rcti2023.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",ช่อง SCTV
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png",ช่อง ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173857976881_92.png",ช่อง tvri jakarta
 https://stream.freetv.fun/e7791f7487a20dbc88ffc6740c1c1dee4c781a771c998e4d34a7615ddc1896d1.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173857976881_92.png",ช่อง tvri yogyakarta
-https://stream.freetv.fun/bc75766fe6dc027871a01aaad1ae79e4f7a58bae2f1d52a892ece64be7d4346f.m3u8
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png",ช่อง GTV
+https://mantul.biz.id:443/inetwork/gayanet12/8932
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png",ช่อง TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
@@ -6362,20 +6368,23 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://seeklogo.com/images/T/trans-7-logo-E431AA9800-seeklogo.com.png",ช่อง TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png",ช่อง MOJI TV
+https://mantul.biz.id:443/inetwork/gayanet12/8251
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/400px-MNCTV_MNC-Group.svg.png",ช่อง MNC TV
+https://mantul.biz.id:443/inetwork/gayanet12/11257
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS9gu1kN_SETA96FjlqZwi0aVWiagXvZ6syqZKx=s900-c-k-c0x00ffffff-no-rj",ช่อง UGTV HD
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/200px-BTV_%28Indonesia%29_logo.svg.png",ช่อง BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/cca77230e396b443174a014efe4acb6f.jpg",ช่อง METRO TV
-https://stream.freetv.fun/7dfe7a6d8b1b36376c919482772ebbf5e94ff5089100602617c3d118004038fd.m3u8
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg",ช่อง Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/yc0m0wYfpKojOAi5XEd1Ceg5BmCDHuj4SSdAw70Qw8qc4ubZ7G9qCpZz4GKD8Q1XOpr-zQldhA=s900-c-k-c0x00ffffff-no-rj",ช่อง METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRGHsUTzSoNy2EDowWYXiDBULWkPA4-TuQgQ&s",ช่อง Padang TV
-https://stream.freetv.fun/e527b98e316765d91442e7f9db5ef465f498699063e878586bfae9230b2f01dd.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.ytimg.com/vi/SuiXn6MjLlc/maxresdefault.jpg",ช่อง Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
@@ -6385,18 +6394,6 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/9C3eaL4t0SiI0Nie_sNvc-amO-CSKG7_wOUcrnqEvB-oe16SLqAMU3Xw1n9POlH_PzeELw6l=s900-c-k-c0x00ffffff-no-rj",ช่อง IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l7vncFZAHBxu5eXX1OEvRRsa-9caMKsPiHrBr6ng=s900-c-k-c0x00ffffff-no-rj",ช่อง Nagaswara Dangdut
-https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bAVfQ6gpye.png",ช่อง Nagaswara Pop
-https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/g4kUYcZWjy.png",ช่อง Nagaswara Dance
-https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1693576055737487360/7rbADPvJ_400x400.jpg",ช่อง CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -6421,9 +6418,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",ช่อง Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://images.indihometv.com/tvposter/galaxy.png",ช่อง Galaxy
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Dunia_Sinema_Old.png/revision/latest/scale-to-width-down/1200?cb=20230119131035",ช่อง Dunia Sinema
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
