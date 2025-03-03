@@ -2066,20 +2066,11 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 #EXTINF:-1 group-title="FASHION CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",ช่อง Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="FASHION CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",ช่อง Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="FASHION CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",ช่อง Fashion TV PG16
-https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
-
 #EXTINF:-1 group-title="FASHION CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNgJgLDSEv8vtZK0YnayQt56kLw8DD9n8aA&s",ช่อง Global Fashion Channnel
 https://gfcomnimedia-globalfashionchannel-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://play-lh.googleusercontent.com/x6e8G5-X3CxKrOszUaZ_lzPwonSYMA3T0wctAvlGopMhPVNF8izOl-4FaEfbyELrcA",ช่อง AKC TV
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
-
-#EXTINF:-1 group-title="PET CH" tvg-logo="https://cdn.mos.cms.futurecdn.net/xvPiVbHBDvsz3HXWJzenxE-1200-80.jpg",ช่อง The Pet Collective
-https://jukin-thepetcollective-1-au.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVda4rgW51tU3R0bEc9cM2Z5N2AbW3nRPgng&s",ช่อง PET CLUB
 https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-petclub-tclus/playlist.m3u8
@@ -2189,7 +2180,7 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 group-title="LEARNING CH" tvg-logo="https://bit.ly/2LK7hpg",ช่อง ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="LEARNING CH" tvg-logo="https://www.stou.ac.th/main/images/cover/stouchannel.png",ช่อง STOU Channel
+#EXTINF:-1 group-title="LEARNING CH" tvg-logo="https://media.stou.ac.th/watch/img/stou_channel.jpg",ช่อง STOU Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="LEARNING CH" tvg-logo="https://image.roku.com/developer_channels/prod/110b229663a135a0abf87413c41f22f1f12c8cef7c1fc752e4fb572d71476693.png",ช่อง The Bob Ross Channel
