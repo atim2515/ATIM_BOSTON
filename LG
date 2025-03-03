@@ -621,7 +621,7 @@ https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png",ช่อง @แอททีวี
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59.png",ช่อง คูล ชาแนล
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3BQLfnnMNUSLQCiD_G3FH2fthjrNBThpJg&s",ช่อง คูล ชาแนล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
@@ -634,6 +634,21 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",ช่อง STAR MOVIES
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=282639
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYKwRjQcFvxiDVVbq56lYob7UMu1rodoRWA&s",ช่อง STAR MOVIES SELECT
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=155729
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",ช่อง AND FLIX
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=282632
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png",ช่อง AND PRIVE
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=155746
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://yt3.googleusercontent.com/nnF0vSUyYMNha7ukbxH3KeYW2gx6YVGU8rqzvURusWfxglA8cfTLtAtcIrE3uXxiNhZ-WE0Qpg=s900-c-k-c0x00ffffff-no-rj",ช่อง SONY PIX
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=1116481
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/640px-HBO_logo.svg.png",ช่อง HBO
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=45549
@@ -788,8 +803,20 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png",ช่อง SONY MOVIE CHANNEL
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=91789
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYmLrLwvtPlyZFh6POOUZ3Hnyv-zkEXw-ww&s",ช่อง SONY CINE
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",ช่อง CinemaWorld
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683146
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwoPnsU76qNW4hxaSW-phFHsZ0BeRxwErIA&s",ช่อง Cinemachi Action
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683090
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUwsSnGALjF1BVr0icNSIVkXQeRmRG44aIA&s",ช่อง Cinemachi Kids
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683085
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TjvryMuuIQ5sab7Stvii_mElbx8rnMotFQ&s",ช่อง Cinemachi MAX
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683173
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/Cinemachi-Xtra-%28black%29.png",ช่อง Cinemachi Xtra
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683161
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",ช่อง AMC
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/1083/index.m3u8
@@ -816,10 +843,10 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571222
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",ช่อง HITS MOVIES
-http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571200
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683163
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg/revision/latest/smart/width/386/height/259?cb=20240506054820",ช่อง HITS
-http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571252
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683145
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://i.ytimg.com/vi/E4RUQxYTZDQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCK0zYRKBFOjezMJ3L1YoO-1yY5ug",ช่อง Celestial Classic Movies
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571182
@@ -857,9 +884,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3964
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.xumo.com/v1/channels/channel/9999302/300x300.png?type=smartCast_channelTile",ช่อง Hi-YAH
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://m.media-amazon.com/images/I/516n7V4KybL.png",ช่อง AsianCrush
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://i.pcmag.com/imagery/reviews/0223mIGhhsXt1YFfW4lc6L7-1.fit_lim.size_1050x591.v1673967761.png",ช่อง Midnight Pulp
 https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
 
@@ -875,17 +899,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywo
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4729689c-cf27-4e2b-886c-165b4656c006/Cinepride_artwork_horizontal.jpeg",ช่อง CINEPRIDE
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3954
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png",ช่อง Rakuten Family Movies
-https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/Redbox-Logo.png",ช่อง Redbox 1: Spotlight
-https://spotlight-redbox.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/RedTV-Srbija-Logo.png",ช่อง Red TV
 https://live.rednet.rs/providus/redtv_multi.m3u8
-
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://gust-production.s3.amazonaws.com/uploads/startup/panoramic_image/935969/logo_20_3_.png",ช่อง Netmax TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/0a/Paramount_Movie_Channel.png/revision/latest?cb=20140701231252",ช่อง Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
@@ -905,29 +920,17 @@ https://lonestar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqlb6jWJY1EphjsbT-5CHSBAop4YQhTHznQ&s",ช่อง Filmzie
 https://filmzie-filmzie-1-gb.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDc6d1qghxMYz6vMhYcG_pqfBnL60rQEk5_A&s",ช่อง Gravitas Movies
-https://gravitas-movies-eu.vidaa.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png",ช่อง Wedo Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesen-vidaa/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/23121758/wedo-big-stories_RED.png",ช่อง Wedo Big Stories
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-vidaa/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFTR88nIFr6Mb1NcnHrJ0u-wr-1kE4Ub4cg&s",ช่อง Go See Westerns
-https://cdn44.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/GoSeeWesterns_VIDAA/index.m3u8?ads.vidaa_ads_param=1191726536
-
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.roku.com/developer_channels/prod/d0c78a56a4391effb1dc5d21218ba9b3a9cd66554a9e9f9dea9b052892240c0f.png",ช่อง Grjngo 2
 https://amogonetworx-grjngo-2-eu.vidaa.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wixstatic.com/media/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg/v1/fill/w_2500,h_1406,al_c/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg",ช่อง Artflix
 https://amogonetworx-artflix-3-eu.vidaa.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/AngerManagement.png",ช่อง Anger Management
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementus-vidaa/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Are_We_There_Yet_logo.png",ช่อง Are We There Yet
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-arewethereyetus-vidaa/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/137e73d4adc4ae9dc1312096219f5ac18becc588585d9412eff37fe1ae32a260.jpg",ช่อง Trailers from Hell
 https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8
@@ -1568,16 +1571,16 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3970
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://play-lh.googleusercontent.com/UWwUVSJEPo_latM4-3g1qHBkD2evdcHbSGHBlQsVSSMfCNjy-AUejp11XwDI7lm-yjI",ช่อง Retro Crush
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kCzC3-kSTcbu3wMNtVxdgGPm37pzPb_qMlIpOM-X1_wHw=s900-c-k-c0x00ffffff-no-rj",ช่อง 123 GO! LIVE
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://m.media-amazon.com/images/I/61nZ7TjtFdL._AC_SL1000_.jpg",ช่อง Ninja Kidz TV
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYWIqExhhkI9HPo5uB7u-HbQn5ysXF0KVN9Q&s",ช่อง TokuSHOUTsu
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a88f013-2601-41bd-9070-75701edcf852
 
-#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",ช่อง Anime TV
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://yt3.googleusercontent.com/apTOjRx7n9vB9XgNvjxBXJRadJf6oaJxmJGiaUVqcRXeIgbOm-D9Uu45ejOSfPmq2zsqu1idyA=s900-c-k-c0x00ffffff-no-rj",ช่อง Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png",ช่อง PBS Kids
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/220px-PBS_Kids_logo_%282022%29.svg.png",ช่อง PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://play-lh.googleusercontent.com/hMM6boFl8BdsgqeHAycUoyNnyRJZSSeFXPAqA2FesVAxqwjzOVEMoNXMl8-JncB1ZU4",ช่อง KidsFlix
@@ -4989,13 +4992,13 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=153398
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvbyule.jpg",ช่อง TVB Entertainment News
-http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571188
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=153504
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB Xing He
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=153506
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
-http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571197
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=153503
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS718kj0sqWtPEeCzohNZgl1OPf2pWcU95iUw&s",ช่อง TVB Drama
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=153400
