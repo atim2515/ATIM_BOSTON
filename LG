@@ -6410,14 +6410,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png",ช่อง TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png",ช่อง TV2
-https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",ช่อง TV3
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",ช่อง TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvApH_-rrGVaTBmq2Ej4mOvKkWQ6F72Sy1ug&s",ช่อง TV9
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",ช่อง Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -6428,6 +6425,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1200px-Sukan_RTM_1_April.png",ช่อง Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-hebat-my.png",ช่อง DRAMA HEBAT
+https://a86c4b70738a4e12b44c7fed76d977a4.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd
+
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png",ช่อง RTB SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
@@ -6436,6 +6436,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png",ช่อง RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuZAw9V6Gej63cikLeVuX4cx-hJB3d7ftSQ&s",ช่อง Hot FM
+https://n30a-eu.rcs.revma.com/drakdf8mtd3vv/48_1vmr9fw8eh2ml02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlC_DOo8Ac734sTC2N2aVIQ
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade
 http://line.greatstar.me/play/live.php?mac=00:1A:79:1c:0a:6f&extension=ts&stream=571187
