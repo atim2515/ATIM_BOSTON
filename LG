@@ -2046,7 +2046,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://static.dw.com/image/69105246_605.jpg",ช่อง DW
-http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683192
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",ช่อง France24
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683191
@@ -6887,9 +6887,6 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzBzSSZ_0bROvGFY2KKy4YEAGSNh9UOyIWIdlTSDdpYo9_ydI5KYQD7OZCeS7UwleI9k&usqp=CAU",ช่อง Tea TV 2
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Logo_VOV.svg.png",ช่อง VOVTV
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
-
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHpvQ9GkUgKMXhNd2fwn00xUdAIHrhJvIPw&s",ช่อง BGTV HD | TH Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
 
@@ -6908,17 +6905,26 @@ http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/DRT_%C4%90%E1%BA%AFk_L%E1%BA%AFk_2021.png/revision/latest?cb=20230108145830&path-prefix=vi",ช่อง DRT
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/THD_2023.png/revision/latest?cb=20230925025249&path-prefix=vi",ช่อง THD
-http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=auto&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
-
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620240408085552",ช่อง Yen Bai TV
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg",ช่อง TVB Vietnam
-https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCffu8C4ZFPrm5_n4_OYP1hgWDQTlOJI75A&s",ช่อง Cà Mau TV
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/1280px-KBS_World.svg.png",ช่อง KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/CRTV_Cao_B%E1%BA%B1ng.png/revision/latest?cb=20200711123050",ช่อง Cao Bang TV
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSccKr4K-zH4x4p2GpfOHURGVRbeDsh_M62GQ&s",ช่อง Dhammasapha TV
+https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://yt3.googleusercontent.com/9CXCBCk52sfcVFS-P295RsZ-BWo4BKiNAXh8rGUNqMgkukl4OjM0XkFmDlsj_CGDGBTevzSw0Fs=s900-c-k-c0x00ffffff-no-rj",ช่อง Dien Bien TV
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPOAxaiwnRMYQ24Bggtvws7QVL40FHFy77xw&s",ช่อง Đồng Nai 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://yt3.googleusercontent.com/0XlEZt96dYYQfAGy7RFI_lT6ZtjIIS-buhsVzK6drFxCvMCQorDSPvNSvBlVOwPXjcCCXssR=s900-c-k-c0x00ffffff-no-rj",ช่อง Đồng Nai 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://i.ytimg.com/vi/5o77N4sNCLI/maxresdefault.jpg",ช่อง Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
@@ -6941,20 +6947,11 @@ https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/d19434bf92d6af5a443ccf8af3c5a08
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/140px-WION_news_Logo.svg.png",ช่อง WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png",ช่อง Euronews
-https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/200?cb=20180603181710",ช่อง Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png",ช่อง Al Jazeera English
 https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/cctv4-656x388.jpg",ช่อง CCTV4
-https://github.com/ChiSheng9/iptv/raw/master/TV20.m3u8
-
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png",ช่อง NTD
-https://github.com/ChiSheng9/iptv/raw/master/TV23.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMVMG3Tv3ag9SVjq1hrUFTVa-etWVNqFj1nA&s",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
@@ -7238,10 +7235,10 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",ช่อง BeIN SPORTS 3
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=941567
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",ช่อง Hub Premier 1
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-Ohn4n8FGoOP86kZgA9ly15shoER5rInig&s",ช่อง Hub Premier 1
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=1032529
 
-#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",ช่อง Hub Premier 2
+#EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBK5Hs-dGg_Z7oYKqB3caPF6ZEWjkQ8rViA&s",ช่อง Hub Premier 2
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=1032528
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530",ช่อง Hub Sports 1
