@@ -5489,8 +5489,14 @@ http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRobyPRnNYZ5nUNj_TPDCawg3tyByviRNJD7w&s",ช่อง AXN
 http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWitEY3aYJL5nafcgtjTeNOdVoeOzM7rJYNQ&s",ช่อง AMC电影台
+http://haoyunlai.serv00.net/Smartv-1.php?id=starmoviesgold_twn
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU2M9Ttg-9HqWKoyIqbmhGl3FUgG5Pglo4Q&s",ช่อง TLC
 http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSph1oA3a5-8s2wtPwIZT_j6rfztffbO5WDg&s",ช่อง MTV
+http://haoyunlai.serv00.net/Smartv-1.php?id=mtvhd_twn
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",ช่อง Fashion TV
 http://50.7.234.10:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
@@ -5549,6 +5555,9 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png/1200px-CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png",ช่อง CN卡通頻道
 http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDM_zmZz1Ct8YS4iUNcRecc4RsPRn6hmn7w&s",ช่อง ANIMAX
+http://haoyunlai.serv00.net/Smartv-1.php?id=Animax
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://cdn.mos.cms.futurecdn.net/nnbWtFDt8Y9wuHdR9AJxCF.png",ช่อง Tennis Channel
 https://stream1.freetv.fun/9d741f7a69392950497ff7540a55c1dffda3c541e9e2e672be1d8ce8eb40afc0.ctv
 
@@ -5566,9 +5575,6 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
 http://50.7.234.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-博斯高球1,http://50.7.234.10:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 状王宋世杰-第二部-张达明大战黄子华
 https://live.metshop.top/huya/23734183
