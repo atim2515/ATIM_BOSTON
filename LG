@@ -4877,6 +4877,9 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PodcastSource221/v4/79/2c/e8/792ce883-5e48-7c4d-ff81-ac69b069cdf4/f7253474-5c6f-4411-aeac-0f3c98fe0957.png/1200x1200bf-60.jpg",ช่อง Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",ช่อง TVN
+http://haoyunlai.serv00.net/Smartv-1.php?id=TVN
+
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lzY0CqKE62NiMboM_-HizbzkBjSXP7zDiuIu1xsgtOlFM=s900-c-k-c0x00ffffff-no-rj",ช่อง K-Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 
@@ -5504,6 +5507,9 @@ http://50.7.234.10:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",ช่อง Arirang
 http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",ช่อง TVN
+http://haoyunlai.serv00.net/Smartv-1.php?id=TVN
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhe3JzzMPL1bIkIj6Q3guMDhrTCykgd_SDw&s",ช่อง 动物星球
 http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
@@ -5554,6 +5560,12 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png/1200px-CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png",ช่อง CN卡通頻道
 http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",ช่อง Nickelodeon
+http://haoyunlai.serv00.net/Smartv-1.php?id=nickelodeon_twn
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",ช่อง Nick Jr
+http://haoyunlai.serv00.net/Smartv-1.php?id=Nickjr
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDM_zmZz1Ct8YS4iUNcRecc4RsPRn6hmn7w&s",ช่อง ANIMAX
 http://haoyunlai.serv00.net/Smartv-1.php?id=Animax
