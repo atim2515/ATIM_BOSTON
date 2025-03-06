@@ -6533,6 +6533,24 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg",ช่อง 广东大弯区卫视
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=156411
 
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg",ช่อง Qingdao News Channel
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg",ช่อง Qingdao Public Life Channel
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg",ช่อง Qingdao Film and Video Channel
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg",ช่อง Qingdao Leisure Information Channel
+http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg",ช่อง Qingdao Metropolitan Channel
+http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg",ช่อง Qingdao Youth Tourism Channel
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",ช่อง CHANNEL NEWS ASIA
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571251
 
