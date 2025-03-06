@@ -4019,6 +4019,9 @@ https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง Fork & Flight
 https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง Gardening with Monty Don
+https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="TVS NETWORK" tvg-logo="https://www.tvstvnetworks.com/wp-content/uploads/2020/06/cropped-TVSTVLogo2.png",ช่อง TVS Boxing
 https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 
@@ -6500,6 +6503,9 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",ช่อง CGTN
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=156413
 
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1200px-CGTN_Documentary.svg.png",ช่อง CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGfwkMewsO27AtwAJ5ozPkXGh_3h0vTjz5SbHLwnrUwFTxvzOQh9LtR4kPLPM3ExE21s&usqp=CAU",ช่อง CHINA MOVIE
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=156417
 
@@ -6541,12 +6547,6 @@ https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcGGYSjsoZtRbj6IFLYZAP-thz2iKfjvLGCA&s",ช่อง 余姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/c9299742301b92ab41fbd0d1f93784d8.jpg",ช่อง 南宁公共
-https://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBY0iwNDf8-VdE3T-O7a05p-LcEiyqfkI1OQ&s",ช่อง 南宁影视娱乐
-https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 
 #EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",ช่อง CHANNEL NEWS ASIA
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571251
