@@ -5366,6 +5366,9 @@ http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e9/TVBS_Asia_logo_2017.png",ช่อง TVBS亚洲台
 http://haoyunlai.serv00.net/Smartv-1.php?id=Tvbasia
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png",ช่อง 寰宇新聞
+http://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg",ช่อง 中天新闻
 http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 
@@ -5516,8 +5519,17 @@ http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",ช่อง Fashion TV
 http://50.7.234.10:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png",ช่อง NHK
+http://haoyunlai.serv00.net/Smartv-1.php?id=NHK
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXt0lOwQVNzg4IX0GQjrY02fJVRVEGLRcIg&s",ช่อง NHK新闻資訊
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",ช่อง Arirang
 http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e13eeed0-fb8a-11ed-9087-3197146bda13_webp_original.png",ช่อง KBS World
+http://haoyunlai.serv00.net/Smartv-1.php?id=KBS
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhe3JzzMPL1bIkIj6Q3guMDhrTCykgd_SDw&s",ช่อง 动物星球
 http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
@@ -5600,65 +5612,61 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
 http://50.7.234.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=lunghuajingdian_twn
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=jingyangcartoon_twn
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=jingtianjapan_twn
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=niandaitv_twn
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=eltasport3_twn
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=eltazonghe
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=eltayingju_twn
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=videolandtv
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=videolandmax
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=bosigolf1_twn
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f1/%E4%BF%A1%E5%90%89%E8%A1%9B%E6%98%9F%E9%9B%BB%E8%A6%96%E5%8F%B0LOGO.jpg",ช่อง 信吉
 http://haoyunlai.serv00.net/Smartv-1.php?id=huanyutaiwan_twn
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=foxnews_twn
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=hbohd_twn
+http://lzo.us.kg/daili/Smartv.php?id=lunghuajingdian_twn
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=KBS
+http://lzo.us.kg/daili/Smartv.php?id=toptv_twn
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=lifetime_twn
+http://lzo.us.kg/daili/Smartv.php?id=jet
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=Weishimovie
+http://lzo.us.kg/daili/Smartv.php?id=jingyangcartoon_twn
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=NHK
+http://lzo.us.kg/daili/Smartv.php?id=jingtianjapan_twn
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://haoyunlai.serv00.net/Smartv-1.php?id=nhkworld_twn
+http://lzo.us.kg/daili/Smartv.php?id=niandaitv_twn
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=eltasport3_twn
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=eltazonghe
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=eltayingju_twn
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=videolandtv
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=videolandmovie
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=videolandmax
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=bosigolf1_twn
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=foxnews_twn
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=hbohd_twn
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=lifetime_twn
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+http://lzo.us.kg/daili/Smartv.php?id=Weishimovie
+
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 状王宋世杰-第二部-张达明大战黄子华
 https://live.metshop.top/huya/23734183
