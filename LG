@@ -5525,13 +5525,13 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1572915905_discovery-channel.jpg",ช่อง Discovery Channel
 https://stream1.freetv.fun/21bc6fc8b394ab3ca60cfa793c4acef84154900498bf749c5ae0f5dce2f66dce.ctv
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",ช่อง Discovery Asia
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png",ช่อง Discovery Asia
 http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX_8AYO_LuPi0Hx_-RClMcxV-ZsSGmEbIkw&s",ช่อง Discovery Sci
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",ช่อง DMAX
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqOBGFAOS4lD-R2h6LvUJqM123s7TPrXSWgQ&s",ช่อง DMAX
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s",ช่อง BBC Earth
@@ -5595,10 +5595,7 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 http://50.7.234.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://lzo.us.kg/daili/Smartv.php?id=jet
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
-http://lzo.us.kg/daili/Smartv.php?id=toptv_twn
+http://haoyunlai.serv00.net/Smartv-1.php?id=Tvbasia
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 状王宋世杰-第二部-张达明大战黄子华
 https://live.metshop.top/huya/23734183
