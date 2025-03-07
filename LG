@@ -833,6 +833,9 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png",ช่อง THRILL
 http://50.7.234.10:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",ช่อง BOO
+http://yourservpan.com:3050/WillieLye219/ag6gm94fpw/605290
+
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/ct_custom_page_f_primary_image/AXN_LOGO-620x348.jpg",ช่อง AXN
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571222
 
@@ -2045,7 +2048,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ช่อง SPOTV
 http://154.26.138.108:234/stream/my/spotv/master.m3u8
 
-#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ช่อง SPOTV
+#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Jk9QNq3vxTwghzf3MzL18JG0cV0ktsUcKQ&s",ช่อง Astro Football
 http://154.26.138.108:234/stream/my/football/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ช่อง ESPN
