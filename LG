@@ -1622,6 +1622,9 @@ https://edge2a.v2h-cdn.com//boomerang/boomerang.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png",ช่อง BOOMERANG
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=45608
 
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png",ช่อง Cartoon Network
+http://154.26.138.108:234/stream/my/cartoonntwk/master.m3u8
+
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://static.wikia.nocookie.net/starwars/images/1/15/DisneyChannelLogo.png/revision/latest?cb=20130521011352",ช่อง DISNEY CHANNEL
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=45588
 
@@ -1945,6 +1948,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-sam
 
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=45577
+
+#EXTINF:-1 group-title="FOOD CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png",ช่อง AFN
+http://154.26.138.108:234/stream/my/afn/master.m3u8
 
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024",ช่อง Pluto TV BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
