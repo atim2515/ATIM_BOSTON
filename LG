@@ -6755,14 +6755,17 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png",ช่อง RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5YNsCVhYACbT7IezbR_9ZnOq0tWvl_Gtz9A&s",ช่อง 8TV
+http://c2.abcnew.site:8880/JH12M3D238/2WfvkguZ9g/1730
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",ช่อง Astro AEC
 http://c2.abcnew.site:8880/JH12M3D238/2WfvkguZ9g/1723
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR33u6fO2mTS4Xdy4d9ei8yxFnj32gQhHrAA&s",ช่อง Astro AOD
-http://c2.abcnew.site:8880/JH12M3D238/2WfvkguZ9g/1724
-
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/Astro_%E5%85%A8%E4%BD%B3.png/revision/latest?cb=20221108124810&path-prefix=vi",ช่อง Astro QJ
 http://c2.abcnew.site:8880/JH12M3D238/2WfvkguZ9g/1728
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",ช่อง Astro Hua Hee Dai
+http://c2.abcnew.site:8880/JH12M3D238/2WfvkguZ9g/1725
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571187
