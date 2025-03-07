@@ -803,6 +803,9 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAjQ_AGbR_2CsNUzE53tz1gAA9aWJN42ABqg&s",ช่อง SKY CINEMA SELECT
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=949137
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",ช่อง Warner TV
+http://154.26.138.108:234/stream/my/warner/master.m3u8
+
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png",ช่อง SONY MOVIE CHANNEL
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=91789
 
@@ -841,6 +844,9 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kb_ecZMuo0MqrOyWROtFl2OoyFrJqgRpd3_qP5TKpCB3Y=s900-c-k-c0x00ffffff-no-rj",ช่อง tvN Movies
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683149
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png",ช่อง One
+http://154.26.138.108:234/stream/sooka/one/master.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://i.ytimg.com/vi/E4RUQxYTZDQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCK0zYRKBFOjezMJ3L1YoO-1yY5ug",ช่อง Celestial Classic Movies
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=571182
@@ -1592,6 +1598,9 @@ http://yourservpan.com:3050/WillieLye219/ag6gm94fpw/430740
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9Cbi8xsGhNVSiy4JS45z3Es85B4Ykct-5A&s",ช่อง E! ENTERTAINMENT
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=45584
 
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GvABuq5ua25YY4Y4R5qzENlf3RpMEiz0bA&s",ช่อง TLC
+http://154.26.138.108:234/stream/my/tlc/master.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQQVpl3gWcBPD8nN7bq6HMdA92PfRq4DXoVR3DCHQ=s900-c-k-c0x00ffffff-no-rj",ช่อง The Young Turks
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
@@ -1621,9 +1630,6 @@ https://edge2a.v2h-cdn.com//boomerang/boomerang.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png",ช่อง BOOMERANG
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=45608
-
-#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png",ช่อง Cartoon Network
-http://154.26.138.108:234/stream/my/cartoonntwk/master.m3u8
 
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://static.wikia.nocookie.net/starwars/images/1/15/DisneyChannelLogo.png/revision/latest?cb=20130521011352",ช่อง DISNEY CHANNEL
 http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=45588
@@ -2035,6 +2041,12 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-
 
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+
+#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ช่อง SPOTV
+http://154.26.138.108:234/stream/my/spotv/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ช่อง SPOTV
+http://154.26.138.108:234/stream/my/football/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS CH" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ช่อง ESPN
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19156/index.m3u8
