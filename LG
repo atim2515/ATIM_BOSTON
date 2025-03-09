@@ -6782,11 +6782,26 @@ http://iptv12k.com:35461/654321/123456/2118
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",ช่อง Cinemax
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",ช่อง AXN
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683144
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjs0w0xWr-jXVwBrM3qC6riTsF03-Ul1wUQ&s",ช่อง Lifetime
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683129
+
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaf8O5FMx9Wca8cgQhaS3zzY41GilUEVpAFg&s",ช่อง Circle Country
 https://circle-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png",ช่อง COMET
 http://Supersonictv.live:8080/live/006779/439866/22066.ts
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png",ช่อง Thrill
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683154
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/220px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime+Investigation
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683088
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1200px-CGTN_Documentary.svg.png",ช่อง CGTN Documentary
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683111
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOJo9ocuk6_xARYcvdOb26yX162-IMgY7D1Z3DIz2Y0MzkWsKOTQjszg&amp;s=10",ช่อง Biznet Kids HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
@@ -6802,6 +6817,15 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/peppapig/images/f/f4/PeppaPigThemeSong1.png/revision/latest?cb=20181203224544",ช่อง Peppa Pig
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",ช่อง France24
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683191
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/250px-Logo_TV5_Monde_-_2021.svg.png",ช่อง TV5 Monde
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683184
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXt0lOwQVNzg4IX0GQjrY02fJVRVEGLRcIg&s",ช่อง NHK WORLD-JAPAN
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683183
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
 http://Supersonictv.live:8080/live/006779/439866/22185.ts
@@ -7003,6 +7027,18 @@ http://45.32.115.103/live/livestream/index.m3u8
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png",ช่อง CCTN
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",ช่อง AXN
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=731863
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png",ช่อง ARIRANG
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=926203
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ช่อง ANIMAL PLANET
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=926204
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://variety.com/wp-content/uploads/2023/06/animax-logo-cr-res.jpg?w=1000&h=563&crop=1",ช่อง ANIMAX
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=731865
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAcCVg0Ze1CIVfge5Xm-QEYWC3o-OZRgI5kg&s",ช่อง Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
