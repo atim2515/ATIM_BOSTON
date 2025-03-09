@@ -4145,6 +4145,21 @@ https://pocketwatch-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง PokerGO
 https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง Portlandia
+https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง PursuitUp
+https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง Real Housewives Vault
+https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง Reelz Famous & Infamous
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง Reuters Now
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+
 #EXTINF:-1 group-title="TVS NETWORK" tvg-logo="https://www.tvstvnetworks.com/wp-content/uploads/2020/06/cropped-TVSTVLogo2.png",ช่อง TVS Boxing
 https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 
@@ -5643,7 +5658,7 @@ http://50.7.234.10:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=
 http://haoyunlai.serv00.net/Smartv-1.php?id=NHK
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXt0lOwQVNzg4IX0GQjrY02fJVRVEGLRcIg&s",ช่อง NHK新闻資訊
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+http://line.greatstar.me/play/live.php?mac=00:1A:79:bf:a1:48&extension=ts&stream=683183
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",ช่อง Arirang
 http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
