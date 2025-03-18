@@ -4,12 +4,6 @@
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",ช่อง 3
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",ช่อง 3
-https://cdn-us.livestreaming.in.th/tvphone/tvphone/playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",ช่อง 3
-https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",ช่อง 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
@@ -108,6 +102,9 @@ http://dopachannel.truegse.com/live/dopatv03.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nOmb1QKpdK49kJpOKxFu3LroKNyQhH1HKg&s",ช่อง NET IDOL ASIA
+https://cdn-us.livestreaming.in.th/tvphone/tvphone/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
