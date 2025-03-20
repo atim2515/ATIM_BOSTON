@@ -833,6 +833,9 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1H423xw8XCTugW8uYZEdZVY1zSFgIJcLNg&s",ช่อง MOVIEPLEX
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=45536
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png",ช่อง THRILL
 http://50.7.234.10:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
 
@@ -1607,6 +1610,9 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GvABuq5ua25YY4Y4R5qzENlf3RpMEiz0bA&s",ช่อง TLC
 http://154.26.138.108:234/stream/my/tlc/master.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOzJDccu0Vrr_sSB_aQjBCALZ_meODXSuGw&s",ช่อง Camera Smile
+https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQQVpl3gWcBPD8nN7bq6HMdA92PfRq4DXoVR3DCHQ=s900-c-k-c0x00ffffff-no-rj",ช่อง The Young Turks
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
@@ -1957,6 +1963,9 @@ https://linear-492.frequency.stream/dist/vidaa/492/hls/master/playlist.m3u8?ads.
 
 #EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://images.squarespace-cdn.com/content/v1/5eb18a370c6aef0b9ed26c66/1608115006562-O25FI8GITNENELXGJTAG/WaterBear-Network-2.jpg",ช่อง Waterbear
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING CH" tvg-logo="https://cafetrade.tv/wp-content/uploads/2023/07/Cafetrade-logo-New-Final-1.png",ช่อง Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="FOOD CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=45577
