@@ -1,17 +1,6 @@
 #EXTM3U
  
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",ช่อง TV1
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",ช่อง TV2
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
-
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://assets.myx.global/wp-content/uploads/2022/11/myxBanner_1080x1080_New.jpg",ช่อง MYX
-https://stream.freetv.fun/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.ctv
-
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SCTV_logo_%28Vietnam%29.svg/1280px-SCTV_logo_%28Vietnam%29.svg.png",ช่อง SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
@@ -238,6 +227,3 @@ https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22374
 
 #EXTINF:-1 group-title="JAPAN RADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995d.png",ช่อง Powerplay J-Pop
 https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22384
-
-#EXTINF:-1 group-title="JAPAN RADIO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995d.png",ช่อง Powerplay J-Pop
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
