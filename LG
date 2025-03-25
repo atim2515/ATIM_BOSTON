@@ -7055,18 +7055,14 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Syok_India_Beat.png/revision/latest?cb=20191121050704",ช่อง SYOK India Beat
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=153507
 
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png",ช่อง One PH
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/oneph_sd.m3u8
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://rageteebee.vercel.app/logo.png",ช่อง Rage TV By Blaze
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/ragetv/playlist.m3u8
 
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png",ช่อง One PH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/oneph_sd.mpd
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://i.ibb.co/HD4hF00d/2025-03-17-1-removebg-preview-1.png",ช่อง BIHM TV BY Blaze
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/bihm/playlist.m3u8
 
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/BuKo_Buhay_Komedya_Logo.jpg/250px-BuKo_Buhay_Komedya_Logo.jpg",ช่อง BuKO
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.m3u8
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://i.ibb.co/gFL3JypM/2025-03-17-removebg-preview.png",ช่อง Sine Manila By Blaze
+https://stream.gia.tv/giatv/giatv-ragetv/ragetv/playlist.m3u8
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png",ช่อง A2Z
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
@@ -7085,6 +7081,9 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png",ช่อง ARIRANG
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=926203
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38=w600-h300-pc0xffffff-pd",ช่อง Kpop TV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ช่อง ANIMAL PLANET
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=926204
