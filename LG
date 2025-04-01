@@ -94,6 +94,15 @@ https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",ช่อง True Premier Football HD 4
 https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ช่อง SPOTV
+https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305",ช่อง beIN Sports 1
+https://www.livedoomovies.com:4431/02_sport2_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png",ช่อง beIN Sports 3
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",ช่อง TPTV
 https://tv-live.tpchannel.org/live/tv.m3u8
 
@@ -447,14 +456,11 @@ https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ช่อง SPOTV
 https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://truevisions.co.th/static/07c607f1-f827-4ecc-8e85-fee084bc6821.png",ช่อง beIN Sports HD 1
-https://www.livedoomovies.com:4431/02_sport2_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_2_France.png",ช่อง beIN Sports HD 2
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_2_France.png",ช่อง beIN Sports HD 2
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305",ช่อง beIN Sports 1
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png",ช่อง beIN Sports 3
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",ช่อง 3BB Asian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
