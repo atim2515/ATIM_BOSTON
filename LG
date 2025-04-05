@@ -5351,6 +5351,9 @@ https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",ช่อง TVB Jade
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",ช่อง TVB Jade 4K
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png",ช่อง TVB Jade Astro
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=571187
 
@@ -5385,10 +5388,13 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream
 http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlBwm7kxH9QEwXonqOFxIKK13lMieW-H0iw&s",ช่อง Asian Action Channel
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/kamiwaza-wanda/images/4/4d/HOYTV_Logo.png/revision/latest?cb=20240518180548",ช่อง HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/kamiwaza-wanda/images/4/4d/HOYTV_Logo.png/revision/latest?cb=20240518180548",ช่อง HOY TV 2
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTin_BIbceXDQu8eeg6SkGwnvhkx0NuJz9Lgg&s",ช่อง VIU TV
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
@@ -5459,11 +5465,17 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYGaDWrlcq3gk7quvtJToOA4zhd971oVVeQ&s",ช่อง 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk31KHEjGxuXTK6jF1WwDTAWr-v1qPqHNVhg&s",ช่อง 八度空间
+http://php.jdshipin.com/smt.php?id=TV8
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",ช่อง STAR MOVIES
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=282639
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYKwRjQcFvxiDVVbq56lYob7UMu1rodoRWA&s",ช่อง STAR MOVIES SELECT
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=155729
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagmjod_MCZyXfjG-FWq-X1N-ZtTcatOo_rw&s",ช่อง Celestial Movies
+http://php.jdshipin.com/smt.php?id=Celestial
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.celestialpictures.com/images/new/logo_channel_classic.jpg",ช่อง Celestial Classic Movies
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=571182
