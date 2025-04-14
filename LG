@@ -4328,6 +4328,12 @@ https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7to9oKZvI7bm3HxTd8dF_dfnQJUKJm3m6A&s",ช่อง Xplore
 https://xplore-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="SoFast TV" tvg-logo="https://images.newsfilecorp.com/files/10827/237848_5c8003b764c198a8_002full.jpg",ช่อง 4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+
+#EXTINF:-1 group-title="SoFast TV" tvg-logo="https://images.newsfilecorp.com/files/10827/237848_5c8003b764c198a8_002full.jpg",ช่อง Ace TV
+https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
+
 #EXTINF:-1 group-title="TVS NETWORK" tvg-logo="https://www.tvstvnetworks.com/wp-content/uploads/2020/06/cropped-TVSTVLogo2.png",ช่อง TVS Boxing
 https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 
@@ -7712,29 +7718,14 @@ http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง CNA (Back Up)
-http://154.26.138.108:234/stream/mewatch/cna/master.m3u8
-
 #EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Channel 5
 https://cdn6.163189.xyz/live/ch5/stream.m3u8
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Channel 5 (Back Up)
-http://154.26.138.108:234/stream/mewatch/channel5/master.m3u8
 
 #EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Channel 8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
 
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Channel 8 (Back Up)
-http://154.26.138.108:234/stream/mewatch/channel8/master.m3u8
-
 #EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Channel U
 https://cdn6.163189.xyz/live/chu/stream.m3u8
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Channel U (Back Up)
-http://154.26.138.108:234/stream/mewatch/channelu/master.m3u8
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง WARNER TV
-http://154.26.138.108:234/stream/my/warner/master.m3u8
 
 #EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TLC
 http://154.26.138.108:234/stream/my/tlc/master.m3u8
@@ -7747,9 +7738,6 @@ http://154.26.138.108:234/stream/my/foodntwk/master.m3u8
 
 #EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง AFN
 http://154.26.138.108:234/stream/my/afn/master.m3u8
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Cartoon Network
-http://154.26.138.108:234/stream/my/cartoonntwk/master.m3u8
 
 #EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -7764,9 +7752,6 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 http://154.26.138.108:234/stream/my/lovenature/master.m3u8
 
 #EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Love Nature (Back Up)
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง SPOTV
