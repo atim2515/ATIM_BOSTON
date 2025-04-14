@@ -7592,65 +7592,113 @@ https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://www.hmongusatv.com/wp-content/uploads/2020/11/logoUSA-1.png",ช่อง HmongUSA TV
 https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง PopC
-http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1741418702&kdssign=8e9ea8c36b2b9f9d8e61cfd1e5433e95
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 翡翠台
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Jade
 http://fr-us8.jdiptv.cc/live/jade.m3u8?kdstime=1741599203&kdssign=7367dc25c3f5b3d968274f8113ca46c1
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Jade (Back Up)
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Jade 4K
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Jade Astro
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Jade Astro 2
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Pearl
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
 #EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Plus
 http://fr-us8.jdiptv.cc/live/j2.m3u8?kdstime=1741920932&kdssign=0041f03f8de3a5e2ecfc0601d3e3e8bb
 
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 无线新闻台
-http://fr-us8.jdiptv.cc/live/inews.m3u8?kdstime=1741599786&kdssign=dd824fbba2639343da98824b2676da00
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 天映经典
-http://fr-us7.jdiptv.cc/live/xgtyjdgy.m3u8?kdstime=1741921959&kdssign=1ee4b74456f750ed73fcdb1c8fffe0ec
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 美亚电影台
-http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1741922079&kdssign=86c0a67a5ead89bc30bc9a37410f243d
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 翡翠台4K
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 华丽翡翠台.备用
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 无线华丽
-http://php.jdshipin.com/smt.php?id=Tvbjade
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 翡翠台北美版
-https://cdn5.1678520.xyz/live/live2.1.php?id=j1
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 无线新闻
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 无线新闻.备用
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Jade News
-http://154.26.138.108:234/stream/test/tvbplus/master.m3u8
-
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Plus
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Plus (Back Up)
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 无线明珠
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Entertainment News
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 无线明珠2
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Asian Action Channel
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง MINGZHU
-http://154.26.138.108:234/stream/test/mingzhu/master.m3u8
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Classic
+http://php.jdshipin.com/smt.php?id=Tvbclassic
 
-#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 凤凰中文
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB Xinhe
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB News
+http://fr-us8.jdiptv.cc/live/inews.m3u8?kdstime=1741599786&kdssign=dd824fbba2639343da98824b2676da00
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง TVB News (Back Up)
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง HOY TV 2
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง VIU TV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Mei Ah
+http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1741922079&kdssign=86c0a67a5ead89bc30bc9a37410f243d
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Mei Ah (Back Up)
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagmjod_MCZyXfjG-FWq-X1N-ZtTcatOo_rw&s",ช่อง Celestial Movies
+http://php.jdshipin.com/smt.php?id=Celestial
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง CCM
+http://fr-us7.jdiptv.cc/live/xgtyjdgy.m3u8?kdstime=1741921959&kdssign=1ee4b74456f750ed73fcdb1c8fffe0ec
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง CCM (Back Up)
+http://php.jdshipin.com/smt.php?id=Celestial2
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง PopC
+http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1741418702&kdssign=8e9ea8c36b2b9f9d8e61cfd1e5433e95
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Phoenix TV
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Phoenix InfoNews
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Phoenix Hong Kong Channel
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง RTHK 31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง RTHK 32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง RTHK 33
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง RTHK 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง RTHK 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง BREAD TV
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Astro Hua Hee Dai
+http://php.jdshipin.com/smt.php?id=Huahee
+
+#EXTINF:-1 group-title="รวมมิตร HK,MY,SG" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง iQIYI
+http://php.jdshipin.com/smt.php?id=Qiyi
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",ช่อง CINEMAX
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=571214
