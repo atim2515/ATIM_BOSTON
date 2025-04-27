@@ -8222,6 +8222,12 @@ http://rstream.mcot.net:9060/;stream.mp3
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://oldsonghome.com/wp-content/uploads/2019/11/FM-102.jpg",ช่อง 102 คลื่นคนทำงาน
 http://media.login.in.th:1100/;stream.mp3
 
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZMAZUFJwZXGAux20Cve8V8ozElfryiAfNy8p8=s900-c-k-c0x00ffffff-no-rj",ช่อง Love OK Click
+https://radio11.plathong.net/7142/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/modern9875.png",ช่อง 98.75 เชียงใหม่
+http://112.121.150.133:9102/;stream.mp3
+
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png",ช่อง Request Radio สตริง
 https://cast.requestradio.in.th:810/;stream.mp3
 
@@ -8236,9 +8242,6 @@ http://27.254.142.208:8400/;stream/1.mp3
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png",ช่อง Request Radio Dance Mix
 http://27.254.142.208:8500/;stream/1.mp3
-
-#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://static-media.streema.com/media/cache/c9/98/c99802f436e65262d80803e44e09bff0.jpg",ช่อง 113.fm Love is Lane
-http://75.102.53.58/1050
 
 #EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8",ช่อง iHeart Radio Christmas
 http://stream.revma.ihrhls.com/zc4596/hls.m3u8
