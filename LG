@@ -5169,26 +5169,32 @@ https://c.mjh.nz/abc-vic.m3u8
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/X0_5fee3c3f02550_1020.png",ช่อง ABC TV Perth
 https://c.mjh.nz/abc-wa.m3u8
 
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/X0_5fee3c3f02550_1020.png",ช่อง ABC TV Sydney
+https://c.mjh.nz/abc-nsw.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/304px-ABC_TV_Plus_logo_2021.svg.png",ช่อง ABC TV Plus
+https://c.mjh.nz/abc-tv-plus.m3u8
+
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/1200px-ABC_Entertains_logo.svg.png",ช่อง ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/2560px-ABC_News_%28Australia%29_logo.svg.png",ช่อง ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/C31_Melbourne_logo_2010.png",ช่อง C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://images.swm.digital/image?u=https://api.tvapi.com.au/v1/data/appconfig/p8/images/Ausbiz_16-9_Black.jpg&q=70&w=828",ช่อง ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg",ช่อง Bloomberg TV Australia
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/2GB_Sydney_Logo.png",ช่อง 2GB Sydney
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/6PR-Thumbnail-Default-Light.png",ช่อง 6PR Perth
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/304px-ABC_TV_Plus_logo_2021.svg.png",ช่อง ABC TV Plus
-https://c.mjh.nz/abc-tv-plus.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/X0_5fee3c3f02550_1020.png",ช่อง ABC TV Sydney
-https://c.mjh.nz/abc-nsw.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://images.swm.digital/image?u=https://api.tvapi.com.au/v1/data/appconfig/p8/images/Ausbiz_16-9_Black.jpg&q=70&w=828",ช่อง ausbiz TV
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
 #EXTINF:-1 group-title="FRANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfSoG7-Z2Wuv9OvqYiQg1IHWWG6QQ-C_wCQ&s",ช่อง A12 TV
 https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
