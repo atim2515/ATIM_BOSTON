@@ -5172,7 +5172,7 @@ https://c.mjh.nz/abc-wa.m3u8
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/X0_5fee3c3f02550_1020.png",ช่อง ABC TV Sydney
 https://c.mjh.nz/abc-nsw.m3u8
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/304px-ABC_TV_Plus_logo_2021.svg.png",ช่อง ABC TV Plus
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/X0_6699eca68cc9e_2000.png",ช่อง ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/1200px-ABC_Entertains_logo.svg.png",ช่อง ABC Entertains
@@ -5183,6 +5183,9 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/C31_Melbourne_logo_2010.png",ช่อง C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHQouHJY1HrxE641cQdsgX8ZAeKv2n0nLXLA&s",ช่อง Channel 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://images.swm.digital/image?u=https://api.tvapi.com.au/v1/data/appconfig/p8/images/Ausbiz_16-9_Black.jpg&q=70&w=828",ช่อง ausbiz TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
