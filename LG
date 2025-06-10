@@ -340,6 +340,9 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rdx52JHmH1ShsCodmjXMgl-3D_56WsEzrA&s",ช่อง ลั่นทุ่งทีวี
 https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.nfc.or.th/wp-content/uploads/2017/12/%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3-Channel.jpg",ช่อง เกษตร แชนแนล
+http://103.120.113.107:80/Kasat70/video.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://mms.img.susercontent.com/a759b81f18e4892ce14a7454771f4c6d",ช่อง Varanya's Show
 https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/chunklist.m3u8
 
@@ -5280,6 +5283,12 @@ http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/12/14121313/Aristo-TV.jpg",ช่อง Aristo TV
 https://ma.anixa.tv/clips/stream/aristo/index.m3u8
 
+#EXTINF:-1 group-title="URUGUAY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGOcgHL_UwwX6eCGCV96zNMjbCngkzJgAhw&s",ช่อง UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 group-title="URUGUAY TV" tvg-logo="https://yt3.googleusercontent.com/JaLpE5sfnCYWtIeaU1F24jRlH1rOnWdlSH2O1LFxw51pBeUT2Z0A-Z5sB6BVU568JmuHOtVI=s900-c-k-c0x00ffffff-no-rj",ช่อง VIVO TV
+https://stream.vivotv.uy/hls/stream.m3u8
+
 #EXTINF:-1 group-title="AFRICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg",ช่อง MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 
@@ -5363,9 +5372,6 @@ http://luong.utako.moe/suntv/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",ช่อง KBS
 http://luong.utako.moe/kbs/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/1920px-Teny_logo.svg.png",ช่อง teny
-http://vthanh.utako.moe/tenytest/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png",ช่อง MONDO TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=4
