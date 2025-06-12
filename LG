@@ -189,7 +189,7 @@ https://dookeela.live/live-tv/warnertv
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png",ช่อง @แอททีวี
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+http://161.82.243.133:8089/HDAttv/video.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/2_PEHaZfpfk1p_8zFmOfIP6QqOOPRMbqACyFs1vnCnTwXpgfMsTzWYis0nFuCRnvlk4cEdCapw=s900-c-k-c0x00ffffff-no-rj",ช่อง PSI Saradee 99
 http://103.120.113.107:80/Saradee/index.m3u8
@@ -199,7 +199,7 @@ http://103.120.113.107:80/Saradee/index.m3u8
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่อง มังกร
-http://161.82.243.133:8089/HDAttv/video.m3u8
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",ช่อง SIAM NEWS
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
@@ -5563,6 +5563,9 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg",ช่อง TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNOwrpd1nGzdqAju-xjetldqVqW8ibTgmYlt3aPYcHXU0=s900-c-k-c0x00ffffff-no-rj",ช่อง Hokkaido News UHB
+https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw5uzcb_m6OFV0xhX34hghycemqI4j2WEjPw&s",ช่อง Jupiter Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
