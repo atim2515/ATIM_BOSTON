@@ -845,10 +845,10 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/2560px-Sky_Cinema_Family_-_Logo_2021.svg.png",ช่อง SKY CINEMA FAMILY
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=163993
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIY5i4g5vcc7KZH1ZvNONFdzLOYEN5nUGOmA&s",ช่อง SKY CINEMA GREATS
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pgT6ORq_o2bA_HbmqHZMI0662IK0rOaKeg&s",ช่อง SKY CINEMA GREATS
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=164000
 
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZOi5s4rPcnKEkPVqZ54_hs4IxjGaavGoiPA&s",ช่อง SKY CINEMA HITS
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIz_Pii7ak3fdBhH8r78tkjZx--tdP12t0PQ&s",ช่อง SKY CINEMA HITS
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=163992
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt8222419d05fc7f19/612f3c2f4a33fd4461328b58/Sky-Showcase.jpg",ช่อง SKY SHOWCASE
@@ -1024,9 +1024,6 @@ https://amogonetworx-grjngo-2-eu.vidaa.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wixstatic.com/media/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg/v1/fill/w_2500,h_1406,al_c/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg",ช่อง Artflix
 https://amogonetworx-artflix-3-eu.vidaa.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.roku.com/developer_channels/prod/3b6caeb96bdf3ec3e7ec3296eae1808ff2ce49b9ceec9054c48ea7139fdbce7f.png",ช่อง Cult Classic Movie Theater
-https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/137e73d4adc4ae9dc1312096219f5ac18becc588585d9412eff37fe1ae32a260.jpg",ช่อง Trailers from Hell
 https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8
@@ -1795,6 +1792,9 @@ http://yourservpan.com:3050/WillieLye219/ag6gm94fpw/567013
 
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9Cbi8xsGhNVSiy4JS45z3Es85B4Ykct-5A&s",ช่อง E! ENTERTAINMENT
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=45584
+
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://i.scdn.co/image/ab67656300005f1fd7c2f539c502c75a69384101",ช่อง Entertainment Tonight
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GvABuq5ua25YY4Y4R5qzENlf3RpMEiz0bA&s",ช่อง TLC
 http://154.26.138.108:234/stream/my/tlc/master.m3u8
