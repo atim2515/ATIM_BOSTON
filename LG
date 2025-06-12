@@ -1793,6 +1793,9 @@ http://yourservpan.com:3050/WillieLye219/ag6gm94fpw/567013
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9Cbi8xsGhNVSiy4JS45z3Es85B4Ykct-5A&s",ช่อง E! ENTERTAINMENT
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=45584
 
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8VlUgHFmcGStSH4H4CpcpbXudtKsTdJJ3w&s",ช่อง Celebrity Scene TV
+https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GvABuq5ua25YY4Y4R5qzENlf3RpMEiz0bA&s",ช่อง TLC
 http://154.26.138.108:234/stream/my/tlc/master.m3u8
 
@@ -2332,6 +2335,12 @@ https://gfcomnimedia-globalfashionchannel-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://play-lh.googleusercontent.com/x6e8G5-X3CxKrOszUaZ_lzPwonSYMA3T0wctAvlGopMhPVNF8izOl-4FaEfbyELrcA",ช่อง AKC TV
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+
+#EXTINF:-1 group-title="PET CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGoYP110eYtwkalqCLqnIKNehoHjaa4y07A&s",ช่อง AKC TV Meet The Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+
+#EXTINF:-1 group-title="PET CH" tvg-logo="https://web.akctvcontrol.com/tv/2061/19/10970_poster_0000001.jpg",ช่อง AKC TV Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVda4rgW51tU3R0bEc9cM2Z5N2AbW3nRPgng&s",ช่อง PET CLUB
 https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-petclub-tclus/playlist.m3u8
@@ -5563,9 +5572,6 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg",ช่อง TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNOwrpd1nGzdqAju-xjetldqVqW8ibTgmYlt3aPYcHXU0=s900-c-k-c0x00ffffff-no-rj",ช่อง Hokkaido News UHB
-https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw5uzcb_m6OFV0xhX34hghycemqI4j2WEjPw&s",ช่อง Jupiter Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
