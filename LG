@@ -1025,6 +1025,9 @@ https://amogonetworx-grjngo-2-eu.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wixstatic.com/media/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg/v1/fill/w_2500,h_1406,al_c/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg",ช่อง Artflix
 https://amogonetworx-artflix-3-eu.vidaa.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.roku.com/developer_channels/prod/3b6caeb96bdf3ec3e7ec3296eae1808ff2ce49b9ceec9054c48ea7139fdbce7f.png",ช่อง Cult Classic Movie Theater
+https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
+
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/137e73d4adc4ae9dc1312096219f5ac18becc588585d9412eff37fe1ae32a260.jpg",ช่อง Trailers from Hell
 https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8
 
@@ -1793,9 +1796,6 @@ http://yourservpan.com:3050/WillieLye219/ag6gm94fpw/567013
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9Cbi8xsGhNVSiy4JS45z3Es85B4Ykct-5A&s",ช่อง E! ENTERTAINMENT
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=45584
 
-#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8VlUgHFmcGStSH4H4CpcpbXudtKsTdJJ3w&s",ช่อง Celebrity Scene TV
-https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GvABuq5ua25YY4Y4R5qzENlf3RpMEiz0bA&s",ช่อง TLC
 http://154.26.138.108:234/stream/my/tlc/master.m3u8
 
@@ -2334,7 +2334,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://gfcomnimedia-globalfashionchannel-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://play-lh.googleusercontent.com/x6e8G5-X3CxKrOszUaZ_lzPwonSYMA3T0wctAvlGopMhPVNF8izOl-4FaEfbyELrcA",ช่อง AKC TV
-https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGoYP110eYtwkalqCLqnIKNehoHjaa4y07A&s",ช่อง AKC TV Meet The Breeds
 https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
