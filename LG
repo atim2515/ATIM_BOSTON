@@ -199,8 +199,7 @@ http://103.120.113.107:80/Saradee/index.m3u8
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่อง มังกร
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+http://161.82.243.133:8089/HDAttv/video.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",ช่อง SIAM NEWS
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
