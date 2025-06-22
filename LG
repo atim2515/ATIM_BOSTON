@@ -5394,7 +5394,7 @@ http://vthanh.utako.moe/suntv/index.m3u8
 http://vthanh.utako.moe/kbs/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png",ช่อง MONDO TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=4
+http://vthanh.utako.moe/mondo/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX1
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
@@ -5535,7 +5535,7 @@ http://vthanh.utako.moe/disneychan/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=4
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/1/1f/Original_Cartoon_Network_logo.png/revision/latest/scale-to-width-down/682?cb=20120713161358",ช่อง Cartoon Network
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=4
+http://vthanh.utako.moe/cartoon_network/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png",ช่อง J Sports 1
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -8072,6 +8072,9 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1109284139964862464/3M-Jw_ME_400x400.png",ช่อง SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxr4KOarz1kM6Yi4MAKHMp5vAjn34dyPOULQ&s",ช่อง TV5 Cambodia
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
+
 #EXTINF:-1 group-title="KHMER TV" tvg-logo="https://play-lh.googleusercontent.com/9JJX36RQuRwcH5ky1CUTk0Fy-VTwjSMxb3xxD4utKlPJE5JoeZ_AHrIgxAxhFIEEfw=w412-h220-rw",ช่อง KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 
@@ -8098,6 +8101,36 @@ https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 
 #EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgg59vzsGbq4DlNwIQN77Ra134zXAMi1Pv8Q&s",ช่อง iTV HD
 http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwiA7gxwr_XgHuu7c8oJ5TK5pbKh9yGJK-w&s",ช่อง Hang Meas HDTV
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pi5ZM7e5fmGfVVCTC6fABXVpwGKIbhc9vA&s",ช่อง MSJ TV
+https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTss9X1uU6JyebtcKSLco9fMlc-mxYDfxYnJg&s",ช่อง Netlink TV
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqT1GBBJaxQZYzcHpqx4xBBDJLkhYfyFMD6A&s",ช่อง NTV
+http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDHZ6ExU_H3Z9GzwXYMTVxcDzyFDoRKQrnpb83yEBitQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Rasmey Hang Meas HDTV
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://play-lh.googleusercontent.com/zrn3Q020gYm2ZzgrAMCNA_jEpHVLSI7oJF7mkLu3e0hZPffYR-sDzn47xPMjK3LougI=w526-h296-rw",ช่อง WIKI TV
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://play-lh.googleusercontent.com/hdsrIdrzqaICuR6HciJFl1TLOZ2fm1tETH8DOiyrctLfDCdFyk9fREVTt2O-RfQGYuNv",ช่อง MOI TV
+http://202.62.56.22:8080/hls/MOITV.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJvSiJ6PhJu1OslmESroKdrZk6KWCfEee4w&s",ช่อง EAC News TV
+https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtVXsytbHJyiHJc8gpWVXRKZtrz8JxJ37kw&s",ช่อง Town TV
+http://202.79.26.142:80/LiveApp/streams/TownTVHD.m3u8
+
+#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bV_2dLfQdGmhS3VA65pSh9hPx30b23XbJ79cy5gR-Xk9xeX6bHrI1nX0w6Z6Nb7EREY&usqp=CAU",ช่อง PNN
+https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
 
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4f34xEBszWolD0z-9zhptzE9xRxQAdlZW9Q&s",ช่อง Hmong Star TV
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
