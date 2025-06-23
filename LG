@@ -5372,6 +5372,21 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:-1 group-title="AFRICA TV" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Amr/ramadan/MBC_persia_poster_chanel/original/MBC_persia_poster_chanel.jpg?height=379.5&width=675&croppingPoint=&version=1&type=webp",ช่อง MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
+#EXTINF:-1 group-title="NORTH MACEDONIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEr2s19dbaeaDUmzDGp5-WBKnpaGDGYlKf-vBw3AeB1hUfmDvvPsrIqMXrQw1L11u1Ens&usqp=CAU",ช่อง Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+
+#EXTINF:-1 group-title="NORTH MACEDONIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjG1F5Q-ldttLShBYNpk1kBrCXSHW_Ld2fNA&s",ช่อง Folk Klub
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+
+#EXTINF:-1 group-title="NORTH MACEDONIA TV" tvg-logo="https://nasatv.com.mk/wp-content/uploads/2021/05/sddefault-2-324x235.jpg",ช่อง Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+
+#EXTINF:-1 group-title="NORTH MACEDONIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nfOe-chSxQGQlwZ5cUopmPPDSP8H08GGy_v--BjrEIPQA=s900-c-k-c0x00ffffff-no-rj",ช่อง INTV Australia
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+
+#EXTINF:-1 group-title="NORTH MACEDONIA TV" tvg-logo="https://nasatv.com.mk/wp-content/uploads/2021/05/maxresdefault-5-324x235.jpg",ช่อง Jazz TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png",ช่อง NHK WORLD JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
