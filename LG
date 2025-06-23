@@ -5348,11 +5348,11 @@ https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 #EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s",ช่อง RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
-#EXTINF:-1 group-title="CAMEROON TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nbQ1ff35BPPyjJ-Jx90hK20dnQHuWn4i6RKfdeR0Us2TI=s160-c-k-c0x00ffffff-no-rj",ช่อง CEN Télévision
-https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8
+#EXTINF:-1 group-title="CAMEROON TV" tvg-logo="https://play-lh.googleusercontent.com/T6jzLr5qsp9FEfG5xAMms2j5RjapO20kD2DxFoDgyx8Um9bVPV7bfR6GM9vinyDptA",ช่อง Vision 4
+https://cdn-globecast.akamaized.net/live/eds/vision4/hls_video/index.m3u8
 
-#EXTINF:-1 group-title="CAMEROON TV" tvg-logo="https://telepack.net/wp-content/uploads/2020/09/Ctv-Afrique.jpeg",ช่อง CTV Afrique
-https://stream.it-innov.com/ctv/index.m3u8
+#EXTINF:-1 group-title="CAMEROON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/CRTV_logo_2017.png",ช่อง CRTV
+http://69.64.57.208/crtv/playlist.m3u8
 
 #EXTINF:-1 group-title="AFRICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg",ช่อง MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
