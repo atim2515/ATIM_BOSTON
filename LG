@@ -6419,7 +6419,10 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkDJW9Vn7xzK-zL5fCJVvD_QK2KK-JSqSdn6RmtQ=s900-c-k-c0x00ffffff-no-rj",ช่อง 唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.goodtv.tv/file/channel/ch2.jpeg",ช่อง 好消息2台
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://m.media-amazon.com/images/I/51h6HcntkcL._h1_.png",ช่อง GOOD TV CH1
+https://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://m.media-amazon.com/images/I/51h6HcntkcL._h1_.png",ช่อง GOOD TV CH2
 http://50.7.234.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f1/%E4%BF%A1%E5%90%89%E8%A1%9B%E6%98%9F%E9%9B%BB%E8%A6%96%E5%8F%B0LOGO.jpg",ช่อง 信吉
@@ -8054,64 +8057,64 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxr4KOarz1kM6Yi4MAKHMp5vAjn34dyPOULQ&s",ช่อง TV5 Cambodia
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://play-lh.googleusercontent.com/9JJX36RQuRwcH5ky1CUTk0Fy-VTwjSMxb3xxD4utKlPJE5JoeZ_AHrIgxAxhFIEEfw=w412-h220-rw",ช่อง KhmerTV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://play-lh.googleusercontent.com/9JJX36RQuRwcH5ky1CUTk0Fy-VTwjSMxb3xxD4utKlPJE5JoeZ_AHrIgxAxhFIEEfw=w412-h220-rw",ช่อง KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg.png",ช่อง KienGiangTV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg.png",ช่อง KienGiangTV
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://mytv.com.vn/upload/channel/683.png",ช่อง KienGiangTV1
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://mytv.com.vn/upload/channel/683.png",ช่อง KienGiangTV1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://play-lh.googleusercontent.com/oEkCn-8RapO7XgDAY_LQvNrTpHyK40BeSaV2mWMGZJRt-8VP92Fd0-eVoQAmiUHPEVg",ช่อง Fresh News
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://play-lh.googleusercontent.com/oEkCn-8RapO7XgDAY_LQvNrTpHyK40BeSaV2mWMGZJRt-8VP92Fd0-eVoQAmiUHPEVg",ช่อง Fresh News
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZkkmCP-9ikaxRINb_lqfsNOCKb9U39k6zw&s",ช่อง Apsara TV11
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZkkmCP-9ikaxRINb_lqfsNOCKb9U39k6zw&s",ช่อง Apsara TV11
 https://live.ams.com.kh/app/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiCw149ste5sHf4H-gHbBfQPnRTMJ6V_sK9Q&s",ช่อง Bayon TV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiCw149ste5sHf4H-gHbBfQPnRTMJ6V_sK9Q&s",ช่อง Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVh0goGonSIUHa1glN8pxoASYq91Y2vypejA&s",ช่อง BTV News
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVh0goGonSIUHa1glN8pxoASYq91Y2vypejA&s",ช่อง BTV News
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakCnmj6Najs8xfuqdNSrGYrrMg4d4dod6uw&s",ช่อง CTV 9
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakCnmj6Najs8xfuqdNSrGYrrMg4d4dod6uw&s",ช่อง CTV 9
 https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwiA7gxwr_XgHuu7c8oJ5TK5pbKh9yGJK-w&s",ช่อง Hang Meas HDTV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwiA7gxwr_XgHuu7c8oJ5TK5pbKh9yGJK-w&s",ช่อง Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pi5ZM7e5fmGfVVCTC6fABXVpwGKIbhc9vA&s",ช่อง MSJ TV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pi5ZM7e5fmGfVVCTC6fABXVpwGKIbhc9vA&s",ช่อง MSJ TV
 https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTss9X1uU6JyebtcKSLco9fMlc-mxYDfxYnJg&s",ช่อง Netlink TV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTss9X1uU6JyebtcKSLco9fMlc-mxYDfxYnJg&s",ช่อง Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqT1GBBJaxQZYzcHpqx4xBBDJLkhYfyFMD6A&s",ช่อง NTV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqT1GBBJaxQZYzcHpqx4xBBDJLkhYfyFMD6A&s",ช่อง NTV
 https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDHZ6ExU_H3Z9GzwXYMTVxcDzyFDoRKQrnpb83yEBitQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Rasmey Hang Meas HDTV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDHZ6ExU_H3Z9GzwXYMTVxcDzyFDoRKQrnpb83yEBitQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Rasmey Hang Meas HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://play-lh.googleusercontent.com/hdsrIdrzqaICuR6HciJFl1TLOZ2fm1tETH8DOiyrctLfDCdFyk9fREVTt2O-RfQGYuNv",ช่อง MOI TV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://play-lh.googleusercontent.com/hdsrIdrzqaICuR6HciJFl1TLOZ2fm1tETH8DOiyrctLfDCdFyk9fREVTt2O-RfQGYuNv",ช่อง MOI TV
 http://202.62.56.22:8080/hls/MOITV.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJvSiJ6PhJu1OslmESroKdrZk6KWCfEee4w&s",ช่อง EAC News TV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJvSiJ6PhJu1OslmESroKdrZk6KWCfEee4w&s",ช่อง EAC News TV
 https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtVXsytbHJyiHJc8gpWVXRKZtrz8JxJ37kw&s",ช่อง Town TV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtVXsytbHJyiHJc8gpWVXRKZtrz8JxJ37kw&s",ช่อง Town TV
 http://202.79.26.142:80/LiveApp/streams/TownTVHD.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bV_2dLfQdGmhS3VA65pSh9hPx30b23XbJ79cy5gR-Xk9xeX6bHrI1nX0w6Z6Nb7EREY&usqp=CAU",ช่อง PNN
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bV_2dLfQdGmhS3VA65pSh9hPx30b23XbJ79cy5gR-Xk9xeX6bHrI1nX0w6Z6Nb7EREY&usqp=CAU",ช่อง PNN
 https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg",ช่อง CNC
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg",ช่อง CNC
 http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png/revision/latest/scale-to-width-down/200?cb=20191210055058",ช่อง CTV8 HD
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png/revision/latest/scale-to-width-down/200?cb=20191210055058",ช่อง CTV8 HD
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="KHMER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdZj5Pphw1z89wViYX4dzzbbl2PdJ-qPKFA&s",ช่อง My TV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdZj5Pphw1z89wViYX4dzzbbl2PdJ-qPKFA&s",ช่อง My TV
 http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4f34xEBszWolD0z-9zhptzE9xRxQAdlZW9Q&s",ช่อง Hmong Star TV
