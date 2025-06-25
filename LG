@@ -1802,6 +1802,9 @@ http://154.26.138.108:234/stream/my/tlc/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOzJDccu0Vrr_sSB_aQjBCALZ_meODXSuGw&s",ช่อง Camera Smile
 https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://m.media-amazon.com/images/I/61b62kX0eWL.png",ช่อง It's Supernatural! Network (ISN Network)
+https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQQVpl3gWcBPD8nN7bq6HMdA92PfRq4DXoVR3DCHQ=s900-c-k-c0x00ffffff-no-rj",ช่อง The Young Turks
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
@@ -6407,26 +6410,23 @@ https://stream1.freetv.fun/9d741f7a69392950497ff7540a55c1dffda3c541e9e2e672be1d8
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1200px-WWE_Network_logo.svg.png",ช่อง WWE
 http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",ช่อง DaAi1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytdNjrRbW3pFYrj3qvJxCvQ081PqKbYBBrw&s",ช่อง DaAi2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png",ช่อง 大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkDJW9Vn7xzK-zL5fCJVvD_QK2KK-JSqSdn6RmtQ=s900-c-k-c0x00ffffff-no-rj",ช่อง 唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://m.media-amazon.com/images/I/51h6HcntkcL._h1_.png",ช่อง GOOD TV CH1
-https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png",ช่อง Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://m.media-amazon.com/images/I/51h6HcntkcL._h1_.png",ช่อง GOOD TV CH2
 http://50.7.234.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f1/%E4%BF%A1%E5%90%89%E8%A1%9B%E6%98%9F%E9%9B%BB%E8%A6%96%E5%8F%B0LOGO.jpg",ช่อง 信吉
 http://haoyunlai.serv00.net/Smartv-1.php?id=huanyutaiwan_twn
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6HGgl06j0-mXKlDODZAJIluyi3dZ0hSGXQ&s",ช่อง Taiwan Plus TV
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 状王宋世杰-第二部-张达明大战黄子华
 https://live.metshop.top/huya/23734183
