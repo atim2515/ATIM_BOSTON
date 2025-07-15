@@ -201,6 +201,9 @@ https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่อง มังกร
 http://161.82.243.133:8089/HDDragon/video.m3u8?token=qp_moaKmgt0xl1
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuk_dM6cONovZ9wN2gg9PLUY3wmZ16MFOkQhs0Gzp3vdfSiErDnc3TE7xdmVUjZCEx-e8&usqp=CAU",ช่อง มายา Channel
+http://146.88.62.69:1935/Transcoder/%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2HD.stream_576p/playlist.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",ช่อง SIAM NEWS
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
