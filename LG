@@ -5429,8 +5429,11 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",ช่อง NHK-G
 http://vthanh.utako.moe/NHK_G/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",ช่อง NHK G 2
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",ช่อง NHK-G Channel 2
 https://vthanh.utako.moe/nhkg_nonHEVC/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",ช่อง NHK-G Osaka
+https://vthanh.utako.moe/NHKG_Osaka_original/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK-E
 http://vthanh.utako.moe/NHK_E/index.m3u8
@@ -5462,7 +5465,7 @@ https://vthanh.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",ช่อง Fuji TV TWO
 https://vthanh.utako.moe/fuji_two/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png",ช่อง Fuji TV Next
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png",ช่อง Fuji TV NEXT
 https://vthanh.utako.moe/fuji_next/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",ช่อง TV Asahi
