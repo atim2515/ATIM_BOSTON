@@ -82,6 +82,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_x_TdjwNprxaEFS3qMQeU2obyO1AlufGCDW.png",ช่อง ไทบ้าน TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 
+#EXTINF:-1 group-title="MVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQio07CFWQftvEZGeBMeHFZIxRfJm2DbC6_bQ&s",ช่อง MV LAO
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",ช่อง MVM
 https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
 
@@ -327,6 +330,3 @@ https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv.imgix.net/channel/189_y_v73TKVufSQ9o1FerI6hBdAxnwGXtmDCJ.jpg",ช่อง MV Mall OK
 https://lb1-live-mv.v2h-cdn.com/hls/fdcc/mvmallok/mvmallok.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv9.imgix.net/channel/191_y_E5JXw4pWzkNuCytSFBbAhRVnqjdKQYUD.jpg",ช่อง MV Mall Pro D
-https://lb1-live-mv.v2h-cdn.com/hls/fdc9/prod/prod.m3u8
