@@ -50,7 +50,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",ช่อง ONE 31
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
@@ -219,6 +219,12 @@ https://live.zoom072.com/ch10/ch10.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/Y1B8gizCJw6YVf9HpmO7GuFXS8iGX-TIHTtwAQmO37Kd6ZvdzQvaSYJwy1J7uciA4uU",ช่อง GBN HD
 http://live1.gbnus.com/live/dhamma_high/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://image.makewebcdn.com/makeweb/m_1920x0/JIfKTrKkI/DefaultData/sbbtv_inter.jpg?v=202405291424",ช่อง SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREB4z8qwITIS5Tlt0ombHc0Q0KmJcGgIzzqA&s",ช่อง SBT TV
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="http://www.mediafire.com/imgbnc.php/9d849c814375d950c4c60f60bc2d7d7d937e465e400ab678e182a0efb48221e35g.jpg",ช่อง White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
