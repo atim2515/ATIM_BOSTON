@@ -214,6 +214,12 @@ https://live.zoom072.com/ch8/ch8.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://apitv.dmc.tv/uploads/dmk_2786e1c457.png",ช่อง สวดธรรมจักร
 https://live.zoom072.com/ch9/ch9.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://apitv.dmc.tv/uploads/S_5226718_90999a8e9f.jpg",ช่อง ฝันในฝัน
+https://live.zoom072.com/ch10/ch10.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/Y1B8gizCJw6YVf9HpmO7GuFXS8iGX-TIHTtwAQmO37Kd6ZvdzQvaSYJwy1J7uciA4uU",ช่อง GBN HD
+http://live1.gbnus.com/live/dhamma_high/playlist.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="http://www.mediafire.com/imgbnc.php/9d849c814375d950c4c60f60bc2d7d7d937e465e400ab678e182a0efb48221e35g.jpg",ช่อง White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
@@ -228,12 +234,6 @@ https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0MZLi649n-VeTFyT-czq_vJPOq0b5_KlxkMxNEh675TiNHZMvgFEesv0GQ1so54bH0Y&usqp=CAU",ช่อง Brian TV
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://apitv.dmc.tv/uploads/S_5226718_90999a8e9f.jpg",ช่อง ฝันในฝัน
-https://live.zoom072.com/ch10/ch10.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/Y1B8gizCJw6YVf9HpmO7GuFXS8iGX-TIHTtwAQmO37Kd6ZvdzQvaSYJwy1J7uciA4uU",ช่อง GBN HD
-http://live1.gbnus.com/live/dhamma_high/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://bit.ly/3nJtvVE",ช่อง DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
