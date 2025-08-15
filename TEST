@@ -160,9 +160,6 @@ https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305",ช่อง beIN Sports 1
-https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png",ช่อง ZOOM072.Net
 https://live.zoom072.com/ch5/ch5.m3u8
 
@@ -522,3 +519,258 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png",ช่อง QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lzY0CqKE62NiMboM_-HizbzkBjSXP7zDiuIu1xsgtOlFM=s900-c-k-c0x00ffffff-no-rj",ช่อง K-Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38=w600-h300-pc0xffffff-pd",ช่อง Kpop TV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.pinimg.com/originals/9d/f0/60/9df060e4ff36d123efcfaa15d41b228c.jpg",ช่อง NewKidd
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/800px-KBS_1_logo.svg.png",ช่อง KBS 1
+http://mytv.dothome.co.kr/ch/public/1.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",ช่อง KBS 2
+http://mytv.dothome.co.kr/ch/public/3.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://padmin.static.kbs.co.kr/live/2020/3/23/1584964694173_178117.jpg",ช่อง KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_0b9gbd79dclkkh7g2f7dide77746a_240x149.jpg",ช่อง KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/800px-KBS_Story.svg.png",ช่อง KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://padmin.static.kbs.co.kr/live/2021/5/28/1622175270507_252276.jpg",ช่อง KBS Life
+http://mytv.dothome.co.kr/ch/catv/5.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LxyHcrnDcowMq1fin9Ah7yq_ob7pANs2ZA&s",ช่อง KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kWAyYX8IuruW0YuQuEK6Jn-cfqZZ8oFZCcpy7HnzB3C_FA=s900-c-k-c0x00ffffff-no-rj",ช่อง KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png",ช่อง JIBS SBS
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png",ช่อง G1 SBS
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif",ช่อง CJB SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://blog.kakaocdn.net/dn/dgAKcE/btqD2vhp2j9/M1I8IENWa6vJk6zGjOWgv1/img.jpg",ช่อง JTV SBS
+http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_logo_1.png?cVo3i7POaat75krAiNCBi5bwdeOmFvBN&itok=qD5RawKs",ช่อง EBS 1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_logo_2.png?gXXONm3JngMSwSvJLvIPjxt_d1bZp59u&itok=Hj7eXoIA",ช่อง EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/40/bb/0e/40bb0e7a-9e9d-f39e-b4c9-a77015c2ec6a/source/200x200bb.jpg",ช่อง EBS e
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_kids.png?9Tpyxz8Ik7Uc2HLzbkPo3KgJbuQ3tgrX&itok=kOfm7AMO",ช่อง EBS kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ebs-plus-1-8814-w700.webp",ช่อง EBS+ 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png/revision/latest?cb=20180627175021",ช่อง EBS+ 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoACTfEJEOq8tJZ8hvHmL6eerzaYCrLGs0g&s",ช่อง TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7JIYFGTBJl0O-gF8ndRSf3_q1yg9aFYY_ww&s",ช่อง TV Chosun
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7JIYFGTBJl0O-gF8ndRSf3_q1yg9aFYY_ww&s",ช่อง TV Chosun 2
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Abn_logo.svg/512px-Abn_logo.svg.png",ช่อง ABN TV
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5K_umNA-IxqT2dM_vnkkTDoxsJlnQcxpbQ&s",ช่อง GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/SzUVoIqN6VV37DEau__D8QkDu1SQvByxbIC6pws9y-dwHnruLBwldJ6KARLLggqMpGc",ช่อง Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9JTf41blSfeANolP9zvfCyA-AzuIg0FMjQ&s",ช่อง JCN TV
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F216B893F52240FE01C",ช่อง Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Chosun.svg/revision/latest/scale-to-width-down/1200?cb=20230204021351",ช่อง KCTV 광주 CH05
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",ช่อง MBC Chuncheon
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",ช่อง MBC Yeosu
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbgEeV8EU9yN-UuK9LPwNGSg9ZnJKcqDD-w&s",ช่อง NHTV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://pds.saramin.co.kr/company/logo/201405/15/1400115540_7ce9-cbe8b34d_logo.jpg",ช่อง OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cdn-images-3.listennotes.com/podcasts/%EB%89%B4%EC%8A%A4-rutctv-rutc-tv-mfZegcd63pN.300x300.jpg",ช่อง RUTC TV
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/9n3ValGDAbFS8LuzMmcUKMXHrMYRLEJGH22sS_jIgiau_FirAwp_Lv_8dAXa3s6L09EB",ช่อง NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_WBC_logo.jpg",ช่อง WBC TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nMOKlCMNluGHKj8xkLTo5a972Bmae6wMkKLATVPA=s900-c-k-c0x00ffffff-no-rj",ช่อง YTN 사이언스
+http://mytv.dothome.co.kr/ch/catv/261.php
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/GUpUMSk51VT2TBsc0GKpH8g_fa9Htn37v2HRxsxyIfy-upsrdlpC2zKaaoEPlj1SSA",ช่อง GoodTV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Buddhist_Broadcasting_System_logo.png",ช่อง BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/E6Ot7XMnlfU2ue0D3ItIe-JyANl1ASv6wNdWZzYnEzZ1drRyn15bGHEa0lkxFnXy5cIsaSJ0_uUKC-aQhLQNrtHjU7Hhxci8vUU7kQM78aNZtzL2",ช่อง CGNTV South Korea
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg",ช่อง BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://images.creativemarket.com/0.1.0/ps/4987211/1820/1214/m1/fpnw/wm0/home-shopping-1-01-.jpg?1535884131&s=1322338b83c7bde997b8bfedc1b8e513",ช่อง Home & Shopping
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png",ช่อง CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png",ช่อง CJ OnStyle Plus
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://needl.co/app/sites/all/custom/resources/company/300/39511/gs-shop.jpg",ช่อง GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://needl.co/app/sites/all/custom/resources/company/300/39511/gs-shop.jpg",ช่อง GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_309241_16820536225440644.jpg",ช่อง Hyundai Home Shopping
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_309241_16820536225440644.jpg",ช่อง Hyundai Home Shopping Plus
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://m.w-shopping.co.kr/wshoppingImg.png",ช่อง W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://img.salehere.co.th/p/1200x0/2023/05/03/zhewlkfx0jrx.jpg",ช่อง Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSwiQ3q4fDKfosmZv-uMGGHdL7uOHck0DXw&s",ช่อง Shinsegae Shopping TV
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5fG5XkmCn6Br31e26zLPBBxoLursqsAiTA&s",ช่อง Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwgBAVka6t6HSTjs_1nHPeQ35u8o7RLEToQ&s",ช่อง Lotte OneTV
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ca/72/d6ca72b6-fa61-5563-3197-7640c84056a0/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/1200x630wa.png",ช่อง Gongyoung Shopping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.ytimg.com/vi/mEF9FDh4nZc/maxresdefault.jpg",ช่อง KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png",ช่อง Cool Fahrenheit
+https://coolism-web.cdn.byteark.com/;stream/1.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/7DqAhMKgcr.jpeg",ช่อง Cat Radio
+http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w1543475410.m3u8
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/u3bfzuhvj9mh.jpg",ช่อง XFM 94.5
+https://radio12.plathong.net/7360/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/246pd75kpjkt.png",ช่อง Big FM
+http://media.login.in.th:8195/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://dl.dropbox.com/s/gxzpnig4rqwxcz4/Rounded_20210125_003646.png?dl=0",ช่อง 106 วิทยุครอบครัวข่าว
+http://radio12.plathong.net:8648/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/avltfshqkte4.png",ช่อง รักษ์ปักษ์ใต้ เรดิโอ
+https://radio10.plathong.net/7100/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hfsu6j7fn2jh.png",ช่อง จส.5 AM 567 KHz ชัยภูมิ
+http://media.login.in.th:8235/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/eln9tfyqce5h.jpg",ช่อง Eingdoi Radio เพลงลูกทุ่ง
+https://radio14.plathong.net/7126/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/vxc3vq6dxy8j.jpeg",ช่อง 90 ลูกทุ่ง รักไทย
+http://radio11.plathong.net:8896/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/dqhdnczntxrn.png",ช่อง YES Radio
+http://27.254.65.244:8000/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/fzc5x62n4qk8.jpg",ช่อง Yesterday 106.5 FM
+http://radio4.thzhost.com:4122/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/8qVGCNNArp.png",ช่อง Pongpan Radio
+http://radio.portradiothai.com:6010/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/NvUAj9bf8W.png",ช่อง Capitol FM
+http://atlanticthai.primcast.com:5898/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/japcrdy9nsfm.png",ช่อง ล้านนาเรดิโอ
+http://43.229.135.187:8000/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/m64xbpvf6qbh.jpg",ช่อง BP Radio HD
+http://fmonair.com:7890/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ltwwznwtmq8e.jpg",ช่อง วัดป่าไทรงาม
+http://103.22.182.105:7110/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://imgs.mcot.net/images/2017/10/1509377605535.png",ช่อง MCOT Modern Radio
+http://rstream.mcot.net:9066/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/b5xenqq4q4kv.jpg",ช่อง จั๊กกะจี้เรดิโอ
+http://43.229.135.187:8020/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/w7KSxyGFgt.png",ช่อง Phuket LIVE 89.5
+http://radio4.thzhost.com:4118/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cdsw45cqvjte.jpg",ช่อง 90.5 Smart News
+http://live3.smartbomb.co.th:8624/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hveka8qsjrjs.png",ช่อง FM 101.25 อสมท. เชียงราย
+http://rstream.mcot.net:9060/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://oldsonghome.com/wp-content/uploads/2019/11/FM-102.jpg",ช่อง 102 คลื่นคนทำงาน
+http://media.login.in.th:1100/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZMAZUFJwZXGAux20Cve8V8ozElfryiAfNy8p8=s900-c-k-c0x00ffffff-no-rj",ช่อง Love OK Click
+https://radio11.plathong.net/7142/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/modern9875.png",ช่อง 98.75 เชียงใหม่
+http://112.121.150.133:9102/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png",ช่อง Request Radio สตริง
+https://cast.requestradio.in.th:810/;stream.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png",ช่อง Request Radio เพื่อชีวิต
+http://27.254.142.208:8300/;stream/1.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png",ช่อง Request Radio ลูกทุ่ง
+http://27.254.142.208:8200/;stream/1.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png",ช่อง Request Radio International
+http://27.254.142.208:8400/;stream/1.mp3
+
+#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png",ช่อง Request Radio Dance Mix
+http://27.254.142.208:8500/;stream/1.mp3
