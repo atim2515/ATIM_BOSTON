@@ -127,12 +127,6 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rdx52JHmH1ShsCodmjXMgl-3D_56WsEzrA&s",ช่อง ลั่นทุ่งทีวี
 https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVon5cusvmGPfcupXLfhad87RlsEoNHeN8Q&s",ช่อง FW Movie
-https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVon5cusvmGPfcupXLfhad87RlsEoNHeN8Q&s",ช่อง FWsov Movie
-https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXujzV25p7gmY7iEHlhAWAnfrppgP2wzj1uQ&s",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
@@ -166,37 +160,7 @@ https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",ช่อง True Sports 1
-https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Sports 2
-https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",ช่อง True Sports 3
-https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png",ช่อง True Premier Football HD 1
-https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
- 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",ช่อง True Premier Football HD 2
-https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
- 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",ช่อง True Premier Football HD 3
-https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
- 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png",ช่อง True Premier Football HD 4
-https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",ช่อง SPOTV
-https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305",ช่อง beIN Sports 1
-https://www.livedoomovies.com:4431/02_sport2_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png",ช่อง beIN Sports 3
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png",ช่อง beIN Sports 3
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png",ช่อง ZOOM072.Net
