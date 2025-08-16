@@ -688,6 +688,72 @@ https://etv.publichs.com/live5.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.ytimg.com/vi/mEF9FDh4nZc/maxresdefault.jpg",ช่อง KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",ช่อง Pluto TV 70s Cinema
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024",ช่อง Pluto TV 80s Rewind
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",ช่อง Pluto TV 90s Throwback
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIeyXtKBMiuXu_mV6AKmKwyHVkyDuFbI6n6zabgBxRgzqMXeqc1zL09cDzGHV3ULjUMGk&usqp=CAU",ช่อง Groovy TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",ช่อง American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbKuik9jjrZ5lnmOvyv_19tWB4a63AwcvXA&s",ช่อง Horror Machine
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd7c9fc0-461a-4e62-98a1-6420747f358e/FrightFlix_artwork_horizontal.jpg",ช่อง Fright Flix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3964
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.xumo.com/v1/channels/channel/9999302/300x300.png?type=smartCast_channelTile",ช่อง Hi-YAH
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png",ช่อง Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9YU3wMqg6pSceSqFK7n5evJe1FWoA-NWgA&s",ช่อง MovieSphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphereaus-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4729689c-cf27-4e2b-886c-165b4656c006/Cinepride_artwork_horizontal.jpeg",ช่อง CINEPRIDE
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3954
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/0a/Paramount_Movie_Channel.png/revision/latest?cb=20140701231252",ช่อง Paramount Movie Channel
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYewa3wmx-jTOeALbwlN8IMm39gc8aIw7gE89V52rg2yV8OqpaVQXROVRa7OxXLwb3_lA&usqp=CAU",ช่อง MyTime movie network Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqlb6jWJY1EphjsbT-5CHSBAop4YQhTHznQ&s",ช่อง Filmzie
+https://filmzie-filmzie-1-gb.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png",ช่อง Wedo Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesen-vidaa/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/23121758/wedo-big-stories_RED.png",ช่อง Wedo Big Stories
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-vidaa/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://image.roku.com/developer_channels/prod/d0c78a56a4391effb1dc5d21218ba9b3a9cd66554a9e9f9dea9b052892240c0f.png",ช่อง Grjngo 2
+https://amogonetworx-grjngo-2-eu.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wixstatic.com/media/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg/v1/fill/w_2500,h_1406,al_c/0e69b2_4e43e305da874234ba25011f34565278~mv2.jpg",ช่อง Artflix
+https://amogonetworx-artflix-3-eu.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5ixXBbl5_J6hxXXgGg_nc83AJqYMxJotCMaQKRxlakG7U4nqJW-TAUpte6bgvI_vIVA&usqp=CAU",ช่อง Pluto TV 90120
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://static.wixstatic.com/media/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png/v1/fill/w_1280,h_720,al_c/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png",ช่อง Lone Star
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/137e73d4adc4ae9dc1312096219f5ac18becc588585d9412eff37fe1ae32a260.jpg",ช่อง Trailers from Hell
+https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc1NDdhMTctOTIxZC00OTgzLTk3NmQtOTVlMjIzMjVhYzIyXkEyXkFqcGc@._V1_.jpg",ช่อง Watch Mojo
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png",ช่อง Cool Fahrenheit
 https://coolism-web.cdn.byteark.com/;stream/1.mp3
 
@@ -720,9 +786,6 @@ http://27.254.65.244:8000/;stream.mp3
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/fzc5x62n4qk8.jpg",ช่อง Yesterday 106.5 FM
 http://radio4.thzhost.com:4122/;stream.mp3
-
-#EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/8qVGCNNArp.png",ช่อง Pongpan Radio
-http://radio.portradiothai.com:6010/;stream.mp3
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/NvUAj9bf8W.png",ช่อง Capitol FM
 http://atlanticthai.primcast.com:5898/;stream.mp3
