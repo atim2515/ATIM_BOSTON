@@ -64,7 +64,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",ช่อง Workpoint TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://hilight.kapook.com/img_cms2/user/pichaya/2023/1/08/jkn03.jpg",ช่อง JKN18
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png",ช่อง JKN18
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",ช่อง TPTV
@@ -544,9 +544,6 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.crwflags.com/fotw/images/j/jp$nhk2.gif",ช่อง NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/2560px-NHK_General_TV_logo.svg.png",ช่อง NHK-G
-https://mt01.utako.moe/NHK_G/index.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK-E
 https://mt01.utako.moe/NHK_E/index.m3u8
 
@@ -616,14 +613,8 @@ https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",ช่อง KBS
 https://mt01.utako.moe/kbs/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png",ช่อง MONDO TV
-https://ca01.utako.moe/mondo/index.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",ช่อง Entermei Tele
 https://ca01.utako.moe/entermei_tele/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX1
-https://mt01.utako.moe/Tokyo_MX1/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",ช่อง TOKYO MX2
 https://mt01.utako.moe/Tokyo_MX2/index.m3u8
@@ -654,9 +645,6 @@ https://mt01.utako.moe/BS11/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",ช่อง BS12
 https://mt01.utako.moe/bs12/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs.png",ช่อง JCOM BS
-https://mt01.utako.moe/jcom_bs/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BS10_STAR_CHANNEL.png",ช่อง BS10 star channel
 https://mt01.utako.moe/bs10_star/index.m3u8
@@ -762,9 +750,6 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lzY0CqKE62NiMboM_-HizbzkBjSXP7zDiuIu1xsgtOlFM=s900-c-k-c0x00ffffff-no-rj",ช่อง K-Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
-
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38=w600-h300-pc0xffffff-pd",ช่อง Kpop TV Play
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.pinimg.com/originals/9d/f0/60/9df060e4ff36d123efcfaa15d41b228c.jpg",ช่อง NewKidd
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
@@ -1177,11 +1162,104 @@ https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="AMAGI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIweDHLZnji0qMRpJe7VJxSuTpba9uB0RvA&s",ช่อง OANPlus
 https://oan-plus-tcl.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="CINEVERSE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cineverse_logo.jpg/1200px-Cineverse_logo.jpg",ช่อง California Music Channel
+https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEVERSE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cineverse_logo.jpg/1200px-Cineverse_logo.jpg",ช่อง Judge Nosey
+https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEVERSE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cineverse_logo.jpg/1200px-Cineverse_logo.jpg",ช่อง MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEVERSE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cineverse_logo.jpg/1200px-Cineverse_logo.jpg",ช่อง Nosey
+https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEVERSE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cineverse_logo.jpg/1200px-Cineverse_logo.jpg",ช่อง QwestTV
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+
 #EXTINF:-1 group-title="DISTRO TV" tvg-logo="https://www.distro.tv/img/small_poster.jpg",ช่อง Newsmax 2
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 group-title="DISTRO TV" tvg-logo="https://www.distro.tv/img/small_poster.jpg",ช่อง TD Ameritrade Network
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง California Music Channel
+https://cmc-kowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Diya TV
+https://a-cdn.klowdtv.com/live2/diyatv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Euronews English
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง France 24
+https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Fun Roads TV
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Game Show Network
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Game+
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง HorseTV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง HSN
+https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง InfoWars
+https://a-cdn.klowdtv.com/live2/infowars_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Law & Crime
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Legend Films
+https://a-cdn.klowdtv.com/live3/legendfilms_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Life Minute
+https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Nautical Channel
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง OAN
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง QVC Live
+https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Redseat The First
+https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง RightNow TV
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง SportsGrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง The Country Network
+https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Trace Latina
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Trace Sports Stars
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง Trace Urban
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
+
+#EXTINF:-1 group-title="KLOWD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJk2LYhCjJYZmyJxwDIWVbjnIeRF0jHYVrQ&s",ช่อง World Poker Tour
+https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
 
 #EXTINF:-1 group-title="PLEX TV" tvg-logo="https://i.ytimg.com/vi/mw5gJifg1G0/hqdefault.jpg",ช่อง AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
