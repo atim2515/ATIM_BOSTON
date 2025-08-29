@@ -544,6 +544,9 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.crwflags.com/fotw/images/j/jp$nhk2.gif",ช่อง NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",ช่อง NHK-G
+https://nhk4.mov3.co/hls/nhk.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK-E
 https://mt01.utako.moe/NHK_E/index.m3u8
 
@@ -1024,11 +1027,41 @@ https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",ช่อง VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1024px-VTV2_logo_2013_final.svg.png",ช่อง VTV2
+https://tv.ddns.vn/tv/vtv2fhd/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/250px-VTV3_logo_2013_final.svg.png",ช่อง VTV3
+https://tv.ddns.vn/tv/vtv3fhd/index.m3u8
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNjLJN9HotchE-XOjswzyvIQgkrPP2YRncg&s",ช่อง VTV4
 http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/250px-VTV5_logo_2013_final.svg.png",ช่อง VTV5
+https://tv.ddns.vn/tv/vtv5fhd/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/250px-Vtv5tnb_logo.svg.png",ช่อง VTV5 Tây Nam Bộ
+https://tv.ddns.vn/tv/vtv5tnbfhd/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/250px-Vtv5taynguyen_logo.svg.png",ช่อง VTV5 Tây Nguyên
+https://tv.ddns.vn/tv/vtv5tnfhd/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",ช่อง VTV7
+https://tv.ddns.vn/tv/vtv7fhd/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/250px-VTV8_logo_2016_final.svg.png",ช่อง VTV8
+https://hls.mskycdn.online/tv/vtv8fhd/index.m3u8
+
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",ช่อง VTV9
 http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/250px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png",ช่อง VTV Cần Thơ
+https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/SCTV1_logo_2011.png/revision/latest?cb=20240916152717&path-prefix=vi",ช่อง SCTV1
+https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/SCTV2_logo.png/revision/latest/scale-to-width-down/220?cb=20200219051540",ช่อง SCTV2
+https://liveh12.seenow.vn/hls/SCTV2/03.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/ANTV_Vietnam.png/revision/latest/scale-to-width-down/220?cb=20191110082312",ช่อง ANTV
 https://ott1.nethubtv.vn/live/antv/playlist.m3u8
