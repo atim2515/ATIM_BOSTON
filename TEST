@@ -787,7 +787,7 @@ http://mytv.dothome.co.kr/ch/catv/6.php
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kWAyYX8IuruW0YuQuEK6Jn-cfqZZ8oFZCcpy7HnzB3C_FA=s900-c-k-c0x00ffffff-no-rj",ช่อง KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdwZxvun-RIlrPFkFnkZCq3tEdy44GsQmQg&s",ช่อง Channel A
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDO-Z6SSMb88XgI0zs_DzY1bBMCJHt302gnA&s",ช่อง Channel A
 http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png",ช่อง JIBS SBS
@@ -1071,6 +1071,24 @@ https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/SCTV2_logo.png/revision/latest/scale-to-width-down/220?cb=20200219051540",ช่อง SCTV2
 https://liveh12.seenow.vn/hls/SCTV2/03.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/SCTV3_See_TV_19-01-2023.png/revision/latest/scale-to-width-down/200?cb=20240222060522&path-prefix=vi",ช่อง SCTV3
+https://liveh12.seenow.vn/hls/SCTV3/03.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79OBF4MIGeELtEbgSop79xBS-5HxVTzZ4HA&s",ช่อง SCTV4
+https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/28/SCTV6_logo_01-05-2017.png/revision/latest?cb=20240917042905&path-prefix=vi",ช่อง SCTV6
+https://liveh12.seenow.vn/hls/SCTV6/03.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/SCTV7_logo_2009-2011.png/revision/latest/scale-to-width-down/1200?cb=20240914042838&path-prefix=vi",ช่อง SCTV7
+https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2hgTujbw3swXrfdk3Wu6T-E5EuCDFtphBA&s",ช่อง SCTV8
+https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
+
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/SCTV10.png/revision/latest?cb=20200930082127",ช่อง SCTV10
+https://liveh12.seenow.vn/hls/SCTV10/03.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/ANTV_Vietnam.png/revision/latest/scale-to-width-down/220?cb=20191110082312",ช่อง ANTV
 https://ott1.nethubtv.vn/live/antv/playlist.m3u8
