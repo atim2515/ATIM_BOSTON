@@ -182,7 +182,7 @@ https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
-http://Supersonictv.live:8080/live/006779/439866/22185.ts
+http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png",ช่อง ZOOM072.Net
 https://live.zoom072.com/ch5/ch5.m3u8
@@ -998,7 +998,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
-http://Supersonictv.live:8080/live/006779/439866/22185.ts
+http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",ช่อง TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -1756,8 +1756,14 @@ https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 group-title="FILMON" tvg-logo="https://play-lh.googleusercontent.com/CjXjLtzSnh7L6D_qkmUcBs5dDBkhuLSfaAOhaegOpuFqaDH4XdMKGtnczDLLiek0qA",ช่อง Filmon 360 Experimental
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง fuck
-http://supersonictv.live:8080/live/006779/439866/21789.ts
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง BabyFirstTV
+http://supersonictv.live:8080/live/006779/439866/21789.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Baby TV
+http://supersonictv.live:8080/live/006779/439866/21790.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Boomerang
+http://supersonictv.live:8080/live/006779/439866/21791.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
