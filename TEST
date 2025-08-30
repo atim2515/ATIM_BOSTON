@@ -145,6 +145,9 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rdx52JHmH1ShsCodmjXMgl-3D_56WsEzrA&s",ช่อง ลั่นทุ่งทีวี
 https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",ช่อง Cinemax
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXujzV25p7gmY7iEHlhAWAnfrppgP2wzj1uQ&s",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
@@ -177,6 +180,9 @@ https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",ช่อง T Sports 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
+http://Supersonictv.live:8080/live/006779/439866/22185.ts
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png",ช่อง ZOOM072.Net
 https://live.zoom072.com/ch5/ch5.m3u8
@@ -924,6 +930,75 @@ https://etv.publichs.com/live5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.ytimg.com/vi/mEF9FDh4nZc/maxresdefault.jpg",ช่อง KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://play-lh.googleusercontent.com/OKHS6EcJx8XhrQZ1leZxAH9fbGX6ug_fRyHI4bT5v0W1eo6Or2FudDaDruI_-cCsaFE",ช่อง CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png",ช่อง TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_daK1QV4yj8sWrFohxHb-4f-Y3oYfqDhuuQ&s",ช่อง TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png",ช่อง TV9
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png",ช่อง MOJI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",ช่อง Magna
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://i.ytimg.com/vi/SuiXn6MjLlc/maxresdefault.jpg",ช่อง Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWF5iy7pz8qWStADdt3lRs1bQb465KYE7Yg&s",ช่อง IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e4/Kilisuci_TV_NEW_LOGO_2016.png/200px-Kilisuci_TV_NEW_LOGO_2016.png",ช่อง Kilisuci TV Kediri
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",ช่อง Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://tvtabalong.com/wp-content/uploads/2025/02/logo-tv-tabalong.png",ช่อง TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",ช่อง Cinemax
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaf8O5FMx9Wca8cgQhaS3zzY41GilUEVpAFg&s",ช่อง Circle Country
+https://circle-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png",ช่อง COMET
+http://Supersonictv.live:8080/live/006779/439866/22066.ts
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOJo9ocuk6_xARYcvdOb26yX162-IMgY7D1Z3DIz2Y0MzkWsKOTQjszg&amp;s=10",ช่อง Biznet Kids HD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png",ช่อง Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/moonbugkids.png",ช่อง Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/PBS-Kids-Logo-2009.png",ช่อง PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/peppapig/images/f/f4/PeppaPigThemeSong1.png/revision/latest?cb=20181203224544",ช่อง Peppa Pig
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
+http://Supersonictv.live:8080/live/006779/439866/22185.ts
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",ช่อง TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
