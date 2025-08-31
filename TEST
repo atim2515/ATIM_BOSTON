@@ -61,6 +61,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWSGln0d7bKsgK1XdcBCManhFubvm5HjdBQ&s",ช่อง MONO29 PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/mono29plus
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",ช่อง Workpoint TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 
@@ -75,6 +79,9 @@ http://dopachannel.truegse.com/live/dopatv03.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://play-lh.googleusercontent.com/6BYIsYL2sWhmBVZtJGYfSnCXly2B2_EsGgegdtBSskzOf1rKwV1Qy7HuHAqCSf-qtMg",ช่อง Pattaya People TV
+https://s1.thailandstreaming.net/memfs/b0a69f7a-d7b4-4951-9dd2-1f6a7457024c_output_0.m3u8?
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv.imgix.net/channel/187_y_O07IcMfWXzK1n4qD6YSswUxrv5btZJmk.png",ช่อง MVTV ท้องถิ่นไทย
 https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
@@ -145,8 +152,39 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rdx52JHmH1ShsCodmjXMgl-3D_56WsEzrA&s",ช่อง ลั่นทุ่งทีวี
 https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",ช่อง Cinemax
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",ช่อง HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",ช่อง HBO family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo-family
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",ช่อง HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo-hits
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",ช่อง HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/hbo-signature
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",ช่อง Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/cinemax
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_original.png",ช่อง Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/warnertv
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",ช่อง 3BB Asian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/3bbasian
+https://dookeela.live/live-tv/3bbasian
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo28tujGljuIuLJTCE5Mro725AD8VMe9-TcA&s",ช่อง True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/3bbasian
+https://dookeela.live/live-tv/truethaifilm
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXujzV25p7gmY7iEHlhAWAnfrppgP2wzj1uQ&s",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
@@ -838,7 +876,7 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDO-Z6SSMb88XgI0zs_DzY1bBMCJHt302gnA&s",ช่อง Channel A
 http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png",ช่อง JIBS SBS
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/250px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png",ช่อง JIBS SBS
 http://123.140.197.22/stream/1/play.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png",ช่อง G1 SBS
@@ -1014,9 +1052,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",ช่อง Aljazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",ช่อง Cinemax
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaf8O5FMx9Wca8cgQhaS3zzY41GilUEVpAFg&s",ช่อง Circle Country
 https://circle-samsung.amagi.tv/playlist.m3u8
