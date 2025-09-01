@@ -204,6 +204,10 @@ https://live.thaitvstream.com/play/chiangrai/index.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png",ช่อง มวลชน ทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lhj5FzWIR14o4M_fSgGn2LC0XTnE_IGLsRdfrFUpwOXwg=s240-c-k-c0x00ffffff-no-rj",ช่อง A'lure Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/alure-channel
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxysvva86UdV2btn-I1uZ7h-FPEGxmlinqoA&s",ช่อง BOOM ANIME
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
@@ -1386,6 +1390,15 @@ https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://pbs.twimg.com/profile_images/1199585034572746753/JYJ9ml3d.jpg",ช่อง Hmong TV Network
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo28tujGljuIuLJTCE5Mro725AD8VMe9-TcA&s",ช่อง True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/3bbasian
+https://dookeela.live/live-tv/truethaifilm
+
+#EXTINF:-1 group-title="TrueVisions" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",ช่อง AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela2.live/live-tv/axn
+
 #EXTINF:-1 group-title="AMAGI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIweDHLZnji0qMRpJe7VJxSuTpba9uB0RvA&s",ช่อง Newsmax 2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 
@@ -2489,6 +2502,16 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 
 #EXTINF:-1 group-title="SHOP CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR3V2KGWAWKy03_qpUCVBO3t1V7A20RQTqEQ&s",ช่อง QVC UK Style
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lhj5FzWIR14o4M_fSgGn2LC0XTnE_IGLsRdfrFUpwOXwg=s240-c-k-c0x00ffffff-no-rj",ช่อง A'lure Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/alure-channel
+
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",ช่อง Pigoo
+https://ca01.utako.moe/pigoo/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",ช่อง V Paradise
+https://ca01.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 group-title="ADULT CH" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Anal
 http://live.redtraffic.xyz/anal.m3u8
