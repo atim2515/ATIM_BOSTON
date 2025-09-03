@@ -65,6 +65,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela.live/live-tv/mono29plus
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.mono.co.th/wp-content/uploads/2020/04/MONO29-MUSIC-STATION.png",ช่อง MONO29 Music Station
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela.live/live-tv/mono-29-music-station
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",ช่อง Workpoint TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 
@@ -205,6 +209,22 @@ https://dookeela2.live/live-tv/truefilmasia
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela2.live/live-tv/trueasianmore
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.hitstv.com/assets/hits.png",ช่อง Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela2.live/live-tv/hits
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaxOcfFdqnowUi9qtp-A_AvOkzl8JGrVpaxQ&s",ช่อง Hits Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela2.live/live-tv/hits-movies
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2K8jOD-PqC-XrzDA8QcuYAbcd3ezNoyT2vA&s",ช่อง Hits Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela2.live/live-tv/hitsnow
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/iqiyi2.png",ช่อง iQIYI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela2.live/live-tv/iqiyi
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/03/52962a90-195d-11ee-8d1b-f5f88b5481b0_webp_original.webp",ช่อง CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1140,6 +1160,18 @@ https://etv.publichs.com/live5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.ytimg.com/vi/mEF9FDh4nZc/maxresdefault.jpg",ช่อง KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela2.live/live-tv/tvbclassichd
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/HNTV_logo.png",ช่อง Hunan TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela2.live/live-tv/hunan-tv-hd
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7PE1yMnUi4G64x9X5Jey56CelM1lhNQTbfg&s",ช่อง Yunnan International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dookeela2.live/live-tv/yunnan-international
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
