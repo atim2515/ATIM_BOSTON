@@ -105,9 +105,6 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZR3LF0f7_jofOVNb21yadjMnE6rYiXMctKcK7JUCw=s900-c-k-c0x00ffffff-no-rj",ช่อง 13 สยามไทย
 https://live.x2.co.th/live/13livetv-th.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://inwfile.com/s-aa/d3l2e4.jpg",ช่อง UMMTV
-http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAx9AQzLrvy9id9TUxiF_39N9OLeraYQQlpg&s",ช่อง StarTV
 http://146.88.62.69:1935/Transcoder/%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2HD.stream_576p/playlist.m3u8
 
@@ -830,6 +827,9 @@ https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",ช่อง KBS
 https://mt01.utako.moe/kbs/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png",ช่อง MONDO TV
+https://ca01.utako.moe/mondo/index.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",ช่อง Entermei Tele
 https://ca01.utako.moe/entermei_tele/index.m3u8
 
@@ -983,6 +983,9 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png",ช่อง QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.ikegami.co.jp/files/co/news/gstv.png",ช่อง GSTV
+https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",ช่อง Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -1230,7 +1233,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/moonbugkids.png",ช่อง Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/PBS-Kids-Logo-2009.png",ช่อง PBS Kids
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png",ช่อง PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://static.wikia.nocookie.net/peppapig/images/f/f4/PeppaPigThemeSong1.png/revision/latest?cb=20181203224544",ช่อง Peppa Pig
@@ -2661,7 +2664,7 @@ https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/
 #EXTINF:-1 group-title="FASHION CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",ช่อง Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="PET CH" tvg-logo="https://play-lh.googleusercontent.com/x6e8G5-X3CxKrOszUaZ_lzPwonSYMA3T0wctAvlGopMhPVNF8izOl-4FaEfbyELrcA",ช่อง AKC TV
+#EXTINF:-1 group-title="PET CH" tvg-logo="https://digitaladvertisingmedia.com/wp-content/uploads/2019/12/S_AKCTV000000.jpg",ช่อง AKC TV
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGoYP110eYtwkalqCLqnIKNehoHjaa4y07A&s",ช่อง AKC TV Meet The Breeds
