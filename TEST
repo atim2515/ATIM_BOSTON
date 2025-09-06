@@ -1164,9 +1164,66 @@ https://etv.publichs.com/live5.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.ytimg.com/vi/mEF9FDh4nZc/maxresdefault.jpg",ช่อง KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",ช่อง TVB Jade
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",ช่อง TVB Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela2.live/live-tv/tvbclassichd
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlBwm7kxH9QEwXonqOFxIKK13lMieW-H0iw&s",ช่อง Asian Action Channel
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/kamiwaza-wanda/images/4/4d/HOYTV_Logo.png/revision/latest?cb=20240518180548",ช่อง HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTin_BIbceXDQu8eeg6SkGwnvhkx0NuJz9Lgg&s",ช่อง VIU TV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://logowik.com/content/uploads/images/phoenix-infonews-channel8389.jpg",ช่อง Phoenix InfoNews Channel HD
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视澳门
+https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w183583389.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视葡文
+https://live5.tdm.com.mo/ch2/ch2.live/chunklist_w183583390.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视MACAU衛視
+https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w183583391.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳視體育
+https://live5.tdm.com.mo/ch4/sport_ch4.live/chunklist_w183583392.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳视资讯
+https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w183583393.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRior_hWzVw6fiPXDMt8iJQE-fqDbvQwPcE2YRSBzWTSUiF00OrZnomapu4K-Ncu6xJ5R8&usqp=CAU",ช่อง 澳視高清
+https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w183583394.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqkTCyqQa-4uk6dUpFJtx00gFERBf7ocbzw&s",ช่อง 面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd2A7AAjKcLL0qjnxVNKrV0blRzvzYEMVbSw&s",ช่อง Creation TV
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagmjod_MCZyXfjG-FWq-X1N-ZtTcatOo_rw&s",ช่อง Celestial Movies
+http://php.jdshipin.com/smt.php?id=Celestial
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/iqiyi2.png",ช่อง iQIYI
+http://php.jdshipin.com/smt.php?id=Qiyi
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk31KHEjGxuXTK6jF1WwDTAWr-v1qPqHNVhg&s",ช่อง 八度空间
+http://php.jdshipin.com/smt.php?id=TV8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmu_LiTAGHGoqvhVwtYs9SN-iOz6i3Hv929w&s",ช่อง Astro Quan Jia
+http://php.jdshipin.com/smt.php?id=Quanjia
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",ช่อง Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",ช่อง Astro Hua Hee Dai
+http://php.jdshipin.com/smt.php?id=Huahee
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/HNTV_logo.png",ช่อง Hunan TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -3391,3 +3448,36 @@ http://27.254.142.208:8400/;stream/1.mp3
 
 #EXTINF:-1 group-title="THAI RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RKj5SekkUY.png",ช่อง Request Radio Dance Mix
 http://27.254.142.208:8500/;stream/1.mp3
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/b85767b2-d530-468e-8979-d0aa0319b7c8",ช่อง iHeart Radio Christmas
+http://stream.revma.ihrhls.com/zc4596/hls.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/26c7d6fa-1003-4ccc-967c-c6bb3b7949b4",ช่อง iHeart Radio Christmas Jazz
+https://stream.revma.ihrhls.com/zc7251/hls.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/6afae4be-9a66-453d-96c0-c94def7b97e9",ช่อง iHeart Radio Christmas R&B
+https://stream.revma.ihrhls.com/zc6136/hls.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/5da6590d91216d1ce366f83b",ช่อง iHeart Radio Christmas Rock
+http://stream.revma.ihrhls.com/zc6410/hls.m3u8
+
+#EXTINF:-1 group-title="USA RADIO" tvg-logo="https://i.iheart.com/v3/re/new_assets/c001b08b-93e3-48d8-9134-acf64369131a",ช่อง iHeart Radio North Pole Radio
+http://stream.revma.ihrhls.com/zc6734/hls.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第一台
+http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第二台
+http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第三台
+http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第四台
+http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 第五台
+http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+
+#EXTINF:-1 group-title="HONG KONG RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1280px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 普通話台
+http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
