@@ -1623,16 +1623,16 @@ http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",ช่อง Astro Hua Hee Dai
 http://php.jdshipin.com/smt.php?id=Huahee
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 重温经典
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CBN_Classic.png",ช่อง 重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Trace Urban
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",ช่อง Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง CNA
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.goalsmapper.com/public/2021/05/12002027/cna.png",ช่อง CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง DW English
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",ช่อง DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/HNTV_logo.png",ช่อง Hunan TV HD
@@ -2903,17 +2903,44 @@ https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 group-title="FILMON" tvg-logo="https://play-lh.googleusercontent.com/CjXjLtzSnh7L6D_qkmUcBs5dDBkhuLSfaAOhaegOpuFqaDH4XdMKGtnczDLLiek0qA",ช่อง Filmon 360 Experimental
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง BabyFirstTV
-http://supersonictv.live:8080/live/006779/439866/21789.m3u8
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",ช่อง Disney Channel
+http://supersonictv.live:8080/live/006779/439866/21796.m3u8
 
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Baby TV
-http://supersonictv.live:8080/live/006779/439866/21790.m3u8
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1200px-2024_Disney_Jr._Logo.svg.png",ช่อง Disney Jr.
+http://supersonictv.live:8080/live/006779/439866/21798.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalouvhsXuV_X_wYzYDo_HS9OQb03CQaXtug&s",ช่อง Disney XD
+http://supersonictv.live:8080/live/006779/439866/21801.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Cartoon Network
+http://supersonictv.live:8080/live/006779/439866/21792.m3u8
 
 #EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Boomerang
 http://supersonictv.live:8080/live/006779/439866/21791.m3u8
 
-#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Cartoon Network
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",ช่อง Nickelodeon
+http://supersonictv.live:8080/live/006779/439866/21808.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png",ช่อง Nick Jr.
+http://supersonictv.live:8080/live/006779/439866/21806.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1200px-TeenNick_logo_2023_%28outline%29.svg.png",ช่อง TeenNick
+http://supersonictv.live:8080/live/006779/439866/21811.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAXh6-B7MzWhXrews8IQ3GKU8XZjAOb9tZw&s",ช่อง Adult Swim
 http://supersonictv.live:8080/live/006779/439866/21792.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzQxt05Wir0lGHkEyvyGLCSGAdsWUCu0P1g&s",ช่อง Freeform
+http://supersonictv.live:8080/live/006779/439866/21805.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_2yfARuxNepxFS27l2phAEGHhnvalAY7og&s",ช่อง PBS Kids
+http://supersonictv.live:8080/live/006779/439866/21810.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง Baby TV
+http://supersonictv.live:8080/live/006779/439866/21790.m3u8
+
+#EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง BabyFirstTV
+http://supersonictv.live:8080/live/006779/439866/21789.m3u8
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
