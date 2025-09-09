@@ -1043,6 +1043,9 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Allg%C3%A4u.tv_%28a.tv%29_Logo.jpg",ช่อง Allgäu TV
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 
+#EXTINF:-1 group-title="GERMANY TV" tvg-logo="https://pbs.twimg.com/profile_images/834346986019102720/oeWoBLmM_400x400.jpg",ช่อง Altenburg TV
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+
 #EXTINF:-1 group-title="FINLAND TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqUlXTFdLxVZErfGorihJNMeHyIr-y-ml-A&s",ช่อง 5-Minute Craft
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 
@@ -1090,6 +1093,12 @@ https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8
 
 #EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://play-lh.googleusercontent.com/U68gRbOoKoA-el0SkR38TI-E-DJyJIfsf3kuhPXgbiSNb4tDqup1UXMPoBOfdLT6EIzt",ช่อง Pétange Info TV
 https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
+
+#EXTINF:-1 group-title="URUGUAY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGOcgHL_UwwX6eCGCV96zNMjbCngkzJgAhw&s",ช่อง UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 group-title="URUGUAY TV" tvg-logo="https://yt3.googleusercontent.com/JaLpE5sfnCYWtIeaU1F24jRlH1rOnWdlSH2O1LFxw51pBeUT2Z0A-Z5sB6BVU568JmuHOtVI=s900-c-k-c0x00ffffff-no-rj",ช่อง VIVO TV
+https://stream.vivotv.uy/hls/stream.m3u8
 
 #EXTINF:-1 group-title="NORTH MACEDONIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjG1F5Q-ldttLShBYNpk1kBrCXSHW_Ld2fNA&s",ช่อง Folk Klub
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
@@ -1614,6 +1623,18 @@ http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",ช่อง Astro Hua Hee Dai
 http://php.jdshipin.com/smt.php?id=Huahee
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง 重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://folders.co.nz/cdn/shop/products/DISH60PACK_1.jpg?v=1684286224",ช่อง DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/HNTV_logo.png",ช่อง Hunan TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela2.live/live-tv/hunan-tv-hd
@@ -1810,6 +1831,57 @@ https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 
 #EXTINF:-1 group-title="ISRAEL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBcybV93zIrAWesK4BGYNiBZaqDeG827HVqw&s",ช่อง Hala TV
 https://stream.panet.com/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Oh Muang Lao TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Lao.png/revision/latest?cb=20191209082932",ช่อง LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Jpkw_5gcirzJZLr-2Kbtsyzv3ZwhS9XZfg&s",ช่อง Look Thoong TV
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlwivJ-5pytSb6YjpQf-0po6XE9_brtYAV-w&s",ช่อง Dao Lane Xang
+https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao Net TV
+https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao SV TV
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao-Thai US TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Laos Planet TV
+https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Houng Fa
+https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Ning TV
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_q3MlgDQEFWF3_XfVmVixP38olV09zQQtmw&s",ช่อง ISTV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3f80Fgf2_p7ON3O-LuaAk_jZHqgmlZ0hxQg&s",ช่อง NAT TV
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_2aMl3uKQkTlGEN7njQil06PmWjnJE1a4rA&s",ช่อง Vati Lao TV
+https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://pbs.twimg.com/profile_images/1108046831072788480/hLlDym00_400x400.png",ช่อง Air TV
+https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://image.winudf.com/v2/image/c3VwcmVtZW1hc3RlcnR2LmNvbS5zdXByZW1lbWFzdGVydHZfaWNvbl8xNTM0NDQ3MzY0XzAyNA/icon.png?w=&fakeurl=1",ช่อง Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzBzSSZ_0bROvGFY2KKy4YEAGSNh9UOyIWIdlTSDdpYo9_ydI5KYQD7OZCeS7UwleI9k&usqp=CAU",ช่อง Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0MZLi649n-VeTFyT-czq_vJPOq0b5_KlxkMxNEh675TiNHZMvgFEesv0GQ1so54bH0Y&usqp=CAU",ช่อง Brian TV
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",ช่อง VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
