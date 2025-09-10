@@ -1835,9 +1835,6 @@ https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="LAO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Lao.png/revision/latest?cb=20191209082932",ช่อง LS TV
-https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Jpkw_5gcirzJZLr-2Kbtsyzv3ZwhS9XZfg&s",ช่อง Look Thoong TV
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 
@@ -1846,6 +1843,9 @@ https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao Net TV
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Lao.png/revision/latest?cb=20191209082932",ช่อง LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao SV TV
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
@@ -2941,6 +2941,51 @@ http://supersonictv.live:8080/live/006779/439866/21790.m3u8
 
 #EXTINF:-1 group-title="Supersonictv" tvg-logo="https://www.super-sonic.tv/wp-content/uploads/2018/07/LOGO-STV-NEW-2013.png",ช่อง BabyFirstTV
 http://supersonictv.live:8080/live/006779/439866/21789.m3u8
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 状王宋世杰-第二部-张达明大战黄子华
+https://live.metshop.top/huya/23734183
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 美猴王粤语版
+https://live.metshop.top/huya/23734246
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 孙悟空唐三藏取西经
+https://live.metshop.top/huya/23735126
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 楚汉骄雄
+https://live.metshop.top/huya/23740156
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 普通司机小马的直播间
+https://live.metshop.top/huya/23749096
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 射雕之九阴真经-姜大卫 张智霖
+https://live.metshop.top/huya/23824164
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 法证先锋
+https://live.metshop.top/huya/23829543
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 野蛮亲家血腥对线
+https://live.metshop.top/huya/23863796
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 寻秦记 古天乐宣萱CP
+https://live.metshop.top/huya/23864973
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 食为奴·王祖蓝万绮雯
+https://live.metshop.top/huya/23865058
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 鹿鼎记 小春版韦小宝
+https://live.metshop.top/huya/23865080
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 大头绿衣斗僵尸 钱小豪这能打
+https://live.metshop.top/huya/23865152
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 大时代
+https://live.metshop.top/huya/23865161
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 天龙八部 97版黄日华
+https://live.metshop.top/huya/23903123
+
+#EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 宠物情缘-古天乐与郑秀文
+https://live.metshop.top/huya/23903183
 
 #EXTINF:-1 group-title="MOVIES CH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
