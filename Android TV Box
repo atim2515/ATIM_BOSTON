@@ -455,10 +455,6 @@ https://dookeela.live/live-tv/bein1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela.live/live-tv/bein3
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://yt3.googleusercontent.com/0hWY0JY4wWWm9vzH5tMPBib137otIjoelMgkeA8BBUxMFWvsUkKCbKk1G8JmX3Ds65o5Zf0cTA=s900-c-k-c0x00ffffff-no-rj",ช่อง Golf Channel Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ball67.com/channels/golfchannelthailand/
-
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
 http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
 
@@ -2355,14 +2351,6 @@ https://dookeela.live/live-tv/bbc-news
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/d6f8a170-f4b8-4406-aecc-cc7ad86d9b9a.png",ช่อง CCTV-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela2.live/live-tv/cctv4
-
-#EXTINF:-1 group-title="MONOMAX" tvg-logo="https://ball67.com/assets/channels-logo/monomax-1.png",ช่อง MONOMAX 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ball67.com/channels/monomax1/
-
-#EXTINF:-1 group-title="MONOMAX" tvg-logo="https://ball67.com/assets/channels-logo/monomax-2.png",ช่อง MONOMAX 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ball67.com/channels/monomax2/
 
 #EXTINF:-1 group-title="Good TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuCjKy1XQTl29a5ty6VL2PwHCDnsF0dLOiw&s",ช่อง สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
