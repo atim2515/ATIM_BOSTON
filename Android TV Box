@@ -1238,8 +1238,14 @@ https://mt01.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",ช่อง BS12
 https://mt01.utako.moe/bs12/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",ช่อง JCOM BS
+https://proxy.utako.moe/ph.php?&isp=2&id=bs31
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BS10_STAR_CHANNEL.png",ช่อง BS10 star channel
 https://mt01.utako.moe/bs10_star/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",ช่อง Movie Plus
+https://proxy.utako.moe/ph.php?&isp=1&id=cs14
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334",ช่อง WOWOW Prime
 https://mt01.utako.moe/wprime/index.m3u8
@@ -1256,6 +1262,12 @@ https://ca01.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",ช่อง Nihon Eiga Senmon Channel
 https://ca01.utako.moe/nihoneiga/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",ช่อง Jidaigeki Senmon
+https://proxy.utako.moe/ph.php?&isp=1&id=cs04
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",ช่อง Eisei Gekijo
+https://proxy.utako.moe/ph.php?&isp=1&id=cs22
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/drama/images/5/54/Family_gekijo.jpg/revision/latest/scale-to-width-down/400?cb=20190809211640&path-prefix=es",ช่อง Family Gekijo
 https://ca01.utako.moe/familygeki/index.m3u8
 
@@ -1265,11 +1277,17 @@ https://ca01.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",ช่อง Channel Ginga
 https://ca01.utako.moe/gingach/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png",ช่อง LaLa TV
+https://proxy.utako.moe/ph.php?&isp=1&id=cs19
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/zD22iesg6Np63Z-FtiU0yQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",ช่อง Home Drama Channel
 https://ca01.utako.moe/homedrama/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dlife_logo.svg/640px-Dlife_logo.svg.png",ช่อง Dlife
 https://ca01.utako.moe/dlife/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",ช่อง Takarazuka Sky Stage
+https://proxy.utako.moe/ph.php?&isp=2&id=cs28
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",ช่อง Pigoo
 https://ca01.utako.moe/pigoo/index.m3u8
@@ -1286,11 +1304,17 @@ https://ca01.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.tabloid0120.com/wp-content/uploads/2019/12/SPACE-SHOWER-TV_logo_fixw_640_hq.jpg",ช่อง SPACE SHOWER TV
 https://ca01.utako.moe/spaceshower/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png",ช่อง Music Japan TV
+https://proxy.utako.moe/ph.php?&isp=1&id=cs06
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",ช่อง Kayo Pops
 https://ca01.utako.moe/kayopops/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://i3.gamebiz.jp/media/14956665-536d-457c-ad23-900d816d9c86.jpg",ช่อง BS Animax
 https://ca01.utako.moe/Animax/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",ช่อง Kids Staton TV
+https://proxy.utako.moe/ph.php?&isp=1&id=cs07
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",ช่อง AT-X
 https://mt01.utako.moe/AT-X/index.m3u8
@@ -1308,11 +1332,26 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/disneychannel/images/2/2c/DisneyChannel2019Logo.png/revision/latest?cb=20220729130459",ช่อง Disney Channel Japan
 https://ca01.utako.moe/disneychan/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",ช่อง Disney Junior Japan
+https://proxy.utako.moe/ph.php?&isp=1&id=cs23
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/1/1f/Original_Cartoon_Network_logo.png/revision/latest/scale-to-width-down/682?cb=20120713161358",ช่อง Cartoon Network Japan
 https://ca01.utako.moe/cartoon_network/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ช่อง ワンニャンチャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg",ช่อง National Geographic Japan
+https://proxy.utako.moe/ph.php?&isp=1&id=cs10
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",ช่อง Discovery Channel Japan
+https://proxy.utako.moe/ph.php?&isp=1&id=cs08
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg",ช่อง History Japan
+https://proxy.utako.moe/ph.php?&isp=1&id=cs09
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg",ช่อง Animal Planet Japan
+https://proxy.utako.moe/ph.php?&isp=1&id=cs24
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",ช่อง J Sports 1
 https://mt01.utako.moe/js1/index.m3u8
@@ -1338,11 +1377,26 @@ https://mt01.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",ช่อง Sport Live Plus
 https://ca01.utako.moe/sport_live_plus/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",ช่อง Golf Network
+https://proxy.utako.moe/ph.php?&isp=1&id=cs03
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",ช่อง Fighting TV Samurai
 https://ca01.utako.moe/fighting_tv/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/iwumbyvpeslmassnufui",ช่อง Green Channel
 https://mt01.utako.moe/green/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png",ช่อง Fishing Vision
+https://proxy.utako.moe/ph.php?&isp=1&id=bs25
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg",ช่อง CNNj
+https://proxy.utako.moe/ph.php?&isp=1&id=cs16
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg",ช่อง BBC News Japan
+https://proxy.utako.moe/ph.php?&isp=1&id=cs15
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png",ช่อง TBS News
+https://proxy.utako.moe/ph.php?&isp=1&id=cs11
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png",ช่อง ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
