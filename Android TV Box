@@ -62,14 +62,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWSGln0d7bKsgK1XdcBCManhFubvm5HjdBQ&s",ช่อง MONO29 PLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
-
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWSGln0d7bKsgK1XdcBCManhFubvm5HjdBQ&s",ช่อง MONO29 PLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWSGln0d7bKsgK1XdcBCManhFubvm5HjdBQ&s",ช่อง MONO29 PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
