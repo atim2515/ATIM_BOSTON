@@ -1,5 +1,6 @@
 #EXTM3U
  
 
-#EXTINF:-1 group-title="CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjeBtgIZDghYnMFORbB4omo8eNG2vbGbfFA&s",ช่อง HBO
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
+#EXTINF:-1 group-title="CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjeBtgIZDghYnMFORbB4omo8eNG2vbGbfFA&s",ช่อง BBC
+#EXTGRP:Anak-anak
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
