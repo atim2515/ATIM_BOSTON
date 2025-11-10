@@ -58,6 +58,12 @@ http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9360.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",ช่อง TPTV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUHspDkknqP6VynKyuK-OpKUWxS9wZ-xVUg&s",ช่อง True Film 2
+http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9363.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0swo73FVD2sQ76T3yoNnpGnMAD8PT47Ec5Q&s",ช่อง True Film Asia
+http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9362.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXujzV25p7gmY7iEHlhAWAnfrppgP2wzj1uQ&s",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
