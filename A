@@ -367,6 +367,60 @@ https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/170_x_QsStd7nhyiNa84EJBvPcgDTCA0bI3xV1.jpg",ช่อง V2H15
 https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsU4PaCdaRGwHat-j2wvw9nLN2DPX_yjRg5Q&s",ช่อง AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/9b8b7b606e2c3f89ec981a084f3b8ad269418d4148422089d632024eaf6f08af.png",ช่อง Hi-YAH!
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/AFV_2004.png/revision/latest/scale-to-width-down/250?cb=20230718232723",ช่อง AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/ABC_25_Columbia_logo_2022.png",ช่อง ABC 25 Columbia
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="http://blog-imgs-74.fc2.com/m/i/l/milyatagarasu/2015030519070309a.jpg",ช่อง Johnny Carson TV
+https://johnnycarson-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTuO0VbPzyHkFsH6MRHsvm19v29fhXH2ma9pZ8p=s900-c-k-c0x00ffffff-no-rj",ช่อง ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/1200px-Circle_Network_logo.svg.png",ช่อง Circle
+https://circle-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41duBUD0OHL.png",ช่อง Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://play-lh.googleusercontent.com/EXg_nZ2hwTkZzTnV274559uvzXJlRugUbb9ATi9bSxFh9d1YP6lUqNaMzreo1ibTUw",ช่อง OAN
+https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://logowik.com/content/uploads/images/yahoo-finance7411.jpg",ช่อง Yahoo! Finance
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgHaARutjfi1PRbVrt0tFZFSGohugviMs4LoyiRC66zcZbb5-oG8AIjW00qQp10IYKvs&usqp=CAU",ช่อง Fun Roads
+http://104.143.4.5:2080/funroads.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/ed6f9581682cd7725484b6eaa58eed84c0bd908baee4df5cbc0bbe69f886a53a.png",ช่อง bon appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.ytimg.com/vi/6V2HxZ9WEYg/maxresdefault.jpg",ช่อง Nick Music
+http://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg",ช่อง VEVO '80s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",ช่อง VEVO '90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL",ช่อง Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",ช่อง Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUHqjVPT1GLKWYGTjwXzedypQP25sViO6PQ&s",ช่อง Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/X0_5fee3c3f02550_1020.png",ช่อง ABC TV Adelaide
 https://c.mjh.nz/abc-sa.m3u8
 
@@ -456,6 +510,60 @@ https://d3453fcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 group-title="FINLAND TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqUlXTFdLxVZErfGorihJNMeHyIr-y-ml-A&s",ช่อง Come Dine With Me
 https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5A4Pul_sl-wAf3_7VqW5UuKut8L4SmsQ4VQ&s",ช่อง apart TV
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://mamer.lu/wp-content/uploads/2024/04/MATV_kleng21.jpg",ช่อง Mamer TV
+https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/RTL_T%C3%A9l%C3%A9_Luxembourg_1972-1982.png",ช่อง RTL Télé Lëtzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s",ช่อง RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzF7wpEyPPgjV7amh8YnictcG3hPCDOxsWjQ&s",ช่อง RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ29LVhv3T64kffU7gEM5BO2CP8BHD4QQvhMQ&s",ช่อง RTL Radio Web TV
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVcXV4Rsq8X93fVFFiTJGamMETOGnDDLLxHQ&s",ช่อง RTL Today Radio
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sendemast_vun_Diddeleng.jpg/1200px-Sendemast_vun_Diddeleng.jpg",ช่อง Dudelange TV
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l2tPQ0Ymog38RUKjByEXxz3WsPCNeIXgmrDI879cqHdkc=s900-c-k-c0x00ffffff-no-rj",ช่อง eldo.TV
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://play-lh.googleusercontent.com/z9pMtCUfyRYbI_wotdBcZV8P6h8W8JbH5D00YXNOVO72XHVYKzDSoeEw7J-MPF-B0s0=w240-h480-rw",ช่อง Hesper TV
+https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSovG6VOmXBuTb13VsT96ec0BLUI1V7LjE_Iw&s",ช่อง MierschTV
+https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8
+
+#EXTINF:-1 group-title="LUXEMBOURG TV" tvg-logo="https://play-lh.googleusercontent.com/U68gRbOoKoA-el0SkR38TI-E-DJyJIfsf3kuhPXgbiSNb4tDqup1UXMPoBOfdLT6EIzt",ช่อง Pétange Info TV
+https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
+
+#EXTINF:-1 group-title="URUGUAY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGOcgHL_UwwX6eCGCV96zNMjbCngkzJgAhw&s",ช่อง UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 group-title="URUGUAY TV" tvg-logo="https://yt3.googleusercontent.com/JaLpE5sfnCYWtIeaU1F24jRlH1rOnWdlSH2O1LFxw51pBeUT2Z0A-Z5sB6BVU568JmuHOtVI=s900-c-k-c0x00ffffff-no-rj",ช่อง VIVO TV
+https://stream.vivotv.uy/hls/stream.m3u8
+
+#EXTINF:-1 group-title="NORTH MACEDONIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjG1F5Q-ldttLShBYNpk1kBrCXSHW_Ld2fNA&s",ช่อง Folk Klub
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+
+#EXTINF:-1 group-title="NORTH MACEDONIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nfOe-chSxQGQlwZ5cUopmPPDSP8H08GGy_v--BjrEIPQA=s900-c-k-c0x00ffffff-no-rj",ช่อง INTV Australia
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+
+#EXTINF:-1 group-title="CAMEROON TV" tvg-logo="https://play-lh.googleusercontent.com/T6jzLr5qsp9FEfG5xAMms2j5RjapO20kD2DxFoDgyx8Um9bVPV7bfR6GM9vinyDptA",ช่อง Vision 4
+https://cdn-globecast.akamaized.net/live/eds/vision4/hls_video/index.m3u8
+
+#EXTINF:-1 group-title="CAMEROON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/CRTV_logo_2017.png",ช่อง CRTV
+http://69.64.57.208/crtv/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/sns_images/nhkworld_1200x630.png",ช่อง NHK WORLD JAPAN
 https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
@@ -843,6 +951,96 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 
 #EXTINF:-1 group-title="IRAQ TV" tvg-logo="https://pbs.twimg.com/profile_images/567474044560089088/CaQ_ZKMP_400x400.png",ช่อง Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Oh Muang Lao TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Jpkw_5gcirzJZLr-2Kbtsyzv3ZwhS9XZfg&s",ช่อง Look Thoong TV
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlwivJ-5pytSb6YjpQf-0po6XE9_brtYAV-w&s",ช่อง Dao Lane Xang
+https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao Net TV
+https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Lao.png/revision/latest?cb=20191209082932",ช่อง LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Lao-Thai US TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Laos Planet TV
+https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Houng Fa
+https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://lao-tv.com/icon/apple-icon-180x180.png",ช่อง Ning TV
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_q3MlgDQEFWF3_XfVmVixP38olV09zQQtmw&s",ช่อง ISTV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3f80Fgf2_p7ON3O-LuaAk_jZHqgmlZ0hxQg&s",ช่อง NAT TV
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_2aMl3uKQkTlGEN7njQil06PmWjnJE1a4rA&s",ช่อง Vati Lao TV
+https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://pbs.twimg.com/profile_images/1108046831072788480/hLlDym00_400x400.png",ช่อง Air TV
+https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://image.winudf.com/v2/image/c3VwcmVtZW1hc3RlcnR2LmNvbS5zdXByZW1lbWFzdGVydHZfaWNvbl8xNTM0NDQ3MzY0XzAyNA/icon.png?w=&fakeurl=1",ช่อง Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzBzSSZ_0bROvGFY2KKy4YEAGSNh9UOyIWIdlTSDdpYo9_ydI5KYQD7OZCeS7UwleI9k&usqp=CAU",ช่อง Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYBCJL00OSYPXnLcC1xL_JtkYKUoLvc_27Q&s",ช่อง Brian TV
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601",ช่อง TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://i.ibb.co/nCPKFtV/tvk2-BEARTV.jpg",ช่อง TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://pbs.twimg.com/profile_images/1109284139964862464/3M-Jw_ME_400x400.png",ช่อง SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://play-lh.googleusercontent.com/9JJX36RQuRwcH5ky1CUTk0Fy-VTwjSMxb3xxD4utKlPJE5JoeZ_AHrIgxAxhFIEEfw=w412-h220-rw",ช่อง KhmerTV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg.png",ช่อง KienGiangTV
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://mytv.com.vn/upload/channel/683.png",ช่อง KienGiangTV1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://play-lh.googleusercontent.com/oEkCn-8RapO7XgDAY_LQvNrTpHyK40BeSaV2mWMGZJRt-8VP92Fd0-eVoQAmiUHPEVg",ช่อง Fresh News
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZkkmCP-9ikaxRINb_lqfsNOCKb9U39k6zw&s",ช่อง Apsara TV11
+https://live.ams.com.kh/app/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pi5ZM7e5fmGfVVCTC6fABXVpwGKIbhc9vA&s",ช่อง MSJ TV
+https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDHZ6ExU_H3Z9GzwXYMTVxcDzyFDoRKQrnpb83yEBitQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Rasmey Hang Meas HDTV
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://play-lh.googleusercontent.com/hdsrIdrzqaICuR6HciJFl1TLOZ2fm1tETH8DOiyrctLfDCdFyk9fREVTt2O-RfQGYuNv",ช่อง MOI TV
+http://202.62.56.22:8080/hls/MOITV.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg",ช่อง CNC
+http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png/revision/latest/scale-to-width-down/200?cb=20191210055058",ช่อง CTV8 HD
+http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdZj5Pphw1z89wViYX4dzzbbl2PdJ-qPKFA&s",ช่อง My TV
+http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4f34xEBszWolD0z-9zhptzE9xRxQAdlZW9Q&s",ช่อง Hmong Star TV
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
@@ -1561,6 +1759,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง imc
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
 
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง MUSIC TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
+
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง VISION PRIME
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
 
@@ -1687,8 +1888,68 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง CGTN DOCUMENTARY
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
 
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง BBC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง MOONBUG
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง ZOOMOO
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง nickelodeon
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง nick jr.
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง ANIMAX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง DREAMWORK
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง KIDSTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง SOCCER CHANNEL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Sportstars
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Sportstars2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Sportstars4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง SPOTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง SPOTV2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง beIN SPORTS 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง FIGHT SPORTS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง tvMu
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง DMITV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง muslimTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง TV9
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000064/1024.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Al-Qur'an Kareem
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT CH" tvg-logo="https://i.scdn.co/image/ab67656300005f1fd7c2f539c502c75a69384101",ช่อง Entertainment Tonight
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
