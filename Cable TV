@@ -1,13 +1,13 @@
 #EXTM3U
  
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง อีสานทีวี
-https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Happy Channel
+https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist_w1965870389.m3u8
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง YG TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง BOO
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34539
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง CARTOON NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง TrueSportHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
