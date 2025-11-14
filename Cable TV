@@ -1,35 +1,19 @@
 #EXTM3U
  
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง ASTRO CITRA
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34538
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง ASTRO CITRA hee
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
+https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง ASTRO PRIMA
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34542
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง fuck
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง ASTRO CERIA
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34590
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง HBO
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34433
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง HBO SIGNATURE
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34647
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง CHANNEL 5
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34776
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง CHANNEL 8
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34775
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง CHANNEL U
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34774
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง SURIA
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34773
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง VASANTHAM
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34772
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Boo
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง Boo hee
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/AstroBoo-HD.m3u8
