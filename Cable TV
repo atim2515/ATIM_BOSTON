@@ -1,17 +1,17 @@
 #EXTM3U
  
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง KINOSHKA ACTION
-http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง 1
+http://play.kankanlive.com/live/1661761962676984.m3u8
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง カンテレ
-http://39.164.160.249:9901/tsfile/live/0130_1.m3u8
+http://112.123.206.32:808/hls/2/index.m3u8
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง 青岛QTV-3
-https://stream1.freetv.fun/c4686ea727a7f3f06b286936a2ea651e5b36ce189b822c3369c0fbba0cc8e4b2.m3u8
+http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง 華語電視3
-https://stream1.freetv.fun/f9e42adc79e4a9bdae8cb0e53a84ee5015e5c9d9caff8f1f157880efadebe1e9.m3u8
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง xx
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
