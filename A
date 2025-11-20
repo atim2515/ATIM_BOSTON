@@ -133,6 +133,9 @@ http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGR2L2KbMlJXlurDBFALm9-zsah591F3wEcA&s",ช่อง ท็อปนิวส์
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/09/9c6f59c0-4ebe-11ee-99a7-832609069236_webp_original.webp",ช่อง Nation TV
+https://www.nationtv.tv/category/nationtv/live
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
 
@@ -316,7 +319,7 @@ https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZmm4_ZzKgWDIGzPcPxKTBE4trQMK_2-rAQ&s",ช่อง มูเตลู
 https://psiiptv-b.sky-cdn.com/ttd25-playlist/index.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQio07CFWQftvEZGeBMeHFZIxRfJm2DbC6_bQ&s",ช่อง MV LAO
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrfj_vV8UmnL7f6YAvjRS0tK4kewR8JlBnQ&s",ช่อง MV LAO
 https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",ช่อง MVM
@@ -1648,7 +1651,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 group-title="MVTV THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",ช่อง Boomerang Thai
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
-#EXTINF:-1 group-title="MVTV THAILAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQio07CFWQftvEZGeBMeHFZIxRfJm2DbC6_bQ&s",ช่อง MV LAO
+#EXTINF:-1 group-title="MVTV THAILAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrfj_vV8UmnL7f6YAvjRS0tK4kewR8JlBnQ&s",ช่อง MV LAO
 https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
 
 #EXTINF:-1 group-title="MVTV THAILAND" tvg-logo="https://media-mvtv.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",ช่อง MVM
