@@ -1,12 +1,15 @@
 #EXTM3U
  
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021021881024369.jpg",ช่อง f
-https://ch3plus.com/live
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021021881024369.jpg",ช่อง 3
+https://ch3plus.com/live?utm_source=mthai-want-to-be-partner&utm_campaign=contact-081-819-0213&utm_medium=TV-live
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021021881024369.jpg",ช่อง 中学生
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/mangorn/playlist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021021881024369.jpg",ช่อง CGTN
 https://live.chinacert.cftest5.cn/mg/?id=609017205
