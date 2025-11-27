@@ -1,12 +1,12 @@
 #EXTM3U
  
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021021881024369.jpg",ช่อง 重温经典
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/CitraBioskop-HD.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021021881024369.jpg",ช่อง f
+https://ch3plus.com/live
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021021881024369.jpg",ช่อง 中学生
-https://www.adintrend.tv/hd/ch3?t=live
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/mangorn/playlist.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021021881024369.jpg",ช่อง CGTN
 https://live.chinacert.cftest5.cn/mg/?id=609017205
