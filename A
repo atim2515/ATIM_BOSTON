@@ -1128,7 +1128,7 @@ http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Buddhist_Broadcasting_System_logo.png",ช่อง BBS Buddhist Broadcasting
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/E6Ot7XMnlfU2ue0D3ItIe-JyANl1ASv6wNdWZzYnEzZ1drRyn15bGHEa0lkxFnXy5cIsaSJ0_uUKC-aQhLQNrtHjU7Hhxci8vUU7kQM78aNZtzL2",ช่อง CGNTV South Korea
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwOMvh_h7e4oJNNoDTM5j15p9UoK-8P8BnQ&s",ช่อง CGNTV South Korea
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg",ช่อง BTN TV
@@ -1770,7 +1770,7 @@ https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockaction.m3u8
 
 #EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeuvU1LJDD3zSv5obCvFaVPG6POwskIOEpaA&s",ช่อง Lifetime
 #EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truelifetime.m3u8
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/lifetime.m3u8
 
 #EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/03/52962a90-195d-11ee-8d1b-f5f88b5481b0_webp_original.webp",ช่อง CCM
 #EXTVLCOPT:http-referrer=https://github.com/
