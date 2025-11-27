@@ -120,6 +120,22 @@ https://github.com/cattviptv2605/movies/raw/refs/heads/main/actionhollywoodmovie
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueaxn.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/15/f3c87ce0-3b4c-11ee-9a2b-95fa44b28696_webp_original.webp",ช่อง Rock Action
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockaction.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",ช่อง True Film 1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Film 2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo28tujGljuIuLJTCE5Mro725AD8VMe9-TcA&s",ช่อง True Thai Film
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
@@ -1705,6 +1721,112 @@ https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="HMONG TV" tvg-logo="https://pbs.twimg.com/profile_images/1199585034572746753/JYJ9ml3d.jpg",ช่อง Hmong TV Network
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://true4u.com/images/true4u-live.jpg",ช่อง TRUE4U
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",ช่อง Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",ช่อง True Film 1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.png",ช่อง True Film 2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm2.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",ช่อง True Movie Hits
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truemoviehits.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo28tujGljuIuLJTCE5Mro725AD8VMe9-TcA&s",ช่อง True Thai Film
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truethaifilm.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Asian More
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueasianmore.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",ช่อง True Film Asia
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilmasia.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",ช่อง True Series
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueseries.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/17/29c502d0-5142-11ea-acae-37cf86553dda_original.png",ช่อง Warner TV
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/warnertv.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/df51c4d0-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",ช่อง AXN
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueaxn.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/15/f3c87ce0-3b4c-11ee-9a2b-95fa44b28696_webp_original.webp",ช่อง Rock Action
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockaction.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeuvU1LJDD3zSv5obCvFaVPG6POwskIOEpaA&s",ช่อง Lifetime
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truelifetime.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/03/52962a90-195d-11ee-8d1b-f5f88b5481b0_webp_original.webp",ช่อง CCM
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueccm.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46fb6170-e599-11ed-b606-c19576cb8b29_webp_original.png",ช่อง True X-Zyte
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truexzyte.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",ช่อง Food Network
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/foodnetwork.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",ช่อง Asian Food Network
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/asianfoodchannel.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/250px-TLC_Logo.svg.png",ช่อง TLC
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/tlc.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToE2dt4633tYXuzPbm3ebeaupczrghZ-WoRw&s",ช่อง Discovery Channel
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/discovery.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",ช่อง History Channel
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/truehistory.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbCH2Idwm0cYwZMwgSqELP4Jh6CE1bdUpOw&s",ช่อง BBC Earth
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbcearth.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvrYNVx_KaogHS08aKCvbczaS_Oz46LMYqoA&s",ช่อง BBC Lifestyle
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/bbclifestyle.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/250px-Crime_%2B_Investigation_Logo_10.2019.svg.png",ช่อง Crime + Investigation
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/crime-Investigation.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1KNopTLQAB5HR9bXoWZwxwISFTa07f015A&s",ช่อง Outdoor Channel
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/outdoor.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",ช่อง True Explore Sci
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexploresci.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_original.png",ช่อง True Explore Life
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorelife.m3u8
+
+#EXTINF:-1 group-title="Truevisions" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",ช่อง True Explore Wild
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/trueexplorewild.m3u8
 
 #EXTINF:-1 group-title="MVTV THAILAND" tvg-logo="https://media-mvtv.imgix.net/channel/187_y_O07IcMfWXzK1n4qD6YSswUxrv5btZJmk.png",ช่อง MVTV ท้องถิ่นไทย
 https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
