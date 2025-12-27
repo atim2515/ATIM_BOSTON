@@ -127,6 +127,10 @@ https://github.com/cattviptv2605/movies/raw/refs/heads/main/trueaxn.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/rockaction.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.ais.th/content/dam/ais/consumer/content/lifestyle/tv-and-movie/premuim-content/ch-logo-asian.jpg",ช่อง Asian Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png",ช่อง True Film 1
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/movies/raw/refs/heads/main/truefilm1.m3u8
@@ -1466,6 +1470,21 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk31KHEjGxuXTK6jF1WwDTAWr-v1qPqHNVhg&s",ช่อง 八度空间
 http://php.jdshipin.com/smt.php?id=TV8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://i.imgur.com/lDWySXo.jpg",ช่อง SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://i.imgur.com/zAG288y.jpg",ช่อง ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://i.imgur.com/ucPfsBx.jpg",ช่อง APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://i.imgur.com/gajUXKJ.jpg",ช่อง AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://i.imgur.com/e1MNVHP.jpg",ช่อง FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",ช่อง Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
