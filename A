@@ -35,7 +35,7 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwiEI-hFLkqPzOKwdtnwwaSZaVMIouIZ3czA&s",ช่อง VIPA
-https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png",ช่อง AMARIN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -226,6 +226,22 @@ https://shorturl.at/5Y1ri
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE
 http://Supersonictv.live:8080/live/006779/439866/22185.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.imgur.com/SxeYwsn.jpg",ช่อง SONY TEN 1 ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.imgur.com/u8Sn4SU.jpg",ช่อง SONY TEN 2 ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.imgur.com/FPe9fhB.jpg",ช่อง SONY TEN 5 ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.imgur.com/zKtVyjL.jpg",ช่อง SPOTV PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
+
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png",ช่อง Hi Sport
+http://49.0.64.96:8007/HiSports
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",ช่อง TNN16
 https://www.tnnthailand.com/live/
