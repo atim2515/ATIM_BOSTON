@@ -8,18 +8,18 @@
 		"stations":[
     
     
-    {
-        "name": "釣りビジョン",
+ {
+        "name": "DTB 釣り (Primehome)",
         "category": "BS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png",
+        "url": "",
+        "url_free_tv": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp/playlist.m3u8",
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png",
         "id": 10704
     },
     {
-        "name": "ゴルフ ネットワーク",
+        "name": "ゴルフ ネットワーク（スポーツ）",
         "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03",
+        "url": "https://nl.utako.moe/golf_network/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",
         "id": 10806
@@ -35,29 +35,29 @@
     {
         "name": "代替 テレ朝系",
         "category": "terrestrial",
-        "url": "https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0",
         "channel_logo": ""
     },
     {
         "name": "代替 TBS系",
         "category": "terrestrial",
-        "url": "8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/2a38d855-a521-4d96-a6c7-933a0bf29754/0.m3u8?pdt=-9133&session=2a38d855-a521-4d96-a6c7-933a0bf29754&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTMzIn0.wWY9OBF4yy2xGYlTx_N_eud7S1bwrGw7oXya1meGNFY",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/2a38d855-a521-4d96-a6c7-933a0bf29754/0.m3u8?pdt=-9133&session=2a38d855-a521-4d96-a6c7-933a0bf29754&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTMzIn0.wWY9OBF4yy2xGYlTx_N_eud7S1bwrGw7oXya1meGNFY",
         "channel_logo": ""
     },
     {
         "name": "代替 テレ東系",
         "category": "terrestrial",
-        "url": "https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b/0.m3u8?pdt=-11501&session=0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNTAxIn0.ENL1yqihdtixoLM2vqtt9oZ3caukXFFuLBwGeXXwUH0",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b/0.m3u8?pdt=-11501&session=0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNTAxIn0.ENL1yqihdtixoLM2vqtt9oZ3caukXFFuLBwGeXXwUH0",
         "channel_logo": ""
     },
     {
         "name": "代替 フジテレビ系",
         "category": "terrestrial",
-        "url": "https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM",
         "channel_logo": ""
     },
     {
@@ -84,7 +84,7 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png"
     },
     {
-        "name": "TOKYO MX1",
+        "name": "TOKYO MX1（総合エンターテイメント）",
         "category": "BS",
         "url": "https://nl.utako.moe/Tokyo_MX1/index.m3u8",
         "url_free_tv": "",
@@ -92,7 +92,7 @@
         "id": 10769
     },
     {
-        "name": "TOKYO MX2",
+        "name": "TOKYO MX2（総合エンターテイメント）",
         "category": "BS",
         "url": "https://nl.utako.moe/Tokyo_MX2/index.m3u8",
         "url_free_tv": "",
@@ -163,7 +163,7 @@
     {
         "name": "BS TBS",
         "category": "BS",
-        "url": "https://nl.utako.moe/bstbs/index.m3u8",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=BS02",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",
         "id": 10710
@@ -201,7 +201,7 @@
         "id": 10770
     },
     {
-        "name": "WOWOWプライム",
+        "name": "WOWOWプライム（総合エンターテイメント）",
         "category": "BS",
         "url": "https://nl.utako.moe/wprime/index.m3u8",
         "url_free_tv": "",
@@ -209,7 +209,7 @@
         "id": 10786
     },
     {
-        "name": "WOWOWシネマ",
+        "name": "WOWOWシネマ（映画）",
         "category": "BS",
         "url": "https://nl.utako.moe/wcinema/index.m3u8",
         "url_free_tv": "",
@@ -217,7 +217,7 @@
         "id": 365932
     },
     {
-        "name": "WOWOWライブ",
+        "name": "WOWOWライブ（総合エンターテイメント）",
         "category": "BS",
         "url": "https://nl.utako.moe/wlive/index.m3u8",
         "url_free_tv": "",
@@ -225,15 +225,7 @@
         "id": 365931
     },
     {
-        "name": "BS10プレミアム",
-        "category": "BS",
-        "url": "https://nl00.utako.moe/bs10_star/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",
-        "id": 408713
-    },
-    {
-        "name": "グリーンチャンネル",
+        "name": "グリーンチャンネル（娯楽・趣味）",
         "category": "BS",
         "url": "https://nl.utako.moe/green/index.m3u8",
         "url_free_tv": "",
@@ -241,7 +233,7 @@
         "id": 365938
     },
     {
-        "name": "アニマックス",
+        "name": "アニマックス（アニメ）",
         "category": "BS",
         "url": "https://nl.utako.moe/Animax/index.m3u8",
         "url_free_tv": "",
@@ -249,7 +241,7 @@
         "id": 365939
     },
     {
-        "name": "日本映画専門チャンネル",
+        "name": "日本映画専門チャンネル（映画）",
         "category": "BS",
         "url": "https://nl.utako.moe/nihoneiga/index.m3u8",
         "url_free_tv": "",
@@ -265,7 +257,7 @@
         "id": 369335
     },
     {
-        "name": "GAORAスポーツ",
+        "name": "GAORAスポーツ（スポーツ）",
         "category": "CS",
         "url": "https://nl.utako.moe/gaora/index.m3u8",
         "url_free_tv": "",
@@ -273,7 +265,7 @@
         "id": 10772
     },
     {
-        "name": "アニメシアターX（AT-X）",
+        "name": "アニメシアターX（AT-X）（アニメ）",
         "category": "CS",
         "url": "https://nl.utako.moe/AT-X/index.m3u8",
         "url_free_tv": "",
@@ -281,7 +273,7 @@
         "id": 10694
     },
     {
-        "name": "スペースシャワーTV",
+        "name": "スペースシャワーTV（音楽）",
         "category": "CS",
         "url": "https://nl.utako.moe/spaceshower/index.m3u8",
         "url_free_tv": "",
@@ -289,7 +281,7 @@
         "id": 10717
     },
     {
-        "name": "MTV",
+        "name": "MTV（音楽）",
         "category": "CS",
         "url": "https://nl.utako.moe/mtv/index.m3u8",
         "url_free_tv": "",
@@ -297,7 +289,7 @@
         "id": 10740
     },
     {
-        "name": "歌謡ポップスチャンネル",
+        "name": "歌謡ポップスチャンネル（音楽）",
         "category": "CS",
         "url": "https://nl.utako.moe/kayopops/index.m3u8",
         "url_free_tv": "",
@@ -305,14 +297,14 @@
         "id": 10731
     },
     {
-        "name": "ディズニーチャンネル",
+        "name": "ディズニーチャンネル（総合エンターテイメント）",
         "category": "CS",
         "url": "https://nl.utako.moe/disneychan/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg"
     },
     {
-        "name": "カートゥーン ネットワークHD 海外アニメ国内アニメ",
+        "name": "カートゥーン ネットワークHD 海外・国内（アニメ）",
         "category": "CS",
         "url": "https://nl.utako.moe/cartoon_network/index.m3u8",
         "url_free_tv": "",
@@ -320,22 +312,14 @@
         "id": 10706
     },
     {
-        "name": "日テレジータス",
+        "name": "ファミリー劇場（映画）",
         "category": "CS",
-        "url": "https://nl00.utako.moe/ntvgplus/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",
-        "id": 10714
-    },
-    {
-        "name": "ファミリー劇場",
-        "category": "CS",
-        "url": "https://nl.utako.moe/familygeki/index.m3u8",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png"
     },
     {
-        "name": "Mondo TV",
+        "name": "Mondo TV（娯楽・趣味）",
         "category": "CS",
         "url": "https://nl.utako.moe/mondo/index.m3u8",
         "url_free_tv": "",
@@ -343,7 +327,7 @@
         "id": 10792
     },
     {
-        "name": "エムオン",
+        "name": "エムオン（音楽）",
         "category": "CS",
         "url": "https://nl.utako.moe/musicon/index.m3u8",
         "url_free_tv": "",
@@ -351,7 +335,7 @@
         "id": 10695
     },
     {
-        "name": "TBSチャンネル1 最新ドラマ・音楽・映画",
+        "name": "TBSチャンネル1 最新ドラマ・音楽・映画（総合エンターテイメント）",
         "category": "CS",
         "url": "https://nl.utako.moe/tbsch1/index.m3u8",
         "url_free_tv": "",
@@ -359,7 +343,7 @@
         "id": 10702
     },
     {
-        "name": "TBSチャンネル2 名作ドラマ・スポーツ・アニメ",
+        "name": "TBSチャンネル2 名作ドラマ・スポーツ・アニメ（総合エンターテイメント）",
         "category": "CS",
         "url": "https://nl.utako.moe/tbsch2/index.m3u8",
         "url_free_tv": "",
@@ -367,7 +351,7 @@
         "id": 10708
     },
     {
-        "name": "テレ朝チャンネル１",
+        "name": "テレ朝チャンネル１（総合エンターテイメント）",
         "category": "CS",
         "url": "https://nl.utako.moe/ex_ch1/index.m3u8",
         "url_free_tv": "",
@@ -375,7 +359,7 @@
         "id": 10733
     },
     {
-        "name": "テレ朝チャンネル２",
+        "name": "テレ朝チャンネル２（総合エンターテイメント）",
         "category": "CS",
         "url": "https://nl.utako.moe/ex_ch2/index.m3u8",
         "url_free_tv": "",
@@ -383,43 +367,39 @@
         "id": 10790
     },
     {
-        "name": "フジテレビONE",
+        "name": "フジテレビONE（スポーツ・バラエティー）",
         "category": "CS",
-        "url": "https://nl00.utako.moe/fuji_one/index.m3u8",
+        "url": "https://nl.utako.moe/fuji_one/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",
+        "id": 10799
     },
     {
-        "name": "フジテレビTWO",
+        "name": "フジテレビTWO（ドラマ・アニメ）",
         "category": "CS",
         "url": "https://nl.utako.moe/fuji_two/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",
+        "id": 10738
     },
     {
-        "name": "フジテレビNEXT",
+        "name": "フジテレビNEXT(ライブ・プレミアム）",
         "category": "CS",
         "url": "https://nl.utako.moe/fuji_next/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",
+        "id": 10713
     },
     {
-        "name": "ディーライフ",
+        "name": "東映チャンネル（映画）",
         "category": "CS",
-        "url": "https://nl00.utako.moe/dlife/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/dd/dlife-jp.png"
-    },
-    {
-        "name": "東映チャンネル",
-        "category": "CS",
-        "url": "https://nl.utako.moe/toei/index.m3u8",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS27",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/tt/toei_channel.png",
         "id": 365951
     },
     {
-        "name": "FIGHTING TV サムライ",
+        "name": "FIGHTING TV サムライ（プロレス）",
         "category": "CS",
         "url": "https://nl.utako.moe/fighting_tv/index.m3u8",
         "url_free_tv": "",
@@ -427,7 +407,7 @@
         "id": 10699
     },
     {
-        "name": "エンタメ～テレ",
+        "name": "エンタメ～テレ（パチンコ）",
         "category": "CS",
         "url": "https://nl.utako.moe/entermei_tele/index.m3u8",
         "url_free_tv": "",
@@ -435,7 +415,7 @@
         "id": 10721
     },
     {
-        "name": "スポーツライブ＋",
+        "name": "スポーツライブ＋（スポーツ）",
         "category": "CS",
         "url": "https://nl.utako.moe/sport_live_plus/index.m3u8",
         "url_free_tv": "",
@@ -443,21 +423,21 @@
         "id": 10809
     },
     {
-        "name": "チャンネル銀河",
+        "name": "チャンネル銀河（総合エンターテイメント）",
         "category": "CS",
         "url": "https://nl.utako.moe/gingach/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png"
     },
     {
-        "name": "アイドル専門チャンネルPigoo",
+        "name": "アイドル専門チャンネルPigoo（成人）",
         "category": "CS",
         "url": "https://nl.utako.moe/pigoo/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png"
     },
     {
-        "name": "キッズステーション",
+        "name": "キッズステーション（アニメ）",
         "category": "CS",
         "url": "https://nl.utako.moe/kids_station/index.m3u8",
         "url_free_tv": "",
@@ -465,14 +445,14 @@
         "id": 10795
     },
     {
-        "name": "ワンニャンチャンネル",
+        "name": "DTB ワンニャンチャンネル (Primehome)",
         "category": "CS",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png"
     },
     {
-        "name": "V パラダイス",
+        "name": "V パラダイス（娯楽・趣味）",
         "category": "CS",
         "url": "https://nl.utako.moe/v_paradise/index.m3u8",
         "url_free_tv": "",
@@ -480,116 +460,84 @@
         "id": 10744
     },
     {
-        "name": "時代劇専門",
-        "category": "BS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",
-        "id": 365961
-    },
-    {
-        "name": "衛星劇場",
+        "name": "衛星劇場（映画）",
         "category": "BC",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS22",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
         "id": 365952
     },
     {
-        "name": "ムービープラス",
+        "name": "ムービープラス（映画）",
         "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs14",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS14",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",
         "id": 10831
     },
     {
-        "name": "ホームドラマチャンネルＨＤ 韓流・時代劇・国内ドラマ",
+        "name": "ホームドラマチャンネルＨＤ 韓流・時代劇・国内（ドラマ）",
         "category": "CS",
-        "url": "https://nl.utako.moe/homedrama/index.m3u8",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",
         "id": 10811
     },
     {
-        "name": "旅チャンネル",
+        "name": "ディズニージュニア（教育）",
         "category": "CS",
-        "url": "https://nl.utako.moe/tabi/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",
-        "id": 10728
-    },
-    {
-        "name": "ディズニージュニア",
-        "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",
         "id": 10720
     },
     {
-        "name": "宝塚スカイステージ",
+        "name": "宝塚スカイステージ（娯楽・趣味）",
         "category": "BS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28",
         "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",
         "id": 10698
     },
     {
-        "name": "キッズ・スタトン・テレビ",
+        "name": "キッズ・スタトン・テレビ（アニメ）",
         "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07",
         "channel_logo": "https://www.lyngsat-logo.com/ロゴ/tv/kk/kidsstation.png",
         "id": 10795
     },
     {
-        "name": "ディスカバリーチャンネル",
+        "name": "アニマルプラネット（動物）",
         "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",
-        "id": 10697
-    },
-    {
-        "name": "アニマルプラネット",
-        "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs24",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg"
     },
     {
-        "name": "ミュージックジャパンテレビ",
+        "name": "ミュージックジャパンテレビ（音楽）",
         "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06",
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png"
     },
     {
         "name": "CNNj",
         "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16",
         "channel_logo": "https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg",
         "id": 365999
     },
     {
-        "name": "BBCニュース",
-        "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15",
-        "url_free_tv": "",
-        "channel_logo": "https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg",
-        "id": 10787
-    },
-    {
-        "name": "格闘テレビサムライ",
+        "name": "格闘テレビサムライ（スポーツ）",
         "category": "CS",
         "url": "https://nl00.utako.moe/fighting_tv/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png"
     },
     {
-        "name": "テレビの音楽",
+        "name": "テレビの音楽（音楽）",
         "category": "CS",
         "url": "https://nl00.utako.moe/musicon/index.m3u8",
         "url_free_tv": "",
@@ -597,23 +545,15 @@
         "id": 365983
     },
     {
-        "name": "モンドテレビ",
+        "name": "モンドテレビ（ドラマ）",
         "category": "CS",
-        "url": "https://nl00.utako.moe/mondo/index.m3u8",
+        "url": "https://nl.utako.moe/mondo/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",
         "id": 10757
     },
     {
-        "name": "フィッシングビジョン",
-        "category": "BS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25",
-        "url_free_tv": "",
-        "channel_logo": "",
-        "id": 365944
-    },
-    {
-        "name": "BS10スターチャンネル",
+        "name": "BS10スターチャンネル（総合エンターテイメント）",
         "category": "BS",
         "url": "https://nl.utako.moe/bs10_star/index.m3u8",
         "url_free_tv": "",
@@ -621,7 +561,7 @@
         "id": 408680
     },
     {
-        "name": "ウェザーニュースLiVE",
+        "name": "DTB ウェザーニュースLiVE (Primehome)",
         "category": "CS",
         "url": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8",
         "url_free_tv": "",
@@ -630,16 +570,16 @@
     {
         "name": "ナショナルジオグラフィック・ジャパン",
         "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10",
         "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg",
         "id": 10725
     },
     {
         "name": "LaLaTV",
         "category": "CS",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png",
         "id": 365978
     },
@@ -652,7 +592,7 @@
         "id": 365977
     },
     {
-        "name": "Mnet",
+        "name": "Mnet（ドラマ）",
         "category": "CS",
         "url": "https://nl.utako.moe/mnet/index.m3u8",
         "url_free_tv": "",
@@ -660,183 +600,183 @@
         "id": 365981
     },
     {
-        "name": "Music ON TV",
+        "name": "Music ON TV（音楽）",
         "category": "CS",
         "url": "https://nl.utako.moe/musicon/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_on_tv.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",
+        "id": 365986
     },
     {
-        "name": "映画",
+        "name": "DTB 映画 (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png"
     },
     {
-        "name": "おとなの歓楽街 by MEN’S NECO",
+        "name": "DTB おとなの歓楽街 by MEN’S NECO (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png"
     },
     {
-        "name": "セクシーエンタメチャンネル",
+        "name": "DTB セクシーエンタメチャンネル (Primehome)",
         "category": "CS",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png"
     },
     {
-        "name": "演歌・歌謡",
+        "name": "DTB 演歌・歌謡 (Primehome)",
         "category": "CS",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png"
     },
     {
-        "name": "エンタメ～テレDEEP",
+        "name": "DTB エンタメ～テレDEEP (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png"
     },
     {
-        "name": "パチンコ・パチスロ",
+        "name": "DTB パチンコ・パチスロ (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png"
     },
     {
-        "name": "麻雀",
+        "name": "DTB 麻雀 (Primehome)",
         "category": "CS",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png"
     },
     {
-        "name": "将棋",
+        "name": "DTB 将棋 (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shogicmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png"
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png",
+        "id": 366000
     },
     {
-        "name": "囲碁・将棋ライト",
+        "name": "DTB 囲碁・将棋ライト (Primehome)",
         "category": "CS",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/204_igoshogi.png"
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/204_igoshogi.png",
+        "id": 10763
     },
     {
-        "name": "手塚プロダクションTV",
+        "name": "DTB 手塚プロダクションTV (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png"
     },
     {
-        "name": "刺激ストロングSPORTS",
+        "name": "DTB 刺激ストロングSPORTS (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png"
     },
     {
-        "name": "日テレプロレスアーカイ部",
+        "name": "日テレプロレスアーカイ部（スポーツ）",
         "category": "CS",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_ntvprowrestling.png"
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_ntvprowrestling.png",
+        "id": 365969
     },
     {
-        "name": "アルバテレビゴルフ",
+        "name": "DTB ゴルフネットTV (Primehome)",
         "category": "CS",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/123_albatvgolf.png"
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/123_albatvgolf.png",
+        "id": 365959
     },
     {
-        "name": "オリコンニュース",
+        "name": "DTB オリコンニュース (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews.png"
     },
     {
-        "name": "共同通信News",
+        "name": "DTB 共同通信News (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png"
     },
     {
-        "name": "鉄道・旅",
+        "name": "DTB 鉄道・旅 (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png"
     },
     {
-        "name": "Lifetime／C+I",
+        "name": "DTB Lifetime／C+I (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-cplusicmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/181_lt-ci.png"
     },
     {
-        "name": "ムビドラTV",
+        "name": "DTB ムビドラTV (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png"
     },
     {
-        "name": "NEW KPOP",
+        "name": "DTB NEW KPOP (Primehome)",
         "category": "CS",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165&apikey=dc76a93e-178d-5156-d492-c01a0429525f&auth=3ba56277-fd5f03a0-8b874b17-894d93c7",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165&apikey=dc76a93e-178d-5156-d492-c01a0429525f&auth=3ba56277-fd5f03a0-8b874b17-894d93c7",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png"
     },
     {
-        "name": "HISTORY",
+        "name": "DTB HISTORY(Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png"
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png",
+        "id": 365994
     },
     {
-        "name": "しまじろうチャンネル",
+        "name": "DTB しまじろうチャンネル (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png"
     },
     {
-        "name": "釣り",
-        "category": "CS",
-        "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp/playlist.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png",
-        "id": 365944
-    },
-    {
-        "name": "キッズ",
+        "name": "DTB キッズ (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png"
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",
+        "id": 365988
     },
     {
         "name": "Shop Channel",
         "category": "BS",
         "url": "https://stream3.shopch.jp/HLS/master.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://i.imgur.com/3K36JEA.jpg"
+        "channel_logo": "https://i.imgur.com/3K36JEA.jpg",
+        "id": 10724
     },
     {
-        "name": "JSport 1",
+        "name": "JSport 1（スポーツ）",
         "category": "BS",
         "url": "https://nl.utako.moe/js1/index.m3u8",
         "url_free_tv": "",
@@ -844,7 +784,7 @@
         "id": 10761
     },
     {
-        "name": "JSport 2",
+        "name": "JSport 2（スポーツ）",
         "category": "BS",
         "url": "https://nl.utako.moe/js2/index.m3u8",
         "url_free_tv": "",
@@ -852,14 +792,14 @@
         "id": 10768
     },
     {
-        "name": "JSport 3",
+        "name": "JSport 3（スポーツ）",
         "category": "BS",
         "url": "https://nl.utako.moe/js3/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg"
     },
     {
-        "name": "JSport 4",
+        "name": "JSport 4（スポーツ）",
         "category": "BS",
         "url": "https://nl.utako.moe/js4/index.m3u8",
         "url_free_tv": "",
@@ -867,39 +807,42 @@
         "id": 10829
     },
     {
-        "name": "刺激ストロング",
+        "name": "DTB 刺激ストロング (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png"
     },
     {
-        "name": "GAORA ZERO",
+        "name": "DTB GAORA ZERO (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png"
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png",
+        "id": 365957
     },
     {
-        "name": "FUEL TV",
+        "name": "DTB FUEL TV (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png"
     },
     {
-        "name": "スカイA サプリ",
+        "name": "DTB スカイA サプリ (Primehome)",
         "category": "CS",
-        "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-skyacmaf-rakutenjp/playlist.m3u8",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01",
         "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png"
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png",
+        "id": 10825
     },
     {
-        "name": "日テレNEWS",
+        "name": "DTB 日テレNEWS (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png"
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",
+        "id": 365996
     },
     {
         "name": "Neco Channel",
@@ -909,18 +852,12 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png"
     },
     {
-        "name": "Pigoo",
-        "category": "CS",
-        "url": "https://nl.utako.moe/pigoo/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png"
-    },
-    {
         "name": "QVC",
         "category": "CS",
         "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://i.imgur.com/xWSzQ34.png"
+        "channel_logo": "https://i.imgur.com/xWSzQ34.png",
+        "id": 10777
     },
     {
         "name": "TBS",
@@ -943,14 +880,14 @@
         "category": "BS",
         "url": "https://nl.utako.moe/bstvtokyo/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": "\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",
         "id": 10736
     },
     {
         "name": "BS NTV",
         "category": "CS",
-        "url": "https://nl.utako.moe/bsntv/index.m3u8",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://nl.utako.moe/Nippon_TV/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
     },
     {
@@ -961,25 +898,820 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
     },
     {
-        "name": "Nittele G+",
+        "name": "Nittele G+（総合エンターテイメント）",
         "category": "CS",
         "url": "https://nl.utako.moe/ntvgplus/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png"
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",
+        "id": 365958
     },
     {
-        "name": "BABY SHARK TV",
-        "category": "BS",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-babyshark-cmaf-rakutenjp/playlist.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/148_babyshark.png"
-    },
-    {
-        "name": "アイドル・グラビア",
+        "name": "DTB アイドル・グラビア (Primehome)",
         "category": "BS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png"
+    },
+    {
+        "name": "Fighting TV 侍（プロレス）",
+        "category": "BS",
+        "url": "https://nl.utako.moe/fighting_tv/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png"
+    },
+    {
+        "name": "The Cinema（娯楽・趣味）",
+        "category": "CS",
+        "url": "https://nl.utako.moe/the_cinema/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/the-cinema-jp.png",
+        "id": 10705
+    },
+    {
+        "name": "テレビで音楽を聴く（音楽）",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://nl.utako.moe/musicon/index.m3u8",
+        "channel_logo": "https://www. lyngsat.com/logo/tv/mm/music_on_tv.png"
+    },
+    {
+        "name": "Kayo Pops（音楽）",
+        "category": "CS",
+        "url": "https://nl.utako.moe/kayopops/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",
+        "id": 10731
+    },
+    {
+        "name": "YTV",
+        "category": "terrestrial",
+        "url": "https://nl.utako.moe/ytv/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png"
+    },
+    {
+        "name": "TV東京",
+        "category": "terrestrial",
+        "url": "https://nl.utako.moe/TV_Tokyo/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png"
+    },
+    {
+        "name": "時代劇専門",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS04",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png"
+    },
+    {
+        "name": "旅チャンネル（娯楽・趣味）",
+        "category": "CS",
+        "url": "https://nl.utako.moe/tabi/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png"
+    },
+    {
+        "name": "DTB  Home Drama Channel (Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png"
+    },
+    {
+        "name": "DTB Tabi Channel (Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png"
+    },
+    {
+        "name": "DTB Sky A(Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png"
+    },
+    {
+        "name": "DTB GAORA SPORTS(Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png"
+    },
+    {
+        "name": "DTB Golf Network (Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png"
+    },
+    {
+        "name": "DTB Nittele G+ (Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png"
+    },
+    {
+        "name": "DTB Mondo TV(Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png"
+    },
+    {
+        "name": "DTB Discovery Channel (Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png"
+    },
+    {
+        "name": "DTB Channel Ginga (Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png"
+    },
+    {
+        "name": "DTB Music Japan TV(Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png"
+    },
+    {
+        "name": "DTB Disney Junior (Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png"
+    },
+    {
+        "name": "DTB Animal Planet(Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg"
+    },
+    {
+        "name": "DTB History(Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/hh/history-us.svg"
+    },
+    {
+        "name": "DTB Animax (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png"
+    },
+    {
+        "name": "DTB WOWOW Prime (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png"
+    },
+    {
+        "name": "DTB WOWOW Live (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_live.png"
+    },
+    {
+        "name": "DTB WOWOW Cinema (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png"
+    },
+    {
+        "name": "DTB BS 10 Star Channel (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png"
+    },
+    {
+        "name": "DTB JSport 1 (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg"
+    },
+    {
+        "name": "DTB Kayo Pops (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png"
+    },
+    {
+        "name": "DTB  MTV (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png"
+    },
+    {
+        "name": "DTB LaLa TV (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png"
+    },
+    {
+        "name": "DTB Takarazuka Sky Stage (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28",
+        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png"
+    },
+    {
+        "name": "DTB Kids Staton TV (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png"
+    },
+    {
+        "name": "DTB Cartoon Network (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg"
+    },
+    {
+        "name": "DTB National Geographic Japan (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg"
+    },
+    {
+        "name": "DTB CNNj (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg"
+    },
+    {
+        "name": "DTB BBC News (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15",
+        "channel_logo": "https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg"
+    },
+    {
+        "name": "DTB TBS News (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png"
+    },
+    {
+        "name": "DTB Jidaigeki Senmon (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png"
+    },
+    {
+        "name": "DTB Toei Channel (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png"
+    },
+    {
+        "name": "DTB Eisei Gekijo (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png"
+    },
+    {
+        "name": "DTB Family Gekijyo (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png"
+    },
+    {
+        "name": "DTB Movie Plus (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png"
+    },
+    {
+        "name": "DTB Fuji TV Next (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png"
+    },
+    {
+        "name": "DTB JSport 2 (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg"
+    },
+    {
+        "name": "DTB JSport 3 (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg"
+    },
+    {
+        "name": "DTB JSport 4 (Primehome)",
+        "category": "BC",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg"
+    },
+    {
+        "name": "DTB Fuji TV ONE(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://nl.utako.moe/fuji_one/index.m3u8",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",
+        "id": 10704
+    },
+    {
+        "name": "DTB Fuji TV TWO(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://nl.utako.moe/fuji_two/index.m3u8",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png"
+    },
+    {
+        "name": "DTB Fishing Vision (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png"
+    },
+    {
+        "name": "DTB NHK BS (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png"
+    },
+    {
+        "name": "DTB BS NTV (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
+    },
+    {
+        "name": "DTB BS Asahi (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB BS TBS (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png"
+    },
+    {
+        "name": "DTB BS TBS (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png"
+    },
+    {
+        "name": "DTB BS TV Tokyo (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png"
+    },
+    {
+        "name": "DTB BS Fuji (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png"
+    },
+    {
+        "name": "DTB NHK BS4K (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png"
+    },
+    {
+        "name": "DTB NHK G HD (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png"
+    },
+    {
+        "name": "DTB NHK E HD (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png"
+    },
+    {
+        "name": "DTB NTV HD (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png"
+    },
+    {
+        "name": "DTB TBS HD (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png"
+    },
+    {
+        "name": "DTB Fuji TV HD (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png"
+    },
+    {
+        "name": "DTB TV Asahi HD (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png"
+    },
+    {
+        "name": "DTB TV Tokyo HD (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png"
+    },
+    {
+        "name": "DTB TOKYO MX1 HD (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png"
+    },
+    {
+        "name": "DTB NHK G (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png"
+    },
+    {
+        "name": "DTB NHK E (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png"
+    },
+    {
+        "name": "DTB NTV (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png"
+    },
+    {
+        "name": "DTB TBS (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png"
+    },
+    {
+        "name": "DTB Fuji TV (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png"
+    },
+    {
+        "name": "DTB TV Asahi (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png"
+    },
+    {
+        "name": "DTB TV Tokyo (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png"
+    },
+    {
+        "name": "DTB TOKYO MX1 (Primehome)",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png"
+    },
+    {
+        "name": "DTB 競輪・オートレースチャンネル(Primehome)",
+        "category": "BS",
+        "url": "https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128"
+    },
+    {
+        "name": "DTB アニメ ポケットモンスターチャンネル1(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-1/playlist.m3u8",
+        "channel_logo": "https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png?height=48&quality=30&version=20200413&width=128\" group-title=\"Abema_Anime"
+    },
+    {
+        "name": "DTB アニメ ポケットモンスターチャンネル2(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-2/playlist.m3u8",
+        "channel_logo": "https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png?height=48&quality=30&version=20200413&width=128"
+    },
+    {
+        "name": "DTB NEWSチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8",
+        "channel_logo": "https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png"
+    },
+    {
+        "name": "DTB SPECIALチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB SPECIAL 2チャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB アニメチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB アニメチャンネル2(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB アニメSPECIALチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 異世界・ファンタジーアニメチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB アニメLIVEチャンネル(Primehome)",
+        "category": "BC",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB ラブコメアニメチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/lovecomedy-anime/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 日常・青春アニメチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/dailylife-anime/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 深夜アニメチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/late-night-anime/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB ちびまる子ちゃんチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/chibimaruko/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB  あたしンちチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB ONE PIECEチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/onepiece/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB ファミリーアニメ(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB ファミリーアニメ２(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-2/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB なつかしアニメ80's(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB なつかしアニメ90's(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB なつかしアニメ00's(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/00s-anime-1/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 韓国ドラマチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 韓国ドラマチャンネル2(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama-2/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 中国ドラマチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/chinese-drama/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 韓国ラブコメディ(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/asia-love-comedy/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 韓国時代劇(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/asia-historical/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB K WORLDチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/k-world/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB ドラマ映画チャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://edge2.everyon.tv/etv2/phd771/HasBahCa.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB ドラマ映画チャンネル2(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 麻雀チャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/mahjong/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 将棋チャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB SPORTSチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB MOTOR SPORTチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 大相撲チャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 格闘チャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB HIPHOPチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/hiphop/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB CMチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB BOATRACEチャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 異世界・ファンタジーアニメ2チャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8",
+        "channel_logo": ""
+    },
+    {
+        "name": "DTB 異世界・ファンタジーアニメ3チャンネル(Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8",
+        "channel_logo": ""
     },
 ]
 }
