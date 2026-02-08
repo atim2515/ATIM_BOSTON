@@ -941,6 +941,9 @@ https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",ช่อง Pigoo
 https://nl.utako.moe/pigoo/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",ช่อง アイドル・グラビア
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",ช่อง V Paradise
 https://nl.utako.moe/v_paradise/index.m3u8
 
@@ -984,7 +987,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf
 https://nl.utako.moe/disneychan/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",ช่อง Disney Junior Japan
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/1/1f/Original_Cartoon_Network_logo.png/revision/latest/scale-to-width-down/682?cb=20120713161358",ช่อง Cartoon Network Japan
 https://nl.utako.moe/cartoon_network/index.m3u8
@@ -1002,7 +1005,7 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs09
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png",ช่อง Animal Planet Japan
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs24
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",ช่อง J Sports 1
 https://nl.utako.moe/js1/index.m3u8
