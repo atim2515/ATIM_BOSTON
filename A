@@ -264,7 +264,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png",ช่อง France24
 https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
 
-#EXTINF:-1 group-title="THAI TV" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png",ช่อง Al Jazeera English
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",ช่อง Al Jazeera English
 https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/140px-WION_news_Logo.svg.png",ช่อง WION
@@ -624,7 +624,7 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/1200px-ABC_Entertains_logo.svg.png",ช่อง ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/2560px-ABC_News_%28Australia%29_logo.svg.png",ช่อง ABC News
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://play-lh.googleusercontent.com/nTsIPBqFOIjY84v-20yt1JZcvUrFQ9OvDW0la-KmWCHRYq4cF4bISDUh8d5Otc-sEjiD",ช่อง ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/C31_Melbourne_logo_2010.png",ช่อง C31 Melbourne
@@ -645,10 +645,10 @@ https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/6PR-Thumbnail-Default-Light.png",ช่อง 6PR Perth
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ctbperth.net.au/wp-content/uploads/logo-ctb.jpg",ช่อง CTB Perth
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3r6VRE-n_50GIFe29CyFIk1EKB7emxoK3g&s",ช่อง CTB Perth
 https://live.ctbperth.net.au/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ctbperth.net.au/wp-content/uploads/logo-ctb.jpg",ช่อง CTB Perth News
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3r6VRE-n_50GIFe29CyFIk1EKB7emxoK3g&s",ช่อง CTB Perth News
 https://news.ctbperth.net.au/hls/stream.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png",ช่อง Expo Channel
@@ -876,11 +876,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png",ช่อง BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png",ช่อง BS-TBS
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://bs.tbs.co.jp/sns/images/SNSichiran_bstbs_new_540.jpg",ช่อง BS-TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBo7v72atXbFbjNbFKrlBFApW96HRPOwsmA&s",ช่อง BS Shochiku Tokyu
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfufS7_3XHPXIuPqZjngQeZwXyW5Wh3BJGA&s",ช่อง BS11
 https://nl.utako.moe/BS11/index.m3u8
@@ -1017,7 +1014,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/J_Sports_4.svg/revision/latest/scale-to-width-down/360?cb=20200914144257",ช่อง J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo.svg/1652px-Nittele_G%2B_logo.svg.png",ช่อง Nittere G+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo.svg/1280px-Nittele_G%2B_logo.svg.png",ช่อง Nittere G+
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg/500px-%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg",ช่อง Sky A
@@ -1107,7 +1104,7 @@ http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_kids.png?9Tpyxz8Ik7Uc2HLzbkPo3KgJbuQ3tgrX&itok=kOfm7AMO",ช่อง EBS kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ebs-plus-1-8814-w700.webp",ช่อง EBS+ 1
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cdn.tingfm.com/tingfm/2023/04/oss-6448ea3c6aa6e.png?x-oss-process=image/resize,m_fill,w_200,h_200",ช่อง EBS+ 1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png/revision/latest?cb=20180627175021",ช่อง EBS+ 2
@@ -1122,7 +1119,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7JIYFGTBJl0O-gF8ndRSf3_q1yg9aFYY_ww&s",ช่อง TV Chosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Abn_logo.svg/512px-Abn_logo.svg.png",ช่อง ABN TV
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.googleusercontent.com/no8fqWNb5b7mQAsbgkTD4s0ffrMSVERn0m2XJkp6ZCqo8MsBHKkkfl_FTG4HtUKHhCpuPE17bT4=s900-c-k-c0x00ffffff-no-rj",ช่อง ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5K_umNA-IxqT2dM_vnkkTDoxsJlnQcxpbQ&s",ช่อง GCN
@@ -1539,13 +1536,13 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",ช่อง Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/300px-NDTV_logo.svg.png",ช่อง NDTV Marathi
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcYoUwH9Be6Na0QSd2Yve7jKxRDtqE0sz3Wg&s",ช่อง NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibcprtb4LLvm4lzmEqYa9VDuaVtVxyrhI-arlVA5bYA&s",ช่อง NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/2560px-NDTV_247.svg.png",ช่อง NDTV 24×7
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6OLN2ntcPd7ElOQHH1lt0pGHcelheUJw0Q&s",ช่อง NDTV 24×7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Nandighosha_TV.jpeg/revision/latest?cb=20200108064908",ช่อง Nandighosha TV
@@ -1671,7 +1668,7 @@ https://ott1.nethubtv.vn/live/antv/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://yt3.googleusercontent.com/8eckpoMGhRlBHWNC3vnP1zOqu3htN_3_jg1-7GGLTxxr3BIcReeGqnQjyUfhvRMv1r83yNA8=s900-c-k-c0x00ffffff-no-rj",ช่อง Dong Thap TV
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHpvQ9GkUgKMXhNd2fwn00xUdAIHrhJvIPw&s",ช่อง BGTV HD | TH Bắc Giang
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwFy6CSJTUig8vcBs3gLV8JkwRsgxJDALJg&s",ช่อง BGTV HD | TH Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/BLTVHD_B%E1%BA%A1c_Li%C3%AAu_112019.webp/1200px-BLTVHD_B%E1%BA%A1c_Li%C3%AAu_112019.webp.png",ช่อง BLTV HD | TH Bạc Liêu
@@ -1704,7 +1701,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/200?cb=20180603181710",ช่อง Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 
-#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png",ช่อง Al Jazeera English
+#EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYEnzhoxTdC3TtX6b395jsRaFEZlS_8RGUA&s",ช่อง Al Jazeera English
 https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
 
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMVMG3Tv3ag9SVjq1hrUFTVa-etWVNqFj1nA&s",ช่อง DW
@@ -3673,70 +3670,70 @@ https://live.metshop.top/huya/11352966
 #EXTINF:-1 group-title="HUYA" tvg-logo="https://technode.com/wp-content/uploads/2024/01/huya.png",ช่อง 镖行天下 镖在人在
 https://live.metshop.top/huya/11352969
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 车模现场-美女云集
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง 车模现场-美女云集
 http://diyp.112114.xyz/douyu/10118209
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 姜昇润PAGE大发
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง 姜昇润PAGE大发
 http://diyp.112114.xyz/douyu/113158
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 清晨醒脑!T-ARA根本停不下来
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง 清晨醒脑!T-ARA根本停不下来
 http://diyp.112114.xyz/douyu/17732
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [华语]流行.经典.歌曲
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [华语]流行.经典.歌曲
 http://diyp.112114.xyz/douyu/3186217
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง Kpop女团点播直播间
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง Kpop女团点播直播间
 http://diyp.112114.xyz/douyu/329667
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 彼岸KARA
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง 彼岸KARA
 http://diyp.112114.xyz/douyu/40471
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [音乐快斗]
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [音乐快斗]
 http://diyp.112114.xyz/douyu/8324627
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 车模和车展
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง 车模和车展
 http://diyp.112114.xyz/douyu/9805480
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 美女车模鉴赏团
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง 美女车模鉴赏团
 http://diyp.112114.xyz/douyu/9837104
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [周星驰]星爷.华语.经典.电影.神乐
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [周星驰]星爷.华语.经典.电影.神乐
 http://diyp.112114.xyz/douyu/122402
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [奥雷]带你看遍奇葩老电影
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [奥雷]带你看遍奇葩老电影
 http://diyp.112114.xyz/douyu/1224356
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [粤语电影]吴孟达 达叔 周星驰 经典
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [粤语电影]吴孟达 达叔 周星驰 经典
 http://diyp.112114.xyz/douyu/1226741
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง ❤院长大大❤339影院
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง ❤院长大大❤339影院
 http://diyp.112114.xyz/douyu/1274132
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [正道的光]大漠叔叔在线普法
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [正道的光]大漠叔叔在线普法
 http://diyp.112114.xyz/douyu/1109218
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [R-点播]点播！模式-24H欢乐不断
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [R-点播]点播！模式-24H欢乐不断
 http://diyp.112114.xyz/douyu/131977
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [飞碟说]一分钟了解知识
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [飞碟说]一分钟了解知识
 http://diyp.112114.xyz/douyu/1449125
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [天使点播]官方动漫直播间
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [天使点播]官方动漫直播间
 http://diyp.112114.xyz/douyu/1487654
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง ❤可乐❤电影 欧美 科幻 经典
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง ❤可乐❤电影 欧美 科幻 经典
 http://diyp.112114.xyz/douyu/20415
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 电影最TOP
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง 电影最TOP
 http://diyp.112114.xyz/douyu/2164691
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [悬疑]都市猎奇传说-恐怖故事
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [悬疑]都市猎奇传说-恐怖故事
 http://diyp.112114.xyz/douyu/2337939
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง 懒猫 美食家 点播
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง 懒猫 美食家 点播
 http://diyp.112114.xyz/douyu/260322
 
-#EXTINF:-1 group-title="DOUYU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png",ช่อง [刘哔电影]带你看不一样的电影
+#EXTINF:-1 group-title="DOUYU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9IzWLXFGYbnUgF_YBpkoLhvcZm0fxHaBRw&s",ช่อง [刘哔电影]带你看不一样的电影
 http://diyp.112114.xyz/douyu/2632223
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Vision%2B_Logo_Black.png",ช่อง RCTI
@@ -4237,7 +4234,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3970
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://m.media-amazon.com/images/I/61nZ7TjtFdL._AC_SL1000_.jpg",ช่อง Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/220px-PBS_Kids_logo_%282022%29.svg.png",ช่อง PBS Kids
+#EXTINF:-1 group-title="KIDS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png",ช่อง PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS CH" tvg-logo="https://play-lh.googleusercontent.com/hMM6boFl8BdsgqeHAycUoyNnyRJZSSeFXPAqA2FesVAxqwjzOVEMoNXMl8-JncB1ZU4",ช่อง KidsFlix
@@ -4537,7 +4534,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b82124
 #EXTINF:-1 group-title="GAMES CH" tvg-logo="https://cdn2.steamgriddb.com/logo/18e65b5eee7fa932b048ae301974c6bc.png",ช่อง World Poker Tour
 https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
 
-#EXTINF:-1 group-title="FASHION CH" tvg-logo="https://i.ytimg.com/vi/Ssw3s2lFhY8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCGimFi24rJ7CBZMnsaUFbi4TYEsA",ช่อง FTV Midnite
+#EXTINF:-1 group-title="FASHION CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEGdZb-fPX8CF7CQYNvdsIHP1j-YAA0Skfg&s",ช่อง FTV Midnite
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="PET CH" tvg-logo="https://digitaladvertisingmedia.com/wp-content/uploads/2019/12/S_AKCTV000000.jpg",ช่อง AKC TV
@@ -4570,7 +4567,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://static.dw.com/image/69105246_605.jpg",ช่อง DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="NEWS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png",ช่อง France24
+#EXTINF:-1 group-title="NEWS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuRHfypZvhpJ9RAGl60tedaWV8GD-8O0nOaA&s",ช่อง France24
 https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/ABC_Newslogo.svg/revision/latest/scale-to-width-down/250?cb=20200716221007",ช่อง ABC NEWS
@@ -4579,7 +4576,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://news.jrn.msu.edu/culturalcompetence/wp-content/uploads/2020/02/0.jpg",ช่อง Black News Channel
 https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
 
-#EXTINF:-1 group-title="NEWS CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/800px-Global_News.svg.png",ช่อง Global News
+#EXTINF:-1 group-title="NEWS CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CxJzm4n_gEifv7JHMqpTEYjQBuaENmNMCw&s",ช่อง Global News
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 
 #EXTINF:-1 group-title="NEWS CH" tvg-logo="https://i.iheart.com/v3/re/new_assets/5faefbc04b2d2470f40bf614",ช่อง OAN
