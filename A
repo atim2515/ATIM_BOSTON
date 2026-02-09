@@ -2,9 +2,7 @@
  
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",ช่อง 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+https://www.adintrend.tv/hd/index.php?t=live&ch=3
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",ช่อง 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -837,7 +835,7 @@ https://nl.utako.moe/mbs/index.m3u8
 https://nl.utako.moe/ytv/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/SUN_TV_logo.png",ช่อง SUN TV
-https://nl.utako.moe/suntv/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://ih1.redbubble.net/image.2928837324.5878/st,small,507x507-pad,600x600,f8f8f8.jpg",ช่อง Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
@@ -881,6 +879,9 @@ https://nl.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png",ช่อง BS-TBS
 https://nl.utako.moe/bstbs/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBo7v72atXbFbjNbFKrlBFApW96HRPOwsmA&s",ช่อง BS Shochiku Tokyu
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfufS7_3XHPXIuPqZjngQeZwXyW5Wh3BJGA&s",ช่อง BS11
 https://nl.utako.moe/BS11/index.m3u8
 
@@ -918,7 +919,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/drama/images/5/54/Family_gekijo.jpg/revision/latest/scale-to-width-down/400?cb=20190809211640&path-prefix=es",ช่อง Family Gekijo
-https://nl.utako.moe/familygeki/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",ช่อง Toei Channel
 https://nl.utako.moe/toei/index.m3u8
@@ -1029,7 +1030,7 @@ https://nl.utako.moe/gaora/index.m3u8
 https://nl.utako.moe/sport_live_plus/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",ช่อง Golf Network
-https://nl.utako.moe/golf_network/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",ช่อง Fighting TV Samurai
 https://nl.utako.moe/fighting_tv/index.m3u8
